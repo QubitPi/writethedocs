@@ -31,6 +31,7 @@ exclude_patterns = [
 ]
 
 html4_writer = True
+html_baseurl = "https://QubitPi.github.io/writethedocs/"
 
 # We use these *local* environment variables for private info like free ticket links
 
