@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged wep</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/wep/atom.xml</id>
+  <updated>2019-10-30T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/wep/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/wep/atom.xml">
+    <title type="text">Introducing Write the Docs Enhancement Proposals</title>
+    <id>https://www.writethedocs.org/blog/introducing-weps/</id>
+    <updated>2019-10-30T00:00:00Z</updated>
+    <published>2019-10-30T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/introducing-weps/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;introducing-write-the-docs-enhancement-proposals&quot;&gt;
+
+&lt;p&gt;Write the Docs began seven years ago with a single conference.
+It has now grown to multiple conferences worldwide,
+over 50 international meetups,
+and &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/#join-the-community&quot;&gt;many other projects&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We have often followed the open source philosophy in our community practices,
+keeping a loose governance model and mostly letting the work speak for itself.
+However,
+we’ve been experiencing a number of growing pains with this approach.
+A loosely defined process makes it much harder for new people to understand and join the community in leadership positions,
+since they don’t understand how the community actually works.
+Even folks doing a lot of work in the community are often lost or confused when it comes to projects they aren’t directly involved with.&lt;/p&gt;
+&lt;p&gt;All organizations have power structures,
+some are just not documented. &lt;a class=&quot;footnote-reference&quot; href=&quot;#id2&quot; id=&quot;id1&quot;&gt;[1]&lt;/a&gt;
+Instead of trying to reinvent the wheel,
+we’ve once again taken an idea from the open source ecosystem:
+Write the Docs Enhancement Proposals,
+or WEPs.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;what-is-a-write-the-docs-enhancement-proposal-wep&quot;&gt;
+&lt;h2&gt;What is a Write the Docs Enhancement Proposal (WEP)&lt;/h2&gt;
+&lt;p&gt;The WEP system is a formalized process for making major policy changes in the community.
+Previously, our governance was usually defined with some kind of fuzzy consensus on a Slack channel or a meeting at a conference.
+Going forward, we want to establish a written record that people have time to review and comment on.
+Importantly,
+there will also be records of the conversation that lead to a change.&lt;/p&gt;
+&lt;p&gt;We hope that WEPs will make the process of making major changes inside the community more explicit and collaborative.
+Any contributors can propose WEPs with a well-defined process,
+and the whole community can follow the process of proposing and implementing WEPs.
+WEPs are the first major step towards having a more open and defined model for governance,
+but certainly not the last.
+All further governance changes are planned to go through the WEP process,
+so it is truly foundational for future improvements to our community management processes.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;what-is-the-wep-process&quot;&gt;
+&lt;h2&gt;What is the WEP process?&lt;/h2&gt;
+&lt;p&gt;The WEP process is defined in &lt;a class=&quot;reference external&quot; href=&quot;https://github.com/writethedocs/weps/pull/1&quot;&gt;WEP0&lt;/a&gt;,
+the first ever WEP.
+WEP0 itself is currently ready for review,
+following the draft WEP process.
+This might appear circular at first glance,
+but we hope that it will showcase how the process works as we adopt it.&lt;/p&gt;
+&lt;p&gt;The high-level overview of the WEP process is as follows,
+from the perspective of someone proposing a WEP:&lt;/p&gt;
+&lt;ol class=&quot;arabic simple&quot;&gt;
+&lt;li&gt;Talk to people about your idea, and get feedback from other community members&lt;/li&gt;
+&lt;li&gt;Draft and submit a Pull Request on the WEP GitHub Repository, which submits the WEP as a &lt;strong&gt;draft&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;dl class=&quot;first docutils&quot;&gt;
+&lt;dt&gt;The &lt;strong&gt;WEP team&lt;/strong&gt; then reviews the Draft WEP to make sure it falls within the WEP guidelines:&lt;/dt&gt;&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;Is the WEP well-formed? Does it have all the required sections?&lt;/li&gt;
+&lt;li&gt;Is the WEP specific enough that the outcome of approving it is clear?&lt;/li&gt;
+&lt;li&gt;Is the proposed change within the scope of the WEP process?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;After the WEP team accepts the draft, it is now &lt;strong&gt;ready-for-discussion&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;The WEP team then sets a deadline for discussion, currently 30 days, for community feedback and review&lt;/li&gt;
+&lt;li&gt;&lt;dl class=&quot;first docutils&quot;&gt;
+&lt;dt&gt;Once the WEP is &lt;strong&gt;ready-for-discussion&lt;/strong&gt; and has a deadline, the Core Ops team announce the WEP in a few defined channels, where interested community members can subscribe&lt;/dt&gt;&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;The &lt;code class=&quot;docutils literal notranslate&quot;&gt;&lt;span class=&quot;pre&quot;&gt;WEP-announcements&lt;/span&gt;&lt;/code&gt; Slack channel&lt;/li&gt;
+&lt;li&gt;The &lt;code class=&quot;docutils literal notranslate&quot;&gt;&lt;span class=&quot;pre&quot;&gt;WEP-announcements&lt;/span&gt;&lt;/code&gt; Email list&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;During this month-long period, the WEP is updated based on incoming feedback, and the community works towards a consensus on the proposed change&lt;/li&gt;
+&lt;li&gt;&lt;dl class=&quot;first docutils&quot;&gt;
+&lt;dt&gt;At the deadline, the Core Ops team determines if consensus has been reached&lt;/dt&gt;&lt;dd&gt;&lt;ul&gt;
+&lt;li&gt;If there is consensus, the WEP is &lt;strong&gt;Accepted&lt;/strong&gt;, it will be implemented as specified&lt;/li&gt;
+&lt;li&gt;If there is no consensus, the WEP is either &lt;strong&gt;Rejected&lt;/strong&gt; or &lt;strong&gt;Extended&lt;/strong&gt; for another month. Extension is available when it seems further activity could lead to consensus.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;Once the WEP decision is made, another announcement is sent to the defined announcement channels&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;get-involved&quot;&gt;
+&lt;h2&gt;Get involved&lt;/h2&gt;
+&lt;p&gt;If you want to understand the full policy,
+we invite you to review and comment on &lt;a class=&quot;reference external&quot; href=&quot;https://github.com/writethedocs/weps/pull/1&quot;&gt;WEP0&lt;/a&gt;.
+We also welcome feedback privately via email at &lt;a class=&quot;reference external&quot; href=&quot;mailto:support&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;support&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt; if that is more comfortable for you.
+This is a new process,
+but we hope it will start to address questions of how change happens in the community.&lt;/p&gt;
+&lt;p&gt;We hope that you’ll take the time to read our proposal and understand how we’re changing the process of making changes in the community.
+The more engaged folks are with the process,
+the better the community will be for everyone.&lt;/p&gt;
+&lt;table class=&quot;docutils footnote&quot; frame=&quot;void&quot; id=&quot;id2&quot; rules=&quot;none&quot;&gt;
+&lt;colgroup&gt;&lt;col class=&quot;label&quot; /&gt;&lt;col /&gt;&lt;/colgroup&gt;
+&lt;tbody valign=&quot;top&quot;&gt;
+&lt;tr&gt;&lt;td class=&quot;label&quot;&gt;&lt;a class=&quot;fn-backref&quot; href=&quot;#id1&quot;&gt;[1]&lt;/a&gt;&lt;/td&gt;&lt;td&gt;A great read if you haven’t already: &lt;a class=&quot;reference external&quot; href=&quot;https://www.jofreeman.com/joreen/tyranny.htm&quot;&gt;https://www.jofreeman.com/joreen/tyranny.htm&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

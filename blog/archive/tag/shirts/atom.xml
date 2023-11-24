@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged shirts</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/shirts/atom.xml</id>
+  <updated>2023-06-10T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/shirts/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/shirts/atom.xml">
+    <title type="text">Announcing speakers and talks</title>
+    <id>https://www.writethedocs.org/conf/atlantic/2023/news/announcing-speakers/</id>
+    <updated>2023-06-10T00:00:00Z</updated>
+    <published>2023-06-10T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/atlantic/2023/news/announcing-speakers/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-speakers-and-talks&quot;&gt;
+
+&lt;p&gt;Greetings, documentarians! Today we’re excited to announce that we’ve finalized our speakers for the our first virtual Atlantic conference!&lt;/p&gt;
+&lt;p&gt;Thank you so much to everyone who took the time to send us a proposal – we literally wouldn’t have an event without you!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;full-speaker-line-up&quot;&gt;
+&lt;h2&gt;Full speaker line-up&lt;/h2&gt;
+&lt;p&gt;Every year, we look to bring a wide range of voices to the Write the Docs stage.
+Because the role of “documentarian” looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure.
+We hope you’re as excited about our program as we are!&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/atlantic/2023/speakers/#speaker-ian-cowley-one-glossary-to-rule-them-all-terminology-management-at-scale-ian-cowley&quot;&gt;&lt;span class=&quot;std std-ref&quot;&gt;Ian Cowley&lt;/span&gt;&lt;/a&gt;: One glossary to rule them all: terminology management at scale&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/atlantic/2023/speakers/#speaker-josh-peacock-the-power-of-product-screenshots-in-your-help-documentation-and-how-keeping-the-josh-peacock&quot;&gt;&lt;span class=&quot;std std-ref&quot;&gt;Josh Peacock&lt;/span&gt;&lt;/a&gt;,  &lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/atlantic/2023/speakers/#speaker-dennis-mortensen-the-power-of-product-screenshots-in-your-help-documentation-and-how-keeping-the-josh-peacock&quot;&gt;&lt;span class=&quot;std std-ref&quot;&gt;Dennis Mortensen&lt;/span&gt;&lt;/a&gt;: The power of product screenshots in your help documentation. And how keeping them updated can be automated!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/atlantic/2023/speakers/#speaker-fabrizio-ferri-benedetti-once-upon-a-time-there-were-docs-fabrizio-ferri-benedetti&quot;&gt;&lt;span class=&quot;std std-ref&quot;&gt;Fabrizio Ferri-Benedetti&lt;/span&gt;&lt;/a&gt;: Once Upon a Time There Were… Docs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/atlantic/2023/speakers/#speaker-adam-trujillo-bootstrap-ia-development-with-in-house-usability-testing-adam-trujillo&quot;&gt;&lt;span class=&quot;std std-ref&quot;&gt;Adam Trujillo&lt;/span&gt;&lt;/a&gt;,  &lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/atlantic/2023/speakers/#speaker-jeffrey-boruszak-bootstrap-ia-development-with-in-house-usability-testing-adam-trujillo&quot;&gt;&lt;span class=&quot;std std-ref&quot;&gt;Jeffrey Boruszak&lt;/span&gt;&lt;/a&gt;: Bootstrap IA Development with In-house Usability Testing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/atlantic/2023/speakers/#speaker-kristine-sihto-papercuts-stop-the-bleed-reducing-information-leakage-from-client-bound-docume-kristine-sihto&quot;&gt;&lt;span class=&quot;std std-ref&quot;&gt;Kristine Sihto&lt;/span&gt;&lt;/a&gt;: Papercuts: Stop the Bleed. Reducing information leakage from client-bound documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/atlantic/2023/speakers/#speaker-katie-riker-working-with-user-experience-to-maximize-user-success-katie-riker&quot;&gt;&lt;span class=&quot;std std-ref&quot;&gt;Katie Riker&lt;/span&gt;&lt;/a&gt;: Working with User Experience to Maximize User Success&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/atlantic/2023/speakers/#speaker-chris-noonan-metric-driven-documentation-chris-noonan&quot;&gt;&lt;span class=&quot;std std-ref&quot;&gt;Chris Noonan&lt;/span&gt;&lt;/a&gt;,  &lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/atlantic/2023/speakers/#speaker-john-hannagan-metric-driven-documentation-chris-noonan&quot;&gt;&lt;span class=&quot;std std-ref&quot;&gt;John Hannagan&lt;/span&gt;&lt;/a&gt;: Metric driven documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/atlantic/2023/speakers/#speaker-matt-dodson-graphs-not-trees-a-ground-up-approach-to-fixing-a-docs-site-matt-dodson&quot;&gt;&lt;span class=&quot;std std-ref&quot;&gt;Matt Dodson&lt;/span&gt;&lt;/a&gt;: Graphs, not trees: A ground-up approach to fixing a docs site.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/atlantic/2023/speakers/#speaker-stephan-delbos-drop-the-docs-get-back-to-what-s-important-how-to-create-product-documentation-stephan-delbos&quot;&gt;&lt;span class=&quot;std std-ref&quot;&gt;Stephan Delbos&lt;/span&gt;&lt;/a&gt;: Drop the Docs, Get Back to What’s Important! How to Create Product Documentation that Encourages User Disengagement&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/atlantic/2023/speakers/#speaker-alexander-schwartz-creating-a-content-pipeline-for-the-eclipse-che-project-alexander-schwartz&quot;&gt;&lt;span class=&quot;std std-ref&quot;&gt;Alexander Schwartz&lt;/span&gt;&lt;/a&gt;,  &lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/atlantic/2023/speakers/#speaker-fabrice-flore-thebault-creating-a-content-pipeline-for-the-eclipse-che-project-alexander-schwartz&quot;&gt;&lt;span class=&quot;std std-ref&quot;&gt;Fabrice Flore-Thebault&lt;/span&gt;&lt;/a&gt;: Creating a content pipeline for the Eclipse Che project&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/atlantic/2023/speakers/#speaker-chris-meyns-ai-ethics-for-tech-writers-chris-meyns&quot;&gt;&lt;span class=&quot;std std-ref&quot;&gt;Chris Meyns&lt;/span&gt;&lt;/a&gt;: AI ethics for tech writers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/atlantic/2023/speakers/#speaker-lorna-mitchell-openapi-for-documentarians-lorna-mitchell&quot;&gt;&lt;span class=&quot;std std-ref&quot;&gt;Lorna Mitchell&lt;/span&gt;&lt;/a&gt;: OpenAPI for Documentarians&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Head over to the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/atlantic/2023/speakers/&quot;&gt;Speakers page&lt;/a&gt; to see the full abstracts.
+We hope there’s something there for everyone to enjoy, and also something that will broaden your horizons a bit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-are-on-sale&quot;&gt;
+&lt;h2&gt;Shirts are on sale&lt;/h2&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://shirt.writethedocs.org&quot;&gt;Write the Docs Atlantic 2023 Pop-Up Shop&lt;/a&gt; is now open!
+You can order loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.&lt;/p&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/atlantic/2023/news/announcing-speakers.rst&lt;/tt&gt;, line 34)&lt;/p&gt;
+Possible title underline, too short for the title.
+Treating it as ordinary text because it’s so short.&lt;/div&gt;
+&lt;p&gt;The campaign will run in 3-day batches until a few weeks after the conference. Exact dates to be determined.
+.
+Shipping is available from the USA or Europe.
+However, due to the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to sport your new threads during the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets-are-going-fast&quot;&gt;
+&lt;h2&gt;Tickets are going fast!&lt;/h2&gt;
+&lt;p&gt;If you don’t have your ticket yet, now’s a great time to snap one up. Conference tickets have sold out for the last several years, and they go faster along with the speaker announcement, so if you’re planning to come, don’t leave it to the last minute.&lt;/p&gt;
+&lt;p&gt;We will close registrations around one week before the conference, to give folks enough time to set up their Hopin credentials.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/atlantic/2023/tickets/&quot;&gt;Buy your tickets here!&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;grant-program-still-open&quot;&gt;
+&lt;h2&gt;Grant program still open&lt;/h2&gt;
+&lt;p&gt;Just a friendly reminder that our grant program is still open for application.
+We’re excited to be able to offer free tickets to a larger number of people, since there are no travel costs involved in attending a virtual event.&lt;/p&gt;
+&lt;p&gt;You can apply until &lt;strong&gt;August 15, 2022&lt;/strong&gt; on &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/atlantic/2023/opportunity-grants/&quot;&gt;our website&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-to-our-sponsors&quot;&gt;
+&lt;h2&gt;Thanks to our sponsors&lt;/h2&gt;
+&lt;p&gt;We are so grateful to have our sponsors help in bringing our events to life every year.&lt;/p&gt;
+&lt;p&gt;Head over to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/atlantic/2023/sponsors/prospectus/&quot;&gt;sponsorship prospectus&lt;/a&gt; for details on how your company can get involved!&lt;/p&gt;
+&lt;p&gt;We have several types of sponsorship available, including tables at the job fair that we’ll be hosting on Tuesday.&lt;/p&gt;
+&lt;p&gt;Stay tuned for more details in the next week about the schedule and other activities.
+We hope you’re all getting as excited as we are!&lt;/p&gt;
+&lt;p&gt;The Write the Docs Team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/shirts/atom.xml">
+    <title type="text">Announcing speakers and talks</title>
+    <id>https://www.writethedocs.org/conf/australia/2022/news/announcing-speakers/</id>
+    <updated>2022-10-04T00:00:00Z</updated>
+    <published>2022-10-04T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2022/news/announcing-speakers/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-speakers-and-talks&quot;&gt;
+
+&lt;p&gt;G’day, documentarians! Today we’re excited to announce that we’ve finalised our speakers for the next virtual Australia conference.&lt;/p&gt;
+&lt;p&gt;Thank you so much to everyone who took the time to send us a proposal – we literally wouldn’t have an event without you!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;full-speaker-line-up&quot;&gt;
+&lt;h2&gt;Full speaker line-up&lt;/h2&gt;
+&lt;p&gt;Every year, we look to bring a wide range of voices to the Write the Docs stage.
+Because the role of “documentarian” looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure.
+We’re really excited about the presentations we’ve got this year – we hope you are too!&lt;/p&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-shumin-chen&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Shumin Chen  – Sustainable Content for Software Documentation Powered by Simplified Technical English (STE)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-lana&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Lana Novikova  – Let’s bring science into technical writing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-ishara-ilangasinghe&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Ishara Ilangasinghe  – Interviewing a Technical Writer Candidate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-claire-mahoney&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Claire Mahoney  – Chaos to contained: How a content project can lead to better content BAU&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-braden-riggs&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Braden Riggs  – Optimizing SEO for Technical Documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-alex-fiedler&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Alex Fiedler  – Knowledge Experience for a PLG Strategy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-hari-priya&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Hari Priya  – How customer journey mapping can improve your docs and customer experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-sarah-rainsberger&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Sarah Rainsberger  – Happy Contributors, High Standards: pick two! Balancing quality and community in open source documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-lilly-ryan&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Lilly Ryan  – Hack the Docs: how security professionals use documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Head over to the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/speakers/&quot;&gt;Speakers page&lt;/a&gt; to see the full abstracts.
+We hope there’s something there for everyone to enjoy, and also something that will broaden your horizons a bit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-are-on-sale&quot;&gt;
+&lt;h2&gt;Shirts are on sale&lt;/h2&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://shirt.writethedocs.org&quot;&gt;Write the Docs Australia 2022 Pop-Up Shop&lt;/a&gt; is now open!
+You can order loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.&lt;/p&gt;
+&lt;p&gt;The campaign will run in 3-day batches until &lt;strong&gt;December 31st, 2022&lt;/strong&gt;.
+Shipping is available from the USA or Europe.
+However, given the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to sport your new threads during the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets-are-going-fast&quot;&gt;
+&lt;h2&gt;Tickets are going fast!&lt;/h2&gt;
+&lt;p&gt;If you don’t have your ticket yet, now’s a great time to snap one up. Conference tickets have sold out for the last several years, and they go faster along with the speaker announcement, so if you’re planning to come, don’t leave it to the last minute.&lt;/p&gt;
+&lt;p&gt;We will close registrations around one week before the conference, to give folks enough time to set up their Hopin credentials.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/tickets/&quot;&gt;Buy your tickets here!&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;grant-program-still-open&quot;&gt;
+&lt;h2&gt;Grant program still open&lt;/h2&gt;
+&lt;p&gt;Just a friendly reminder that our grant program is still open for application.
+We’re excited to be able to offer free tickets to a larger number of people, since there are  minimal other costs to attend a virtual event.&lt;/p&gt;
+&lt;p&gt;You can apply until &lt;strong&gt;October 15, 2022&lt;/strong&gt; on &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/opportunity-grants/&quot;&gt;our website&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-to-our-sponsors&quot;&gt;
+&lt;h2&gt;Thanks to our sponsors&lt;/h2&gt;
+&lt;p&gt;We are so grateful to have our sponsors help in bringing these events to life every year. Thanks sincerely to the following companies for supporting the Write the Docs community:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.atlassian.com/&quot;&gt;Atlassian&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;Head over to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/sponsors/prospectus/&quot;&gt;sponsorship prospectus&lt;/a&gt; for details on how your company can get involved!
+We have several types of sponsorship available, so feel free to reach out with any questions or ideas.&lt;/p&gt;
+&lt;p&gt;Stay tuned for more details in the next week about the schedule and other activities.
+We hope you’re all getting as excited as we are!&lt;/p&gt;
+&lt;p&gt;The Write the Docs Team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/shirts/atom.xml">
+    <title type="text">Announcing speakers and talks</title>
+    <id>https://www.writethedocs.org/conf/prague/2022/news/announcing-speakers/</id>
+    <updated>2022-07-20T00:00:00Z</updated>
+    <published>2022-07-20T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2022/news/announcing-speakers/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-speakers-and-talks&quot;&gt;
+
+&lt;p&gt;Greetings, documentarians! Today we’re excited to announce that we’ve finalized our speakers for the next virtual Prague conference!&lt;/p&gt;
+&lt;p&gt;Thank you so much to everyone who took the time to send us a proposal – we literally wouldn’t have an event without you!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;full-speaker-line-up&quot;&gt;
+&lt;h2&gt;Full speaker line-up&lt;/h2&gt;
+&lt;p&gt;Every year, we look to bring a wide range of voices to the Write the Docs stage.
+Because the role of “documentarian” looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure.
+We’re really excited about the presentations we’ve got this year – we hope you are too!&lt;/p&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-tyler-smith&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Tyler Smith  – ADHD and its impact on the Creative Process for Writers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-karissa-van-baulen&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Karissa Van Baulen  – How I convinced my boss to build our docs team&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-jeff-smith&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Jeff Smith  – The Art of Asking Questions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-mano-toth&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Mano Toth  – Documentation as Marketing? From Conflict to Collaboration&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-mustapha-rufai&quot;&gt;&lt;span id=&quot;speaker-benny-ifeanyi-iheagwara&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Benny Ifeanyi Iheagwara,  Mustapha Rufai  – Creating documentation for the African audience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-taylor-cole&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Taylor Cole  – Cultivating a Stakeholder Network for Our Docs: How Building Relationships Improves Our Content&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-prashant-mathapathi&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Prashant Mathapathi  – Improve Customer Adoption with UI Help&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-tibs&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Tibs  – Beyond spell checking - what else can we check automatically?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-emilia-juda-zbay&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Emilia Juda-Özbay  – Maintaining Documentation: Make It Easy!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-ryan-paul&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Ryan Paul  – Two years of Markdoc: what we’ve learned about balancing developer and author experience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-asma-kacem&quot;&gt;&lt;span id=&quot;speaker-melissa-black&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Melissa Black,  Asma Kacem  – Toward the broader globalization of Open Source: documenting your localisation Journey&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Head over to the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2022/speakers/&quot;&gt;Speakers page&lt;/a&gt; to see the full abstracts.
+We hope there’s something there for everyone to enjoy, and also something that will broaden your horizons a bit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-are-on-sale&quot;&gt;
+&lt;h2&gt;Shirts are on sale&lt;/h2&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://shirt.writethedocs.org&quot;&gt;Write the Docs Prague 2022 Pop-Up Shop&lt;/a&gt; is now open!
+You can order loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.&lt;/p&gt;
+&lt;p&gt;The campaign will run in 3-day batches until &lt;strong&gt;September 30th, 2022&lt;/strong&gt;.
+Shipping is available from the USA or Europe.
+However, due to the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to sport your new threads during the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets-are-going-fast&quot;&gt;
+&lt;h2&gt;Tickets are going fast!&lt;/h2&gt;
+&lt;p&gt;If you don’t have your ticket yet, now’s a great time to snap one up. Conference tickets have sold out for the last several years, and they go faster along with the speaker announcement, so if you’re planning to come, don’t leave it to the last minute.&lt;/p&gt;
+&lt;p&gt;We will close registrations around one week before the conference, to give folks enough time to set up their Hopin credentials.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2022/tickets/&quot;&gt;Buy your tickets here!&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;grant-program-still-open&quot;&gt;
+&lt;h2&gt;Grant program still open&lt;/h2&gt;
+&lt;p&gt;Just a friendly reminder that our grant program is still open for application.
+We’re excited to be able to offer free tickets to a larger number of people, since there are  minimal other costs to attend a virtual event.&lt;/p&gt;
+&lt;p&gt;You can apply until &lt;strong&gt;August 15, 2022&lt;/strong&gt; on &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2022/opportunity-grants/&quot;&gt;our website&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-to-our-sponsors&quot;&gt;
+&lt;h2&gt;Thanks to our sponsors&lt;/h2&gt;
+&lt;p&gt;We are so grateful to have our sponsors help in bringing these events to life every year. Thanks sincerely to the following companies for supporting the Write the Docs community:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.archbee.io/?utm_medium=banner&amp;amp;utm_source=conference&amp;amp;utm_campaign=wtd&quot;&gt;Archbee&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.adyen.com/&quot;&gt;Adyen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.jetbrains.com/&quot;&gt;JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.veeam.com/&quot;&gt;Veeam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.dolby.com/&quot;&gt;Dolby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;Head over to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2022/sponsors/prospectus/&quot;&gt;sponsorship prospectus&lt;/a&gt; for details on how your company can get involved!
+We have several types of sponsorship available, including tables at the job fair that we’ll be hosting on Tuesday.&lt;/p&gt;
+&lt;p&gt;Stay tuned for more details in the next week about the schedule and other activities.
+We hope you’re all getting as excited as we are!&lt;/p&gt;
+&lt;p&gt;The Write the Docs Team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/shirts/atom.xml">
+    <title type="text">Shirts are on sale, Call for Proposals is closing soon</title>
+    <id>https://www.writethedocs.org/conf/prague/2021/news/shirts-cfp/</id>
+    <updated>2021-06-21T00:00:00Z</updated>
+    <published>2021-06-21T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2021/news/shirts-cfp/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;shirts-are-on-sale-call-for-proposals-is-closing-soon&quot;&gt;
+
+&lt;p&gt;Greetings, documentarians in Europe and beyond! We hope you’re doing alright and staying safe wherever you are.&lt;/p&gt;
+&lt;p&gt;Today we’re happy to announce that we launched our T-Shirt Pop-Up Shop (for a limited time only!) and to remind you that the Call for Proposals is closing at the end of this month, so if you haven’t submitted your proposal, now is the time.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-on-sale&quot;&gt;
+&lt;h2&gt;Shirts on sale&lt;/h2&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://shirt.writethedocs.org&quot;&gt;Write the Docs Prague 2021 Pop-Up Shop&lt;/a&gt; is open, and starting this year we updated the logo to include the year of the conference. You can order loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.&lt;/p&gt;
+&lt;p&gt;The campaign will run in 3-day batches until November 1st. Shipping is available from the USA or Europe. However, due to the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to sport your new threads during the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;submit-your-talk-by-june-30th&quot;&gt;
+&lt;h2&gt;Submit your talk by June 30th&lt;/h2&gt;
+&lt;p&gt;There are still a few days left to submit your proposal! Check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2021/cfp/&quot;&gt;Call for Proposals page&lt;/a&gt; for more details about what we are looking for.&lt;/p&gt;
+&lt;p&gt;And if you already have an idea but you’d like to brainstorm it with someone from the community, you can always ask for feedback on the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/slack/&quot;&gt;Write the Docs Slack&lt;/a&gt;. The community is there to help!&lt;/p&gt;
+&lt;p&gt;We’ll then be reviewing all the talk proposals, and will be contacting everyone who submitted a proposal by &lt;strong&gt;July 16, 2021&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;support-our-community-by-sponsoring&quot;&gt;
+&lt;h2&gt;Support our community by sponsoring&lt;/h2&gt;
+&lt;p&gt;Every year we are fortunate to have the support of like-minded organizations and communities, who believe in the collaborative and welcoming community spirit and help us make our events great.&lt;/p&gt;
+&lt;p&gt;We have published our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2021/sponsors/prospectus/&quot;&gt;virtual sponsorship prospectus&lt;/a&gt; for the conference,
+and are open for new sponsorship inquiries.&lt;/p&gt;
+&lt;p&gt;We will still run the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2021/job-fair/&quot;&gt;job fair&lt;/a&gt;, helping documentarians and organizations connect with each other. Check out the sponsorship prospectus for more details and to reserve your spot today.&lt;/p&gt;
+&lt;p&gt;Thanks so much to the following companies for supporting the Prague conference this year:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.redhat.com/en&quot;&gt;Red Hat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.people-text.de/en/home-en.html&quot;&gt;people text&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.jetbrains.com/&quot;&gt;JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://opencollective.com/open-web-docs&quot;&gt;Open Web Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://aiven.io/&quot;&gt;Aiven&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://developer.mozilla.org/en-US/&quot;&gt;MDN Web Docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;Looking forward to seeing you all in our virtual space!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/shirts/atom.xml">
+    <title type="text">Announcing Speakers and Talks, Call for Volunteers, Ticket Update, Shirts on Sale</title>
+    <id>https://www.writethedocs.org/conf/prague/2019/news/talks-volunteers-tickets-shirts/</id>
+    <updated>2019-06-24T00:00:00Z</updated>
+    <published>2019-06-24T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2019/news/talks-volunteers-tickets-shirts/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-speakers-and-talks-call-for-volunteers-ticket-update-shirts-on-sale&quot;&gt;
+
+&lt;p&gt;Hello to our documentarians in Europe and beyond!&lt;/p&gt;
+&lt;p&gt;We’re happy to write to you with the latest news about our upcoming Prague conference, there’s lots to share and with the conference less than three months away, we hope you’re all getting excited!&lt;/p&gt;
+&lt;p&gt;Firstly, we’ve finalized our speakers for the event! Every year talk selection gets more and more difficult as we get a larger, stronger batch of submissions. Thank you so much to everyone who took the time to send us a pitch –&amp;nbsp;we literally wouldn’t have an event without you!&lt;/p&gt;
+&lt;p&gt;We also have some info about ticket purchasing (now’s the time!), call for volunteers, diversity tickets reminder, and our now-traditional pop-up t-shirt shop.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;full-speaker-line-up&quot;&gt;
+&lt;h2&gt;Full speaker line-up&lt;/h2&gt;
+&lt;p&gt;Every year, we look to bring a wide range of voices to the Write the Docs stage. Because the role of “documentarian” looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure. We’re really excited about the presentations we’ve got this year –&amp;nbsp;we hope you are too!&lt;/p&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-aaron-collier&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Aaron Collier  – Seeing your docs through different eyes: Mapping doc users’ experiences&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-kelly-obrien&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Kelly O’Brien  – Surprise! You’re a designer now.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-prerana-pradhan&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Prerana Pradhan  – Fostering Technical Writing in Developing Nations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-ellie-farrier&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Ellie Farrier  – Wild Geeks: Poetry in the Digital Age&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-ben-ahmady&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Ben Ahmady  – Write the API docs before the API exists&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-jen-lambourne&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Jen Lambourne  – The UK government meets docs as code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-brian-lemke&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Brian Lemke  – How to launch your startup with good docs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-arran-southall&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Arran Southall  – Fostering Talent: Mentorship, Peer Reviews and Going Beyond Your Job Description&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-karen-sawrey&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Karen Sawrey  – Disagree with “I Agree”. Enforcing better data privacy through the language of documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-plamena-maleva&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Plamena Maleva  – The Power of Empathy in Support Documentation: A 5-Step Guide&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-kayla-lee&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Kayla Lee  – The Super Effective Writing Process of Grammy-winning Artists&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-zachary-sarah-corleissen&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Zachary Sarah Corleissen  – Found in Translation: Lessons from a Year of Open Source Localization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-ilona-koren-deutsch&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Ilona Koren-Deutsch  – Inclusive environments are better: science says so&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-james-scott&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;James Scott  – 101 to 404s: How to write great error messages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-alison-macneil&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Alison MacNeil  – Documenting known unknowns&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Head over to the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2019/speakers/&quot;&gt;Speakers page&lt;/a&gt; to see the full abstracts. We believe there’s something there for everyone to enjoy, and also something that will broaden your horizons a bit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;call-for-volunteers&quot;&gt;
+&lt;h2&gt;Call for volunteers&lt;/h2&gt;
+&lt;p&gt;There is plenty to do during the conference and volunteers are essential to the success of all our events! We are looking for folks who are willing to help out during the conference. If you volunteer for two or more shifts (at an average of three hours each), you will receive a free ticket for the conference.&lt;/p&gt;
+&lt;p&gt;We are looking for folks to help out in these roles:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Venue set up&lt;/strong&gt; - Prepping the main conference hall on Saturday (after the boat ride), including preparing the registration desk, laying out swag, arranging writing day boards, and other light physical labor&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Writing day&lt;/strong&gt; - Assisting the Writing Day coordinator, including general information inquiries, directing attendees to specific tables, helping writing day project leads with logistical questions, and other duties as assigned&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Registration desk/Info&lt;/strong&gt; - Registering people in the main conference hall and answering any questions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Speakers&lt;/strong&gt; - Finding speakers and making sure that they’re where they need to be when it comes time to speak&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Talk Timing&lt;/strong&gt; - Keeping track of the length of the talks and warning speakers when they’re running out of time&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A/V and tech support&lt;/strong&gt; - Assisting presenters at the time of their greatest need while on stage - issues with slides, video, or audio portions of their presentation. Please apply for this role if you have some A/V knowledge; experience troubleshooting different operating systems is a plus!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unconference&lt;/strong&gt; - Camping out in the unconference area downstairs, keeping the place in order, updating unconference room schedule, and so on&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Job Fair&lt;/strong&gt;- Helping vendors set up their tables before the job fair, or helping with setting the room back for the unconference sessions that follow in the afternoon&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Venue take down&lt;/strong&gt; - What’s more fun than setting things up? Taking them down! Helping with taking down the conference set up and leaving the conference hall better than we found it&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prague expert&lt;/strong&gt; - If you are a Prague local and would like to share your tips and recommendations or answer questions about places to eat, sightseeing, services, accommodation, or other events that are happening around the conference, we’d love to have you on board!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Floaters&lt;/strong&gt; - Other duties as assigned ;) Assisting with odds and ends, requests from other volunteers and organizers, as well as answering questions; overall, being generally helpful&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you’re not sure how to do any of these tasks, don’t worry, the organizers will be available for questions and any problems you may encounter. We also have a dedicated volunteer coordinator and some volunteers from previous years will join us again, so you will have support.&lt;/p&gt;
+&lt;p&gt;To register as a volunteer for the conference, please read and fill out the &lt;a class=&quot;reference external&quot; href=&quot;https://forms.gle/LVujT6TBdt3DzmeM8&quot;&gt;Call for Volunteers form&lt;/a&gt;. You will receive additional information by mid-July regarding shifts, detailed duties, and other updates to the volunteer duties and schedules.&lt;/p&gt;
+&lt;p&gt;Please email our volunteer coordinator Sasha Romijn at &lt;a class=&quot;reference external&quot; href=&quot;mailto:sasha&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;sasha&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt; if you have any questions about volunteering for the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets-are-going-fast&quot;&gt;
+&lt;h2&gt;Tickets are going fast!&lt;/h2&gt;
+&lt;p&gt;If you don’t have your ticket yet, now’s a great time to snap one up. Last year we reached capacity nearly one month before the conference, and this year we expect to reach it even sooner, so if you’re planning to come, don’t leave it to the last minute.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2019/tickets/&quot;&gt;Buy your tickets here!&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;diversity-tickets-reminder&quot;&gt;
+&lt;h2&gt;Diversity tickets reminder&lt;/h2&gt;
+&lt;p&gt;If you are still considering whether to apply for our new diversity ticket program, head on over to the &lt;a class=&quot;reference external&quot; href=&quot;https://diversitytickets.org/en/events/425/&quot;&gt;DiversityTickets.org Event&lt;/a&gt; page and check it out. This program is run in collaboration with the wonderful folks at &lt;strong&gt;DiversityTickets.org&lt;/strong&gt;, a non-profit organization that shares qualifying events with various diversity organizations and helps people from underrepresented groups find events to attend.&lt;/p&gt;
+&lt;p&gt;Diversity scholarship tickets are &lt;strong&gt;free&lt;/strong&gt;, and we hope to welcome more people from all walks of life to join our community. The deadline for applications is &lt;strong&gt;7th July&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Please share this campaign with your social networks and encourage folks to apply if they are interested to join us!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-shirts&quot;&gt;
+&lt;h2&gt;Conference shirts&lt;/h2&gt;
+&lt;p&gt;Following the success of our pilot last year, once again we’ll be selling t-shirts separately from your conference ticket. This is due partially to the logistics of sizing, ordering, and managing stock, but also to help reduce waste from the inevitable leftovers that we find ourselves with every year.&lt;/p&gt;
+&lt;p&gt;Head over to our Write the Docs Prague 2019 &lt;a class=&quot;reference external&quot; href=&quot;https://teespring.com/wtd-prague-2019&quot;&gt;Pop-Up Shop&lt;/a&gt; and order this year’s shirt. We have several cuts and fabrics available, and we believe that you’ll be able to find the size and style that fits you. The campaign will run until &lt;strong&gt;30th September&lt;/strong&gt; in case anyone wants to order their shirts after the conference, but if you want to sport your new threads at the conference, we recommend to order at least 2-3 weeks in advance.&lt;/p&gt;
+&lt;p&gt;And don’t worry, you’ll still have our delightful Write the Docs Prague 2019 bags as a souvenir from the conference even if you decide not to order a shirt.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-to-our-sponsors&quot;&gt;
+&lt;h2&gt;Thanks to our sponsors&lt;/h2&gt;
+&lt;p&gt;We are so grateful to have our sponsors help in bringing these events to life every year. Thanks to the following companies for supporting the Write the Docs community:&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.redhat.com/&quot;&gt;Red Hat&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://umbraco.com/&quot;&gt;Umbraco&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://buildkite.com/&quot;&gt;Buildkite&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Want to support our community? Head over to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2019/sponsors/prospectus/&quot;&gt;sponsorship prospectus&lt;/a&gt; for details on how your company can get involved! We have several types of sponsorship available, including tables at the job fair that we’ll be hosting on Tuesday.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;stay-tuned&quot;&gt;
+&lt;h2&gt;Stay tuned&lt;/h2&gt;
+&lt;p&gt;Over the next weeks we’ll continue to publish updates about the various events and activities that make Write the Docs events such a unique experience, as well as the presentation schedule, trip planning tips, etc.&lt;/p&gt;
+&lt;p&gt;Hope to see all of you soon in Prague!&lt;/p&gt;
+&lt;p&gt;The Write the Docs Team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/shirts/atom.xml">
+    <title type="text">Events and Activities, T-Shirts, and Tickets Update</title>
+    <id>https://www.writethedocs.org/conf/portland/2019/news/events-activities/</id>
+    <updated>2019-03-25T00:00:00Z</updated>
+    <published>2019-03-25T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2019/news/events-activities/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;events-and-activities-t-shirts-and-tickets-update&quot;&gt;
+
+&lt;p&gt;We’re just under two months out, and we hope everyone is getting excited!&lt;/p&gt;
+&lt;p&gt;In this update, we’re happy to share with you the different events and activities that will be available as a part of the conference, announce our pop-up t-shirt shop, and remind you to grab your tickets before they run out (hint: very soon!).&lt;/p&gt;
+&lt;p&gt;Remember to check out our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/welcome-wagon/&quot;&gt;Welcome Wagon&lt;/a&gt; guide and the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/visiting/&quot;&gt;Visiting Portland&lt;/a&gt; page for help with planning your trip and making the most out of the conference.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets-are-selling-out&quot;&gt;
+&lt;h2&gt;Tickets are selling out&lt;/h2&gt;
+&lt;p&gt;Every year we are amazed at the growing support of our community, and tickets have been selling out earlier each conference.
+We are now just over &lt;strong&gt;80%&lt;/strong&gt; sold out, and judging from past events we do expect to be sold out within the next couple weeks.&lt;/p&gt;
+&lt;p&gt;If you’re still on the fence, now is the time to decide and &lt;a class=&quot;reference external&quot; href=&quot;https://ti.to/writethedocs/write-the-docs-portland-2019/&quot;&gt;get your tickets&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;diversity-tickets&quot;&gt;
+&lt;h2&gt;Diversity tickets&lt;/h2&gt;
+&lt;p&gt;Write the Docs aims to continuously expand our community to be more diverse, welcoming, and inclusive.&lt;/p&gt;
+&lt;p&gt;This year we are launching our first collaboration with &lt;a class=&quot;reference external&quot; href=&quot;https://diversitytickets.org/en/events/415/&quot;&gt;DiversityTickets.org&lt;/a&gt;, a wondeful non-profit organization that shares qualifying events with various diversity organizations, and helps folks from underrepresented groups find events to attend.&lt;/p&gt;
+&lt;p&gt;Diversity scholarship tickets are &lt;strong&gt;free&lt;/strong&gt;, and we hope to welcome more people from all walks of life to join our community.
+Please share this campaign with your social networks and encourage folks to apply if they are interested to join us!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;childcare-available&quot;&gt;
+&lt;h2&gt;Childcare available&lt;/h2&gt;
+&lt;p&gt;New this year, we’re offering free child care for attendees who are traveling with their children provided by &lt;a class=&quot;reference external&quot; href=&quot;https://www.divcarepdx.com/&quot;&gt;DivCare PDX&lt;/a&gt;. In order to plan capacity, the deadline to register is &lt;strong&gt;April 22nd, 2019&lt;/strong&gt;. Please email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:portland&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;portland&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt; to request one of the limited spots. We hope this effort will help more of our lovely documentarians to attend the conference!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-on-sale&quot;&gt;
+&lt;h2&gt;Shirts on sale&lt;/h2&gt;
+&lt;p&gt;Following last year’s pilot, we are happy to announce that the Write the Docs Portland 2019 Pop-Up Shop is now open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want!&lt;/p&gt;
+&lt;p&gt;The campaign will run in 3-day batches until &lt;strong&gt;May 30th&lt;/strong&gt;. We recommend to order your shirt at least 2-3 weeks in advance, to allow for timely delivery of your shirts ahead of the conference.&lt;/p&gt;
+&lt;p&gt;Similarly, we will be continuing our bag swag this year, which you can pick up at the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;events-and-activities&quot;&gt;
+&lt;h2&gt;Events and activities&lt;/h2&gt;
+&lt;p&gt;Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge.&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Hike&lt;/strong&gt;. If you’re in town early, join us on Saturday for our traditional &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/hike/&quot;&gt;hike&lt;/a&gt;. This activity is a great chance to get to know your fellow documentarians in a smaller setting. The hike is free with your conference ticket, but space is limited! We will publish a separate registration soon.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Writing Day.&lt;/strong&gt; The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/writing-day/&quot;&gt;Writing Day&lt;/a&gt; will be held on Sunday from &lt;em&gt;9am-5pm&lt;/em&gt;, and you can drop in at any time during the day. If you have a project you want to propose to others, you can pitch your topic during the welcome announcement that will be held at &lt;em&gt;9:30am&lt;/em&gt;. Please email us if you want to submit a project for the Writing Day!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Welcome reception.&lt;/strong&gt; The meet-and-greet event will be held on Sunday from &lt;em&gt;5pm-8pm&lt;/em&gt;. You can pick up your badge and enjoy a couple of drinks and snacks on us. This is a great chance to meet your fellow documentarians before the conference starts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lightning Talks.&lt;/strong&gt; We’ll have &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/lightning-talks/&quot;&gt;lightning talks&lt;/a&gt; each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unconference.&lt;/strong&gt; We’ll be running the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/unconference/&quot;&gt;Unconference&lt;/a&gt; all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a specific thing? This is the place. We’ll have a sign-up board so you know what’s happening, and supplies to help you brainstorm.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social event.&lt;/strong&gt; This is a private party just for conference attendees, held on &lt;em&gt;Monday evening from 7pm&lt;/em&gt;, with free snacks and drinks. Details about the venue will be posted closer to the day.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Job Fair&lt;/strong&gt;. Following last year’s great success, on Tuesday morning we’ll have a &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/job-fair&quot;&gt;job fair&lt;/a&gt; where you can find your next documentarian friendly job.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/schedule/&quot;&gt;Schedule page&lt;/a&gt; has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;more-news-soon&quot;&gt;
+&lt;h2&gt;More news soon&lt;/h2&gt;
+&lt;p&gt;We’re putting together the final talk schedule, finalizing the social event and hike details, and getting more excited, so stay tuned!&lt;/p&gt;
+&lt;div class=&quot;line-block&quot;&gt;
+&lt;div class=&quot;line&quot;&gt;The Write the Docs team&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/shirts/atom.xml">
+    <title type="text">Tickets Update, Shirts on Sale, Call for Volunteers</title>
+    <id>https://www.writethedocs.org/conf/portland/2018/news/volunteers-shirts-tickets/</id>
+    <updated>2018-03-19T00:00:00Z</updated>
+    <published>2018-03-19T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2018/news/volunteers-shirts-tickets/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;tickets-update-shirts-on-sale-call-for-volunteers&quot;&gt;
+
+&lt;p&gt;Greetings, fellow documentarians! The Portland conference is less than two months away, and we can’t wait to see you all soon! Here are the latest updates from the conference team to help you prepare.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets-are-selling-out&quot;&gt;
+&lt;h2&gt;Tickets are selling out&lt;/h2&gt;
+&lt;p&gt;Every year we are amazed at the growing support of our community, and tickets have been selling out earlier each conference.
+We are now about &lt;strong&gt;85%&lt;/strong&gt; sold out, and judging from past events we do expect to be sold out within the next few weeks.&lt;/p&gt;
+&lt;p&gt;If you’re still on the fence, now is the time to decide and &lt;a class=&quot;reference external&quot; href=&quot;https://ti.to/writethedocs/write-the-docs-portland-2018/&quot;&gt;get your tickets&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-on-sale&quot;&gt;
+&lt;h2&gt;Shirts on sale&lt;/h2&gt;
+&lt;p&gt;As you probably noticed, we are not including shirts with your conference ticket this year.
+This is due partially to the logistics of sizing, ordering, and managing stock, but also because of the inevitable leftovers that we find ourselves with every year.&lt;/p&gt;
+&lt;p&gt;Inspired by our friends at DjangoCon US, we decided to shake things up and sell shirts separately, so you can buy exactly the fit and size that you want!
+You can now visit our Write the Docs Portland 2018 Pop-Up Shop and order this year’s branded shirt.
+The campaign will run until &lt;strong&gt;April 15th&lt;/strong&gt; to allow for timely delivery of your shirts ahead of the conference.&lt;/p&gt;
+&lt;p&gt;And don’t worry, you’ll still have a Write the Docs Portland 2018 souvenir from the conference even if you decide not to order a shirt.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;call-for-volunteers&quot;&gt;
+&lt;h2&gt;Call for volunteers&lt;/h2&gt;
+&lt;p&gt;There is plenty to do during the conference and volunteers are essential to the success of the conference. We are looking for folks who are willing to help out during the conference. If you volunteer for two or more shifts (clocking in at an average of three hours each), you will receive free registration for the conference.&lt;/p&gt;
+&lt;p&gt;We are looking for folks to help out in these roles:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Ballroom setup - Prepping the main conference hall for the main conference, including laying out cables/power strips, arranging tables/chairs, and other light physical labor&lt;/li&gt;
+&lt;li&gt;Writing day - Registering people and general information inquiries, most likely directions to various rooms and schedule questions, assist with other duties as assigned&lt;/li&gt;
+&lt;li&gt;Registration/Info - Registering people in the main conference hall and answering any questions&lt;/li&gt;
+&lt;li&gt;Speakers - Finding speakers and making sure that they’re where they need to be when it comes time to speak&lt;/li&gt;
+&lt;li&gt;Talk Timing - Keeping track of the length of the talks and warning speakers when they’re running out of time&lt;/li&gt;
+&lt;li&gt;Floaters - Other duties as assigned ;) Assisting with odds and ends requests from other volunteers and organizers as well as answering questions; overall, being generally helpful&lt;/li&gt;
+&lt;li&gt;A/V Troubleshooting - This on-call role will assist presenters at the time of their greatest need while on stage - issues with slides, video, or audio portions of their presentation. Please apply for this role if you have some A/V knowledge, experience troubleshooting different operating systems is a plus!&lt;/li&gt;
+&lt;li&gt;Unconference - Camping out in the unconference area downstairs, keeping the place in order, updating unconference room schedule, and so on&lt;/li&gt;
+&lt;li&gt;Job Fair setup/take down- Helping vendors set up their tables before the job fair, or helping with setting the room back for the preconferences that follow in the afternoon&lt;/li&gt;
+&lt;li&gt;Ballroom take down - What’s more fun than setting things up? Taking them down! Helping with taking down the conference set up and leaving the conference hall better than we found it&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you are interested in volunteering for the conference, please read and fill out the &lt;a class=&quot;reference external&quot; href=&quot;https://goo.gl/forms/MprOM1PfOAdD6TKG3&quot;&gt;Call for Volunteers form&lt;/a&gt;. You will receive additional information in early April regarding shifts, detailed duties, and other updates to the volunteer duties and schedules.&lt;/p&gt;
+&lt;p&gt;Please email Becky at &lt;a class=&quot;reference external&quot; href=&quot;mailto:b&amp;#46;yoose&amp;#37;&amp;#52;&amp;#48;gmail&amp;#46;com&quot;&gt;b&lt;span&gt;&amp;#46;&lt;/span&gt;yoose&lt;span&gt;&amp;#64;&lt;/span&gt;gmail&lt;span&gt;&amp;#46;&lt;/span&gt;com&lt;/a&gt; if you have any questions about volunteering for the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;welcome-to-our-newest-sponsors&quot;&gt;
+&lt;h2&gt;Welcome to our newest sponsors&lt;/h2&gt;
+&lt;p&gt;We’re glad to welcome another round of sponsors to the conference this year.
+Thanks sincerely to the following companies for joining our sponsor lineup and supporting the Write the Docs community:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.braintreepayments.com/&quot;&gt;Braintree&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.twilio.com/&quot;&gt;Twilio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.cncf.io/&quot;&gt;Cloud Native Computing Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We’re excited about the new Job Fair this year, along with the other normal sponsorship activities that we have had in past years.&lt;/p&gt;
+&lt;p&gt;If your company is hiring or looking to learn more from our community, you can find for information for &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/sponsors/prospectus/&quot;&gt;Portland&lt;/a&gt; and &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/&quot;&gt;Prague&lt;/a&gt; sponsorships.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;prague-conference-launch&quot;&gt;
+&lt;h2&gt;Prague conference launch&lt;/h2&gt;
+&lt;p&gt;In case you can’t make it to this year’s Portland conference, or if you can’t get enough of Write the Docs, we’re happy to announce that ticket sales and call for proposals are now open for &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/&quot;&gt;our Prague conference, September 9-11&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

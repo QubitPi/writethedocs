@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged conference</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/conference/atom.xml</id>
+  <updated>2021-08-25T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/conference/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/conference/atom.xml">
+    <title type="text">Cancelling WTD Australia and India 2021 conference</title>
+    <id>https://www.writethedocs.org/conf/australia/2021/news/cancel-announcement/</id>
+    <updated>2021-08-25T00:00:00Z</updated>
+    <published>2021-08-25T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2021/news/cancel-announcement/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;cancelling-wtd-australia-and-india-2021-conference&quot;&gt;
+
+&lt;p&gt;G’day folks. We’re writing to let you know that we have decided to cancel our WTD Australia and India conference for 2021.
+This has been an extremely difficult decision, but we recognise the immense mental fatigue that the pandemic in general and lockdowns specifically have caused in Australia and India this year.&lt;/p&gt;
+&lt;p&gt;While the community engagement and support have been fantastic across our remote meetup events and last year’s conference, we all felt stressed and burnt-out at various times during the last couple of years.
+Keeping in mind the long(er)-term health of the community, we have decided to do something else in place of the conference, in a smaller scope that will be more manageable to the organizing team while still providing some continuity to the community.&lt;/p&gt;
+&lt;p&gt;Here’s what we will do instead.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;super-meetup&quot;&gt;
+&lt;h2&gt;Super meetup&lt;/h2&gt;
+&lt;p&gt;In place of a full 2-day conference, we will select 4 talks (from the CFP process, pending confirmation from the speakers) and invite these documentarians to present their talks at a super 2-hour meetup (date &lt;strong&gt;TBA&lt;/strong&gt;).
+We value the time and effort our documentarians put in to submit talk proposals and wanted to use this time to share their experience and knowledge.&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;This meetup event will be a free and open event without prior registration, so you can join in from anywhere. We will try and keep this in a timezone convenient for both our WTD Australia and India communities.&lt;/li&gt;
+&lt;li&gt;We will be using the WTD Australia and India Meetup groups to announce the date for this, along with the relevant WTD Slack channels and other social media.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;time-to-recover&quot;&gt;
+&lt;h2&gt;Time to recover&lt;/h2&gt;
+&lt;p&gt;2021 has been a great year with our remote meetup events in Australia.
+We hope you take this time to recover and refresh yourselves mentally and physically.
+We will be back in 2022 with the conference (onsite hopefully!).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;some-conference-housekeeping&quot;&gt;
+&lt;h2&gt;Some conference housekeeping&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;If you already registered a ticket for the conference, we will refund these promptly and in full, without cancellation fees.&lt;/li&gt;
+&lt;li&gt;If you had blocked these dates in your calendar, we will try and organise the super meetup on one of these days, so that you do not have to take additional time off from work.&lt;/li&gt;
+&lt;li&gt;For those who submitted a talk proposal, we thank you greatly and invite you to resubmit your talks for our conferences (Portland, Prague, Australia/India) next year. If we have selected your talk for the super meetup, we will contact you within the next two weeks.&lt;/li&gt;
+&lt;li&gt;We will be closing the CFP process before the weekend, cancel future ticket sales, and publish this announcement on the conference website, along with the relevant Write the Docs Slack channels and other social media.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;other-conferences-and-activities&quot;&gt;
+&lt;h2&gt;Other conferences and activities&lt;/h2&gt;
+&lt;p&gt;This announcement &lt;strong&gt;does not&lt;/strong&gt; affect any of our other conferences and activities.
+Our Prague 2021 virtual conference will still take place as planned. Tickets are currently on sale, and we plan to announce the schedule soon.&lt;/p&gt;
+&lt;p&gt;Stay safe and we hope to see you next year!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

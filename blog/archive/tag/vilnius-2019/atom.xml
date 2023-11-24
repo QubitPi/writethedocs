@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged vilnius-2019</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/vilnius-2019/atom.xml</id>
+  <updated>2019-06-12T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/vilnius-2019/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/vilnius-2019/atom.xml">
+    <title type="text">Conference highlights and thanks to the community!</title>
+    <id>https://www.writethedocs.org/conf/vilnius/2019/news/thanks-recap/</id>
+    <updated>2019-06-12T00:00:00Z</updated>
+    <published>2019-06-12T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/vilnius/2019/news/thanks-recap/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;conference-highlights-and-thanks-to-the-community&quot;&gt;
+
+&lt;p&gt;Hey folks,&lt;/p&gt;
+&lt;p&gt;The Write the Docs team is now emerging from the post-conference
+recovery period, and we wanted to send out a quick message to thank
+everyone for attending Write the Docs Vilnius.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-recap&quot;&gt;
+&lt;h2&gt;Conference recap&lt;/h2&gt;
+&lt;p&gt;Around 50 people attended from over 15 countries, a diverse and enthusiastic crowd.
+We had some excellent speakers, some new folks giving lightning talks, an active writing day, and a social.&lt;/p&gt;
+&lt;p&gt;Overall, we were excited to our awesome community come together in a lovely venue.
+Lots of knowledge was shared, and we had a great time.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;code-of-conduct-transparency-report&quot;&gt;
+&lt;h2&gt;Code of Conduct transparency report&lt;/h2&gt;
+&lt;p&gt;As with any Write the Docs event, this conference was covered by our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct/&quot;&gt;community Code of Conduct&lt;/a&gt;.
+We aim to be as transparent with CoC incidents and enforcement as we can.&lt;/p&gt;
+&lt;p&gt;To ensure that our CoC was visible and accessible, we took a number of specific steps:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Every participant agreed to the Code of Conduct in advance during registration.&lt;/li&gt;
+&lt;li&gt;The CoC, or a summary, was included on the conference website, conference booklet, and in posters around the conference venue.&lt;/li&gt;
+&lt;li&gt;The CoC was repeatedly mentioned in announcements on the stage.&lt;/li&gt;
+&lt;li&gt;We specifically stressed that the CoC applies to all conference spaces including the social event.&lt;/li&gt;
+&lt;li&gt;We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We had one single CoC event reported, involving a discussion on acceptable ways to address a mixed crowd of people, and an inappropriate example of what isn’t. The incident was resolved on-site.&lt;/p&gt;
+&lt;p&gt;If there was any personal conduct or other aspect of the conference experience that did not meet the expectations of behavior set out in the CoC, please email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:conduct&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;conduct&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;ready-for-more&quot;&gt;
+&lt;h2&gt;Ready for more?&lt;/h2&gt;
+&lt;p&gt;Don’t forget our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2019/&quot;&gt;Prague conference&lt;/a&gt; in
+September, and our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2019/&quot;&gt;Australia conference&lt;/a&gt; in
+November. Tickets are on sale for Prague. The CFP and tickets for the
+Australia conference will open soon.&lt;/p&gt;
+&lt;p&gt;Our Slack network has really grown more this last year. Our general
+Slack channel has been extra busy in the days and weeks leading up to
+the conference, and we hope that y’all continue the conversations
+throughout the year. If you haven’t joined, now’s the time! Check out
+the &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/slack/&quot;&gt;Write the Docs Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We’re also looking for more sponsors to make our events just as magical
+as this year’s event. You can see our prospectus for
+&lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/conf/prague/2019/sponsors/prospectus/&quot;&gt;Prague&lt;/a&gt;.
+Get in touch if you have any questions.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-again&quot;&gt;
+&lt;h2&gt;Thanks again&lt;/h2&gt;
+&lt;p&gt;We’re so grateful to our sponsors, speakers, volunteers, and attendees
+for making this conference possible.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/vilnius-2019/atom.xml">
+    <title type="text">Welcome to Write the Docs Vilnius 2019!</title>
+    <id>https://www.writethedocs.org/conf/vilnius/2019/news/welcome-get-ready/</id>
+    <updated>2019-05-31T00:00:00Z</updated>
+    <published>2019-05-31T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/vilnius/2019/news/welcome-get-ready/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;welcome-to-write-the-docs-vilnius-2019&quot;&gt;
+
+&lt;p&gt;Our first Vilnius edition of Write the Docs is very nearly upon us! We’re excited to see you all soon.&lt;/p&gt;
+&lt;p&gt;Below you’ll find all the practical information that you’ll need to plan for and navigate the event and activities.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;be-prepared&quot;&gt;
+&lt;h2&gt;Be prepared&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Review the schedule.&lt;/strong&gt; The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/schedule/&quot;&gt;Schedule page&lt;/a&gt; has the latest and most complete information about the presentations. This is where we will also update any changes/cancellations if they occur.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Review the Code of Conduct.&lt;/strong&gt; We have a wonderful community full of diverse and amazing people. We expect everyone to behave in a respectful manner at all conference events and online channels. Our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct/&quot;&gt;Code of Conduct&lt;/a&gt; boils down to “Be excellent to each other”, but please read &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct&quot;&gt;full text&lt;/a&gt;. Our cellphone numbers and email addresses are on that page if you ever need to contact us.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;get-involved&quot;&gt;
+&lt;h2&gt;Get involved&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;div class=&quot;first system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/vilnius/2019/news/welcome-get-ready.rst&lt;/tt&gt;, line 7); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Duplicate explicit target name: “writing day”.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Plan a project for Writing Day.&lt;/strong&gt; The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/writing-day/&quot;&gt;Writing Day&lt;/a&gt; will be held on Sunday from &lt;em&gt;10:00-18:00&lt;/em&gt;, and you can drop in at any time during the day. Breakfast will be available from 9:00. If you have a project you want to propose to others, you can pitch your topic during the welcome announcement that will be held at &lt;em&gt;10:30&lt;/em&gt;. Check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/writing-day/&quot;&gt;Writing Day&lt;/a&gt; page for a few suggested projects!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;strong&gt;Plan a lightning talk.&lt;/strong&gt; We’ll have &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/lightning-talks/&quot;&gt;lightning talks&lt;/a&gt; on Monday after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want. This is your chance to share something you are passionate about with the audience. Slides are not required.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;strong&gt;Coffee, breakfast, and lunch are provided on both days!&lt;/strong&gt; Don’t worry about coffee before you come to the conference on Sunday or Monday.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;strong&gt;Social event on Sunday evening&lt;/strong&gt;. Every participant invited to Social Event that will take place at &lt;a class=&quot;reference external&quot; href=&quot;https://goo.gl/maps/csDK16JPZwMeWvWv9&quot;&gt;Kas kas&lt;/a&gt; (Islandijos g. 4). From 19:00 onwards.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;find-your-way-around&quot;&gt;
+&lt;h2&gt;Find your way around&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;For practical information about Vilnius, see our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/visiting/&quot;&gt;visiting page&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;share-the-love&quot;&gt;
+&lt;h2&gt;Share the love&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Slack with your fellow documentarians.&lt;/strong&gt; Join our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/slack/&quot;&gt;Slack&lt;/a&gt; to coordinate dinners, ask questions, or share notes with fellow conference attendees.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Use the hash tag #writethedocs.&lt;/strong&gt; Twitter is a great way to communicate at events. If you arrive into Vilnius early and want to find others, use the hash tag &lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/search?q=%23writethedocs&amp;amp;src=tyah&quot;&gt;#writethedocs&lt;/a&gt; . We can point you to something good.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-again-to-our-sponsors&quot;&gt;
+&lt;h2&gt;Thanks again to our sponsors&lt;/h2&gt;
+&lt;p&gt;Once again, we’re grateful to the companies and organizations that &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/sponsors/&quot;&gt;sponsor&lt;/a&gt; our events:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://techwriter.pl/&quot;&gt;TechWriter.pl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com/&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We’re so excited to welcome you all to Vilnius soon – see you there!&lt;/p&gt;
+&lt;div class=&quot;line-block&quot;&gt;
+&lt;div class=&quot;line&quot;&gt;The Write the Docs team&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/vilnius-2019/atom.xml">
+    <title type="text">Announcing Full Schedule, Tickets, Events, and Activities</title>
+    <id>https://www.writethedocs.org/conf/vilnius/2019/news/announcing-schedule-activities/</id>
+    <updated>2019-05-23T00:00:00Z</updated>
+    <published>2019-05-23T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/vilnius/2019/news/announcing-schedule-activities/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-full-schedule-tickets-events-and-activities&quot;&gt;
+
+&lt;p&gt;Hello everyone!&lt;/p&gt;
+&lt;p&gt;Our first-year event in Vilnius is just over a week away, and we hope everyone is as excited as we are. We’re writing today to announce the full presentation schedule and to give you the latest updates to help you make the most out of your conference experience.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;full-presentation-schedule&quot;&gt;
+&lt;h2&gt;Full presentation schedule&lt;/h2&gt;
+&lt;p&gt;The conference website is now updated with the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/schedule/&quot;&gt;talk schedule&lt;/a&gt; for the main stage presentations, so you can start planning your time (and getting excited!) for the conference.&lt;/p&gt;
+&lt;p&gt;We’ll also be running the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/writing-day/&quot;&gt;Writing Day&lt;/a&gt; on Sunday and &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/lightning-talks/&quot;&gt;lightning talks&lt;/a&gt; after lunch on Monday.&lt;/p&gt;
+&lt;p&gt;You’ll be able to sign up for Writing Day projects and lightning talks during the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets-are-going&quot;&gt;
+&lt;h2&gt;Tickets are going!&lt;/h2&gt;
+&lt;p&gt;We still have some tickets available, so head over to the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/tickets/&quot;&gt;Tickets&lt;/a&gt; page and grab one!&lt;/p&gt;
+&lt;p&gt;Keep in mind that due to printing schedules, if you register after &lt;strong&gt;Monday, 27th May&lt;/strong&gt; we will not be able to print a badge for you.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;events-and-activities&quot;&gt;
+&lt;h2&gt;Events and activities&lt;/h2&gt;
+&lt;p&gt;Write the Docs is more than a conference. At each of our events, we try to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge.&lt;/p&gt;
+&lt;p&gt;Here is the overview of what you can expect during the conference:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;div class=&quot;first system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/vilnius/2019/news/announcing-schedule-activities.rst&lt;/tt&gt;, line 7); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Duplicate explicit target name: “writing day”.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Writing Day.&lt;/strong&gt; The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/writing-day/&quot;&gt;Writing Day&lt;/a&gt; will be held on Sunday from &lt;em&gt;10:00-18:00&lt;/em&gt;, and you can drop in at any time during the day. If you have a project you want to propose to others, you can pitch your topic during the welcome announcement that will be held at &lt;em&gt;10:30&lt;/em&gt;. You can sign up for a project during the day, or email us in advance if you want to have your project listed on our website.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;strong&gt;Welcome reception.&lt;/strong&gt; The meet-and-greet event will be held on Sunday from &lt;em&gt;19:00-21:00&lt;/em&gt; near the conference venue. This is a great chance to meet your fellow documentarians before the conference starts. Stay tuned for location details!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;div class=&quot;first system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/vilnius/2019/news/announcing-schedule-activities.rst&lt;/tt&gt;, line 7); &lt;em&gt;&lt;a href=&quot;#id2&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Duplicate explicit target name: “lightning talks”.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Lightning Talks.&lt;/strong&gt; We’ll have &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/lightning-talks/&quot;&gt;lightning talks&lt;/a&gt; on Monday after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;strong&gt;Informal networking.&lt;/strong&gt; After the talks end on Monday, we’ll set aside space at the conference venue where you can relax and chat with other attendees about the day’s talks, the conference, or any topic that you find interesting!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Don’t forget to check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/visiting/&quot;&gt;Visit Vilnius&lt;/a&gt; page on the conference website, and the local team is happy to answer your questions in the &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.slack.com/messages/wtd-conferences&quot;&gt;#wtd-conferences&lt;/a&gt; channel on Slack.&lt;/p&gt;
+&lt;p&gt;Thanks so much for all your support and enthusiasm, we’re looking forward to see you in Vilnius soon!&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/vilnius-2019/atom.xml">
+    <title type="text">Announcing Speakers and Talks</title>
+    <id>https://www.writethedocs.org/conf/vilnius/2019/news/announcing-talks/</id>
+    <updated>2019-05-16T00:00:00Z</updated>
+    <published>2019-05-16T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/vilnius/2019/news/announcing-talks/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-speakers-and-talks&quot;&gt;
+
+&lt;p&gt;Greetings, fellow documentarians! We’re writing today with an update on the fast-approaching Vilnius event, and we’re very excited to announce the speakers and talks for the event.&lt;/p&gt;
+&lt;p&gt;Thank you so much to everyone who took the time to send us a proposal –&amp;nbsp;we literally wouldn’t have an event without you!&lt;/p&gt;
+&lt;p&gt;We also have some info about ticket purchasing (now’s the time!), trip planning (Vilnius is beautiful!), and Writing Day (start thinking about projects!).&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;full-speaker-line-up&quot;&gt;
+&lt;h2&gt;Full speaker line-up&lt;/h2&gt;
+&lt;p&gt;Our events bring a wide range of voices to the Write the Docs stage. Because the role of “documentarian” looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure.&lt;/p&gt;
+&lt;p&gt;We’re really excited about the presentations we’ve got for this first-year event, and we hope you are too!&lt;/p&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-malzgorzata-trojanowska&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Małgorzata Trojanowska  – Technically you can: creating technical content for all audiences&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-elina-mccafferty&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Elina McCafferty  – How to turn a freight ship around when all you have is a paddle&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-hadas-khen&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Hadas Khen  – OMG, it’s “Error 5”!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-anna-iosif&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Anna Iosif  – How do we know our documentation makes sense?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-filipe-mendes&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Filipe Mendes  – The Legend of Documentation: A markdown to the past&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-chris-ward&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Chris Ward  – Decentralised Documentation - Defining standards for an ecosystem&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Head over to the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/speakers/&quot;&gt;Speakers page&lt;/a&gt; to see the full abstracts. We believe there’s something there for everyone to enjoy, and also something that will broaden your horizons a bit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets-are-going-fast&quot;&gt;
+&lt;h2&gt;Tickets are going fast!&lt;/h2&gt;
+&lt;p&gt;If you don’t have your ticket yet, now’s a great time to snap one up. Conference tickets have already been going quickly, and we have a limited capacity, so if you’re considering attending: register now!&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/tickets/&quot;&gt;Buy your tickets here!&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;plan-your-trip&quot;&gt;
+&lt;h2&gt;Plan your trip&lt;/h2&gt;
+&lt;p&gt;In the final weeks leading up to the event, we’ll be announcing more details about the conference events, including the full schedule, writing day, and social event on Sunday.&lt;/p&gt;
+&lt;p&gt;We invite you to check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/visiting/&quot;&gt;Visit Vilnius&lt;/a&gt; page on the conference website, and the local team is happy to answer your questions in the &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.slack.com/messages/wtd-conferences&quot;&gt;#wtd-conferences&lt;/a&gt; channel on Slack.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;start-thinking-about-writing-day&quot;&gt;
+&lt;h2&gt;Start thinking about Writing Day&lt;/h2&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/writing-day/&quot;&gt;Writing Day&lt;/a&gt; will happen on Sunday at the main conference venue.&lt;/p&gt;
+&lt;p&gt;If you have a project or are part of a community that you think would benefit from a writing sprint, start brainstorming now about what you might want to focus on.&lt;/p&gt;
+&lt;p&gt;If you’d like us to include your project on the Writing Day page, drop us an email at &lt;a class=&quot;reference external&quot; href=&quot;mailto:vilnius&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;vilnius&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.
+Or just show up on Sunday ready to introduce your project!&lt;/p&gt;
+&lt;p&gt;We hope you’re all getting as excited as we are, see you soon in Vilnius!&lt;/p&gt;
+&lt;p&gt;The Write the Docs Team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/vilnius-2019/atom.xml">
+    <title type="text">Call for Volunteers and CFP Reminder</title>
+    <id>https://www.writethedocs.org/conf/vilnius/2019/news/volunteers-cfp-reminder/</id>
+    <updated>2019-04-03T00:00:00Z</updated>
+    <published>2019-04-03T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/vilnius/2019/news/volunteers-cfp-reminder/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;call-for-volunteers-and-cfp-reminder&quot;&gt;
+
+&lt;p&gt;Greetings, fellow documentarians! The Vilnius conference is just about two months away, and we can’t wait to see you all soon! Here are the latest updates from the conference team to help you prepare.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tickets are selling fast!&lt;/strong&gt; We are not sold out yet, but our European community is showing great enthusiasm, and we expect to have another wave of registrations after we announce the presentations soon, so you might want to beat the rush and &lt;a class=&quot;reference external&quot; href=&quot;https://ti.to/writethedocs/write-the-docs-vilnius-2019&quot;&gt;get your ticket now&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;call-for-volunteers&quot;&gt;
+&lt;h2&gt;Call for volunteers&lt;/h2&gt;
+&lt;p&gt;There is plenty to do during the conference, and volunteers are essential to the success of all our events! We are looking for folks who are willing to help out during the conference. If you volunteer for two or more shifts (at an average of three hours each), you will receive a free ticket for the conference.&lt;/p&gt;
+&lt;p&gt;We are looking for folks to help out in these roles:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Venue set up&lt;/strong&gt; - Prepping the main conference hall on Saturday, including preparing the registration desk, laying out swag, arranging writing day boards, and other light physical labor&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Writing day&lt;/strong&gt; - Assisting the Writing Day coordinator, including general information inquiries, directing attendees to specific tables, helping writing day project leads with logistical questions, and other duties as assigned&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Registration desk/info&lt;/strong&gt; - Registering people in the main conference hall and answering any questions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Speakers&lt;/strong&gt; - Finding speakers and making sure that they’re where they need to be when it comes time to speak&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Talk timing&lt;/strong&gt; - Keeping track of the length of the talks and warning speakers when they’re running out of time&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A/V and tech support&lt;/strong&gt; - Assisting presenters at the time of their greatest need while on stage - issues with slides, video, or audio portions of their presentation. Please apply for this role if you have some A/V knowledge; experience troubleshooting different operating systems is a plus!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Floaters&lt;/strong&gt; - Other duties as assigned ;) Assisting with odds and ends, requests from other volunteers and organizers, as well as answering questions; overall, being generally helpful&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Venue take down&lt;/strong&gt; - What’s more fun than setting things up? Taking them down! Helping with taking down the conference set up and leaving the conference hall better than we found it&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you’re not entirely sure how to do any of these tasks, don’t worry! The organizers will be available for questions and any problems you may encounter.&lt;/p&gt;
+&lt;p&gt;To register as a volunteer for the conference, please read and fill out the &lt;a class=&quot;reference external&quot; href=&quot;https://forms.gle/bBfLsPTx4btzBS9YA&quot;&gt;Call for Volunteers form&lt;/a&gt;. You will receive additional information by late April regarding shifts, detailed duties, and other updates to the volunteer duties and schedules.&lt;/p&gt;
+&lt;p&gt;Please email &lt;a class=&quot;reference external&quot; href=&quot;mailto:vilnius&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;vilnius&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt; if you have any questions about volunteering for the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;call-for-proposals-reminder&quot;&gt;
+&lt;h2&gt;Call for Proposals reminder&lt;/h2&gt;
+&lt;p&gt;We’re excited to see such great proposals coming in, and we want to remind you to submit your proposals before &lt;strong&gt;Midnight CET, 22nd April 2019&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/cfp/&quot;&gt;Call for Proposals&lt;/a&gt; page has tips and examples  to inspire you.
+And if you have an idea but aren’t sure what to do with it, feel free to ask for feedback on &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.org/slack/&quot;&gt;Slack&lt;/a&gt;. Your fellow documentarians will be happy to help!&lt;/p&gt;
+&lt;p&gt;Since this first-year event has only one day of talks, the number of slots is extremely limited. We hope to see a diverse range of topics from different roles and industries, and we’re excited to welcome you to Vilnius very soon!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;facebook-event&quot;&gt;
+&lt;h2&gt;Facebook event&lt;/h2&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/vilnius/2019/news/volunteers-cfp-reminder.rst&lt;/tt&gt;, line 7); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “facebook event”.&lt;/div&gt;
+&lt;p&gt;For this conference, we are leveraging the power of Facebook and you can track updates and connect with other attendees by RSVPing the &lt;a class=&quot;reference external&quot; href=&quot;https://www.facebook.com/events/621367388276750/&quot;&gt;Facebook event&lt;/a&gt;. You can also follow our new &lt;a class=&quot;reference external&quot; href=&quot;https://www.facebook.com/WriteTheDocs/&quot;&gt;Facebook page&lt;/a&gt; to receive general community updates.&lt;/p&gt;
+&lt;p&gt;We will also still be using Slack and Twitter for announcements and communications, so you can choose your own social network adventures and stay updated with all the exciting news!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/vilnius-2019/atom.xml">
+    <title type="text">Announcing Write the Docs Vilnius CFP and Ticket Sales</title>
+    <id>https://www.writethedocs.org/conf/vilnius/2019/news/cfp-tickets-website/</id>
+    <updated>2019-03-20T00:00:00Z</updated>
+    <published>2019-03-20T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/vilnius/2019/news/cfp-tickets-website/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-write-the-docs-vilnius-cfp-and-ticket-sales&quot;&gt;
+
+&lt;p&gt;Welcome to the official launch of &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/conf/vilnius/2019/&quot;&gt;Write the Docs Vilnius 2019&lt;/a&gt;. We hope you’re getting excited – we certainly are! We hope that this first-year event will have many great conversations and interesting talks.&lt;/p&gt;
+&lt;p&gt;Today we are announcing our &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/conf/vilnius/2019/cfp/&quot;&gt;Call for Proposals&lt;/a&gt;
+and &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/conf/vilnius/2019/&quot;&gt;website&lt;/a&gt;.
+Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians.
+If there is something you’d really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;id1&quot;&gt;
+&lt;h2&gt;Call for Proposals&lt;/h2&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/vilnius/2019/news/cfp-tickets-website.rst&lt;/tt&gt;, line 17); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “call for proposals”.&lt;/div&gt;
+&lt;p&gt;Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
+We’re looking for ideas and use-cases from all disciplines and roles, so whether you’re a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!&lt;/p&gt;
+&lt;p&gt;You can read our full &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/conf/vilnius/2019/cfp/&quot;&gt;Call for Proposals&lt;/a&gt; on the website.
+The Call for Proposals will be open until &lt;strong&gt;Midnight CET on April 22, 2019&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets&quot;&gt;
+&lt;h2&gt;Tickets&lt;/h2&gt;
+&lt;p&gt;Tickets are &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/conf/vilnius/2019/tickets/&quot;&gt;on sale now&lt;/a&gt;!
+As with our other conferences, we have tiered pricing to make it fair for everyone. Please buy the ticket that best fits your situation.&lt;/p&gt;
+&lt;p&gt;As always, we keep ticket prices low so that it is accessible to the widest range of people possible. However, if you can’t afford these prices and still wish to attend, please email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:vilnius&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;vilnius&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;, and we can see how we can help.&lt;/p&gt;
+&lt;p&gt;For this first-year event we have a limited capacity of 50 documentarians, and we do expect to reach full capacity.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;stay-updated&quot;&gt;
+&lt;h2&gt;Stay Updated&lt;/h2&gt;
+&lt;p&gt;Want to find out what’s happening with the conference, or enjoy our monthly global community newsletter?
+Sign up to one or more of our &lt;a class=&quot;reference external&quot; href=&quot;http://eepurl.com/cdWqc5&quot;&gt;mailing lists&lt;/a&gt;. Your information will never be shared with any third-parties, and you can unsubscribe at any time.&lt;/p&gt;
+&lt;p&gt;Want to connect with other documentarians in real-time? Join our &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.org/slack/&quot;&gt;Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;conclusion&quot;&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;We hope you will join us in Vilnius for this new and promising conference.
+Whether as a speaker or attendee, you can bet it will be another delightful year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/vilnius-2019/atom.xml">
+    <title type="text">Announcing Write the Docs Vilnius 2019</title>
+    <id>https://www.writethedocs.org/conf/vilnius/2019/news/init/</id>
+    <updated>2019-02-27T00:00:00Z</updated>
+    <published>2019-02-27T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/vilnius/2019/news/init/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-write-the-docs-vilnius-2019&quot;&gt;
+
+&lt;p&gt;Welcome to the official launch of the first &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/&quot;&gt;Write the Docs Vilnius&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;We are excited to announce this new event, led by a group of talented and dedicated documentarians in &lt;strong&gt;Vilnius, Lithuania&lt;/strong&gt;. The 2-day event will be held on &lt;strong&gt;2-3 June, 2019&lt;/strong&gt;, and will include:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Day 1: Writing Day.&lt;/strong&gt; Get together with other documentarians to work on your docs and learn some new skills. Don’t have a team to bring to the sprints? Join us anyway–get involved with an open source project and learn from the people who are pioneering documentation sprints.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Day 2: Talks on all things technical documentation.&lt;/strong&gt; We’ll have a variety of speakers on the stage sharing their experience and knowledge. We might also have lightning talks, if the schedule permits.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;section&quot; id=&quot;call-for-proposals-and-tickets&quot;&gt;
+&lt;h2&gt;Call for proposals and tickets&lt;/h2&gt;
+&lt;p&gt;We plan to open the call for proposals around &lt;strong&gt;13 March, 2019&lt;/strong&gt;, and keep it open for a month. At the time of the CFP launch, we will also transform the landing page to a full website, with venue information and registration links.&lt;/p&gt;
+&lt;p&gt;In the meantime, here are the ticket prices so that you can plan ahead:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Corporate ticket: 70€&lt;/strong&gt; - Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Independent ticket: 40€&lt;/strong&gt; - Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with less than 10 employees.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Student/unemployed ticket: 15€&lt;/strong&gt; - Purchase this ticket if you are currently enrolled as a student, or don’t currently have a source of income.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our first-year capacity for this event is only 50 people, so we do expect tickets to sell out quickly.
+Stay tuned to find out when tickets are available!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;sponsorship&quot;&gt;
+&lt;h2&gt;Sponsorship&lt;/h2&gt;
+&lt;p&gt;We try to keep ticket prices low for all our events, to make sure that they are accessible and inclusive.
+This is possible thanks to organizations that support our community by sponsoring our events.&lt;/p&gt;
+&lt;p&gt;Check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/sponsors/prospectus/&quot;&gt;Sponsorship Prospectus&lt;/a&gt; to learn about sponsorship levels, pricing, and perks.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;stay-tuned&quot;&gt;
+&lt;h2&gt;Stay tuned&lt;/h2&gt;
+&lt;p&gt;We will continue to post information as it becomes available. In the meantime, save the dates and we hope to see you in Vilnius!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

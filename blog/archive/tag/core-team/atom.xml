@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged core team</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/core-team/atom.xml</id>
+  <updated>2018-01-20T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/core-team/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/core-team/atom.xml">
+    <title type="text">Write the Docs 2018 Kick-Off</title>
+    <id>https://www.writethedocs.org/blog/write-the-docs-2018-kickoff/</id>
+    <updated>2018-01-20T00:00:00Z</updated>
+    <published>2018-01-20T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/write-the-docs-2018-kickoff/" />
+    <author>
+      <name>Mikey Ariel</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-2018-kick-off&quot;&gt;
+
+&lt;p&gt;Greetings, global documentarians!&lt;/p&gt;
+&lt;p&gt;Mikey here, writing from the deep, dark cold European winter, but looking forward to spring and summer, full of sunshine and docs!
+Following Eric’s winter-warming &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/write-the-docs-2017-stats/&quot;&gt;2017 Stats&lt;/a&gt; post, I’d like to highlight some of the activities, changes, and experiments that you can expect in 2018.&lt;/p&gt;
+&lt;p&gt;These efforts are part of our work to support and grow the community, and to keep things fresh and exciting for documentarians.
+We hope you’ll enjoy the new things we’re trying.&lt;/p&gt;
+&lt;p&gt;If you’d like to contribute to any of these initiatives or propose new experiments, please write to us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:support&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;support&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt; and let us know!&lt;/p&gt;
+&lt;p&gt;So, new year - new…&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;core-team&quot;&gt;
+&lt;h2&gt;Core team&lt;/h2&gt;
+&lt;p&gt;Since the original Write the Docs conference was held in 2012, the folks behind the scenes have contributed their time, efforts, and talent on a volunteer basis, with tremendous results. Over the years, the community grew to a point where we needed to develop a system that will support the community in the long run, without burning out the people who are filling key global roles.&lt;/p&gt;
+&lt;p&gt;Last year we decided to try setting up a formalized a small, part-time paid staff with the goal of consolidating various roles and responsibilities that could be handled globally, such as web administration, swag coordination, staff wrangling, and meetup overseeing.&lt;/p&gt;
+&lt;p&gt;So far the experiment has been successful! Here are the core team members and their respective responsibilities:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Eric Holscher: Co-founder, North America conferences, sponsorship, finance&lt;/li&gt;
+&lt;li&gt;Mikey Ariel: Europe conferences, brand and design, swag, communication&lt;/li&gt;
+&lt;li&gt;Samuel Wright: Support, website/GitHub, meetups, CFP and speakers (Europe)&lt;/li&gt;
+&lt;li&gt;Kelly O’Brien: Newsletter, job board, CFP and speakers (North America)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These focus areas are on an including-but-not-limited-to basis, since there are lots of smaller, ad-hoc tasks that the core team runs into throughout the year. You can find a high-level overview of the teams and roles in &lt;a class=&quot;reference internal&quot; href=&quot;../../../../team/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;Team&lt;/span&gt;&lt;/a&gt;, and if you want to learn more about the organization behind the community, you can read &lt;a class=&quot;reference internal&quot; href=&quot;../../../../about-us/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;About Us&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;job-opportunities&quot;&gt;
+&lt;h2&gt;Job opportunities&lt;/h2&gt;
+&lt;p&gt;In recent years we noticed that an increasing number of documentarians in our communities are looking for work, and that many employers are seeking documentation-friendly folks to add to their organizations.
+Aside from the traditional sponsorship options for the conferences, we have started two very exciting experiments:&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;job-board&quot;&gt;
+&lt;h3&gt;Job board&lt;/h3&gt;
+&lt;p&gt;As we mentioned in previous newsletters and Slack posts, we are launching a new job board, led by Kelly O’Brien, which aims to make it easy for documentarians to find their dream gigs, and for employers to find their dream documentarians.&lt;/p&gt;
+&lt;p&gt;We’re currently in the beta-testing phase, so if you’re interested in helping us test the board – either as an employer or an applicant – we’d love to hear from you at &lt;a class=&quot;reference external&quot; href=&quot;mailto:jobs&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;jobs&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;job-fair-at-the-conference&quot;&gt;
+&lt;h3&gt;Job fair at the conference&lt;/h3&gt;
+&lt;p&gt;The 2018 edition of our sponsorship offering for both the Portland and Prague conference now includes an additional &lt;strong&gt;Job Fair&lt;/strong&gt; package that focuses on connecting potential employers with job seekers.
+During the morning of the second conference day (Tuesday), the unconference room will be transformed into a job fair where tables are assigned to organizations who are looking to hire documentarians.&lt;/p&gt;
+&lt;p&gt;Conference attendees will be able to head over to the job fair to find out more information about job opportunities in a comfortable and friendly setting, and companies will be able to optimize their hiring efforts into these time slots.
+Space in the job fair is limited by the room capacity, so if you want your company to participate, write to us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:sponsorship&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;sponsorship&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt; to reserve your slot.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;swag&quot;&gt;
+&lt;h2&gt;Swag&lt;/h2&gt;
+&lt;p&gt;Some of you might have noticed that this year’s conference tickets do not include shirts.
+We realized that after 5 years of printing shirts for multiple conferences, the swag offering could use a bit of a refresh.
+In addition, the overhead of printing hundreds of shirts and managing inventory simply proved ineffective over time.&lt;/p&gt;
+&lt;p&gt;So this year we are changing swag tactics, and instead of including shirts with the ticket purchase, we happily present &lt;strong&gt;tote bags&lt;/strong&gt;! No sizing required, smoother production workflow, and just as collectible :)&lt;/p&gt;
+&lt;p&gt;But have no fear, you can still get a shirt for your favorite conference! Over the next few weeks we will be setting up a print-on-demand campaign where you can order a shirt with this year’s conference design, and anyone who orders by a certain date should receive their shirt in time for the conference.&lt;/p&gt;
+&lt;p&gt;We will continue to print speaker and staff hoodies, since we can estimate sizing and quantities much more accurately than we can with shirts. If you want to help organize one of our conferences, write to us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:support&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;support&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt; and join the fun!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;community-run-events&quot;&gt;
+&lt;h2&gt;Community-run events&lt;/h2&gt;
+&lt;p&gt;In addition to the official conferences that are organized by our team and carry the formal Write the Docs brand, we have seen a growing number of events that are organized by our community members.
+We are thrilled that our community is excited to share knowledge and network with like-minded folks, and happy to support and cross-promote these events in our community.&lt;/p&gt;
+&lt;p&gt;We’re still trying to find the best way to clarify the difference between a core Write the Docs event and a community-run event. This is a work in progress because we want to empower our community to run events, but at the same time we want to avoid confusing folks about which event is run by whom.&lt;/p&gt;
+&lt;p&gt;To that affect, we now have the &lt;a class=&quot;reference internal&quot; href=&quot;../../../../organizer-guide/confs/community-events/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;Community-Run Events&lt;/span&gt;&lt;/a&gt; section on our website, which lists basic guidelines on running these events and provides some answers to questions you might have if you want to start your own event.
+This is a living document and we welcome suggestions and contributions!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;happy-new-year&quot;&gt;
+&lt;h2&gt;Happy New Year&lt;/h2&gt;
+&lt;p&gt;We’re proud and thrilled to have such a lively growing community all over the world, and we hope that you’ll continue to enjoy participating and contributing to the current and new activities.&lt;/p&gt;
+&lt;p&gt;Here’s to an amazing 2018!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

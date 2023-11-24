@@ -1,0 +1,451 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta property="og:title" content="Write the Docs Newsletter – October 2023" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/blog/newsletter-october-2023/" />
+<meta property="og:site_name" content="Write the Docs" />
+<meta property="og:description" content="Ave, documentarians. Halloween may be approaching, but there’s nothing scary about this month’s batch of stories from the world of Write the Docs. The Write the Docs Documentarian Salary Survey for..." />
+<meta property="og:image" content="https://www.writethedocs.org/_static/logo-opengraph.png" />
+<meta property="og:image:alt" content="Write the Docs" />
+<meta name="description" content="Ave, documentarians. Halloween may be approaching, but there’s nothing scary about this month’s batch of stories from the world of Write the Docs. The Write the Docs Documentarian Salary Survey for..." />
+<meta name="twitter:card" content="summary_large_image" />
+
+    <title>Write the Docs Newsletter – October 2023 &#8212; Write the Docs</title>
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/alabaster.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/global-customizations.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/survey.css" />
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/js/jobs.js"></script>
+    <link rel="canonical" href="https://QubitPi.github.io/writethedocs/blog/newsletter-october-2023.html" />
+    <link rel="shortcut icon" href="../../_static/favicon-96x96.png"/>
+    <link rel="index" title="Index" href="../../genindex/" />
+    <link rel="search" title="Search" href="../../search/" />
+  
+   
+  <link rel="stylesheet" href="../../_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  
+  <link rel="alternate" type="application/atom+xml"  href="../archive/atom.xml" title="Blog">
+  
+  
+  <link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
+  
+  <style type="text/css">
+    ul.ablog-archive {list-style: none; overflow: auto; margin-left: 0px}
+    ul.ablog-archive li {float: left; margin-right: 5px; font-size: 80%}
+    ul.postlist a {font-style: italic;}
+    ul.postlist-style-disc {list-style-type: disc;}
+    ul.postlist-style-none {list-style-type: none;}
+    ul.postlist-style-circle {list-style-type: circle;}
+  </style>
+
+  </head><body>
+  
+
+    <div class="document">
+  <div class="documentwrapper">
+    <div class="bodywrapper">
+      <div class="body" role="main">
+          
+          <div class="breadcrumbs">
+            
+            
+              <a href="../../">Home</a> &raquo;
+                
+            
+          </div>
+        
+        
+  <div class="section" id="write-the-docs-newsletter-october-2023">
+<h1>Write the Docs Newsletter – October 2023<a class="headerlink" href="#write-the-docs-newsletter-october-2023" title="Permalink to this headline">¶</a></h1>
+<p>Ave, documentarians. Halloween may be approaching, but there’s nothing scary about this month’s batch of stories from the world of Write the Docs.</p>
+<p>The Write the Docs <a class="reference external" href="https://salary-survey.writethedocs.org/">Documentarian Salary Survey for 2023</a> is open and accepting submissions! This is the survey’s fifth year and, in addition to our regular salary and job-related questions, we’re exploring our community’s thoughts on “back to the office” mandates, feelings about job security in a volatile market, and attitudes towards pay transparency.</p>
+<p>So whether you’re an employee, contractor, freelancer, or currently unemployed, <a class="reference external" href="https://salary-survey.writethedocs.org/">head on over</a> and help us make this year’s survey the most useful yet.</p>
+<p>In conference news, the in-person Australia conference has just <a class="reference external" href="/conf/australia/2023/news/announcing-speakers/">announced its speakers</a>. Check out the amazing talks you have to look forward to and then <a class="reference external" href="/conf/australia/2023/tickets/">grab a ticket</a>. If you’d like to apply for an <a class="reference external" href="/conf/australia/2023/opportunity-grants/">opportunity grant</a>, you have until 15 October.</p>
+<p>The newsletter this month covers how to include links within your docs, whether you can show some of your personality in your docs, how to handle docs in the same repository as product source code, and how much (or little) to capitalize feature names. Hope you enjoy!</p>
+<div class="section" id="hyperlink-text">
+<h2>Hyperlink Text<a class="headerlink" href="#hyperlink-text" title="Permalink to this headline">¶</a></h2>
+<p>How to deal with links is a recurring question for documentarians. To answer it, some people suggested guidelines from the <a class="reference external" href="https://www.w3.org/WAI/tips/writing/#make-link-text-meaningful">W3C</a>, <a class="reference external" href="https://learn.microsoft.com/en-us/style-guide/urls-web-addresses">Microsoft</a>, and <a class="reference external" href="https://developers.google.com/style/link-text">Google</a>.</p>
+<p>The general consensus was to include text that’s relevant — not just ‘click here’. Suggestions included using the linked page’s title, turning the title into relevant text, and creating descriptive text based on the context. Non-writers (such as developers) may prefer using the title for simplicity. More experienced documentarians may want to craft the text.</p>
+<p>There are several issues involved:</p>
+<ul class="simple">
+<li>If there are inadequate guidelines for cross-referencing content, new or updated guidelines may be needed.</li>
+<li>The page title may be too long or unhelpful. If so, either edit the title or summarize the content in a few words.</li>
+<li>Some documentation systems focus on short, succinct topics. This may require many links to cross-reference content adequately.</li>
+</ul>
+<p>A related issue concerns <em>where</em> to put the links: throughout the content or at the end of the content in a separate list? The main arguments against putting links at the end: the link may have lost its context or the reader may never scroll that far. In either case, it’s important to use relevant text. Having the link within the content may disrupt the reader by triggering cognitive overload and making them wonder: “Should I click or not? Should I click as I come to the link or wait until I finish reading?”</p>
+<p>If you put links within the content, <a class="reference external" href="https://readabilityguidelines.co.uk/content-design/links/#2-avoid-mid-sentence-links">one reference suggested</a> always putting the link at the end of the sentence to minimize distraction. Accessibility was an additional concern, but exact solutions were unclear because interpretation depends upon the screen reader.</p>
+</div>
+<div class="section" id="personality-in-technical-writing">
+<h2>Personality in Technical Writing<a class="headerlink" href="#personality-in-technical-writing" title="Permalink to this headline">¶</a></h2>
+<p>There are still different views among documentarians on the issue of the importance of personality, customization, and tone in technical writing.</p>
+<p>Some people said that strict accuracy was the most important consideration in technical writing, while others said that there was room for creativity and humor as long as precision wasn’t compromised. In particular, they said that adding a bit of personality can make such writing more interesting, especially if the readers can handle it.</p>
+<p>Context also came up as an essential factor, with people agreeing that different kinds of technical material need different levels of formality. For example, troubleshooting guides should always be very clear, while onboarding tutorials might benefit from a more friendly tone.</p>
+<p>Also, many people stressed the importance of knowing the audience and suggested that the amount of personalization should match what they want and expect. Some even pushed for tech writing that changes the language by using broader terms and more open methods to improve users’ experience.</p>
+<p>Most people agreed that the audience’s needs should always come first. Individuality, personalization, and tone can improve technical writing in some situations, but isn’t appropriate everywhere. Finding the best mix between readability, accuracy, and interest is important for making technical documentation that users can relate to and use to reach their goals.</p>
+</div>
+<div class="section" id="docs-with-code-or-just-as-code">
+<h2>Docs <em>with</em> Code Or Just <em>as</em> Code?<a class="headerlink" href="#docs-with-code-or-just-as-code" title="Permalink to this headline">¶</a></h2>
+<p>Someone who switched jobs recently asked in <a class="reference external" href="https://writethedocs.slack.com/archives/C72NZ18FR">#docs-as-code</a> about the benefits and drawbacks of keeping docs in the same repository as app code. They moved from having docs in a separate repository to docs in the same repository as the product source code and were feeling frustrated.</p>
+<p>Some of the perceived drawbacks to keeping docs with app code included changes feeling slower and less flexible, requiring PRs for everything, even small typos. Each change also required reviews from developers and lots of linting when app code wasn’t touched. Also, collaboration seemed more difficult than in tools like Google Docs and Notion. In short, it felt like there were roadblocks everywhere.</p>
+<p>People noted some potential benefits, including increased accountability for changes with PRs. Some also felt safer knowing any mistakes weren’t theirs alone and that the CI checks and reviews helped keep entire pages from breaking. Someone also noted that with docs in the same repository as code, it was easier to enforce docs changes when code is updated, including potentially automating some changes.</p>
+<p>People had some suggestions to help overcome some roadblocks. Opening PRs early in the process lets reviewers check out changes locally to see the effects. Someone also suggested using the principle of pair programming in pair reviews for easier collaboration: run the docs locally and walk through the changes on a video call. Another idea was keeping PRs small and therefore manageable, but batching really small things like typos together if each PR takes too long. And encouraging improvements to the CI to catch typos earlier and also only running when needed (not linting untouched code).</p>
+<p>Either setup can work and each works for some situations. As someone pointed out, if you’re going to use docs-as-code, it’s best to optimize for the code tools and processes available to you.</p>
+</div>
+<div class="section" id="capitalizing-feature-names">
+<h2>Capitalizing Feature Names<a class="headerlink" href="#capitalizing-feature-names" title="Permalink to this headline">¶</a></h2>
+<p>How much is too much when it comes to capitalizing the names of features in the docs? The limit may be lower than you think! This month, most documentarians recommended using capitalization only sparingly in your documentation.</p>
+<p>Unnecessary capitalization is distracting for readers. It looks odd in English, especially when the words aren’t proper nouns. Capitalizing generic terms like “dashboard” or “alert” makes it more difficult for readers to understand whether you’re talking about the general meaning of the word or a specialized concept.</p>
+<p>In addition, many writing systems do not used mixed case, and capitalization norms vary among languages, so excessive capitalization can make it more difficult to translate your documentation. It’s also difficult to remove over-capitalization programmatically, particularly when certain words should retain capitalization in a specific context.</p>
+<p>If you want to establish a precedent, it can be helpful to take a look at other companies’ docs. Also, capitalization and naming is often covered in style guides – check out these examples:</p>
+<ul class="simple">
+<li><a class="reference external" href="https://polaris.shopify.com/content/naming#does-it-need-a-branded-name-">Shopify Polaris</a></li>
+<li><a class="reference external" href="https://docs.splunk.com/Documentation/StyleGuide/current/StyleGuide/UIGuidelines">Splunk</a></li>
+<li><a class="reference external" href="https://carbondesignsystem.com/guidelines/content/writing-style/#capitalization">IBM Carbon Design System</a></li>
+</ul>
+<p>For a designer’s take on the subject, read <a class="reference external" href="https://kubie.co/blog/fighting-feature-names/">Fighting Feature Names</a> by Scott Kubie.</p>
+</div>
+<div class="section" id="from-our-sponsor">
+<h2>From Our Sponsor<a class="headerlink" href="#from-our-sponsor" title="Permalink to this headline">¶</a></h2>
+<p>This month’s newsletter is sponsored by Heretto:</p>
+<hr>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
+  <tbody>
+    <tr>
+      <td width="75%">
+          <p>
+            At Heretto, we’re thrilled to unveil a game-changing feature for tech writers and developers alike:  <a href="https://heretto.com/interactive-api-docs-product-and-api-documentation-in-one-place/">Interactive API Docs</a>.
+          </p>
+          <p>
+            API Docs empowers companies to consolidate their product and API documentation into a single-source repository for a seamless user experience.
+          </p>
+          <p>
+            Unify your docs on one branded site, test APIs in seconds, and drive API adoptions with search-ready documentation.
+          </p>
+          <p>
+            Want to learn more? <a href="https://go.heretto.com/api-docs?utm_medium=3rd-party&utm_source=writethedocs&utm_campaign=q323-apidocs&utm_content=&utm_term=">Meet with our team to see API Docs in action</a>.
+          </p>
+      </td>
+      <td width="25%">
+        <a href="https://go.heretto.com/api-docs?utm_medium=3rd-party&utm_source=writethedocs&utm_campaign=q323-apidocs&utm_content=&utm_term=">
+          <img style="margin-left: 15px;" alt="Heretto" src="/_static/img/sponsors/Heretto_Square__For_Non_White_Backgrounds.png">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<hr><p><em>Interested in sponsoring the newsletter? Take a look at our</em> <a class="reference external" href="/sponsorship/newsletter/">sponsorship prospectus</a>.</p>
+</div>
+<div class="section" id="events-coming-up">
+<h2>Events Coming Up<a class="headerlink" href="#events-coming-up" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>6 Oct, 08:30 EDT (New England and Florida, USA): <a class="reference external" href="https://www.meetup.com/boston-write-the-docs/events/295963820/">Focused conversation: Document types and templates</a></li>
+<li>7 Oct, 19:30  EAT (Nairobi, Kenya): <a class="reference external" href="https://www.meetup.com/write-the-docs-kenya/events/296445236/">Documentation Localization in Open Source</a></li>
+<li>12 Oct, 18:30  EDT (Pittsburgh, USA): <a class="reference external" href="https://www.meetup.com/write-the-docs-pittsburgh/events/295832422/">UX writing for the rest of us</a></li>
+<li>18 Oct, 08:00  PDT (Seattle, USA): <a class="reference external" href="https://www.meetup.com/write-the-docs-seattle/events/296381865/">Write the Docs Seattle: Casual Caffeine Hour</a></li>
+<li>19 Oct, 17:30  CDT (Austin, USA): <a class="reference external" href="https://www.meetup.com/writethedocs-atx-meetup/events/295309096/">Write the Docs ATX Happy Hour Meetup: October 19th</a></li>
+<li>20 Oct, 08:30 EDT (New England and Florida, USA): <a class="reference external" href="https://www.meetup.com/boston-write-the-docs/events/295963821/">Focused Conversation for Documentarians</a></li>
+<li>3 Nov, 08:30 EDT (New England and Florida, USA): <a class="reference external" href="https://www.meetup.com/boston-write-the-docs/events/xzpxdtyfcpbfb/">Focused Conversation for Documentarians</a></li>
+</ul>
+</div>
+</div>
+
+  <div class="section">
+  
+    
+
+
+<div class="section">
+  <span style="float: left;">
+  
+  
+  <a href="../../conf/australia/2023/news/announcing-speakers/">
+    <i class="fa fa-arrow-circle-left"></i>
+    Announcing conference speakers and talks
+  </a>
+  
+  </span>
+  <span>&nbsp;</span>
+  <span style="float: right;">
+  
+  
+  <a href="../../conf/australia/2023/news/announcing-schedule/">
+    Announcing Full Schedule
+    <i class="fa fa-arrow-circle-right"></i>
+  </a>
+  
+  </span>
+</div>
+
+  
+  
+  </div>
+
+      </div>
+    </div>
+  </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<p class="logo">
+  <a href="../../">
+    <img class="logo" src="../../_static/sticker-wtd-colors.png" alt="Logo"/>
+    
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <h2>
+  
+  <i class="fa fa-calendar"></i>
+    06 October 2023
+  
+  </h2>
+
+  <ul>
+    
+
+  
+  <li id="author"><span><i class="fa-fw fa fa-user"></i></span>
+    
+      
+      <a href="../archive/author/write-the-docs-team/">Write the Docs Team</a>
+      
+    </li>
+  
+
+  
+
+  
+
+  
+
+  
+  <li id="tags"><span><i class="fa-fw fa fa-tag"></i></span>
+    
+      
+      <a href="../archive/tag/newsletter/">newsletter</a>
+      
+    </li>
+  
+  
+  </ul>
+
+
+<br>
+<p>
+Write the Docs is a global community of people who care about documentation.
+We have a Slack community, conferences on 3 continents, and local meetups!
+</p>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../../search/" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>$('#searchbox').show(0);</script><style>
+.ethical-alabaster::before {margin-top: 1em;}
+</style>
+<div id="ethical-ad-placement"></div>
+
+<div id="jobs-listing">
+    <h3>Job Postings</h3>
+    See more at our <a href="https://jobs.writethedocs.org/">Job Board</a>.
+        <ul>
+        </ul>
+</div>
+
+<div id="toc">
+
+    <h3>Site Content</h3>
+
+    <ul>
+<li class="toctree-l1"><a class="reference internal" href="../../surveys/">Salary Surveys</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../surveys/#salary-survey-now-open">2023 Salary Survey now open</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../guide/">Documentation guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../book-club/">Book Club</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../hiring-guide/">Hiring guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/stay-connected/">Stay Connected</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/about-the-org/">About Our Organization</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/events-activities/">Events and Activities</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/learning-resources/">Learning Resources</a></li>
+</ul>
+
+    
+</div>
+
+<br>
+
+
+<h3>Join our mailing list</h3>
+
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;}
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+    <form action="https://writethedocs.us6.list-manage.com/subscribe/post?u=94377ea46d8b176a11a325d03&amp;id=dcf0ed349b&amp;f_id=00d2c2e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div id="mc_embed_signup_scroll">
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
+	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
+</div>
+<div class="mc-field-group input-group">
+    <strong>What types of updates would you like? </strong>
+    <ul><li>
+    <input type="checkbox" value="1" name="group[14633][1]" id="mce-group[14633]-14633-0" checked>
+    <label for="mce-group[14633]-14633-0">Monthly Community Newsletter</label>
+</li>
+<li>
+    <input type="checkbox" value="2" name="group[14633][2]" id="mce-group[14633]-14633-1">
+    <label for="mce-group[14633]-14633-1">North American Conference Announcements</label>
+</li>
+<li>
+    <input type="checkbox" value="4" name="group[14633][4]" id="mce-group[14633]-14633-2">
+    <label for="mce-group[14633]-14633-2">European Conference Announcements</label>
+</li>
+<li>
+    <input type="checkbox" value="8" name="group[14633][8]" id="mce-group[14633]-14633-3">
+    <label for="mce-group[14633]-14633-3">Australian Conference Announcements</label>
+</li>
+<li>
+    <input type="checkbox" value="16" name="group[14633][16]" id="mce-group[14633]-14633-4">
+    <label for="mce-group[14633]-14633-4">Atlantic Conference Announcements</label>
+</li>
+</ul>
+    <span id="mce-group[14633]-HELPERTEXT" class="helper_text"></span>
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_94377ea46d8b176a11a325d03_dcf0ed349b" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<!--End mc_embed_signup-->
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+  <style>
+
+/* Sponsors */
+.sponsors {
+    float: left;
+    margin-top: 12px;
+    text-align: center;
+}
+.sponsors .sponsor {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+}
+.sponsors .sponsor img {
+    width: 90px;
+    height: auto;
+}
+.sponsors .sponsor-name {
+    font-size: 12px;
+}
+.sponsors .sponsor-description {
+    font-size: 10px;
+    color: #BCC1C3;
+}
+.sponsors .sponsor-name, .sponsors .sponsor-description {
+    text-align: center;
+    line-height: 1.4;
+}
+
+/* Links in footer */
+.footer-links {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+#social-footer {
+  line-height: 1.5rem;
+}
+div.footer,div.footer a {
+  color: #757575;
+}
+</style>
+<div class="footer">
+      
+      <div class="container footer-links">
+        <div style="flex-basis: 20rem; text-align: left;">
+          <span>© Write the Docs</span>
+          <span>
+            &nbsp;<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0; vertical-align: middle;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+          </span>
+        </div>
+        <div id="social-footer">
+          <span><a href="/contact/"><i class="iconf-email"></i>Contact Us</a></span> |
+          <span><a href="/site-map"><i class="iconf-github-circled-alt2"></i>Site map</a></span> |
+          <span><a href="https://github.com/writethedocs"><i class="iconf-github-circled-alt2"></i>GitHub</a></span> |
+          <span><a href="https://twitter.com/writethedocs"><i class="iconf-twitter-circled"></i>Twitter</a></span> |
+          <span>
+                <a href="https://www.linkedin.com/company/write-the-docs">
+                  LinkedIn
+                </a>
+          </span> |
+          <span><a href="../../code-of-conduct/">Code&nbsp;of&nbsp;Conduct</a></span> |
+          <span><a href="https://jobs.writethedocs.org/">Job Board</a></span>
+        </div>
+      </div>
+
+    
+    <a href="https://github.com/writethedocs/www" class="github">
+        <img style="position: absolute; top: 0; right: 0; border: 0;" src="/_static/img/fork-ribbon.svg" alt="Fork me on GitHub"  class="github"/>
+    </a>
+    
+
+  <div class="sponsors" id="community-sponsors" style="width: 100%;">
+  <hr>
+    <a class="sponsor" href="https://readthedocs.org" rel="noopener" target="_blank">
+      <img src="https://read-the-docs-guidelines.readthedocs-hosted.com/_images/logo-wordmark-dark.png" alt="Read the Docs" class="sponsor-image">
+      <div class="sponsor-name">Read the Docs</div>
+      <div class="sponsor-description">Website Hosting</div>
+    </a>
+    
+
+    <a class="sponsor" href="../../sponsorship/" rel="noopener" target="_blank">
+      <div class="sponsor-name">Sponsorship Info</div>
+    </a>
+  </div>
+</div>
+  </body>
+</html>

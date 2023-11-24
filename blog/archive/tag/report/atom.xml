@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged report</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/report/atom.xml</id>
+  <updated>2023-08-03T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/report/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/report/atom.xml">
+    <title type="text">Write the Docs Community Board Quarterly Update Q3-2023</title>
+    <id>https://www.writethedocs.org/blog/2023-Q3-community-board/</id>
+    <updated>2023-08-03T00:00:00Z</updated>
+    <published>2023-08-03T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/2023-Q3-community-board/" />
+    <author>
+      <name>Mikey Ariel</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-community-board-quarterly-update-q3-2023&quot;&gt;
+
+&lt;p&gt;Greetings, documentarians! Mikey Ariel here, chairperson of the WTD community board. I’m happy to share with you the third quarterly update for 2023.&lt;/p&gt;
+&lt;p&gt;To catch up on the previous quarterly updates, check out &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/2023-Q1-community-board/&quot;&gt;Q1 blog post&lt;/a&gt; and &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/2023-Q2-community-board/&quot;&gt;Q2 blog post&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;q3-quarterly-meeting-highlights&quot;&gt;
+&lt;h2&gt;Q3 quarterly meeting highlights&lt;/h2&gt;
+&lt;p&gt;Our third meeting covered several topics:&lt;/p&gt;
+&lt;dl class=&quot;docutils&quot;&gt;
+&lt;dt&gt;&lt;strong&gt;Meetup organizer mailing list and survey&lt;/strong&gt;&lt;/dt&gt;&lt;dd&gt;&lt;p&gt;This year the Meetup team is focusing on updating organizer resources and streamlining communication. To support our efforts, the Meetup team lead Rose Williams created an organizer mailing list and distributed a meetup activity survey. The survey assessed meetup activity and collected ideas for evolving the local and regional meetup structure.&lt;/p&gt;
+&lt;p&gt;We appreciate all of the hard work that meetup organizers do to keep their communities engaged, and will continue to work with the meetup teams to adapt to the current the global landscape. If you want to start a new meetup or join an existing meetup, check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/meetups/&quot;&gt;Meetups page&lt;/a&gt; on our website.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;&lt;strong&gt;Slack channel naming and structure&lt;/strong&gt;&lt;/dt&gt;&lt;dd&gt;Last year, the Slack Moderation team started working on a proposal to restructure the Slack channels and establish naming conventions. Since then, the initiative was set aside due to changing availability, but the community board agreed that there are community benefits to restarting that effort, so we will be crafting a WEP (Write the Docs Enhancement Proposal) and posting it soon on our &lt;a class=&quot;reference external&quot; href=&quot;https://github.com/writethedocs/weps&quot;&gt;WEP repository&lt;/a&gt; for community review.&lt;/dd&gt;
+&lt;dt&gt;&lt;strong&gt;Team lead communication channels&lt;/strong&gt;&lt;/dt&gt;&lt;dd&gt;As a part of our continuous improvements to the organizational administration, we decided to create official WTD Google accounts for all team leads. This will enable them to interact with the community with WTD email addresses, and provide them with the ability to create google groups for their teams. These groups can be used for mailing lists (such as the meetup organizer mailing list) and Google Drive access for team and event resources.&lt;/dd&gt;
+&lt;dt&gt;&lt;strong&gt;2023 salary survey&lt;/strong&gt;&lt;/dt&gt;&lt;dd&gt;Now that the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/surveys/salary-survey/2022/&quot;&gt;2022 salary survey&lt;/a&gt; is published, we’re starting to work on the next survey with Kay Smoljak, our-long term survey expert! Expect the survey to be opened around the Atlantic conference timeframe.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;And as always, the board continues to review the community backlog to determine what are the most valuable efforts for the community in the short and long term.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;what-is-the-community-board&quot;&gt;
+&lt;h2&gt;What is the community board&lt;/h2&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/team/#community-board&quot;&gt;Community Board&lt;/a&gt; exists to curate the overall strategic direction of the community teams.&lt;/p&gt;
+&lt;p&gt;The board members are team leads for each WTD team, as well as the conference chairs of our various conferences:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Mikey Ariel (CoreOps, Brand and design, board chair)&lt;/li&gt;
+&lt;li&gt;Eric Holscher (CoreOps, Portland chair)&lt;/li&gt;
+&lt;li&gt;Samuel Wright (CoreOps, Infrastructure)&lt;/li&gt;
+&lt;li&gt;Sasha Romijn (CoreOps, Support, Atlantic chair)&lt;/li&gt;
+&lt;li&gt;Rose Williams (Meetups)&lt;/li&gt;
+&lt;li&gt;Janine Chan (Slack moderation)&lt;/li&gt;
+&lt;li&gt;Aaron Collier (Newsletter)&lt;/li&gt;
+&lt;li&gt;Swapnil Ogale (Australia chair)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The community board meets quarterly in real-time, and provides monthly asynchronous status updates. Board members can share the status of what they’re working on and request any help to keep the various teams functioning effectively.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thank-you&quot;&gt;
+&lt;h2&gt;Thank you&lt;/h2&gt;
+&lt;p&gt;Thanks again to the team leads that participate in the community board, and to all the team members (mostly volunteers!) who work diligently to support the community and each other. If you want to join any of the WTD community teams, check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/team/&quot;&gt;Team page&lt;/a&gt; for team descriptions and contacts.&lt;/p&gt;
+&lt;p&gt;See you in the next quarterly update!&lt;/p&gt;
+&lt;p&gt;Mikey and the community board&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/report/atom.xml">
+    <title type="text">Write the Docs Community Board Quarterly Update Q2-2023</title>
+    <id>https://www.writethedocs.org/blog/2023-Q2-community-board/</id>
+    <updated>2023-05-16T00:00:00Z</updated>
+    <published>2023-05-16T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/2023-Q2-community-board/" />
+    <author>
+      <name>Mikey Ariel</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-community-board-quarterly-update-q2-2023&quot;&gt;
+
+&lt;p&gt;Greetings, documentarians! Mikey Ariel here, chairperson of the WTD community board.&lt;/p&gt;
+&lt;p&gt;Last quarter we published our first &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/2023-Q1-community-board/&quot;&gt;quarterly update blog post&lt;/a&gt;, where we introduced the team and gave an overview of how the board aims to support the WTD community.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;q2-quarterly-meeting-highlights&quot;&gt;
+&lt;h2&gt;Q2 quarterly meeting highlights&lt;/h2&gt;
+&lt;p&gt;Our second meeting focused on further refining our meta-work, such as where the community board tracks work and how we communicate with each other and with the community.&lt;/p&gt;
+&lt;p&gt;Historically, WTD used a Kanban board to track ideas for community initiatives and cross-functional tasks, such as infrastructure maintenance and meetup support.
+Between our Q1 meeting and the Q2 meeting, we have spent some time reviewing and organizing this Kanban board, with the intention of landing on a “clean backlog” that will help us prioritize work and help the team leads to track their tasks, share resources, and ask for help.&lt;/p&gt;
+&lt;p&gt;During the meeting we looked at the main areas of the community that had active tasks in the backlog, and agreed to take the information back to our respective teams and consider them for further triage in the upcoming months.&lt;/p&gt;
+&lt;p&gt;Another topic of discussion was the the #bipoc Slack channel and BIPOC stories in the newsletter.
+Recently, it has become apparent that the community engagement was lower in those spaces, so in order to prevent burnout of the coordinator the newsletter and Slack team leads suggested to take a breather from actively sourcing content.&lt;/p&gt;
+&lt;p&gt;Our community has always voted with its time and energy, and we believe that when the need arises again for content and discussions in those spaces, the community will make sure that we are aware of it and we will be happy to support it.
+The announcement and thank-you to the coordinator, Heather Zoppetti, was published in the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/newsletter-may-2023/&quot;&gt;May 2023 newsletter&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As we look forward to our Q3 meeting, we will continue to refine the backlog to determine what are the most valuable efforts for the community in the short and long term.
+We also hope to look at how the first in-person Portland conference since the before-times went, and what can we learn as we evolve our events in the upcoming months and years.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;what-is-the-community-board&quot;&gt;
+&lt;h2&gt;What is the community board&lt;/h2&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/team/#community-board&quot;&gt;Community Board&lt;/a&gt; exists to curate the overall strategic direction of the community teams.&lt;/p&gt;
+&lt;p&gt;The board members are team leads for each WTD team, as well as the conference chairs of our various conferences:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Mikey Ariel (CoreOps, Brand and design, board chair)&lt;/li&gt;
+&lt;li&gt;Eric Holscher (CoreOps, Portland chair)&lt;/li&gt;
+&lt;li&gt;Samuel Wright (CoreOps, Infrastructure)&lt;/li&gt;
+&lt;li&gt;Sasha Romijn (CoreOps, Support, Atlantic Chair)&lt;/li&gt;
+&lt;li&gt;Rose Williams (Meetups)&lt;/li&gt;
+&lt;li&gt;Janine Chan (Slack moderation)&lt;/li&gt;
+&lt;li&gt;Aaron Collier (Newsletter)&lt;/li&gt;
+&lt;li&gt;Swapnil Ogale (Australia chair)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The community board meets quarterly in real-time, and provides monthly asynchronous status updates. Board members can share the status of what they’re working on and request any help to keep the various teams functioning effectively.&lt;/p&gt;
+&lt;p&gt;This board was established as a part of a full team restructuring effort. You can see the full set of changes in &lt;a class=&quot;reference external&quot; href=&quot;https://github.com/writethedocs/weps/blob/main/accepted/WEP0004-community-board.rst&quot;&gt;WEP 4&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thank-you&quot;&gt;
+&lt;h2&gt;Thank you&lt;/h2&gt;
+&lt;p&gt;Thanks again to the team leads participating in the community board, and to all the team members (mostly volunteers!) who work diligently to support the community and each other.&lt;/p&gt;
+&lt;p&gt;See you in the next quarterly update!&lt;/p&gt;
+&lt;p&gt;Mikey and the community board&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/report/atom.xml">
+    <title type="text">Write the Docs Community Board Quarterly Update Q1-2023</title>
+    <id>https://www.writethedocs.org/blog/2023-Q1-community-board/</id>
+    <updated>2023-03-07T00:00:00Z</updated>
+    <published>2023-03-07T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/2023-Q1-community-board/" />
+    <author>
+      <name>Mikey Ariel</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-community-board-quarterly-update-q1-2023&quot;&gt;
+
+&lt;p&gt;Greetings, documentarians! Mikey Ariel here, chairperson of the newly formed community board and former head organizer of the Prague conference.&lt;/p&gt;
+&lt;p&gt;As you might have heard, at the end of 2022 I stepped down from my role as conference chair and transitioned to the new role of community board chair. The board meets quarterly during the first month of the quarter, and is comprised of each team lead in the WTD organization.&lt;/p&gt;
+&lt;p&gt;Our main goal with this group is to discuss and drive more long-term strategic initiatives and collaboration for the community.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;quarterly-meeting-update-q1&quot;&gt;
+&lt;h2&gt;Quarterly meeting update - Q1&lt;/h2&gt;
+&lt;p&gt;As a part of my duties, I am tasked with communicating a summary of each quarterly meeting. This will be the place where we share some of the highlights of what we’re working on, and any topics of interest or ideas for the community that were discussed during the meeting.&lt;/p&gt;
+&lt;p&gt;This first blog post is more oriented towards introducing the board, since we spent most of our first meeting aligning expectations, deciding on our meeting format and other communication channels, and other meta-topics for the group itself.&lt;/p&gt;
+&lt;p&gt;In the meantime, I can share with you that we have some great ideas from the Meetups team on how to improve our social media strategy, and we’d love to get some more from the community. Stay tuned for more details in one of the upcoming newsletters.&lt;/p&gt;
+&lt;p&gt;We will also start reviewing the global community initiative backlog and triage as many of the requests that have been accumulating as we can. I am excited to be able to curate all the lovely ideas and suggestions that we’ve received from our teams and from community members, so that we can focus our efforts on what matters most to the community (that’s all of you!).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;what-is-the-community-board&quot;&gt;
+&lt;h2&gt;What is the community board&lt;/h2&gt;
+&lt;p&gt;In case you want a refresher on how the board was formed and who is a member, here is the TL;DR:&lt;/p&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/team/#community-board&quot;&gt;Community Board&lt;/a&gt; exists to curate the overall strategic direction of the community.&lt;/p&gt;
+&lt;p&gt;The members are the team leads of each of the Write the Docs team, as well as the conference chairs of our various conferences:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Mikey Ariel (CoreOps, Brand and design, board chair)&lt;/li&gt;
+&lt;li&gt;Eric Holscher (CoreOps, Portland chair)&lt;/li&gt;
+&lt;li&gt;Samuel Wright (CoreOps, Infrastructure)&lt;/li&gt;
+&lt;li&gt;Sasha Romijn (CoreOps, Support, Atlantic Chair)&lt;/li&gt;
+&lt;li&gt;Rose Williams (Meetups)&lt;/li&gt;
+&lt;li&gt;Janine Chan (Slack moderation)&lt;/li&gt;
+&lt;li&gt;Aaron Collier (Newsletter)&lt;/li&gt;
+&lt;li&gt;Swapnil Ogale (Australia chair)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The board will meet quarterly in real-time, and provide status updates asynchronously monthly. Board members can share the status of what they’re working on and request any help to keep the various teams functioning effectively.&lt;/p&gt;
+&lt;p&gt;This board was established as a part of a full team restructuring effort. You can see the full set of changes in &lt;a class=&quot;reference external&quot; href=&quot;https://github.com/writethedocs/weps/blob/main/accepted/WEP0004-community-board.rst&quot;&gt;WEP 4&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thank-you&quot;&gt;
+&lt;h2&gt;Thank you&lt;/h2&gt;
+&lt;p&gt;Thanks again to the team leads for joining our community board, and to all the team members (mostly volunteers!) who work diligently to support the community and each other.&lt;/p&gt;
+&lt;p&gt;See you in the next quarterly update!&lt;/p&gt;
+&lt;p&gt;Mikey and the community board&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts by Mikey Ariel</title>
+  <id>https://www.writethedocs.org/blog/archive/author/mikey-ariel/atom.xml</id>
+  <updated>2023-08-03T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/author/mikey-ariel/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/author/mikey-ariel/atom.xml">
+    <title type="text">Write the Docs Community Board Quarterly Update Q3-2023</title>
+    <id>https://www.writethedocs.org/blog/2023-Q3-community-board/</id>
+    <updated>2023-08-03T00:00:00Z</updated>
+    <published>2023-08-03T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/2023-Q3-community-board/" />
+    <author>
+      <name>Mikey Ariel</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-community-board-quarterly-update-q3-2023&quot;&gt;
+
+&lt;p&gt;Greetings, documentarians! Mikey Ariel here, chairperson of the WTD community board. I’m happy to share with you the third quarterly update for 2023.&lt;/p&gt;
+&lt;p&gt;To catch up on the previous quarterly updates, check out &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/2023-Q1-community-board/&quot;&gt;Q1 blog post&lt;/a&gt; and &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/2023-Q2-community-board/&quot;&gt;Q2 blog post&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;q3-quarterly-meeting-highlights&quot;&gt;
+&lt;h2&gt;Q3 quarterly meeting highlights&lt;/h2&gt;
+&lt;p&gt;Our third meeting covered several topics:&lt;/p&gt;
+&lt;dl class=&quot;docutils&quot;&gt;
+&lt;dt&gt;&lt;strong&gt;Meetup organizer mailing list and survey&lt;/strong&gt;&lt;/dt&gt;&lt;dd&gt;&lt;p&gt;This year the Meetup team is focusing on updating organizer resources and streamlining communication. To support our efforts, the Meetup team lead Rose Williams created an organizer mailing list and distributed a meetup activity survey. The survey assessed meetup activity and collected ideas for evolving the local and regional meetup structure.&lt;/p&gt;
+&lt;p&gt;We appreciate all of the hard work that meetup organizers do to keep their communities engaged, and will continue to work with the meetup teams to adapt to the current the global landscape. If you want to start a new meetup or join an existing meetup, check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/meetups/&quot;&gt;Meetups page&lt;/a&gt; on our website.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;&lt;strong&gt;Slack channel naming and structure&lt;/strong&gt;&lt;/dt&gt;&lt;dd&gt;Last year, the Slack Moderation team started working on a proposal to restructure the Slack channels and establish naming conventions. Since then, the initiative was set aside due to changing availability, but the community board agreed that there are community benefits to restarting that effort, so we will be crafting a WEP (Write the Docs Enhancement Proposal) and posting it soon on our &lt;a class=&quot;reference external&quot; href=&quot;https://github.com/writethedocs/weps&quot;&gt;WEP repository&lt;/a&gt; for community review.&lt;/dd&gt;
+&lt;dt&gt;&lt;strong&gt;Team lead communication channels&lt;/strong&gt;&lt;/dt&gt;&lt;dd&gt;As a part of our continuous improvements to the organizational administration, we decided to create official WTD Google accounts for all team leads. This will enable them to interact with the community with WTD email addresses, and provide them with the ability to create google groups for their teams. These groups can be used for mailing lists (such as the meetup organizer mailing list) and Google Drive access for team and event resources.&lt;/dd&gt;
+&lt;dt&gt;&lt;strong&gt;2023 salary survey&lt;/strong&gt;&lt;/dt&gt;&lt;dd&gt;Now that the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/surveys/salary-survey/2022/&quot;&gt;2022 salary survey&lt;/a&gt; is published, we’re starting to work on the next survey with Kay Smoljak, our-long term survey expert! Expect the survey to be opened around the Atlantic conference timeframe.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;And as always, the board continues to review the community backlog to determine what are the most valuable efforts for the community in the short and long term.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;what-is-the-community-board&quot;&gt;
+&lt;h2&gt;What is the community board&lt;/h2&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/team/#community-board&quot;&gt;Community Board&lt;/a&gt; exists to curate the overall strategic direction of the community teams.&lt;/p&gt;
+&lt;p&gt;The board members are team leads for each WTD team, as well as the conference chairs of our various conferences:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Mikey Ariel (CoreOps, Brand and design, board chair)&lt;/li&gt;
+&lt;li&gt;Eric Holscher (CoreOps, Portland chair)&lt;/li&gt;
+&lt;li&gt;Samuel Wright (CoreOps, Infrastructure)&lt;/li&gt;
+&lt;li&gt;Sasha Romijn (CoreOps, Support, Atlantic chair)&lt;/li&gt;
+&lt;li&gt;Rose Williams (Meetups)&lt;/li&gt;
+&lt;li&gt;Janine Chan (Slack moderation)&lt;/li&gt;
+&lt;li&gt;Aaron Collier (Newsletter)&lt;/li&gt;
+&lt;li&gt;Swapnil Ogale (Australia chair)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The community board meets quarterly in real-time, and provides monthly asynchronous status updates. Board members can share the status of what they’re working on and request any help to keep the various teams functioning effectively.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thank-you&quot;&gt;
+&lt;h2&gt;Thank you&lt;/h2&gt;
+&lt;p&gt;Thanks again to the team leads that participate in the community board, and to all the team members (mostly volunteers!) who work diligently to support the community and each other. If you want to join any of the WTD community teams, check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/team/&quot;&gt;Team page&lt;/a&gt; for team descriptions and contacts.&lt;/p&gt;
+&lt;p&gt;See you in the next quarterly update!&lt;/p&gt;
+&lt;p&gt;Mikey and the community board&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/author/mikey-ariel/atom.xml">
+    <title type="text">Write the Docs Community Board Quarterly Update Q2-2023</title>
+    <id>https://www.writethedocs.org/blog/2023-Q2-community-board/</id>
+    <updated>2023-05-16T00:00:00Z</updated>
+    <published>2023-05-16T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/2023-Q2-community-board/" />
+    <author>
+      <name>Mikey Ariel</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-community-board-quarterly-update-q2-2023&quot;&gt;
+
+&lt;p&gt;Greetings, documentarians! Mikey Ariel here, chairperson of the WTD community board.&lt;/p&gt;
+&lt;p&gt;Last quarter we published our first &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/2023-Q1-community-board/&quot;&gt;quarterly update blog post&lt;/a&gt;, where we introduced the team and gave an overview of how the board aims to support the WTD community.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;q2-quarterly-meeting-highlights&quot;&gt;
+&lt;h2&gt;Q2 quarterly meeting highlights&lt;/h2&gt;
+&lt;p&gt;Our second meeting focused on further refining our meta-work, such as where the community board tracks work and how we communicate with each other and with the community.&lt;/p&gt;
+&lt;p&gt;Historically, WTD used a Kanban board to track ideas for community initiatives and cross-functional tasks, such as infrastructure maintenance and meetup support.
+Between our Q1 meeting and the Q2 meeting, we have spent some time reviewing and organizing this Kanban board, with the intention of landing on a “clean backlog” that will help us prioritize work and help the team leads to track their tasks, share resources, and ask for help.&lt;/p&gt;
+&lt;p&gt;During the meeting we looked at the main areas of the community that had active tasks in the backlog, and agreed to take the information back to our respective teams and consider them for further triage in the upcoming months.&lt;/p&gt;
+&lt;p&gt;Another topic of discussion was the the #bipoc Slack channel and BIPOC stories in the newsletter.
+Recently, it has become apparent that the community engagement was lower in those spaces, so in order to prevent burnout of the coordinator the newsletter and Slack team leads suggested to take a breather from actively sourcing content.&lt;/p&gt;
+&lt;p&gt;Our community has always voted with its time and energy, and we believe that when the need arises again for content and discussions in those spaces, the community will make sure that we are aware of it and we will be happy to support it.
+The announcement and thank-you to the coordinator, Heather Zoppetti, was published in the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/newsletter-may-2023/&quot;&gt;May 2023 newsletter&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As we look forward to our Q3 meeting, we will continue to refine the backlog to determine what are the most valuable efforts for the community in the short and long term.
+We also hope to look at how the first in-person Portland conference since the before-times went, and what can we learn as we evolve our events in the upcoming months and years.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;what-is-the-community-board&quot;&gt;
+&lt;h2&gt;What is the community board&lt;/h2&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/team/#community-board&quot;&gt;Community Board&lt;/a&gt; exists to curate the overall strategic direction of the community teams.&lt;/p&gt;
+&lt;p&gt;The board members are team leads for each WTD team, as well as the conference chairs of our various conferences:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Mikey Ariel (CoreOps, Brand and design, board chair)&lt;/li&gt;
+&lt;li&gt;Eric Holscher (CoreOps, Portland chair)&lt;/li&gt;
+&lt;li&gt;Samuel Wright (CoreOps, Infrastructure)&lt;/li&gt;
+&lt;li&gt;Sasha Romijn (CoreOps, Support, Atlantic Chair)&lt;/li&gt;
+&lt;li&gt;Rose Williams (Meetups)&lt;/li&gt;
+&lt;li&gt;Janine Chan (Slack moderation)&lt;/li&gt;
+&lt;li&gt;Aaron Collier (Newsletter)&lt;/li&gt;
+&lt;li&gt;Swapnil Ogale (Australia chair)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The community board meets quarterly in real-time, and provides monthly asynchronous status updates. Board members can share the status of what they’re working on and request any help to keep the various teams functioning effectively.&lt;/p&gt;
+&lt;p&gt;This board was established as a part of a full team restructuring effort. You can see the full set of changes in &lt;a class=&quot;reference external&quot; href=&quot;https://github.com/writethedocs/weps/blob/main/accepted/WEP0004-community-board.rst&quot;&gt;WEP 4&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thank-you&quot;&gt;
+&lt;h2&gt;Thank you&lt;/h2&gt;
+&lt;p&gt;Thanks again to the team leads participating in the community board, and to all the team members (mostly volunteers!) who work diligently to support the community and each other.&lt;/p&gt;
+&lt;p&gt;See you in the next quarterly update!&lt;/p&gt;
+&lt;p&gt;Mikey and the community board&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/author/mikey-ariel/atom.xml">
+    <title type="text">Write the Docs Community Board Quarterly Update Q1-2023</title>
+    <id>https://www.writethedocs.org/blog/2023-Q1-community-board/</id>
+    <updated>2023-03-07T00:00:00Z</updated>
+    <published>2023-03-07T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/2023-Q1-community-board/" />
+    <author>
+      <name>Mikey Ariel</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-community-board-quarterly-update-q1-2023&quot;&gt;
+
+&lt;p&gt;Greetings, documentarians! Mikey Ariel here, chairperson of the newly formed community board and former head organizer of the Prague conference.&lt;/p&gt;
+&lt;p&gt;As you might have heard, at the end of 2022 I stepped down from my role as conference chair and transitioned to the new role of community board chair. The board meets quarterly during the first month of the quarter, and is comprised of each team lead in the WTD organization.&lt;/p&gt;
+&lt;p&gt;Our main goal with this group is to discuss and drive more long-term strategic initiatives and collaboration for the community.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;quarterly-meeting-update-q1&quot;&gt;
+&lt;h2&gt;Quarterly meeting update - Q1&lt;/h2&gt;
+&lt;p&gt;As a part of my duties, I am tasked with communicating a summary of each quarterly meeting. This will be the place where we share some of the highlights of what we’re working on, and any topics of interest or ideas for the community that were discussed during the meeting.&lt;/p&gt;
+&lt;p&gt;This first blog post is more oriented towards introducing the board, since we spent most of our first meeting aligning expectations, deciding on our meeting format and other communication channels, and other meta-topics for the group itself.&lt;/p&gt;
+&lt;p&gt;In the meantime, I can share with you that we have some great ideas from the Meetups team on how to improve our social media strategy, and we’d love to get some more from the community. Stay tuned for more details in one of the upcoming newsletters.&lt;/p&gt;
+&lt;p&gt;We will also start reviewing the global community initiative backlog and triage as many of the requests that have been accumulating as we can. I am excited to be able to curate all the lovely ideas and suggestions that we’ve received from our teams and from community members, so that we can focus our efforts on what matters most to the community (that’s all of you!).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;what-is-the-community-board&quot;&gt;
+&lt;h2&gt;What is the community board&lt;/h2&gt;
+&lt;p&gt;In case you want a refresher on how the board was formed and who is a member, here is the TL;DR:&lt;/p&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/team/#community-board&quot;&gt;Community Board&lt;/a&gt; exists to curate the overall strategic direction of the community.&lt;/p&gt;
+&lt;p&gt;The members are the team leads of each of the Write the Docs team, as well as the conference chairs of our various conferences:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Mikey Ariel (CoreOps, Brand and design, board chair)&lt;/li&gt;
+&lt;li&gt;Eric Holscher (CoreOps, Portland chair)&lt;/li&gt;
+&lt;li&gt;Samuel Wright (CoreOps, Infrastructure)&lt;/li&gt;
+&lt;li&gt;Sasha Romijn (CoreOps, Support, Atlantic Chair)&lt;/li&gt;
+&lt;li&gt;Rose Williams (Meetups)&lt;/li&gt;
+&lt;li&gt;Janine Chan (Slack moderation)&lt;/li&gt;
+&lt;li&gt;Aaron Collier (Newsletter)&lt;/li&gt;
+&lt;li&gt;Swapnil Ogale (Australia chair)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The board will meet quarterly in real-time, and provide status updates asynchronously monthly. Board members can share the status of what they’re working on and request any help to keep the various teams functioning effectively.&lt;/p&gt;
+&lt;p&gt;This board was established as a part of a full team restructuring effort. You can see the full set of changes in &lt;a class=&quot;reference external&quot; href=&quot;https://github.com/writethedocs/weps/blob/main/accepted/WEP0004-community-board.rst&quot;&gt;WEP 4&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thank-you&quot;&gt;
+&lt;h2&gt;Thank you&lt;/h2&gt;
+&lt;p&gt;Thanks again to the team leads for joining our community board, and to all the team members (mostly volunteers!) who work diligently to support the community and each other.&lt;/p&gt;
+&lt;p&gt;See you in the next quarterly update!&lt;/p&gt;
+&lt;p&gt;Mikey and the community board&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/author/mikey-ariel/atom.xml">
+    <title type="text">Write the Docs 2021 Salary Survey</title>
+    <id>https://www.writethedocs.org/blog/2021-salary-survey/</id>
+    <updated>2021-10-19T00:00:00Z</updated>
+    <published>2021-10-19T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/2021-salary-survey/" />
+    <author>
+      <name>Mikey Ariel</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-2021-salary-survey&quot;&gt;
+
+&lt;p&gt;Hey there documentarians!&lt;/p&gt;
+&lt;p&gt;This is a special update to announce that the &lt;a class=&quot;reference external&quot; href=&quot;https://salary-survey.writethedocs.org/&quot;&gt;2021 Salary Survey&lt;/a&gt; is now live and ready for your input!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;survey-says&quot;&gt;
+&lt;h2&gt;Survey says…&lt;/h2&gt;
+&lt;p&gt;As we’ve seen with the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/surveys/&quot;&gt;previous two surveys&lt;/a&gt;, being a documentarian can encompass many roles, teams, and industries.
+Our community is global and diverse, and the surveys reflected that.
+Every person who submits the survey helps the entire community, so we hope you’ll take a few minutes and fill it out.&lt;/p&gt;
+&lt;p&gt;We hope that the survey data can help our community members determine what appropriate salary ranges are, and provide a benchmark for future employment-related decisions and negotiations.&lt;/p&gt;
+&lt;p&gt;Additionally, we’re hoping the results spark discussion of employment-related trends and issues in our industry, including but not limited to the effects of the COVID-19 pandemic.&lt;/p&gt;
+&lt;p&gt;The survey is divided into a few different sections, and takes between 5 and 10 minutes to complete, so go ahead and &lt;a class=&quot;reference external&quot; href=&quot;https://salary-survey.writethedocs.org/&quot;&gt;fill it out&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The survey will be open until &lt;strong&gt;20th December, 2021&lt;/strong&gt;.
+Results will be published in early 2022.
+Shout out to &lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/goatlady&quot;&gt;Kay Smoljak&lt;/a&gt; for running this survey since it debuted in 2019!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks&quot;&gt;
+&lt;h2&gt;Thanks&lt;/h2&gt;
+&lt;p&gt;Thanks again for for being a member of our community.
+We hope to see you soon at one of our online events, on our Slack, or continue to see you here via this newsletter.&lt;/p&gt;
+&lt;p&gt;You can always email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:support&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;support&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt; if you have any questions or comments.
+Stay tuned for another newsletter update next month!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/author/mikey-ariel/atom.xml">
+    <title type="text">Write the Docs 2018 Kick-Off</title>
+    <id>https://www.writethedocs.org/blog/write-the-docs-2018-kickoff/</id>
+    <updated>2018-01-20T00:00:00Z</updated>
+    <published>2018-01-20T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/write-the-docs-2018-kickoff/" />
+    <author>
+      <name>Mikey Ariel</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-2018-kick-off&quot;&gt;
+
+&lt;p&gt;Greetings, global documentarians!&lt;/p&gt;
+&lt;p&gt;Mikey here, writing from the deep, dark cold European winter, but looking forward to spring and summer, full of sunshine and docs!
+Following Eric’s winter-warming &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/write-the-docs-2017-stats/&quot;&gt;2017 Stats&lt;/a&gt; post, I’d like to highlight some of the activities, changes, and experiments that you can expect in 2018.&lt;/p&gt;
+&lt;p&gt;These efforts are part of our work to support and grow the community, and to keep things fresh and exciting for documentarians.
+We hope you’ll enjoy the new things we’re trying.&lt;/p&gt;
+&lt;p&gt;If you’d like to contribute to any of these initiatives or propose new experiments, please write to us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:support&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;support&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt; and let us know!&lt;/p&gt;
+&lt;p&gt;So, new year - new…&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;core-team&quot;&gt;
+&lt;h2&gt;Core team&lt;/h2&gt;
+&lt;p&gt;Since the original Write the Docs conference was held in 2012, the folks behind the scenes have contributed their time, efforts, and talent on a volunteer basis, with tremendous results. Over the years, the community grew to a point where we needed to develop a system that will support the community in the long run, without burning out the people who are filling key global roles.&lt;/p&gt;
+&lt;p&gt;Last year we decided to try setting up a formalized a small, part-time paid staff with the goal of consolidating various roles and responsibilities that could be handled globally, such as web administration, swag coordination, staff wrangling, and meetup overseeing.&lt;/p&gt;
+&lt;p&gt;So far the experiment has been successful! Here are the core team members and their respective responsibilities:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Eric Holscher: Co-founder, North America conferences, sponsorship, finance&lt;/li&gt;
+&lt;li&gt;Mikey Ariel: Europe conferences, brand and design, swag, communication&lt;/li&gt;
+&lt;li&gt;Samuel Wright: Support, website/GitHub, meetups, CFP and speakers (Europe)&lt;/li&gt;
+&lt;li&gt;Kelly O’Brien: Newsletter, job board, CFP and speakers (North America)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These focus areas are on an including-but-not-limited-to basis, since there are lots of smaller, ad-hoc tasks that the core team runs into throughout the year. You can find a high-level overview of the teams and roles in &lt;a class=&quot;reference internal&quot; href=&quot;../../../../team/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;Team&lt;/span&gt;&lt;/a&gt;, and if you want to learn more about the organization behind the community, you can read &lt;a class=&quot;reference internal&quot; href=&quot;../../../../about-us/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;About Us&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;job-opportunities&quot;&gt;
+&lt;h2&gt;Job opportunities&lt;/h2&gt;
+&lt;p&gt;In recent years we noticed that an increasing number of documentarians in our communities are looking for work, and that many employers are seeking documentation-friendly folks to add to their organizations.
+Aside from the traditional sponsorship options for the conferences, we have started two very exciting experiments:&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;job-board&quot;&gt;
+&lt;h3&gt;Job board&lt;/h3&gt;
+&lt;p&gt;As we mentioned in previous newsletters and Slack posts, we are launching a new job board, led by Kelly O’Brien, which aims to make it easy for documentarians to find their dream gigs, and for employers to find their dream documentarians.&lt;/p&gt;
+&lt;p&gt;We’re currently in the beta-testing phase, so if you’re interested in helping us test the board – either as an employer or an applicant – we’d love to hear from you at &lt;a class=&quot;reference external&quot; href=&quot;mailto:jobs&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;jobs&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;job-fair-at-the-conference&quot;&gt;
+&lt;h3&gt;Job fair at the conference&lt;/h3&gt;
+&lt;p&gt;The 2018 edition of our sponsorship offering for both the Portland and Prague conference now includes an additional &lt;strong&gt;Job Fair&lt;/strong&gt; package that focuses on connecting potential employers with job seekers.
+During the morning of the second conference day (Tuesday), the unconference room will be transformed into a job fair where tables are assigned to organizations who are looking to hire documentarians.&lt;/p&gt;
+&lt;p&gt;Conference attendees will be able to head over to the job fair to find out more information about job opportunities in a comfortable and friendly setting, and companies will be able to optimize their hiring efforts into these time slots.
+Space in the job fair is limited by the room capacity, so if you want your company to participate, write to us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:sponsorship&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;sponsorship&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt; to reserve your slot.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;swag&quot;&gt;
+&lt;h2&gt;Swag&lt;/h2&gt;
+&lt;p&gt;Some of you might have noticed that this year’s conference tickets do not include shirts.
+We realized that after 5 years of printing shirts for multiple conferences, the swag offering could use a bit of a refresh.
+In addition, the overhead of printing hundreds of shirts and managing inventory simply proved ineffective over time.&lt;/p&gt;
+&lt;p&gt;So this year we are changing swag tactics, and instead of including shirts with the ticket purchase, we happily present &lt;strong&gt;tote bags&lt;/strong&gt;! No sizing required, smoother production workflow, and just as collectible :)&lt;/p&gt;
+&lt;p&gt;But have no fear, you can still get a shirt for your favorite conference! Over the next few weeks we will be setting up a print-on-demand campaign where you can order a shirt with this year’s conference design, and anyone who orders by a certain date should receive their shirt in time for the conference.&lt;/p&gt;
+&lt;p&gt;We will continue to print speaker and staff hoodies, since we can estimate sizing and quantities much more accurately than we can with shirts. If you want to help organize one of our conferences, write to us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:support&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;support&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt; and join the fun!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;community-run-events&quot;&gt;
+&lt;h2&gt;Community-run events&lt;/h2&gt;
+&lt;p&gt;In addition to the official conferences that are organized by our team and carry the formal Write the Docs brand, we have seen a growing number of events that are organized by our community members.
+We are thrilled that our community is excited to share knowledge and network with like-minded folks, and happy to support and cross-promote these events in our community.&lt;/p&gt;
+&lt;p&gt;We’re still trying to find the best way to clarify the difference between a core Write the Docs event and a community-run event. This is a work in progress because we want to empower our community to run events, but at the same time we want to avoid confusing folks about which event is run by whom.&lt;/p&gt;
+&lt;p&gt;To that affect, we now have the &lt;a class=&quot;reference internal&quot; href=&quot;../../../../organizer-guide/confs/community-events/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;Community-Run Events&lt;/span&gt;&lt;/a&gt; section on our website, which lists basic guidelines on running these events and provides some answers to questions you might have if you want to start your own event.
+This is a living document and we welcome suggestions and contributions!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;happy-new-year&quot;&gt;
+&lt;h2&gt;Happy New Year&lt;/h2&gt;
+&lt;p&gt;We’re proud and thrilled to have such a lively growing community all over the world, and we hope that you’ll continue to enjoy participating and contributing to the current and new activities.&lt;/p&gt;
+&lt;p&gt;Here’s to an amazing 2018!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

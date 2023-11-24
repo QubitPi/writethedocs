@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged statement</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/statement/atom.xml</id>
+  <updated>2021-04-26T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/statement/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/statement/atom.xml">
+    <title type="text">Announcing our 2021 donation matching campaign</title>
+    <id>https://www.writethedocs.org/blog/2021-matching-campaign/</id>
+    <updated>2021-04-26T00:00:00Z</updated>
+    <published>2021-04-26T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/2021-matching-campaign/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-our-2021-donation-matching-campaign&quot;&gt;
+
+&lt;p&gt;We’re proud to announce the second round of our $1,500 matching campaign to support social justice in our communities. &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/we-stand-with-the-black-community/&quot;&gt;Last year&lt;/a&gt; we directed donations to the Black community, and this year we’re expanding that aim to focus on the wider BIPOC community. We want it to be clear that we support and care about the members of our community, and to show this through our words and our actions as an organization.&lt;/p&gt;
+&lt;p&gt;We want to continue to make a difference globally in our work, and also encourage Write the Docs members to engage with local organizations in their region. Based on our Portland conference, we’re suggesting three Oregon charities we believe are doing important work. That said, you can also donate to a charity local to you doing similar outreach.&lt;/p&gt;
+&lt;p&gt;The three Oregon charities we’re highlighting are:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.blackresiliencefund.com/&quot;&gt;Portland Black Resilience Fund&lt;/a&gt; - An emergency fund that provides immediate resources to the Black community in Portland&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://mrgfoundation.org/the-chuush-fund-water-for-warm-springs/&quot;&gt;Water for Warm Springs&lt;/a&gt; - A campaign to ensure clear drinking water, a basic human right, for the Confederated Tribes of Warm Springs&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.apano.org/&quot;&gt;Asian Pacific American Network of Oregon&lt;/a&gt; - A group that unites Asian and Pacific Islanders to achieve social justice&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We will match donations to these organizations and others that are supporting similar efforts, up to a total of $1,500. Please forward receipts to us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:support&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;support&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt; with the title “Matching Donation” or similar. In the next couple months, we will post another blog post with the results of these donations, similar to &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/donations-black-community/&quot;&gt;last year&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We’d also like to thank all those in our community who are doing the work to make BIPOC members feel welcome and included. This includes hosting a BIPOC unconference at our Portland conference, a &lt;cite&gt;#bipoc&lt;/cite&gt; channel on our Slack network, and the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/newsletter-april-2021/#what-we-re-reading-listening-to-watching&quot;&gt;links shared&lt;/a&gt; recently in our newsletter.&lt;/p&gt;
+&lt;p&gt;We hope that these actions move us all towards a more just world, and we appreciate everyone in the community who works with us towards these goals.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/statement/atom.xml">
+    <title type="text">Matching donations made in support of the Black community</title>
+    <id>https://www.writethedocs.org/blog/donations-black-community/</id>
+    <updated>2020-06-19T00:00:00Z</updated>
+    <published>2020-06-19T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/donations-black-community/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;matching-donations-made-in-support-of-the-black-community&quot;&gt;
+
+&lt;p&gt;In recognition of &lt;a class=&quot;reference external&quot; href=&quot;https://en.wikipedia.org/wiki/Juneteenth&quot;&gt;Juneteenth&lt;/a&gt; here in the United States,
+we’d like to follow up on our &lt;a class=&quot;reference internal&quot; href=&quot;../../../we-stand-with-the-black-community/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;donation matching program&lt;/span&gt;&lt;/a&gt;
+for non-profit organizations supporting the Black community and their ongoing efforts.&lt;/p&gt;
+&lt;p&gt;This week, we reached the goal of $1,500 in donations made by our community,
+and Write the Docs made matching donations to nine different organizations.&lt;/p&gt;
+&lt;p&gt;We matched donations to the following organizations:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;NAACP Legal Defense Fund: $435&lt;/li&gt;
+&lt;li&gt;UndocuBlack Network: $300&lt;/li&gt;
+&lt;li&gt;Black Lives Matter Global Network: $290&lt;/li&gt;
+&lt;li&gt;Color of Change: $190&lt;/li&gt;
+&lt;li&gt;Black Alliance for Just Immigration (BAJI): $100&lt;/li&gt;
+&lt;li&gt;WeTheProtesters, Inc: $70&lt;/li&gt;
+&lt;li&gt;National Urban League: $50&lt;/li&gt;
+&lt;li&gt;The Loveland Foundation: $50&lt;/li&gt;
+&lt;li&gt;Black Minds Matter UK: $15&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thanks to all documentarians who donated.
+We hope that this will continue to inspire folks to give money to these causes,
+and support their efforts for justice.&lt;/p&gt;
+&lt;p&gt;#BlackLivesMatter&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/statement/atom.xml">
+    <title type="text">We stand with the Black community</title>
+    <id>https://www.writethedocs.org/blog/we-stand-with-the-black-community/</id>
+    <updated>2020-06-02T00:00:00Z</updated>
+    <published>2020-06-02T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/we-stand-with-the-black-community/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;we-stand-with-the-black-community&quot;&gt;
+
+&lt;p&gt;The mission of Write the Docs is to support the growth of a diverse community of documentarians. Any threat to the diversity of our community is a threat to our entire community.&lt;/p&gt;
+&lt;p&gt;We are distraught by the suffering, oppression and systemic racism the Black community faces every day, and we cannot remain silent.&lt;/p&gt;
+&lt;p&gt;In silence, we are complicit. To eradicate racism, xenophobia, and all other forms of inequality, we must take action. It is our responsibility to use our platforms to amplify the voices of the oppressed and marginalized.&lt;/p&gt;
+&lt;p&gt;We ask today –– and always –– that the Write the Docs community comes together in support of the Black community. We will match donations to &lt;a class=&quot;reference external&quot; href=&quot;https://blacklivesmatter.com/partners/&quot;&gt;non-profit organizations&lt;/a&gt; that are supporting these efforts, up to a total of $1,500. Please &lt;a class=&quot;reference external&quot; href=&quot;mailto:support&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;forward receipts&lt;/a&gt; to us with a request for a matching donation.&lt;/p&gt;
+&lt;p&gt;We know that our words alone won’t fix this issue, but we choose to speak and act today to show solidarity with those who continue this important work.&lt;/p&gt;
+&lt;p&gt;#BlackLivesMatter&lt;/p&gt;
+&lt;p&gt;(With thanks to the &lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/djangoproject/status/1267537367629529093&quot;&gt;Django Software Foundation&lt;/a&gt; for inspiration on this text)&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged november</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/november/atom.xml</id>
+  <updated>2016-11-03T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/november/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/november/atom.xml">
+    <title type="text">Write the Docs Newsletter - November 2016</title>
+    <id>https://www.writethedocs.org/blog/newsletter-november-2016/</id>
+    <updated>2016-11-03T00:00:00Z</updated>
+    <published>2016-11-03T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-november-2016/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-newsletter-november-2016&quot;&gt;
+
+&lt;div class=&quot;section&quot; id=&quot;community-conversations-and-milestones&quot;&gt;
+&lt;h2&gt;Community conversations and milestones&lt;/h2&gt;
+&lt;p&gt;Hello, Write the Docs! Let me tell ya, it’s been a jam-packed month for interesting conversations in the community. It’s been really exciting to see so much activity and engagement on the Slack channel. It’s even got us thinking about bumping the frequency of these dispatches up to twice a month, just so we can include more good stuff.&lt;/p&gt;
+&lt;p&gt;But that’s a decision for the future. For right now, we have an exciting milestone to celebrate: &lt;strong&gt;The Write the Docs Slack community officially cleared 1000 members last week!!&lt;/strong&gt; Considering it’s only been around since the 2014 North American conference, that’s not too shabby! Thanks to all of you for making the Write the Docs Slack such an inquisitive, creative, supportive place to hang out.&lt;/p&gt;
+&lt;p&gt;(If you haven’t joined us on Slack yet, we’d love to have you. &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.org/slack/&quot;&gt;Just click here.&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Now, let’s get down to the stories for this month. Folks have had some really interesting chats on a great variety of topics – read on for some of the highlights!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;NOTE: Remember,  we’ll be keeping an eye on the #general channel for newsletter content, but if you see a conversation elsewhere on Slack (or Twitter or wherever) that you think is a good fit, ping our editor, Kelly O’Brien (&amp;#64;kobrien042).&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;a-quick-guide-to-style-guides&quot;&gt;
+&lt;h2&gt;A quick guide to style guides&lt;/h2&gt;
+&lt;p&gt;One of the perks of the Write the Docs community is having a group of people available to help figure out tricky style questions, when we run into them. This month, one such query led to a big discussion about what style and usage resources people use when they have questions.&lt;/p&gt;
+&lt;p&gt;Although lots of folks default to a simple Google search and go with the most common usage, there were some other suggestions for good places to start:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://www.merriam-webster.com/&quot;&gt;Merriam-Webster Dictionary&lt;/a&gt;, always a good start&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://pages.18f.gov/content-guide/&quot;&gt;18F’s in-house Content Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://styleguide.mailchimp.com/&quot;&gt;MailChimp’s Style Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;And, in fact, according to the Poll the Docs survey from last year, most of the 100 respondents, regardless of the size of their team, used some kind of in-house style guide.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In general, the recommendation was to pick one authoritative style guide and stick to it. This can be a little tricky since there’s a scarcity of up-to-date TechComm style guides to work with. (The &lt;a class=&quot;reference external&quot; href=&quot;https://www.amazon.com/Microsoft-Manual-Style-4th-Corporation/dp/0735648719&quot;&gt;Microsoft Manual of Style&lt;/a&gt; got honorable mention, but the most recent edition is still 4 years old.) Non-technical style guides like the Associated Press or Chicago Manual of Style are even more fraught, since they tend to lag seriously behind on the current technical lexicon.&lt;/p&gt;
+&lt;p&gt;If you’re looking for more style guide resources:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Thursday Bram (&amp;#64;thursday) made her style guide template available on her blog:  &lt;a class=&quot;reference external&quot; href=&quot;http://www.thursdaybram.com/download-my-in-house-style-guide-template-to-use-however-you-want&quot;&gt;http://www.thursdaybram.com/download-my-in-house-style-guide-template-to-use-however-you-want&lt;/a&gt; It makes an &lt;em&gt;excellent&lt;/em&gt; starting point if you’re developing your own style guide.&lt;/li&gt;
+&lt;li&gt;This forum post from last year also has some style guide suggestions for documentarians: &lt;a class=&quot;reference external&quot; href=&quot;http://forum.writethedocs.org/t/style-guides-for-documentarians/112&quot;&gt;http://forum.writethedocs.org/t/style-guides-for-documentarians/112&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;how-do-documentation-and-content-strategy-intersect&quot;&gt;
+&lt;h2&gt;How do documentation and content strategy intersect?&lt;/h2&gt;
+&lt;p&gt;A really interesting discussion about content strategy in technical writing emerged this month. Content strategy, historically, has been strongly associated with the marketing communications side of things. But the line between marketing content and technical communication seem to be getting blurrier by the day.&lt;/p&gt;
+&lt;p&gt;The high-level takeaway was that the definition of ‘Content Strategy’ as a practice seems to be shifting pretty significantly. People talked about seeing content strategy encompassing one, some, or all of the following:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Marketing communications&lt;/li&gt;
+&lt;li&gt;Documentation&lt;/li&gt;
+&lt;li&gt;In-product help text&lt;/li&gt;
+&lt;li&gt;UI naming conventions&lt;/li&gt;
+&lt;li&gt;Sales copy&lt;/li&gt;
+&lt;li&gt;Virtually any customer-facing content, in any context&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There was also a huge range in the types of job positions that were considered the responsible party when it came to content strategy. Everything from the very on-the-nose ‘Chief Content Officer’ role to something that sneaks onto a Product Manager’s plate (sometimes while they’re not looking). But one way or another, content strategy did seem to play a role in most people’s documentation work, whether they are overtly responsible for it or not.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;doc-friendly-toolchains-and-cmss&quot;&gt;
+&lt;h2&gt;Doc-friendly toolchains and CMSs&lt;/h2&gt;
+&lt;p&gt;As we’re all aware, tooling is a big deal. We all have specific needs to get our optimal workflows humming along, and those needs shift and evolve. Finding the ideal setup for getting your docs written and published takes time and effort (and funds). So, it was no surprise to see a discussion spark up around what kinds of doc tools are out there, and what you can (and can’t) expect from them.&lt;/p&gt;
+&lt;p&gt;The general consensus is that it’s still quite a challenge to find a solution (or combination of solutions) that suits your requirements, workflow, and budget, out of the box. As a result, many companies opt to build their own tools, in-house, instead of investing the time or money into bending one or more of the available tools to their will.&lt;/p&gt;
+&lt;p&gt;All of that said, a handful of solutions and platforms were mentioned in the conversation, if you’re looking to check out some of the options:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://readthedocs.org/&quot;&gt;Read the Docs&lt;/a&gt; – open source documentation hosting platform based on Sphinx&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/deconst/&quot;&gt;Deconst&lt;/a&gt; – open source tool from Rackspace, based on RTD + support for Sphinx and Jekyll&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.contentful.com/&quot;&gt;Contentful&lt;/a&gt; — developer-friendly, API-forward content management platform&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://forestry.io/&quot;&gt;Forestry&lt;/a&gt; – builds a CMS from a repo of your Jekyll or Hugo project&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://craftcms.com&quot;&gt;CraftCMS&lt;/a&gt; – user-friendly CMS, handy if you have non-techy folks contributing to your docs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;using-abbreviations-and-acronyms-in-documentation&quot;&gt;
+&lt;h2&gt;Using abbreviations and acronyms in documentation&lt;/h2&gt;
+&lt;p&gt;What started as a quick poll about how to abbreviate “input/output” – ‘I/O’ won handily over ‘IO’, 18:3 — quickly turned into a broader discussion about abbreviations in documentation on the whole. Here were some of the key questions and takeaways that emerged:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;For common abbreviations and acronyms, are definitions necessary?&lt;/strong&gt; The consensus on this point seemed to be yes, a definition is needed, even for common abbreviations and acronyms. Folks leaned away from assuming that your readers are familiar with terminology and abbreviations. (“Assumption is the mother of all feckups,” as one participant put it!) Basically, you never know who is reading your docs, so it’s dangerous to assume that every reader will understand undefined abbreviations and acronyms.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Does the intended audience affect whether you define abbreviations and acronyms?&lt;/strong&gt; Maybe you’ve heard something like “anyone ready to look at [X] documentation would already know what [Y] means.” The general feeling on this point was that even if you think the audience knows what you do and understands the terminology, it’s a mistake to disregard the readers who are new to the field or aren’t as familiar.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Can you count on readers to find definitions for acronyms via web searches?&lt;/strong&gt; It’s easy enough to search for unfamiliar acronyms, but what if an acronym has more than one meaning? If you don’t define what the acronym means in the context of your docs, readers could easily settle on a different meaning based on their searches. Take “CI” as an example. The most likely meaning might be “continuous integration,” but there are more than 200 possible meanings… and &lt;a class=&quot;reference external&quot; href=&quot;http://www.thefreedictionary.com/&quot;&gt;TheFreeDictionary.com&lt;/a&gt;’s list of the most common meanings doesn’t include “continuous integration” at all!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What does “define at first use” mean these days?&lt;/strong&gt; With so many technical documents published online, you might need to rethink the rule about defining acronyms at first use. Defining once “per document” doesn’t make much sense when the document isn’t a printed manual, there’s no “beginning” to flip back to, and there’s no index to check. Recommendations included spelling out acronyms at their first use in each section of documentation or in the overviews for sets of functions. The takeaway was that document structure and format will determine the best way to define acronyms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There was also an entertaining discussion of how the “everyone knows THAT” perspective can lead to problems, if you’re not careful. Go have a read about &lt;a class=&quot;reference external&quot; href=&quot;http://www.pbs.org/wgbh/nova/ancient/egypt-punt.html&quot;&gt;the location of the ancient Land of Punt&lt;/a&gt; or phenomenon like &lt;a class=&quot;reference external&quot; href=&quot;http://www.hanselman.com/blog/TheFloppyDiskMeansSaveAnd14OtherOldPeopleIconsThatDontMakeSenseAnymore.aspx&quot;&gt;iconography that doesn’t make sense anymore&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;need-more-documentation-goodness&quot;&gt;
+&lt;h2&gt;Need more documentation goodness?&lt;/h2&gt;
+&lt;p&gt;For any of you who might have your eyes set on this year’s Linux.Conf.Au, there will be a one-day miniconf called ‘Doc Down Under’ the day before LCA kicks off. Their call for proposals is open right now and is very relevant to Write the Docs’ interests. So if you’ve been looking for an excuse to visit Hobart, Tasmania in January, go &lt;a class=&quot;reference external&quot; href=&quot;https://lca2017.linux.org.au/index.html&quot;&gt;check out their CFP&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Although our next Write the Docs conference doesn’t come around ‘til the spring, you can always check to see if there’s a &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/meetups/&quot;&gt;Write the Docs meetup&lt;/a&gt; near you! (And if there’s not, &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/watch?v=ZwQ8Kd48d0w&quot;&gt;think about starting one up&lt;/a&gt;!)&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

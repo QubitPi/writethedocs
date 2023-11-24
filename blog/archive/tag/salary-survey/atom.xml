@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged salary-survey</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/salary-survey/atom.xml</id>
+  <updated>2021-10-19T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/salary-survey/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/salary-survey/atom.xml">
+    <title type="text">Write the Docs 2021 Salary Survey</title>
+    <id>https://www.writethedocs.org/blog/2021-salary-survey/</id>
+    <updated>2021-10-19T00:00:00Z</updated>
+    <published>2021-10-19T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/2021-salary-survey/" />
+    <author>
+      <name>Mikey Ariel</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-2021-salary-survey&quot;&gt;
+
+&lt;p&gt;Hey there documentarians!&lt;/p&gt;
+&lt;p&gt;This is a special update to announce that the &lt;a class=&quot;reference external&quot; href=&quot;https://salary-survey.writethedocs.org/&quot;&gt;2021 Salary Survey&lt;/a&gt; is now live and ready for your input!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;survey-says&quot;&gt;
+&lt;h2&gt;Survey says…&lt;/h2&gt;
+&lt;p&gt;As we’ve seen with the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/surveys/&quot;&gt;previous two surveys&lt;/a&gt;, being a documentarian can encompass many roles, teams, and industries.
+Our community is global and diverse, and the surveys reflected that.
+Every person who submits the survey helps the entire community, so we hope you’ll take a few minutes and fill it out.&lt;/p&gt;
+&lt;p&gt;We hope that the survey data can help our community members determine what appropriate salary ranges are, and provide a benchmark for future employment-related decisions and negotiations.&lt;/p&gt;
+&lt;p&gt;Additionally, we’re hoping the results spark discussion of employment-related trends and issues in our industry, including but not limited to the effects of the COVID-19 pandemic.&lt;/p&gt;
+&lt;p&gt;The survey is divided into a few different sections, and takes between 5 and 10 minutes to complete, so go ahead and &lt;a class=&quot;reference external&quot; href=&quot;https://salary-survey.writethedocs.org/&quot;&gt;fill it out&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The survey will be open until &lt;strong&gt;20th December, 2021&lt;/strong&gt;.
+Results will be published in early 2022.
+Shout out to &lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/goatlady&quot;&gt;Kay Smoljak&lt;/a&gt; for running this survey since it debuted in 2019!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks&quot;&gt;
+&lt;h2&gt;Thanks&lt;/h2&gt;
+&lt;p&gt;Thanks again for for being a member of our community.
+We hope to see you soon at one of our online events, on our Slack, or continue to see you here via this newsletter.&lt;/p&gt;
+&lt;p&gt;You can always email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:support&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;support&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt; if you have any questions or comments.
+Stay tuned for another newsletter update next month!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

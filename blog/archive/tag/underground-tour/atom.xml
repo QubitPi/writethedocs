@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged underground tour</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/underground-tour/atom.xml</id>
+  <updated>2018-07-30T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/underground-tour/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/underground-tour/atom.xml">
+    <title type="text">Announcing Call for Volunteers</title>
+    <id>https://www.writethedocs.org/conf/cincinnati/2018/news/call-for-volunteers/</id>
+    <updated>2018-07-30T00:00:00Z</updated>
+    <published>2018-07-30T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/cincinnati/2018/news/call-for-volunteers/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-call-for-volunteers&quot;&gt;
+
+&lt;p&gt;The conference is now only a few weeks away! We hope you’re getting geared up for an exciting (and our first ever) Write the Docs + Open Help experience in Cincinnati, Ohio.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/cincinnati/2018/tickets/&quot;&gt;Tickets&lt;/a&gt; are selling quickly – thanks to all who have already purchased a theirs!&lt;/p&gt;
+&lt;p&gt;If you’re still debating whether to attend, check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/cincinnati/2018/schedule/&quot;&gt;Schedule&lt;/a&gt; page for the full list of presentations.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;call-for-volunteers&quot;&gt;
+&lt;h2&gt;Call for Volunteers&lt;/h2&gt;
+&lt;p&gt;Each year, Write the Docs is lucky to have amazing volunteers, and the conferences wouldn’t be such a success without them! Volunteering at our event only requires a few hours, and is a great way to meet the community…and of course you also get a free ticket to the conference!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For Write the Docs + Open Help Cincinnati, we need volunteers to handle the registration desk on Saturday, August 18.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you’re interested, send us an email at &lt;a class=&quot;reference external&quot; href=&quot;mailto:cincinnati&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;cincinnati&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;. We only have a few openings for volunteers, and we will prioritize folks who will be attending for the first time, as well as folks who might not be able to attend otherwise.&lt;/p&gt;
+&lt;p&gt;Unfortunately, we cannot help with travel costs for volunteers, so please make sure that you are able to travel to the conference before you write to us.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;events-and-activities&quot;&gt;
+&lt;h2&gt;Events and Activities&lt;/h2&gt;
+&lt;p&gt;As always, Write the Docs events are more than just talks. Every year we offer a wider range of activities that give our community members different ways to socialize, collaborate, and connect.&lt;/p&gt;
+&lt;p&gt;Check out what we have in store for you in Cincinnati:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Social Event.&lt;/strong&gt; Join us Saturday evening for a couple hours of socializing with fellow documentarians.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Underground Tour.&lt;/strong&gt; We arranged a private &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/cincinnati/2018/underground/&quot;&gt;Cincinnati Underground Tour&lt;/a&gt; after the unconference sessions close on Sunday. This is a separately ticketed event, and because of the logistics of running such a tour, we need to have a headcount early. &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/cincinnati/2018/underground/&quot;&gt;Register soon!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Writing Sprints.&lt;/strong&gt; After the talks and unconference, we’re hosting three days of Open Help &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/cincinnati/2018/sprints/&quot;&gt;Doc Sprints&lt;/a&gt;. This is an excellent opportunity to meet other documentarians, learn about and work on interesting documentation projects, and make yourself at home!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/cincinnati/2018/news/call-for-volunteers.rst&lt;/tt&gt;, line 7); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate explicit target name: “schedule”.&lt;/div&gt;
+&lt;p&gt;For the full schedule overview including start/end times for all activities, take a look at our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/cincinnati/2018/schedule/&quot;&gt;Schedule&lt;/a&gt; page.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;what-s-next&quot;&gt;
+&lt;h2&gt;What’s Next?&lt;/h2&gt;
+&lt;p&gt;If you’re planning your Cincinnati travel and need some orientation help, visit our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/cincinnati/2018/visiting/&quot;&gt;Visiting Cincinnati&lt;/a&gt; page.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

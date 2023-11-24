@@ -1,0 +1,380 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged australia-2020</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/australia-2020/atom.xml</id>
+  <updated>2020-12-14T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/"/>
+  <link href="https://www.writethedocs.org/blog/archive/tag/australia-2020/atom.xml" rel="self"/>
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/australia-2020/atom.xml">
+    <title type="text">Conference highlights and thanks to the community!</title>
+    <id>https://www.writethedocs.org/conf/australia/2020/news/thank-you-recap/</id>
+    <updated>2020-12-14T00:00:00Z</updated>
+    <published>2020-12-14T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2020/news/thank-you-recap/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="conference-highlights-and-thanks-to-the-community"&gt;
+
+&lt;p&gt;G&amp;#8217;day everyone,&lt;/p&gt;
+&lt;p&gt;The Write the Docs Australia and India team is now emerging from the post-conference recovery period, and we wanted to send out a quick message to thank everyone for helping to make our joint Australia and India online conference such a success.
+We&amp;#8217;re happy to share some of the highlights with you.&lt;/p&gt;
+&lt;div class="section" id="conference-recap"&gt;
+&lt;h2&gt;Conference recap&lt;/h2&gt;
+&lt;p&gt;At over 125 people, this year&amp;#8217;s conference was our biggest yet! We had the usual mix of main stage and lightning talks, and social events.
+Learning from our Portland and Prague events, we were very happy with how well all of our events transitioned to our new online format. We loved how the spirit of the community was so palpable even in an online event, which was even more special given the year we&amp;#8217;ve all had.&lt;/p&gt;
+&lt;p&gt;Overall, we were excited with how our awesome community came together in our new virtual venue.
+Lots of knowledge was shared, and we had a great time.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="videos"&gt;
+&lt;h2&gt;Videos&lt;/h2&gt;
+&lt;p&gt;Videos of the talks and lightning talks are now available on &lt;a class="reference external" href="https://www.youtube.com/playlist?list=PLZAeFn6dfHpl2E5JhVd34llZD4a4oAeCo"&gt;our YouTube playlist&lt;/a&gt;. We also included the Q&amp;amp;A recordings for the main talks.&lt;/p&gt;
+&lt;p&gt;Thanks again to &lt;a class="reference external" href="https://www.bartatwork.com/atwork/"&gt;Bart at Work&lt;/a&gt; for doing such a great job with these. You can also subscribe to our &lt;a class="reference external" href="https://www.youtube.com/writethedocs"&gt;YouTube channel&lt;/a&gt; so you don&amp;#8217;t miss any future content!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="sketchnotes"&gt;
+&lt;h2&gt;Sketchnotes&lt;/h2&gt;
+&lt;p&gt;One of our fantastic volunteers from the conference did some amazing sketchnotes of all the talks at the conference, as a takeaway for attendees.
+These sketchnotes are now available for everyone at &lt;a class="reference external" href="https://drive.google.com/drive/folders/10h8EguUikzaTqRRRScflxRdSBDD1G3Hq?usp=sharing"&gt;WTD AU and India 2020 sketchnotes&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="shirts-still-on-sale"&gt;
+&lt;h2&gt;Shirts still on sale&lt;/h2&gt;
+&lt;p&gt;If you want a souvenir from this year&amp;#8217;s conference, our &lt;a class="reference external" href="https://teespring.com/wtd-australia-india-2020"&gt;Write the Docs Australia 2020 Pop-Up Shop&lt;/a&gt; is still open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.&lt;/p&gt;
+&lt;p&gt;The campaign will run in 3-day batches until January 10th 2021. Shipping is available from the USA or Europe.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="code-of-conduct-transparency-report"&gt;
+&lt;h2&gt;Code of Conduct transparency report&lt;/h2&gt;
+&lt;p&gt;As with any Write the Docs event, this conference was covered by our &lt;a class="reference external" href="https://www.writethedocs.org/code-of-conduct/"&gt;community Code of Conduct&lt;/a&gt;.
+We aim to be as transparent with CoC incidents and enforcement as we can.&lt;/p&gt;
+&lt;p&gt;To ensure that our CoC was visible and accessible, we took a number of specific steps:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Every participant agreed to the Code of Conduct in advance during registration.&lt;/li&gt;
+&lt;li&gt;The CoC, or a summary, was included on the conference website and Hopin Reception&lt;/li&gt;
+&lt;li&gt;The CoC was repeatedly mentioned in our conference introduction and announcements.&lt;/li&gt;
+&lt;li&gt;We specifically stressed that the CoC applies to all conference spaces including the social event.&lt;/li&gt;
+&lt;li&gt;We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;None of our organizers were approached about any CoC concerns at this event.
+We know that this is, in part, a reflection of the thoughtful and inclusive community that we&amp;#8217;re so lucky to have.&lt;/p&gt;
+&lt;p&gt;That being said, we&amp;#8217;re also very conscious of the fact that just because nothing was reported doesn&amp;#8217;t mean nothing happened.
+If there was any personal conduct or other aspect of the conference experience that did not meet the expectations of behaviour set out in the CoC, please email us at &lt;a class="reference external" href="mailto:conduct%40writethedocs.org"&gt;conduct&lt;span&gt;@&lt;/span&gt;writethedocs&lt;span&gt;.&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="ready-for-more"&gt;
+&lt;h2&gt;Ready for more?&lt;/h2&gt;
+&lt;p&gt;We are already talking 2021 folks! Our &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2021/"&gt;Portland conference&lt;/a&gt; has announced its dates for 25-27 April and CFPs are now open.
+You can &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2021/cfp/"&gt;submit a talk for the Portland conference&lt;/a&gt; until &lt;strong&gt;midnight Pacific time 25 January 2021&lt;/strong&gt;.
+This conference is also virtual next year, so you can attend or present from anywhere.&lt;/p&gt;
+&lt;p&gt;Our Slack network has expanded yet again this year.
+Our #general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that you will continue the conversations throughout the year.
+If you haven&amp;#8217;t joined, now&amp;#8217;s the time!
+Check out the &lt;a class="reference external" href="http://www.writethedocs.org/slack/"&gt;Write the Docs Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;re also looking for more sponsors to make our other events just as magical as this year&amp;#8217;s Australia and India event.
+You can see all our &lt;a class="reference external" href="https://www.writethedocs.org/sponsorship/"&gt;sponsorship options&lt;/a&gt; on our website.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="thanks-again"&gt;
+&lt;h2&gt;Thanks again&lt;/h2&gt;
+&lt;p&gt;We&amp;#8217;re so grateful to our sponsors, speakers, volunteers, and attendees for making this conference possible.
+Whether you were able to come out this time or not, we hope to see you again next year&amp;#160;&amp;#8211; or even sooner at one of our other events!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/australia-2020/atom.xml">
+    <title type="text">Ticket Sales Closing Soon and Welcome Wagon Guide</title>
+    <id>https://www.writethedocs.org/conf/australia/2020/news/tickets-closing-welcome-wagon/</id>
+    <updated>2020-11-24T00:00:00Z</updated>
+    <published>2020-11-24T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2020/news/tickets-closing-welcome-wagon/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="ticket-sales-closing-soon-and-welcome-wagon-guide"&gt;
+
+&lt;p&gt;G&amp;#8217;day everyone!&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;re just over a week away from the start of the conference,
+and we&amp;#8217;re getting excited to invite you into our online venue for 2 days of content, collaboration, and conversation.
+We will be closing ticket sales this &lt;strong&gt;Friday, 27th November&lt;/strong&gt;, so if you&amp;#8217;ve been on the fence, now is the time to buy one!&lt;/p&gt;
+&lt;p&gt;If you were hoping to come to this years event,
+we recommend that you &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2020/tickets/"&gt;get your tickets soon&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We have done our internal testing of the platform, and we&amp;#8217;re getting everything ready for prime time.
+As part of our internal testing, we&amp;#8217;ve built out the Welcome Wagon Guide.
+This guide is our attempt to make sure that you get the most out of our events, and we&amp;#8217;ve totally rewritten it for our online event.&lt;/p&gt;
+&lt;div class="section" id="welcome-wagon-guide"&gt;
+&lt;h2&gt;Welcome Wagon Guide&lt;/h2&gt;
+&lt;p&gt;Each year we create a guide to help our attendees get the most out of the conference.
+This year, we&amp;#8217;re all first-timers at an online event, so we&amp;#8217;ve totally rewritten &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2020/welcome-wagon/"&gt;our Welcome Wagon guide&lt;/a&gt; to help you get the most out of our event this year.&lt;/p&gt;
+&lt;p&gt;We have a lot of information about how to use Hopin, and lots of tips and tricks for the best way to plan your days.&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;ve taken all the transit and travel information out, but please do plan to spend a large part of your day with us from the comfort of your own home.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="access-to-online-platform"&gt;
+&lt;h2&gt;Access to online platform&lt;/h2&gt;
+&lt;p&gt;Once we close out our tickets, we plan to send everyone a link to access the Hopin event.
+We plan to send this out by this weekend, to give everyone a few days to work through any troubleshooting issues that you might encounter.
+The Hopin access links will be sent to all Ti.to ticketholders, so monitor your inbox later this week for a message.&lt;/p&gt;
+&lt;p&gt;If you don&amp;#8217;t get an email from us by the early next week, please email us and we&amp;#8217;ll help you out!
+Once you&amp;#8217;ve got your Hopin ticket, you will be ready to get started on Thursday morning!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="thanks-so-much-to-all-our-sponsors"&gt;
+&lt;h2&gt;Thanks so much to all our sponsors&lt;/h2&gt;
+&lt;p&gt;We are so grateful to have our sponsors help in bringing these events to life every year.&lt;/p&gt;
+&lt;p&gt;Thanks so much to the following companies for supporting the Australia and India conference this year:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://redoc.ly/"&gt;Redocly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.google.com"&gt;Google&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.redhat.com/"&gt;Red Hat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.knowledgeowl.com"&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;We&amp;#8217;re excited to see all of you soon,
+and can&amp;#8217;t wait to share a wonderful few days with you in our online space.&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/australia-2020/atom.xml">
+    <title type="text">Announcing the full conference schedule</title>
+    <id>https://www.writethedocs.org/conf/australia/2020/news/announcing-schedule/</id>
+    <updated>2020-10-11T00:00:00Z</updated>
+    <published>2020-10-11T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2020/news/announcing-schedule/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="announcing-the-full-conference-schedule"&gt;
+
+&lt;p&gt;Hello folks!&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;re less than two months away from the first online Australia and India conference and we&amp;#8217;re working hard to make sure it&amp;#8217;ll be as welcoming and as fun as the in-person event you&amp;#8217;re probably familiar with.&lt;/p&gt;
+&lt;p&gt;Today, we&amp;#8217;re announcing the full presentation schedule and the platform we&amp;#8217;ll be hosting the conference on.
+We are working on more details for a few more activities during the conference, so keep an eye out for more information in our next mailing.&lt;/p&gt;
+&lt;div class="section" id="conference-platform"&gt;
+&lt;h2&gt;Conference platform&lt;/h2&gt;
+&lt;p&gt;The conference will be held on &lt;a class="reference external" href="https://hopin.to/"&gt;https://hopin.to/&lt;/a&gt;. This platform not only provides a stage for our amazing speakers, but also has integrated chat, unconference rooms with breakout calls, expo booths, and even a virtual hallway.
+We&amp;#8217;re updating our Welcome Wagon guide, to be released soon, so it&amp;#8217;ll all feel familiar before you&amp;#8217;ve even &amp;#8220;hopped in&amp;#8221; (pun unintended).&lt;/p&gt;
+&lt;p&gt;IMPORTANT: Please watch your inboxes during the next weeks for an email with a registration link to Hopin.
+We recommend that you register for the platform in advance, to avoid any last minute snafus.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="full-presentation-schedule"&gt;
+&lt;h2&gt;Full presentation schedule&lt;/h2&gt;
+&lt;p&gt;The conference website is now updated with the &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2020/schedule/"&gt;talk schedule&lt;/a&gt; for the main stage presentations, so you can start planning your time (and getting excited!) for the conference. We&amp;#8217;re excited to have live Q&amp;amp;A after most talks, which will come from your questions but be moderated by an MC.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="all-our-events-and-activities"&gt;
+&lt;h2&gt;All our events and activities&lt;/h2&gt;
+&lt;p&gt;Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge. And even though this years conference is held online, we&amp;#8217;re holding to that plan.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Lightning Talks.&lt;/strong&gt; We&amp;#8217;ll have &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2020/lightning-talks/"&gt;lightning talks&lt;/a&gt; each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unconference.&lt;/strong&gt; We&amp;#8217;ll be running the &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2020/unconference/"&gt;Unconference&lt;/a&gt; all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a specific thing? This is the place.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social event&lt;/strong&gt;. On Thursday night the conference platform will become the social event space. The main stage will be closed and the focus will be on attendee-created sessions. You&amp;#8217;re welcome to create sessions for board games, trivia quizzes, karaoke, or any other social activity that you want to share with your fellow documentarians.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conference Help Desk&lt;/strong&gt;. If you have any questions about navigating the virtual event, we&amp;#8217;ll be running the Write the Docs Helpdesk booth, where you can chat with one of the organizers and the Welcome Wagon team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2020/schedule/"&gt;Schedule page&lt;/a&gt; has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.&lt;/p&gt;
+&lt;p&gt;Thanks so much for all your support and enthusiasm so far &amp;#8211; we&amp;#8217;re so excited to see you all in December!&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/australia-2020/atom.xml">
+    <title type="text">Announcing speakers</title>
+    <id>https://www.writethedocs.org/conf/australia/2020/news/announcing-speakers/</id>
+    <updated>2020-09-30T00:00:00Z</updated>
+    <published>2020-09-30T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2020/news/announcing-speakers/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="announcing-speakers"&gt;
+
+&lt;p&gt;Hello! We are here with an update on the online Australia and India conference!&lt;/p&gt;
+&lt;p&gt;To start off, we&amp;#8217;re delighted to announce that we&amp;#8217;ve finalised our speakers for the event!
+Every year, talk selection gets more and more difficult as we get a larger, stronger batch of submissions.
+A big thank you to everyone who took the time to send us a proposal &amp;#8211;&amp;#160;we literally wouldn&amp;#8217;t have an event without you!&lt;/p&gt;
+&lt;div class="section" id="full-speaker-line-up"&gt;
+&lt;h2&gt;Full speaker line-up&lt;/h2&gt;
+&lt;p&gt;Every year, we look to bring a wide range of voices to the Write the Docs stage. Because the role of &amp;#8220;documentarian&amp;#8221; looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics &amp;#8211; with the odd whimsical one thrown in for good measure.
+We&amp;#8217;re really excited about the presentations we&amp;#8217;ve got this year &amp;#8211;&amp;#160;we hope you are too!&lt;/p&gt;
+&lt;span class="target" id="speaker-kenzie-woodbridge"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Kenzie Woodbridge  &amp;#8211; Everyone&amp;#8217;s a player (in a mid-90s MUD)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-sayraphim-lothian"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Sayraphim Lothian  &amp;#8211; How (and why) to make awesome video tutorials&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-ankita-tripathi"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Ankita Tripathi  &amp;#8211; Overcoming the Plight of Lone Writers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-marcelina-haftka"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Marcelina Haftka  &amp;#8211; Legacy content from various perspectives&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-andrea-szollossi"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Andrea Sz&amp;#246;ll&amp;#246;ssi  &amp;#8211; 5 things I learned from my first open source contribution&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-marika-vertzonis"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Marika Vertzonis  &amp;#8211; A treasure map for the doc &amp;#8211; Exploring the discoverability of documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-lana-brindley"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Lana Brindley  &amp;#8211; When Agile Fails: Working on Large Documentation Projects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-michael-belton"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Michael Belton  &amp;#8211; Onboard yourself: How to get set-up for success in a new role&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-chris-ward"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Chris Ward  &amp;#8211; An introduction to developer experience, and the role of a documentarian&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-sam-irons"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Sam Irons  &amp;#8211; Content strategy in practice: a case study&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-scott-deloach"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Scott DeLoach  &amp;#8211; Microcontent: Designing &amp;amp; Developing Reusable Content&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-yael-ben-david"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Yael Ben-David  &amp;#8211; Little words, big ideas: How to write microcopy that works&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-akshay-iyer"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Akshay Iyer  &amp;#8211; Storytelling for Technical Products - What We Can Learn from Lego and Pixar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-vikram-mulay"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Vikram Mulay  &amp;#8211; Influence your customer outreach with best practices for internationalization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-matt-reiner"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Matt Reiner  &amp;#8211; The Pains of Composition: How to write your best documentation in a collaborative world&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Head over to the &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2020/speakers/"&gt;Speakers page&lt;/a&gt; to see the full abstracts.
+We hope there&amp;#8217;s something there for everyone to enjoy, and also something that will broaden your horizons a bit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="tickets-are-going-fast"&gt;
+&lt;h2&gt;Tickets are going fast!&lt;/h2&gt;
+&lt;p&gt;If you don&amp;#8217;t have your ticket yet, now&amp;#8217;s a great time to snap one up. Conference tickets have sold out for the last several years, and they go faster along with the speaker announcement, so if you&amp;#8217;re planning to come, don&amp;#8217;t leave it to the last minute.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2020/tickets/"&gt;Buy your tickets here!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Our Opportunity Grant program is still open until November 1, 2020. If buying a ticket is difficult for you, please don&amp;#8217;t hesitate to apply to the grant program.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Meetup organiser discount&lt;/strong&gt;: As a thanks to our meetup organisers, we&amp;#8217;re happy to offer you a 50% discount on your tickets. Please email us at &lt;a class="reference external" href="mailto:australia%40writethedocs.org"&gt;australia&lt;span&gt;@&lt;/span&gt;writethedocs&lt;span&gt;.&lt;/span&gt;org&lt;/a&gt;, tell us which meetup you organise, and we will send you receive registration instructions.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="thanks-to-our-sponsors"&gt;
+&lt;h2&gt;Thanks to our sponsors&lt;/h2&gt;
+&lt;p&gt;We are so grateful to have our sponsors help in bringing these events to life every year. Thanks sincerely to the following companies for supporting the Write the Docs community:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://redoc.ly/"&gt;Redocly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.google.com"&gt;Google&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.redhat.com/"&gt;Red Hat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.knowledgeowl.com"&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;Head over to our &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2020/sponsors/prospectus/"&gt;sponsorship prospectus&lt;/a&gt; for details on how your company can get involved!
+We have several types of sponsorship available.&lt;/p&gt;
+&lt;p&gt;And that&amp;#8217;s the latest on the Australia and India conference. We hope you&amp;#8217;re all getting as excited as we are! Stay tuned for more details.&lt;/p&gt;
+&lt;p&gt;The Write the Docs Team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/australia-2020/atom.xml">
+    <title type="text">Call for Proposals Extended</title>
+    <id>https://www.writethedocs.org/conf/australia/2020/news/cfp-extend/</id>
+    <updated>2020-08-27T00:00:00Z</updated>
+    <published>2020-08-27T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2020/news/cfp-extend/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="call-for-proposals-extended"&gt;
+
+&lt;p&gt;Greetings fellow documentarians!&lt;/p&gt;
+&lt;p&gt;The conference is now just under four months away, and we hope you&amp;#8217;re already planning for this year&amp;#8217;s remote installment of Write the Docs Australia and India conference.&lt;/p&gt;
+&lt;div class="section" id="new-deadline-to-submit-your-proposal-is-14th-sept"&gt;
+&lt;h2&gt;New deadline to submit your proposal is 14th Sept&lt;/h2&gt;
+&lt;p&gt;The &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2020/cfp/"&gt;Call for Proposals&lt;/a&gt; is now extended until &lt;strong&gt;14th Sept 2020 at Midnight AEST&lt;/strong&gt; &amp;#8211; We added two extra weeks
+to the deadline because there are enough things to worry about this year, and we wanted to give as many of you the opportunity to prepare your submissions.
+Make sure to get your talk in before the new deadline; we already have a lot of great proposals coming in, but we wanted to give everyone a chance to submit their ideas.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2020/cfp/"&gt;Call for Proposals&lt;/a&gt; page for tips and examples to help inspire you.
+And if you&amp;#8217;ve got an idea but aren&amp;#8217;t sure what to do with it, feel free to ask for feedback on &lt;a class="reference external" href="https://writethedocs.org/slack/"&gt;Slack&lt;/a&gt;. Your fellow documentarians will be happy to help!&lt;/p&gt;
+&lt;p&gt;We will send out the decision emails to all who submitted by &lt;strong&gt;end of September&lt;/strong&gt;, and the final talks will be published by &lt;strong&gt;early October&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="we-ll-have-more-to-share-soon"&gt;
+&lt;h2&gt;We&amp;#8217;ll have more to share soon&lt;/h2&gt;
+&lt;p&gt;We are working through all the other aspects of the event. Expect to hear more about the welcome reception, social event, and more in the next few months.
+This will be our fourth Australian conference, and first one for the Indian community, and we can&amp;#8217;t wait!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/australia-2020/atom.xml">
+    <title type="text">Announcing Call for Proposals and Ticket Sales</title>
+    <id>https://www.writethedocs.org/conf/australia/2020/news/cfp-open/</id>
+    <updated>2020-07-24T00:00:00Z</updated>
+    <published>2020-07-24T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2020/news/cfp-open/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="announcing-call-for-proposals-and-ticket-sales"&gt;
+
+&lt;p&gt;Today we are announcing our &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2020/cfp/"&gt;Call for Proposals&lt;/a&gt; and &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2020/tickets/"&gt;ticket sales&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The Call for Proposals will be open for five weeks. We know that it hasn&amp;#8217;t been an easy year. Nevertheless we&amp;#8217;d love to see you on our online stage in December, to share your ideas with our inspiring community of documentarians.&lt;/p&gt;
+&lt;p&gt;If there is something you&amp;#8217;d really like to see a talk about this year, submit a proposal for it or refer someone else who would be good!&lt;/p&gt;
+&lt;div class="section" id="id1"&gt;
+&lt;h2&gt;Call for Proposals&lt;/h2&gt;
+
+&lt;p&gt;Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
+We&amp;#8217;re looking for ideas and use-cases from all disciplines and roles, so whether you&amp;#8217;re a technical writer, editor, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;re hoping that folks who would not be able to travel will be able to join us this time round, both as attendees and as speakers! If you&amp;#8217;ve always wanted to talk about documentation but not been able to travel for whatever reason, now is the time.&lt;/p&gt;
+&lt;p&gt;You can read our full &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2020/cfp/"&gt;Call for Proposals&lt;/a&gt; on the website.
+The Call for Proposals will be open until &lt;strong&gt;Midnight AEDT on August 31, 2020&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="tickets"&gt;
+&lt;h2&gt;Tickets&lt;/h2&gt;
+
+&lt;p&gt;Tickets are now on sale! Take a look at the new prices for the online conference on our &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2020/tickets/"&gt;Tickets&lt;/a&gt; page.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="opportunity-grants"&gt;
+&lt;h2&gt;Opportunity Grants&lt;/h2&gt;
+&lt;p&gt;Our grant program offers tickets to people who would otherwise not be able to attend.
+We&amp;#8217;re excited to be able to offer free tickets to a larger number of people this year,
+since there are now minimal other costs to attend the event.&lt;/p&gt;
+&lt;p&gt;You can apply until &lt;strong&gt;October 1, 2020, Midnight AEST&lt;/strong&gt; on &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2020/opportunity-grants/"&gt;our website&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="stay-updated"&gt;
+&lt;h2&gt;Stay updated&lt;/h2&gt;
+&lt;p&gt;Want to find out what&amp;#8217;s happening with the conference, or enjoy our monthly global community newsletter?
+Sign up to one or more of our &lt;a class="reference external" href="http://eepurl.com/cdWqc5"&gt;mailing lists&lt;/a&gt;. Your information will never be shared with any third-parties, and you can unsubscribe at any time.&lt;/p&gt;
+&lt;p&gt;Want to connect with other documentarians in real-time? Join our &lt;a class="reference external" href="https://writethedocs.org/slack/"&gt;Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We hope you will join us for a new online Write the Docs conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/australia-2020/atom.xml">
+    <title type="text">Announcing virtual conference dates</title>
+    <id>https://www.writethedocs.org/conf/australia/2020/news/announcing-virtual-conf-dates/</id>
+    <updated>2020-07-10T00:00:00Z</updated>
+    <published>2020-07-10T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2020/news/announcing-virtual-conf-dates/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="announcing-virtual-conference-dates"&gt;
+
+&lt;p&gt;Write the Docs Australia 2020 will be a virtual conference. For the first time we are partnering with Write the Docs India for 2 days of Asia Pacific documentation goodness!&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;re holding the conference in December, to allow for enough time after the new Prague conference dates in October.
+The main conference days will be on &lt;strong&gt;Thursday, December 3, 11:00-21:00 AEDT&lt;/strong&gt;,
+and the  &lt;strong&gt;Friday, December 4, 11:00-21:00 AEDT&lt;/strong&gt;.
+Essentially, these times will cover timezones to cater for our community from either coast of Australia to the Indian subcontinent later in the day.&lt;/p&gt;
+&lt;p&gt;We would love to see documentarians from other parts of the Asia Pacific region join us in this APAC timezone friendly conference.&lt;/p&gt;
+&lt;p&gt;Ticket sales will open end of July. Check out the &lt;a class="reference internal" href="https://www.writethedocs.org/conf/australia/2020/tickets/"&gt;&lt;span class="doc"&gt;tickets page&lt;/span&gt;&lt;/a&gt; for prices. Your virtual ticket includes:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Live streaming of all talks&lt;/li&gt;
+&lt;li&gt;Q&amp;amp;A with speakers after each talk (may not be available for all speakers)&lt;/li&gt;
+&lt;li&gt;Access to the conference chat with all other attendees, speakers and sponsors&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="section" id="support-our-community-by-sponsoring"&gt;
+&lt;h2&gt;Support our community by sponsoring&lt;/h2&gt;
+&lt;p&gt;Every year we are fortunate to have the support of like-minded organisations and communities,
+who believe in the collaborative and welcoming community spirit and help us make our events great.&lt;/p&gt;
+&lt;p&gt;We have drafted a new &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2020/sponsors/prospectus/"&gt;sponsorship prospectus&lt;/a&gt; for the conference,
+and are open for new sponsorship inquiries.&lt;/p&gt;
+&lt;p&gt;The Write the Docs Australia and India Team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

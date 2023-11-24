@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged prague</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/prague/atom.xml</id>
+  <updated>2022-11-03T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/prague/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/prague/atom.xml">
+    <title type="text">Announcing Write the Docs conferences for 2023</title>
+    <id>https://www.writethedocs.org/blog/2023-conference-announcements/</id>
+    <updated>2022-11-03T00:00:00Z</updated>
+    <published>2022-11-03T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/2023-conference-announcements/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-write-the-docs-conferences-for-2023&quot;&gt;
+
+&lt;p&gt;We’re excited to announce two Write the Docs conferences for 2023:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Write the Docs Portland on May 7-9, 2023&lt;/strong&gt;, an in person conference in Portland, Oregon.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Write the Docs Atlantic, on September 10-12, 2023&lt;/strong&gt;, a new virtual conference
+in between European/African and US East Coast/South America timezones.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Write the Docs Prague is taking a break this year. Announcements about
+Write the Docs Australia will follow later in 2023.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;write-the-docs-portland&quot;&gt;
+&lt;h2&gt;Write the Docs Portland&lt;/h2&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/blog/2023-conference-announcements.rst&lt;/tt&gt;, line 5); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “write the docs portland”.&lt;/div&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/&quot;&gt;Write the Docs Portland&lt;/a&gt; will be an in person conference, similar to our
+pre-COVID conferences. Speakers will be present in person and speaking
+from the conference stage. We will also offer a free live stream of the talks,
+and remote participants are encouraged to participate in our Slack. The
+unconference will not be streamed.&lt;/p&gt;
+&lt;p&gt;The conference will follow all local COVID regulations that apply at the time,
+and we will announce more specific policies before our tickets go on sale so people can make an informed decision.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;write-the-docs-atlantic&quot;&gt;
+&lt;h2&gt;Write the Docs Atlantic&lt;/h2&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/blog/2023-conference-announcements.rst&lt;/tt&gt;, line 5); &lt;em&gt;&lt;a href=&quot;#id2&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “write the docs atlantic”.&lt;/div&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/atlantic/2023/&quot;&gt;Write the Docs Atlantic&lt;/a&gt; is a new conference, in a similar online format
+to the virtual conferences we’ve been running in 2021 and 2022.&lt;/p&gt;
+&lt;p&gt;The schedule will run from the
+early afternoon to early evening in most European/African timezones,
+and from early morning to late afternoon in US East Coast/South America timezones.
+Of course, this being a virtual conference, attendees and speakers
+are welcomed from anywhere in the world.&lt;/p&gt;
+&lt;p&gt;Sign up to the separate
+&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/newsletter/&quot;&gt;Atlantic conference mailing list&lt;/a&gt; to stay
+up to date on the call for proposals, ticket sales and all other updates.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;virtual-and-in-person&quot;&gt;
+&lt;h2&gt;Virtual and in person&lt;/h2&gt;
+&lt;p&gt;Although we initially switched to running virtual conferences due to COVID, we found
+that despite many folks preferring the in-person experience, the virtual format also created many new opportunities.
+There are many people that have difficulty travelling
+to our in person conferences for various reasons, like financial, health,
+immigration or responsibilities at home.
+With a virtual conference, these people have equal access to
+our events, as speakers or attendees. We’ve also seen that our
+community has been great at bringing the same atmosphere that works
+so well at our in person conferences, to our virtual ones.&lt;/p&gt;
+&lt;p&gt;Therefore, we think that the Portland and Atlantic conferences together
+are a great way to bring back the familiar experience that many of you miss,
+while also keeping the many benefits of virtual conferences in 2023.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;call-for-proposals&quot;&gt;
+&lt;h2&gt;Call for Proposals&lt;/h2&gt;
+&lt;p&gt;For both conferences, we invite people from all across our community to
+come up on the virtual or in person stage to share their insights and experience.
+We’re looking for ideas and use-cases from all disciplines and roles,
+so whether you’re a technical writer, developer, UX designer, community manager,
+or support professional who cares about content and communication, we want to hear from you!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We plan to launch our Portland CFP in early January 2023&lt;/strong&gt; for those who are excited to speak.
+The talks in Portland will be in person.&lt;/p&gt;
+&lt;p&gt;Further details of the Atlantic CFP will be announced later in 2023.
+For Atlantic, you will need to supply a pre-recorded video of your talk,
+so you’ll be able to present from anywhere.&lt;/p&gt;
+&lt;p&gt;Start thinking about your talk proposal now, and we’ll let you know as soon as the CFPs open.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets&quot;&gt;
+&lt;h2&gt;Tickets&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Tickets will go on sale in January 2023&lt;/strong&gt;.
+We will announce ticket prices soon, so that you can start planning your budget.&lt;/p&gt;
+&lt;p&gt;As always, we keep ticket prices low so that it is accessible to the widest range
+of people possible. However, if you can’t afford these prices and still wish to attend,
+we will be running our Opportunity Grants program again this year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;sponsorship&quot;&gt;
+&lt;h2&gt;Sponsorship&lt;/h2&gt;
+&lt;p&gt;We are always grateful for the organizations and projects that support our
+community and help make our events extra awesome for the attendees.&lt;/p&gt;
+&lt;p&gt;If you want to find out more about how to support our events and the community,
+check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/sponsors/prospectus/&quot;&gt;sponsorship prospectus&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are excited to continue offering a similar sponsorship experience
+for both conferences, including the Job Fair this year and a new option
+for sponsored workshops.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;keep-in-touch&quot;&gt;
+&lt;h2&gt;Keep in touch&lt;/h2&gt;
+&lt;p&gt;Want to find out what’s happening with the conference, or enjoy our monthly global community newsletter?
+Sign up to one or more of our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/newsletter/&quot;&gt;mailing lists&lt;/a&gt;. Your information will never be shared with any third-parties, and you can unsubscribe at any time.&lt;/p&gt;
+&lt;p&gt;Want to connect with other documentarians in real-time?
+Join our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/slack/&quot;&gt;Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;conclusion&quot;&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;We hope you will join us online for one or both of Write the Docs conferences.
+Whether as a speaker, attendee, or sponsor, we are excited to get together to make it another delightful year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

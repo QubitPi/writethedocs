@@ -1,0 +1,437 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta property="og:title" content="Write the Docs Newsletter – October 2017" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/blog/newsletter-october-2017/" />
+<meta property="og:site_name" content="Write the Docs" />
+<meta property="og:description" content="Hello friends and fellow documentarians! Kelly O. here, happy to be arriving in your inbox for another round-up of docs-wisdom gleaned from our community. It’s been a big month since last we spoke...." />
+<meta property="og:image" content="https://www.writethedocs.org/_static/logo-opengraph.png" />
+<meta property="og:image:alt" content="Write the Docs" />
+<meta name="description" content="Hello friends and fellow documentarians! Kelly O. here, happy to be arriving in your inbox for another round-up of docs-wisdom gleaned from our community. It’s been a big month since last we spoke...." />
+<meta name="twitter:card" content="summary_large_image" />
+
+    <title>Write the Docs Newsletter – October 2017 &#8212; Write the Docs</title>
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/alabaster.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/global-customizations.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/survey.css" />
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/js/jobs.js"></script>
+    <link rel="canonical" href="https://QubitPi.github.io/writethedocs/blog/newsletter-october-2017.html" />
+    <link rel="shortcut icon" href="../../_static/favicon-96x96.png"/>
+    <link rel="index" title="Index" href="../../genindex/" />
+    <link rel="search" title="Search" href="../../search/" />
+  
+   
+  <link rel="stylesheet" href="../../_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  
+  <link rel="alternate" type="application/atom+xml"  href="../archive/atom.xml" title="Blog">
+  
+  
+  <link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
+  
+  <style type="text/css">
+    ul.ablog-archive {list-style: none; overflow: auto; margin-left: 0px}
+    ul.ablog-archive li {float: left; margin-right: 5px; font-size: 80%}
+    ul.postlist a {font-style: italic;}
+    ul.postlist-style-disc {list-style-type: disc;}
+    ul.postlist-style-none {list-style-type: none;}
+    ul.postlist-style-circle {list-style-type: circle;}
+  </style>
+
+  </head><body>
+  
+
+    <div class="document">
+  <div class="documentwrapper">
+    <div class="bodywrapper">
+      <div class="body" role="main">
+          
+          <div class="breadcrumbs">
+            
+            
+              <a href="../../">Home</a> &raquo;
+                
+            
+          </div>
+        
+        
+  <div class="section" id="write-the-docs-newsletter-october-2017">
+<h1>Write the Docs Newsletter – October 2017<a class="headerlink" href="#write-the-docs-newsletter-october-2017" title="Permalink to this headline">¶</a></h1>
+<p>Hello friends and fellow documentarians!</p>
+<p>Kelly O. here, happy to be arriving in your inbox for another round-up of docs-wisdom gleaned from our community. It’s been a big month since last we spoke. We had our fourth European conference, we’ve surpassed 2500 members in Slack, AND it’s officially been a year since we started this here newsletter experiment. Happy newsletterversary!</p>
+<p>We’re going into the last few months of this year with our sights set on shoring up some of our community frameworks, as well as developing some new projects (secret! exciting! forthcoming!). We’re so happy to have you all along for the ride!</p>
+<p>Unsurprisingly, we had a bountiful harvest of interesting and useful conversations to choose from for this issue. We’ve tried to assemble a good mix here for your perusal. Have a great month!</p>
+<p><em>Errata: In assembling the meetup calendar below, I suspect I did something wrong last month, to have come up with so few. If you ran a Write the Docs meetup last month that I didn’t catch in the newsletter, I’m so sorry!</em></p>
+<div class="section" id="putting-our-urls-to-work-for-us-and-our-readers">
+<h2>Putting our URLs to work – for us and our readers<a class="headerlink" href="#putting-our-urls-to-work-for-us-and-our-readers" title="Permalink to this headline">¶</a></h2>
+<p>How do we make our URLs meaningful to our readers? What should we do when content inevitably moves (or is removed)? How can we make sure all of the great content we write remains discoverable?</p>
+<p>When discussing these questions this month, the community started from a point of agreement: good URL paths should carry meaning. For example, a lot of doc sites have URLs that reflect their content hierarchy, like <code class="docutils literal notranslate"><span class="pre">site/category/article-title</span></code>. Ideally, in such situations, if a reader truncates the path to <code class="docutils literal notranslate"><span class="pre">site/category/</span></code> they should find a list of every article in the category. But content restructuring and obsolescence are facts of life for most documentarians. It’s unrealistic to think that <a class="reference external" href="https://www.w3.org/Provider/Style/URI">Cool URIs don’t change</a>. When the inevitable does happen, it’s important to make it as easy as possible for readers to find new locations. That means redirects!</p>
+<p>Creating redirects can be difficult to manage when there are lots of external links or when lots of URLs are changing. Sadly, most documentation tools – with the notable exception of MindTouch – don’t offer automated redirects. One suggested approach was to use analytics to prioritize your most critical URLs, setting up manual redirects for those pages first to keep your content discoverable. For long term URL hygiene, folks suggested automated link-checking tools to track down and update broken links and stray pages.</p>
+</div>
+<div class="section" id="the-true-meaning-of-api">
+<h2>The true meaning of “API”<a class="headerlink" href="#the-true-meaning-of-api" title="Permalink to this headline">¶</a></h2>
+<p>What exactly are we referring to when we say “API”? While the initialism itself stands for Application Programming Interface, it’s a more complicated question than it seems. When it came up this month, it sparked a lively conversation that suggested that API might mean different things to different people in different contexts.</p>
+<p>Most of the conversation revolved around that idea that when we say “API”, we assume that our reader (or listener) will inherently understand the type of API we’re talking about. But that might not be the case as often as you think. If you work with REST APIs, it’s likely you’ll assume that API has a silent “REST” in front of it. But if you’ve spent your career working with library APIs, that will probably be the meaning you default to.</p>
+<p>There was some question of whether any of this mattered. Whether it’s a library, REST, SOAP, or other type of API, they’re all still “methods of communication between various software components” (thank you <a class="reference external" href="https://en.wikipedia.org/wiki/Application_programming_interface">wikipedia</a>). But as evidenced by the length and depth of the conversation, it’s definitely a topic worth clarifying. Handily enough, one of our Prague speakers, Garen Torikian, has a slide on this very topic in his presentation, ” <a class="reference external" href="https://youtu.be/aJk99MSVj0Y">Trustworthy and Sensible API Documentation with GraphQL</a>.”</p>
+<p>In the meantime, check out #documenting-apis or #apithedocs for more conversations about APIs!</p>
+</div>
+<div class="section" id="proofreading-and-copyediting-your-own-work">
+<h2>Proofreading and copyediting your own work<a class="headerlink" href="#proofreading-and-copyediting-your-own-work" title="Permalink to this headline">¶</a></h2>
+<p>If you’re a lone writer, you’ve probably been in the unenviable position of not having an editor around to proofread, copyedit, or otherwise sanity-check your writing. It’s a perennial dilemma, and one that surfaces regularly on Slack. This month produced a particularly good batch of suggestions and resources. To help you clean up your copy when your only editor is you, here’s some tips and tricks from the Write the Docs hivemind:</p>
+<ul class="simple">
+<li>Put your writing away and review it at least a day later.</li>
+<li>Print it out on paper and read/edit in the new format.</li>
+<li>Read each sentence independently. Try reversing the order of sentences, starting with the last one and working your way backward to the first. Or reverse the order of paragraphs.</li>
+<li>Listen to your writing being read aloud, either by you or by a device. Text-to-Speech tools are widely available.</li>
+<li>For typos, repeats, and especially homophones, highlight a single line at a time. If it’s hardcopy, use a ruler. This keeps you from reading to the next line and helps you notice the “the the” problems.</li>
+<li>Make the text much larger, or change the font. Folks recommended these tricks for on-screen or printed page reviews.</li>
+<li>Last but not least, check out <a class="reference external" href="https://writetodone.com/get-your-eagle-eye-on-10-tips-for-proofreading-your-own-work/">this blog post of 10 tips for proofreading your own work</a>. The post repeats some of our group’s suggestions, and adds more.</li>
+</ul>
+</div>
+<div class="section" id="defining-developer-relations-evangelism-advocacy">
+<h2>Defining developer relations/evangelism/advocacy<a class="headerlink" href="#defining-developer-relations-evangelism-advocacy" title="Permalink to this headline">¶</a></h2>
+<p>This month, someone asked a question which many of us have wondered about, at one point or another: “What does a developer advocate or evangelist actually do?” (You may have even wondered this _as_ a developer advocate/evangelist…)</p>
+<p>The ensuing conversation made it clear that whether you call it developer relations (DevRel), developer evangelism, or developer advocacy, it can mean a lot of different things. But some common themes emerged:</p>
+<ul class="simple">
+<li>Folks in these roles are generally expected to be the “face” of their developer community. Their work involves making their product/language/framework/etc. more visible and more approachable.</li>
+<li>Often they sit at an overlap point between engineering –&nbsp;since they’re (ideally) experts in the tool they’re representing – and sales, marketing, documentation, etc.</li>
+<li>The line between “evangelist” and “advocate” gets blurry. Often, though, the evangelist side is about bringing the product out to the community, while the advocate side focuses on bringing the community’s voice back to the product team.</li>
+<li>Although these roles may have gotten their start in the open source community, they’re becoming increasingly common across the industry.</li>
+</ul>
+<p>For further reading on the topic, this Medium post has lots of good thoghts: <a class="reference external" href="https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b">https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b</a></p>
+</div>
+<div class="section" id="upcoming-community-events">
+<h2>Upcoming community events<a class="headerlink" href="#upcoming-community-events" title="Permalink to this headline">¶</a></h2>
+<p><strong>WRITE THE DOCS DAY AUSTRALIA COUNTDOWN: Six Weeks Left!</strong>
+We’re so excited to be coming up on our first official Australian event! If you’re going to be in the Melbourne area in November, come out for a full day of sprints, talks, and community-building! Check it out (and get your ticket!) here: <a class="reference external" href="https://www.writethedocs.org/conf/au/2017/">https://www.writethedocs.org/conf/au/2017/</a></p>
+<ul class="simple">
+<li><strong>Tomorrow!</strong> October 10 – Portland, OR, USA – <a class="reference external" href="https://www.meetup.com/Write-The-Docs-PDX/events/242228205/">Confluence Docs With Node.js, Intro to the PSU Tech Writing Program</a></li>
+<li><strong>Also Tomorrow!</strong> October 10 – Seattle, WA, USA – <a class="reference external" href="https://www.meetup.com/Write-The-Docs-Seattle/events/243392623/">WTD Seattle October Meetup</a></li>
+<li>October 11 – Brisbane, QLD, Australia – <a class="reference external" href="https://www.meetup.com/Write-the-Docs-Australia/events/243038647/">Peanuts and Minimalism and Technical Writing</a></li>
+<li>October 12 – Leeds, UK –&nbsp;<a class="reference external" href="https://www.meetup.com/Write-the-Docs-Leeds-Bradford/events/242556120/">Social: First Meetup</a></li>
+<li>October 12 – San Francisco, CA, USA – <a class="reference external" href="https://www.meetup.com/Write-the-Docs-SF/events/243528992/">Lightning Talks!</a></li>
+<li>October 14 – Fredericton, NB, Canada – Technical Communicator Lunch Social</li>
+<li>October 17 – London, UK –&nbsp;<a class="reference external" href="https://www.meetup.com/Write-The-Docs-London/events/243010658/">Worked Examples in the Documentation of Complex Systems</a></li>
+<li>October 24 – Boston, MA, USA – <a class="reference external" href="https://www.meetup.com/Write-the-Docs-BOS/events/242428486/">mabl Happy Hour + Lightning Talks</a></li>
+<li>October 25 – Austin, TX, USA – <a class="reference external" href="https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/242784674/">Content strategy for your docs</a></li>
+</ul>
+</div>
+</div>
+
+  <div class="section">
+  
+    
+
+
+<div class="section">
+  <span style="float: left;">
+  
+  
+  <a href="../newsletter-september-2017/">
+    <i class="fa fa-arrow-circle-left"></i>
+    Write the Docs Newsletter – September 2017
+  </a>
+  
+  </span>
+  <span>&nbsp;</span>
+  <span style="float: right;">
+  
+  
+  <a href="../newsletter-november-2017/">
+    Write the Docs Newsletter – November 2017
+    <i class="fa fa-arrow-circle-right"></i>
+  </a>
+  
+  </span>
+</div>
+
+  
+  
+  </div>
+
+      </div>
+    </div>
+  </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<p class="logo">
+  <a href="../../">
+    <img class="logo" src="../../_static/sticker-wtd-colors.png" alt="Logo"/>
+    
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <h2>
+  
+  <i class="fa fa-calendar"></i>
+    09 October 2017
+  
+  </h2>
+
+  <ul>
+    
+
+  
+  <li id="author"><span><i class="fa-fw fa fa-user"></i></span>
+    
+      
+      <a href="../archive/author/write-the-docs-team/">Write the Docs Team</a>
+      
+    </li>
+  
+
+  
+
+  
+
+  
+
+  
+  <li id="tags"><span><i class="fa-fw fa fa-tags"></i>
+      </span>
+    
+      
+      <a href="../archive/tag/newsletter/">newsletter</a>
+      
+    
+      
+      <a href="../archive/tag/api/">API</a>
+      
+    
+      
+      <a href="../archive/tag/editing/">editing</a>
+      
+    
+      
+      <a href="../archive/tag/urls/">URLs</a>
+      
+    
+      
+      <a href="../archive/tag/devrel/">DevRel</a>
+      
+    </li>
+  
+  
+  </ul>
+
+
+<br>
+<p>
+Write the Docs is a global community of people who care about documentation.
+We have a Slack community, conferences on 3 continents, and local meetups!
+</p>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../../search/" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>$('#searchbox').show(0);</script><style>
+.ethical-alabaster::before {margin-top: 1em;}
+</style>
+<div id="ethical-ad-placement"></div>
+
+<div id="jobs-listing">
+    <h3>Job Postings</h3>
+    See more at our <a href="https://jobs.writethedocs.org/">Job Board</a>.
+        <ul>
+        </ul>
+</div>
+
+<div id="toc">
+
+    <h3>Site Content</h3>
+
+    <ul>
+<li class="toctree-l1"><a class="reference internal" href="../../surveys/">Salary Surveys</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../surveys/#salary-survey-now-open">2023 Salary Survey now open</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../guide/">Documentation guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../book-club/">Book Club</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../hiring-guide/">Hiring guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/stay-connected/">Stay Connected</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/about-the-org/">About Our Organization</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/events-activities/">Events and Activities</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/learning-resources/">Learning Resources</a></li>
+</ul>
+
+    
+</div>
+
+<br>
+
+
+<h3>Join our mailing list</h3>
+
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;}
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+    <form action="https://writethedocs.us6.list-manage.com/subscribe/post?u=94377ea46d8b176a11a325d03&amp;id=dcf0ed349b&amp;f_id=00d2c2e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div id="mc_embed_signup_scroll">
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
+	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
+</div>
+<div class="mc-field-group input-group">
+    <strong>What types of updates would you like? </strong>
+    <ul><li>
+    <input type="checkbox" value="1" name="group[14633][1]" id="mce-group[14633]-14633-0" checked>
+    <label for="mce-group[14633]-14633-0">Monthly Community Newsletter</label>
+</li>
+<li>
+    <input type="checkbox" value="2" name="group[14633][2]" id="mce-group[14633]-14633-1">
+    <label for="mce-group[14633]-14633-1">North American Conference Announcements</label>
+</li>
+<li>
+    <input type="checkbox" value="4" name="group[14633][4]" id="mce-group[14633]-14633-2">
+    <label for="mce-group[14633]-14633-2">European Conference Announcements</label>
+</li>
+<li>
+    <input type="checkbox" value="8" name="group[14633][8]" id="mce-group[14633]-14633-3">
+    <label for="mce-group[14633]-14633-3">Australian Conference Announcements</label>
+</li>
+<li>
+    <input type="checkbox" value="16" name="group[14633][16]" id="mce-group[14633]-14633-4">
+    <label for="mce-group[14633]-14633-4">Atlantic Conference Announcements</label>
+</li>
+</ul>
+    <span id="mce-group[14633]-HELPERTEXT" class="helper_text"></span>
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_94377ea46d8b176a11a325d03_dcf0ed349b" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<!--End mc_embed_signup-->
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+  <style>
+
+/* Sponsors */
+.sponsors {
+    float: left;
+    margin-top: 12px;
+    text-align: center;
+}
+.sponsors .sponsor {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+}
+.sponsors .sponsor img {
+    width: 90px;
+    height: auto;
+}
+.sponsors .sponsor-name {
+    font-size: 12px;
+}
+.sponsors .sponsor-description {
+    font-size: 10px;
+    color: #BCC1C3;
+}
+.sponsors .sponsor-name, .sponsors .sponsor-description {
+    text-align: center;
+    line-height: 1.4;
+}
+
+/* Links in footer */
+.footer-links {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+#social-footer {
+  line-height: 1.5rem;
+}
+div.footer,div.footer a {
+  color: #757575;
+}
+</style>
+<div class="footer">
+      
+      <div class="container footer-links">
+        <div style="flex-basis: 20rem; text-align: left;">
+          <span>© Write the Docs</span>
+          <span>
+            &nbsp;<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0; vertical-align: middle;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+          </span>
+        </div>
+        <div id="social-footer">
+          <span><a href="/contact/"><i class="iconf-email"></i>Contact Us</a></span> |
+          <span><a href="/site-map"><i class="iconf-github-circled-alt2"></i>Site map</a></span> |
+          <span><a href="https://github.com/writethedocs"><i class="iconf-github-circled-alt2"></i>GitHub</a></span> |
+          <span><a href="https://twitter.com/writethedocs"><i class="iconf-twitter-circled"></i>Twitter</a></span> |
+          <span>
+                <a href="https://www.linkedin.com/company/write-the-docs">
+                  LinkedIn
+                </a>
+          </span> |
+          <span><a href="../../code-of-conduct/">Code&nbsp;of&nbsp;Conduct</a></span> |
+          <span><a href="https://jobs.writethedocs.org/">Job Board</a></span>
+        </div>
+      </div>
+
+    
+    <a href="https://github.com/writethedocs/www" class="github">
+        <img style="position: absolute; top: 0; right: 0; border: 0;" src="/_static/img/fork-ribbon.svg" alt="Fork me on GitHub"  class="github"/>
+    </a>
+    
+
+  <div class="sponsors" id="community-sponsors" style="width: 100%;">
+  <hr>
+    <a class="sponsor" href="https://readthedocs.org" rel="noopener" target="_blank">
+      <img src="https://read-the-docs-guidelines.readthedocs-hosted.com/_images/logo-wordmark-dark.png" alt="Read the Docs" class="sponsor-image">
+      <div class="sponsor-name">Read the Docs</div>
+      <div class="sponsor-description">Website Hosting</div>
+    </a>
+    
+
+    <a class="sponsor" href="../../sponsorship/" rel="noopener" target="_blank">
+      <div class="sponsor-name">Sponsorship Info</div>
+    </a>
+  </div>
+</div>
+  </body>
+</html>

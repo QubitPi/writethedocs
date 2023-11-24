@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged stats</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/stats/atom.xml</id>
+  <updated>2023-08-14T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/stats/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/stats/atom.xml">
+    <title type="text">Write the Docs Community Update - August 2023</title>
+    <id>https://www.writethedocs.org/blog/2023-community-update/</id>
+    <updated>2023-08-14T00:00:00Z</updated>
+    <published>2023-08-14T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/2023-community-update/" />
+    <author>
+      <name>Eric Holscher</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-community-update-august-2023&quot;&gt;
+
+&lt;p&gt;Hey there documentarians!&lt;/p&gt;
+&lt;p&gt;Eric Holscher here filling in for the Newsletter team as they take their normal August break.&lt;/p&gt;
+&lt;p&gt;We’re looking forward to seeing everyone online for our virtual &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/conf/atlantic/2023/&quot;&gt;Atlantic&lt;/a&gt; on &lt;strong&gt;September 10-12&lt;/strong&gt;.
+The event is scheduled to be available for both folks in EDT and CEST timezones.
+Tickets are still on sale until a few days before the event, so grab yours now if you haven’t yet.&lt;/p&gt;
+&lt;p&gt;We’re also getting excited about our upcoming &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/conf/australia/2023/&quot;&gt;Australia&lt;/a&gt; conference on &lt;strong&gt;December 7-8&lt;/strong&gt; in Melbourne.
+The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2023/cfp/&quot;&gt;Australia conference CFP&lt;/a&gt; is open for a few more weeks if you have ideas, and can make it to Melbourne.&lt;/p&gt;
+&lt;p&gt;We held our first in-person Portland conference since 2019 this May.
+It was lovely to see all the familiar faces,
+and explore our new venue in Portland.
+The &lt;a class=&quot;reference external&quot; href=&quot;https://www.flickr.com/photos/writethedocs/albums/72177720308088427&quot;&gt;photos&lt;/a&gt; and &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/playlist?list=PLZAeFn6dfHpneQPsDWa4OmEpgW4pNiaZ2&quot;&gt;videos&lt;/a&gt; from the conference are available if you haven’t caught up with them yet.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conferences&quot;&gt;
+&lt;h2&gt;2024 Conferences&lt;/h2&gt;
+&lt;p&gt;We are still in the planning phrase for our 2024 conferences.
+We expect Portland to return in-person,
+and we will make a decision about the other conferences after the 2023 editions happen later this year.&lt;/p&gt;
+&lt;p&gt;Overall, we are trying to balance between the accessibility of virtual events and the human interaction value of in-person events.
+The other major factor is organizer energy and availability,
+given that running a conference is a lot of work across many members of our organizer teams.&lt;/p&gt;
+&lt;p&gt;We’re really grateful for the support that the community has given us throughout the past few years,
+and we’re excited to see what the future holds for our events.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;community-board-updates&quot;&gt;
+&lt;h2&gt;Community Board Updates&lt;/h2&gt;
+&lt;p&gt;Our Community Board has been meeting each quarter for all of 2023,
+and we have been posting &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/archive/tag/community-board/&quot;&gt;meeting summaries&lt;/a&gt; for each meeting.&lt;/p&gt;
+&lt;p&gt;The current structure of the board includes the team leads from each of our teams, and each of our conference chairs.
+This allows us to get a good cross-section of the community,
+and share information between the teams.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;meetup-updates&quot;&gt;
+&lt;h2&gt;Meetup Updates&lt;/h2&gt;
+&lt;p&gt;The Meetup team is focusing on updating organizer resources and streamlining communication.
+To support our efforts, the Meetup team lead Rose Williams created an organizer mailing list and distributed a meetup activity survey.
+The survey asked about meetup activity and collected ideas for evolving the local and regional meetup structure.
+The Meetup team is currently reviewing the survey results and deciding on next steps.&lt;/p&gt;
+&lt;p&gt;We appreciate all of the hard work that meetup organizers do to keep their communities engaged, and will continue to work with the meetup teams to adapt to the current the global landscape.
+If you want to start a new meetup or join an existing meetup, check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/meetups/&quot;&gt;Meetups page&lt;/a&gt; on our website.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;salary-survey&quot;&gt;
+&lt;h2&gt;Salary Survey&lt;/h2&gt;
+&lt;p&gt;Our annual salary survey gathers data about salaries for people working in documentation and related fields around the world.
+&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/surveys/salary-survey/2022/&quot;&gt;Results of the 2022 salary survey&lt;/a&gt; are available on our website.&lt;/p&gt;
+&lt;p&gt;We’re hoping to launch next year’s survey here soon,
+but haven’t put the finishing touches on it quite yet.
+Watch the newsletter for updates in the coming months.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;from-our-sponsor&quot;&gt;
+&lt;h3&gt;From our sponsor&lt;/h3&gt;
+&lt;p&gt;This month’s newsletter is sponsored by &lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com/&quot;&gt;KnowledgeOwl&lt;/a&gt;:&lt;/p&gt;
+&lt;hr&gt;
+&lt;table width=&quot;100%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; style=&quot;width:100%; max-width: 600px;&quot;&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td width=&quot;75%&quot;&gt;
+      &lt;p&gt;
+        As a documentarian, do you put your customers first in your sentences? Do you know how to write in a people-first way? Let WTD community member, Marcia Riefer Johnston, show you how it's done on our &lt;a href=&quot;https://www.knowledgeowl.com/blog/posts/customer-first-in-your-sentences&quot;&gt;blog&lt;/a&gt;.
+    &lt;/p&gt;
+
+      &lt;p&gt;
+        KnowledgeOwl helps documentarians build knowledge base websites. And we always put people first. Check out our &lt;a href=&quot;https://www.knowledgeowl.com/video-demo/&quot;&gt;5-minute demo&lt;/a&gt; or book a 15- minute call with us to learn how we can help you put your customers first.
+    &lt;/p&gt;
+
+      &lt;p&gt;
+        P.S. We love articles like Marcia's that deep dive into the craft of technical writing. Interested in sharing your ideas? We are always excited to feature WTD members and their ideas as &lt;a href=&quot;https://www.knowledgeowl.com/opportunities/&quot;&gt;paid guest blog writers&lt;/a&gt;.
+    &lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td width=&quot;25%&quot;&gt;
+        &lt;a href=&quot;https://www.knowledgeowl.com/&quot;&gt;
+          &lt;img style=&quot;margin-left: 15px;&quot; alt=&quot;SPONSOR&quot; src=&quot;/_static/img/sponsors/knowledgeowl-square.png&quot;&gt;
+        &lt;/a&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;&lt;p&gt;&lt;em&gt;Interested in sponsoring the newsletter? Take a look at our&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;/sponsorship/newsletter/&quot;&gt;sponsorship prospectus&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks&quot;&gt;
+&lt;h2&gt;Thanks&lt;/h2&gt;
+&lt;p&gt;Thanks again for subscribing to our newsletter and for being a member of our community.
+We hope to see you soon at one of our online events, on our Slack,
+or continue to see you here via this newsletter.&lt;/p&gt;
+&lt;p&gt;You can always reply to this email if you have any questions or comments.
+Stay tuned for another newsletter update next month!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/stats/atom.xml">
+    <title type="text">Write the Docs 2022 Stats</title>
+    <id>https://www.writethedocs.org/blog/write-the-docs-2022-stats/</id>
+    <updated>2023-01-13T00:00:00Z</updated>
+    <published>2023-01-13T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/write-the-docs-2022-stats/" />
+    <author>
+      <name>Eric Holscher</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-2022-stats&quot;&gt;
+
+&lt;p&gt;This year we have done a &lt;a class=&quot;reference internal&quot; href=&quot;../../../2023-january-update/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;Write the Docs Community Update - January 2023&lt;/span&gt;&lt;/a&gt; post along with our stats, which has more context and information about where we’re headed in 2023.&lt;/p&gt;
+&lt;p&gt;Unfortunately our Podcast has been in hiatus for a while with no new episodes in 2022,
+so we have removed it from the stats post.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;stats&quot;&gt;
+&lt;h2&gt;2022 Stats&lt;/h2&gt;
+&lt;p&gt;We have shared our high-level community stats since 2016,
+and will continue to do it each year going forward.&lt;/p&gt;
+&lt;p&gt;You can read our previous posts from &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/write-the-docs-2016-year-in-review/&quot;&gt;2016&lt;/a&gt;, &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/write-the-docs-2017-stats/&quot;&gt;2017&lt;/a&gt;, &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/write-the-docs-2018-stats/&quot;&gt;2018&lt;/a&gt;, &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/write-the-docs-2019-stats/&quot;&gt;2019&lt;/a&gt;, &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/write-the-docs-2020-stats/&quot;&gt;2020&lt;/a&gt;, &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/write-the-docs-2021-stats/&quot;&gt;2021&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conferences&quot;&gt;
+&lt;h3&gt;Conferences&lt;/h3&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;600 attendees in Portland (down from 650)&lt;/li&gt;
+&lt;li&gt;225 attendees in Prague (down from 330)&lt;/li&gt;
+&lt;li&gt;100 attendees in Australia (no conference in 2022)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We were excited to see continued success of the virtual conferences,
+but it definitely felt like more people are slowly yearning to return to in-person.
+The world has also had another large shock with the Russian invasion of Ukraine.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;slack-network&quot;&gt;
+&lt;h3&gt;Slack network&lt;/h3&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;18,339 &lt;a class=&quot;reference internal&quot; href=&quot;../../../../slack/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;members&lt;/span&gt;&lt;/a&gt; (up from 15,012)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;newsletter-subscribers&quot;&gt;
+&lt;h3&gt;Newsletter subscribers&lt;/h3&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;10,558 &lt;a class=&quot;reference internal&quot; href=&quot;../../../../newsletter/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;subscribers&lt;/span&gt;&lt;/a&gt; (up from 9,237)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is across all our various mailing lists (conference-specific and community newsletter).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;meetups&quot;&gt;
+&lt;h3&gt;Meetups&lt;/h3&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Over 10,000 &lt;a class=&quot;reference internal&quot; href=&quot;../../../../meetups/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;members&lt;/span&gt;&lt;/a&gt; (too many to count)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Last year we stopped counting total meetups because we launched Quorum meetups that cover a larger geographic area.
+We’re excited to see a return to in-person meetups,
+with the easing of COVID concerns in various areas where we have meetups.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;website&quot;&gt;
+&lt;h3&gt;Website&lt;/h3&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;270,000 sessions (up from 250,000)&lt;/li&gt;
+&lt;li&gt;440,000 page views (up from 395,000)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our website traffic is generally pretty stable,
+but we do see spikes around our conferences.
+This number comes from Google Analytics which many users are blocking,
+so the numbers are likely much higher in terms of total traffic.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;github&quot;&gt;
+&lt;h3&gt;GitHub&lt;/h3&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;745 &lt;a class=&quot;reference external&quot; href=&quot;https://github.com/writethedocs/www/commits/master&quot;&gt;commits&lt;/a&gt; to our repository (down from 1,193)&lt;/li&gt;
+&lt;li&gt;26 &lt;a class=&quot;reference external&quot; href=&quot;https://github.com/writethedocs/www/graphs/contributors?from=2022-01-01&amp;amp;to=2023-01-01&amp;amp;type=c&quot;&gt;people&lt;/a&gt; who contributed to our repository (down from 30)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks&quot;&gt;
+&lt;h2&gt;Thanks&lt;/h2&gt;
+&lt;p&gt;Thanks again for being part of our journey,&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/stats/atom.xml">
+    <title type="text">Write the Docs Community Update - January 2023</title>
+    <id>https://www.writethedocs.org/blog/2023-january-update/</id>
+    <updated>2023-01-12T00:00:00Z</updated>
+    <published>2023-01-12T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/2023-january-update/" />
+    <author>
+      <name>Eric Holscher</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-community-update-january-2023&quot;&gt;
+
+&lt;p&gt;Hey folks, Eric Holscher here, one of the co-founders of Write the Docs.
+I’m here with our traditional January community update.&lt;/p&gt;
+&lt;p&gt;We’re excited about a lot of things this year,
+but most of all we’re excited to see you all again in-person.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;our-2023-conferences&quot;&gt;
+&lt;h2&gt;Our 2023 conferences&lt;/h2&gt;
+&lt;p&gt;Thanks to everyone who attended our virtual events in 2022.
+We had wonderful attendance in all three of our online events, nominally located in Portland, Prague, and Australia.
+We continue to appreciate the warmth and spirit that you bring to our virtual events,
+and look forward to more of it in 2023.&lt;/p&gt;
+&lt;p&gt;We are excited this year for a partial return to in-person events,
+and a new experiment for our virtual event:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/&quot;&gt;Portland&lt;/a&gt; will be in-person on &lt;strong&gt;May 7-9&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/atlantic/2023/&quot;&gt;Atlantic&lt;/a&gt; will be a virtual event, spanning the US and European timezones, on &lt;strong&gt;September 10-12&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We are now accepting &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/cfp/&quot;&gt;talk proposals&lt;/a&gt; and selling tickets for our Portland conference.
+&lt;strong&gt;Submit your talk proposals by February 6th&lt;/strong&gt;,
+If you need feedback or help with your talk proposal,
+we will be having a virtual talk prep meetup later this month.
+The meetup will be announced soon, so follow that group or the &lt;code class=&quot;docutils literal notranslate&quot;&gt;&lt;span class=&quot;pre&quot;&gt;#meetups&lt;/span&gt;&lt;/code&gt; channel in Slack for updates.&lt;/p&gt;
+&lt;p&gt;We hope that you’ll work with us to make all of our events unique again this year by submitting talks and showing up in person or virtually with your usual enthusiasm and warmth.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;community-teams-restructuring&quot;&gt;
+&lt;h2&gt;Community teams restructuring&lt;/h2&gt;
+&lt;p&gt;There are some changes coming to our teams this year,
+specifically the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/team/#core-operations-coreops&quot;&gt;Core Operations (CoreOps) team&lt;/a&gt; and new &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/team/#community-board&quot;&gt;Community board&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;CoreOps team&lt;/em&gt; is a small group of us that have been working to make Write the Docs happen for a long time.
+Historically this group has included our Portland &amp;amp; Prague conference chairs,
+along with a couple other folks heavily involved in the overall operation of Write the Docs, such as website infrastructure and community support.
+It’s responsible for the tasks involved in keeping Write the Docs a viable organization.&lt;/p&gt;
+&lt;p&gt;The major change happening there is that Mikey Ariel will be stepping down as the Prague conference chair and moving to a new role focused on global and non-conference community development.
+Sasha Romijn will be filling the role of conference chair for our Atlantic conference.
+The other members of the CoreOps team, myself &amp;amp; Samuel Wright, will continue with our current roles.&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;Community board&lt;/em&gt; is new, and tasked with the overall direction of the community.
+The members are the team leads of each of the Write the Docs team,
+as well as the conference chairs of our various conferences.
+Our goal is to have meetings quarterly where we all share the status of what we’re working on,
+and request any help that we could use in keeping the various teams functioning effectively.
+We’re hoping that having more defined communication will help the community teams (mostly run by volunteers) to feel more connected and supported in the work we’re all doing.&lt;/p&gt;
+&lt;p&gt;You can see the full set of changes in &lt;a class=&quot;reference external&quot; href=&quot;https://github.com/writethedocs/weps/blob/main/accepted/WEP0004-community-board.rst&quot;&gt;WEP 4&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;other-community-updates&quot;&gt;
+&lt;h2&gt;Other community updates&lt;/h2&gt;
+&lt;p&gt;We have shared our high-level community stats for the past 5 years,
+and will continue to do it each year going forward.
+You can view our 2022 stats on our blog at &lt;a class=&quot;reference internal&quot; href=&quot;../../../write-the-docs-2022-stats/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;Write the Docs 2022 Stats&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Submissions for our fourth annual salary survey have closed and we’re eagerly poring over the numbers.
+Expect the full report, analyzing salary information from 524 documentarians in 42 countries, in the first quarter of this year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;from-our-sponsor&quot;&gt;
+&lt;h2&gt;From our sponsor&lt;/h2&gt;
+&lt;p&gt;This month’s newsletter is sponsored by Zoomin:&lt;/p&gt;
+&lt;hr&gt;
+&lt;table width=&quot;100%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; style=&quot;width:100%; max-width: 600px;&quot;&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td width=&quot;75%&quot;&gt;
+          &lt;p&gt;
+          &lt;a href=&quot;https://www.zoominsoftware.com/platform?vert=Write_The_Docs&amp;utm_medium=referral&amp;utm_source=WriteTheDocs&amp;utm_campaign=Jan_Newsletter&amp;utm_content=&quot;&gt;Fast and easy content delivery!&lt;/a&gt; Publish content everywhere at the click of a button to maximize your team productivity
+          &lt;/p&gt;
+
+          &lt;p&gt;
+          &lt;a href=&quot;https://www.zoominsoftware.com/webinars/how-i-learned-to-stop-worrying-and-love-m-a?vert=Write_The_Docs&amp;utm_medium=referral&amp;utm_source=WriteTheDocs&amp;utm_campaign=Jan_Newsletter&amp;utm_content=&quot;&gt;Watch our latest panel&lt;/a&gt; on what your documentation team can start doing today to prepare for M&amp;A
+          &lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td width=&quot;25%&quot;&gt;
+        &lt;a href=&quot;https://www.zoominsoftware.com/?vert=Write_The_Docs_Newsletter&amp;utm_medium=referral&amp;utm_source=WriteTheDocs&amp;utm_campaign=Jan_Newsletter&quot;&gt;
+          &lt;img style=&quot;margin-left: 15px;&quot; alt=&quot;Zoomin&quot; src=&quot;/_static/img/sponsors/zoomin.png&quot;&gt;
+        &lt;/a&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;&lt;p&gt;&lt;em&gt;Interested in sponsoring the newsletter? Take a look at our&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;/sponsorship/newsletter/&quot;&gt;sponsorship prospectus&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;have-a-great-year&quot;&gt;
+&lt;h2&gt;Have a great year&lt;/h2&gt;
+&lt;p&gt;Thanks again for being part of our journey.&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/stats/atom.xml">
+    <title type="text">Write the Docs Community Update - August 2022</title>
+    <id>https://www.writethedocs.org/blog/2022-community-update/</id>
+    <updated>2022-08-22T00:00:00Z</updated>
+    <published>2022-08-22T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/2022-community-update/" />
+    <author>
+      <name>Eric Holscher</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-community-update-august-2022&quot;&gt;
+
+&lt;p&gt;Hey there documentarians!&lt;/p&gt;
+&lt;p&gt;Eric Holscher here, one of the co-founders of Write the Docs.
+Filling in again for the newsletter team in August this year,
+we have a few updates from the community about what has been going on.
+Thanks again to &lt;a class=&quot;reference external&quot; href=&quot;https://collier.cz/&quot;&gt;Aaron&lt;/a&gt; for taking over the newsletter editor role,
+and thanks to &lt;a class=&quot;reference external&quot; href=&quot;https://bethaitman.com/&quot;&gt;Beth&lt;/a&gt; for doing it for the last few years.&lt;/p&gt;
+&lt;p&gt;We’re looking forward to seeing everyone online for our virtual &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/conf/prague/2022/&quot;&gt;Prague&lt;/a&gt; on &lt;strong&gt;September 11-13&lt;/strong&gt; in the CEST timezone.
+Tickets are still on sale until a week before the event, so grab yours now if you haven’t yet.
+We’re also getting excited about our upcoming virtual &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/conf/australia/2022/&quot;&gt;Australia&lt;/a&gt; conference on &lt;strong&gt;December 8-9&lt;/strong&gt; in the AEDT timezone.
+The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/cfp/&quot;&gt;Australia conference CFP&lt;/a&gt; is open until September 16 if you have ideas to present.&lt;/p&gt;
+&lt;p&gt;We had our third virtual Portland conference this year.
+It was another success with almost 600 people attending from all over the world.
+The &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/playlist?list=PLZAeFn6dfHpnDhFvXG8GprqlLlzSQRBui&quot;&gt;videos&lt;/a&gt; from the conference are available online.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conferences&quot;&gt;
+&lt;h2&gt;2023 Conferences&lt;/h2&gt;
+&lt;p&gt;We are looking forward to the rest of our 2022 conferences,
+but we’re also starting to plan for 2023.
+We had hoped to do a hybrid event last year,
+but found the logistics quite difficult to figure out.
+You can read more in our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2022/news/conference-going-virtual/&quot;&gt;2022 virtual announcement&lt;/a&gt; about the difficulties we had with hybrid.&lt;/p&gt;
+&lt;p&gt;We know the community is slowly becoming more excited for in-person events as time goes on.
+The hope is to have events in 2023 that are valuable for both our in-person and virtual attendees,
+but we haven’t figured out exactly what that looks like.&lt;/p&gt;
+&lt;p&gt;We continue to work to balance the bandwidth of our organizing team,
+the accessibility that virtual provides,
+and the value from live human interaction that we all miss.
+We will have more announcements about our 2023 plans closer to the end of the year,
+but we appreciate all the support we’ve gotten from you all as we figure things out.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;slack-update&quot;&gt;
+&lt;h2&gt;Slack update&lt;/h2&gt;
+&lt;p&gt;Slack has &lt;a class=&quot;reference external&quot; href=&quot;https://slack.com/blog/news/pricing-and-plan-updates&quot;&gt;changed it policy around free plans&lt;/a&gt;,
+starting in September we will have &lt;strong&gt;3 months of Slack history&lt;/strong&gt;.
+This will make the community a much more useful place for people who interact occasionally,
+allowing them to catch up on past conversations a bit more easily.
+We know some people wish we could pay for Slack,
+but we address &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/slack/#slack-history&quot;&gt;Slack history limitations&lt;/a&gt; on our website.&lt;/p&gt;
+&lt;p&gt;We also wanted to take the time to show appreciation to Janine Chan and all our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/team/#slack-moderation&quot;&gt;Slack moderation team&lt;/a&gt;.
+We are overjoyed at the helpful community that we’ve been able to curate on our Slack network,
+and they play a huge role in that.
+If you aren’t on our Slack,
+we hope you’ll join us and contribute to the many varied discussions happening each day.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;salary-survey&quot;&gt;
+&lt;h2&gt;Salary Survey&lt;/h2&gt;
+&lt;p&gt;Our annual salary survey gathers data about salaries for people working in documentation and related fields around the world.
+&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/surveys/salary-survey/2021/&quot;&gt;Results of the 2021 salary survey&lt;/a&gt; are available on our website.&lt;/p&gt;
+&lt;p&gt;We continue to receive great feedback from members of the community that use this information to set expectations around salary with their employers.
+Leveling the playing field in employment negotiations is one of the best things we can do to help our community members,
+and we plan to continue working on this endeavor.&lt;/p&gt;
+&lt;p&gt;We’re hoping to launch next year’s survey here soon,
+but haven’t put the finishing touches on it quite yet.
+Watch the newsletter for updates in the coming months.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;from-our-sponsor&quot;&gt;
+&lt;h3&gt;From our sponsor&lt;/h3&gt;
+&lt;p&gt;This month’s newsletter is sponsored by &lt;a class=&quot;reference external&quot; href=&quot;https://www.zoominsoftware.com/?vert=Write_The_Docs_Newsletter&amp;amp;utm_medium=referral&amp;amp;utm_source=WriteTheDocs&amp;amp;utm_campaign=Write_The_Docs_Newsletter&quot;&gt;Zoomin&lt;/a&gt;:&lt;/p&gt;
+&lt;hr&gt;
+&lt;table width=&quot;100%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; style=&quot;width:100%; max-width: 600px;&quot;&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td width=&quot;75%&quot;&gt;
+      &lt;p&gt;
+      Wanna know how Docusign decreased average publishing time by 94% while increasing their system usability score by 90%? &lt;a href=&quot;https://www.zoominsoftware.com/webinars/how-docusign-scaled-content-operations-for-customer-self-service&quot;&gt;Watch the video&lt;/a&gt;
+      &lt;/p&gt;
+      &lt;p&gt;
+      Taxonomy woes got you scratching your head? &lt;a href=&quot;https://www.zoominsoftware.com/blog/everything-you-asked-about-taxonomy-development-with-heather-hedden&quot;&gt;Here are&lt;/a&gt; the most asked questions (and answers!) from our audience around taxonomy development that just might help.
+
+      &lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td width=&quot;25%&quot;&gt;
+        &lt;a href=&quot;https://www.zoominsoftware.com/?vert=Write_The_Docs_Newsletter&amp;utm_medium=referral&amp;utm_source=WriteTheDocs&amp;utm_campaign=Write_The_Docs_Newsletter&quot;&gt;
+          &lt;img style=&quot;margin-left: 15px;&quot; alt=&quot;SPONSOR&quot; src=&quot;/_static/img/sponsors/zoomin.png&quot;&gt;
+        &lt;/a&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;&lt;p&gt;&lt;em&gt;Interested in sponsoring the newsletter? Take a look at our&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;/sponsorship/newsletter/&quot;&gt;sponsorship prospectus&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;featured-job-posts&quot;&gt;
+&lt;h2&gt;Featured job posts&lt;/h2&gt;
+&lt;p&gt;This month’s job postings are sponsored by &lt;a class=&quot;reference external&quot; href=&quot;https://www.jetbrains.com/careers/jobs/?role=Technical%20writer&quot;&gt;JetBrains&lt;/a&gt;:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;dl class=&quot;first docutils&quot;&gt;
+&lt;dt&gt;&lt;strong&gt;JetBrains&lt;/strong&gt; is constantly and desperately looking for technical writers who love development and developer environments and are open to new challenges.&lt;/dt&gt;&lt;dd&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.jetbrains.com/careers/jobs/?role=Technical%20writer&quot;&gt;Come to work with us&lt;/a&gt;. We are the opposite of boring.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We also had the following featured job postings:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/904/technical-writer/&quot;&gt;Technical Writer&lt;/a&gt;, ESLint (Remote)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/917/technical-writer/&quot;&gt;Technical Writer&lt;/a&gt;,  Payara Services Ltd (Remote)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;To apply for these jobs and more, visit the&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/&quot;&gt;Write the Docs job board&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks&quot;&gt;
+&lt;h2&gt;Thanks&lt;/h2&gt;
+&lt;p&gt;Thanks again for subscribing to our newsletter and for being a member of our community.
+We hope to see you soon at one of our online events, on our Slack,
+or continue to see you here via this newsletter.&lt;/p&gt;
+&lt;p&gt;You can always reply to this email if you have any questions or comments.
+Stay tuned for another newsletter update next month!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/stats/atom.xml">
+    <title type="text">Write the Docs Community Kickoff - January 2022</title>
+    <id>https://www.writethedocs.org/blog/2022-january-community-update/</id>
+    <updated>2022-01-17T00:00:00Z</updated>
+    <published>2022-01-17T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/2022-january-community-update/" />
+    <author>
+      <name>Eric Holscher</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-community-kickoff-january-2022&quot;&gt;
+
+&lt;p&gt;Hey folks, Eric Holscher here, one of the co-founders of Write the Docs.
+I’m here with the traditional January community update replacement to the newsletter.
+It’s a short one this year.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;new-hybrid-conference-format&quot;&gt;
+&lt;h2&gt;New hybrid conference format&lt;/h2&gt;
+&lt;p&gt;Thanks to everyone who attended our virtual events in 2021.
+We had record attendance in Portland and Prague, and the
+Australian team took a well-deserved break.
+We continue to appreciate the warmth and spirit that you bring to our virtual events,
+and look forward to more of it in 2022.&lt;/p&gt;
+&lt;p&gt;Our goal this year is to tentatively, and safely, bring our conferences back to
+the in-person realm while keeping the improved accessibility provided by the
+virtual events.
+Managing hybrid in-person &lt;em&gt;and&lt;/em&gt; virtual conferences is going to be a huge
+learning experience, but we think it will be worth it.&lt;/p&gt;
+&lt;p&gt;We hope that you’ll work with us to make all of our events special by submitting talks,
+and showing up with your usual enthusiasm and warmth.
+Hopefully your &lt;a class=&quot;reference external&quot; href=&quot;https://ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/&quot;&gt;Pac-Man skills&lt;/a&gt; haven’t gotten too rusty :)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;overall-community-goals&quot;&gt;
+&lt;h2&gt;Overall community goals&lt;/h2&gt;
+&lt;p&gt;We’ve been excited this year to see continued growth in our &lt;strong&gt;Slack network&lt;/strong&gt;,
+now numbering over 15,000 people!
+A lot of work has been done to expand our ability to moderate the community,
+with &lt;a class=&quot;reference external&quot; href=&quot;https://github.com/writethedocs/weps/blob/master/accepted/WEP0002.rst&quot;&gt;WEP2 - Slack community moderation procedures&lt;/a&gt; being the cornerstone.
+Credit to Janine Chan who authored this WEP,
+and is the new lead of the Slack moderation team.&lt;/p&gt;
+&lt;p&gt;We’re also excited to kick off another round of our &lt;strong&gt;Salary Survey&lt;/strong&gt;.
+This is the third year that we’ve been doing that,
+and we’ve gotten a lot of great feedback.
+Thanks to Kay Smoljak who continues to manage that for us.&lt;/p&gt;
+&lt;p&gt;I’d like to share a few pieces of anonymous feedback that show the value of this information to our community:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;p&gt;This survey really helped me feel confident in my ask last year when I was negotiating a raise.&lt;/p&gt;
+&lt;p&gt;I was promoted and given the biggest pay rise I’ve ever seen!&lt;/p&gt;
+&lt;p&gt;Even as a lone writer, I don’t feel alone. Kind of like I’m in a union!&lt;/p&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;We are still working to build more engagement with our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/introducing-weps/&quot;&gt;Write the Docs Enhancement Proposal (WEP)&lt;/a&gt; process.
+Having our community governance more formalized (and documented) is one of our continuing goals,
+as is ensuring that people in the community have a voice in how the organization is run.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;other-community-updates&quot;&gt;
+&lt;h2&gt;Other community updates&lt;/h2&gt;
+&lt;p&gt;We have shared our high-level community stats for the past 5 years,
+and will continue to do it each year going forward.
+You can view our 2021 stats on our blog at &lt;a class=&quot;reference internal&quot; href=&quot;../../../write-the-docs-2021-stats/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;Write the Docs 2021 Stats&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We’re are now accepting &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2022/cfp/&quot;&gt;talk proposals&lt;/a&gt; for our Portland conference, May 22-24.
+All talks will be pre-recorded, so you can speak from anywhere again this year!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Submit your talk proposals by February 15th&lt;/strong&gt;,
+If you need feedback or help with your talk proposal,
+we will be having a &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/virtual-write-the-docs-west-coast-quorum&quot;&gt;virtual talk prep meetup&lt;/a&gt; on &lt;strong&gt;February 3&lt;/strong&gt;.
+The meetup will be announced soon, so follow that group or the &lt;code class=&quot;docutils literal notranslate&quot;&gt;&lt;span class=&quot;pre&quot;&gt;#meetups&lt;/span&gt;&lt;/code&gt; channel in Slack.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;from-our-sponsor&quot;&gt;
+&lt;h2&gt;From our sponsor&lt;/h2&gt;
+&lt;p&gt;This month’s newsletter is sponsored by &lt;a class=&quot;reference external&quot; href=&quot;https://www.archbee.io/?ref=writethedocs&quot;&gt;Archbee&lt;/a&gt;:&lt;/p&gt;
+&lt;hr&gt;
+&lt;table width=&quot;100%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; style=&quot;width:100%; max-width: 600px;&quot;&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td width=&quot;75%&quot;&gt;
+          &lt;p&gt;
+          &lt;a href=&quot;https://www.archbee.io/?ref=writethedocs&quot;&gt;Archbee&lt;/a&gt; is a cloud-based documentation platform for building public-facing docs, internal wikis, or sharing documents directly with customers.
+          It's the product documentation site you want without spending dev hours.
+          &lt;/p&gt;
+
+          &lt;p&gt;
+          &lt;a href=&quot;https://app.archbee.io/signup/?ref=writethedocs&quot;&gt;Sign up and explore&lt;/a&gt; the fast editor with markdown shortcuts and 20+ custom blocks.
+          &lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td width=&quot;25%&quot;&gt;
+        &lt;a href=&quot;https://www.archbee.io/?ref=writethedocs&quot;&gt;
+          &lt;img style=&quot;margin-left: 15px;&quot; alt=&quot;Paligo&quot; src=&quot;/_static/img/sponsors/archbee.png&quot;&gt;
+        &lt;/a&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;&lt;p&gt;&lt;em&gt;Interested in sponsoring the newsletter? Take a look at our&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;/sponsorship/newsletter/&quot;&gt;sponsorship prospectus&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;featured-job-posts&quot;&gt;
+&lt;h2&gt;Featured job posts&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/535/technical-content-marketer/&quot;&gt;Technical Content Marketer&lt;/a&gt;,  Chainlink Labs
+Remote, full-time&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/559/technical-writer/&quot;&gt;Technical Writer&lt;/a&gt;, Tecton
+Remote (San Francisco, CA, USA), full-time&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/570/technical-writer/&quot;&gt;Technical Writer&lt;/a&gt;, Corrily
+Remote, part-time&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;To apply for these jobs and more, visit the&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/&quot;&gt;Write the Docs job board&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;have-a-great-year&quot;&gt;
+&lt;h2&gt;Have a great year&lt;/h2&gt;
+&lt;p&gt;Thanks again for being part of our journey.&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/stats/atom.xml">
+    <title type="text">Write the Docs 2021 Stats</title>
+    <id>https://www.writethedocs.org/blog/write-the-docs-2021-stats/</id>
+    <updated>2022-01-13T00:00:00Z</updated>
+    <published>2022-01-13T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/write-the-docs-2021-stats/" />
+    <author>
+      <name>Eric Holscher</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-2021-stats&quot;&gt;
+
+&lt;p&gt;This year we have done a &lt;a class=&quot;reference internal&quot; href=&quot;../../../2022-january-community-update/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;Write the Docs Community Kickoff - January 2022&lt;/span&gt;&lt;/a&gt; post along with our stats.
+Check there for context around the community going into 2022.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;stats&quot;&gt;
+&lt;h2&gt;2021 Stats&lt;/h2&gt;
+&lt;p&gt;We have shared our high-level community stats for the past 5 years,
+and will continue to do it each year going forward.&lt;/p&gt;
+&lt;p&gt;You can read our previous posts from &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/write-the-docs-2016-year-in-review/&quot;&gt;2016&lt;/a&gt;, &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/write-the-docs-2017-stats/&quot;&gt;2017&lt;/a&gt;, &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/write-the-docs-2018-stats/&quot;&gt;2018&lt;/a&gt;, &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/write-the-docs-2019-stats/&quot;&gt;2019&lt;/a&gt;, and &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/write-the-docs-2020-stats/&quot;&gt;2020&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conferences&quot;&gt;
+&lt;h3&gt;Conferences&lt;/h3&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;700 attendees in Portland (up from 600)&lt;/li&gt;
+&lt;li&gt;330 attendees in Prague (up from 325)&lt;/li&gt;
+&lt;li&gt;Australia took a break in 2021.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We were excited to see continued success of the virtual conferences.
+The year also took a toll on the Australia community at the time of planning,
+so they decided to take a break this year and do a “super meetup” instead.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;slack-network&quot;&gt;
+&lt;h3&gt;Slack Network&lt;/h3&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;15,012 &lt;a class=&quot;reference internal&quot; href=&quot;../../../../slack/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;members&lt;/span&gt;&lt;/a&gt; (up from 11,350)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;newsletters&quot;&gt;
+&lt;h3&gt;Newsletters&lt;/h3&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;9,237 &lt;a class=&quot;reference internal&quot; href=&quot;../../../../newsletter/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;subscribers&lt;/span&gt;&lt;/a&gt; (up from 8,225)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is across all our various mailing lists (conference-specific and community newsletter).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;meetups&quot;&gt;
+&lt;h3&gt;Meetups&lt;/h3&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Over 10,000 members (too many to count)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This year we’ve stopped counting total meetups because we’ve launched Quorum meetups that cover a larger geographic area.
+COVID has also reduced the vitality of Meetups,
+but we hope to see them rebounding once in-person gathering is safe again.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;podcast&quot;&gt;
+&lt;h3&gt;Podcast&lt;/h3&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;35 &lt;a class=&quot;reference internal&quot; href=&quot;../../../../podcast/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;episodes&lt;/span&gt;&lt;/a&gt; total (up from 32)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;website&quot;&gt;
+&lt;h3&gt;Website&lt;/h3&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;250,000 sessions (up from 225,000)&lt;/li&gt;
+&lt;li&gt;394,943 page views (up from 375,000)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Website traffic is likely pretty stable.
+This number comes from Google Analytics which many users are blocking,
+so the numbers are likely much higher in terms of total traffic.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;github&quot;&gt;
+&lt;h3&gt;GitHub&lt;/h3&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;1,193 &lt;a class=&quot;reference external&quot; href=&quot;https://github.com/writethedocs/www/commits/master&quot;&gt;commits&lt;/a&gt; to our repository (down from 1,321)&lt;/li&gt;
+&lt;li&gt;30 &lt;a class=&quot;reference external&quot; href=&quot;https://github.com/writethedocs/www/graphs/contributors?from=2020-01-01&amp;amp;to=2021-01-01&amp;amp;type=c&quot;&gt;people&lt;/a&gt; who contributed to our repository (down from 35)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-again&quot;&gt;
+&lt;h2&gt;Thanks again&lt;/h2&gt;
+&lt;p&gt;Thanks again for being part of our journey.&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/stats/atom.xml">
+    <title type="text">Write the Docs Community Update - August 2021</title>
+    <id>https://www.writethedocs.org/blog/2021-community-update/</id>
+    <updated>2021-08-13T00:00:00Z</updated>
+    <published>2021-08-13T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/2021-community-update/" />
+    <author>
+      <name>Eric Holscher</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-community-update-august-2021&quot;&gt;
+
+&lt;p&gt;Hey there documentarians!&lt;/p&gt;
+&lt;p&gt;Eric Holscher here, one of the co-founders of Write the Docs.
+The newsletter team is taking August off this year,
+but there’s still plenty going on in the community.
+This update covers what else is going on behind the scenes while the newsletter team takes a much deserved break.&lt;/p&gt;
+&lt;p&gt;We’re looking forward to seeing everyone online for our virtual &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/conf/prague/2021/&quot;&gt;Prague&lt;/a&gt; on &lt;strong&gt;October 3-5&lt;/strong&gt; in the CEST timezone.
+We’re also getting excited about our upcoming virtual &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/conf/australia/2021/&quot;&gt;Australia &amp;amp; India&lt;/a&gt; conference on &lt;strong&gt;December 2-3&lt;/strong&gt; in the AEDT timezone.
+The talks were just announced for the Prague conference, and the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2021/cfp/&quot;&gt;Australia &amp;amp; India conference CFP&lt;/a&gt; &lt;strong&gt;is open until August 31 if you have ideas to present.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We also had our second virtual Portland conference in April this year.
+It was another success with almost 700 people attending from all over the world.
+The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/videos/portland/2021/&quot;&gt;videos&lt;/a&gt; from the conference are now available online.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;write-the-docs-enhancement-proposals-weps&quot;&gt;
+&lt;h2&gt;Write the Docs Enhancement Proposals (WEPs)&lt;/h2&gt;
+&lt;p&gt;We have had a WEPs for a little while now,
+but they haven’t seen a ton of traction in the tumultuous last 18 months.
+There are a couple of exciting updates to report though.&lt;/p&gt;
+&lt;p&gt;We have approved our &lt;a class=&quot;reference external&quot; href=&quot;https://github.com/writethedocs/weps/blob/master/accepted/WEP0002.rst#wep2---slack-community-moderation-procedures&quot;&gt;Slack Moderation WEP&lt;/a&gt;, which defines the process for moderating Slack much more explicitly.
+The more formalized process can help grow our moderation team,
+and reduce confusion about the roles and responsibilities involved.
+We strive to keep the community friendly and inviting,
+and moderation is a necessary part of that work.&lt;/p&gt;
+&lt;p&gt;We have also just launched a new &lt;a class=&quot;reference external&quot; href=&quot;https://github.com/writethedocs/weps/pull/5&quot;&gt;organizational structure and governance WEP&lt;/a&gt;,
+which will help to shape the structure of how Write the Docs operates.
+This WEP will define all the various teams in the community,
+as well as how decisions are made at the organizational level.
+The proposal adds the concept of a Community Council,
+which will be made up of the team leads of all the community teams.
+The Community Council will make many decisions around the community,
+allowing more people to share in the official leadership structure.&lt;/p&gt;
+&lt;p&gt;We hope that more people in our community will participate in the WEP process,
+so please read through the proposal and give us feedback.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;write-the-docs-community-shop&quot;&gt;
+&lt;h2&gt;Write the Docs community shop&lt;/h2&gt;
+&lt;p&gt;We’ve heard from some of the folks in the community that they are missing all the swag we used to give away at our conferences.
+We always had lots of little goodies to give folks across the years, including stickers, notebooks, shirts, hoodies, and other bigger items in some of our raffle giveaways.
+We’re excited to be able to bring back a small version of that for those of you who want to wear your documentarian pride on your sleeves :)&lt;/p&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.threadless.com/&quot;&gt;Write the Docs Store&lt;/a&gt; is now live with lots of good things. &lt;strong&gt;We have stickers, mugs, phone cases, bags, prints, and notebooks&lt;/strong&gt; with these designs:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.threadless.com/collections/docs-or-it-didnt-happen&quot;&gt;Docs or it didn’t happen&lt;/a&gt; swag in dark &amp;amp; light&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.threadless.com/collections/wtd-portland-2021-sketchnotes&quot;&gt;Sketchnotes&lt;/a&gt; from all the talks at our Portland 2021 conference&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.threadless.com/collections/community-logos&quot;&gt;Community logos&lt;/a&gt; which provide a simple way to show your WTD pride&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We have tried to find a vendor which has reasonable shipping costs so that we can keep the costs down for our community, but it can still add up.
+We recommend trying to do a group purchase with a meetup or company so that you can reduce the costs involved, and get a few different options of the various items.
+If you also want a bulk order of stickers or similar swag for a meetup, we can also directly ship them to you for free if you email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:support&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;support&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;job-board-newsletter-sponsorship-pricing-updates&quot;&gt;
+&lt;h2&gt;Job Board &amp;amp; Newsletter sponsorship pricing updates&lt;/h2&gt;
+&lt;p&gt;We have been seeing great success with our &lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/&quot;&gt;job board&lt;/a&gt; and &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/sponsorship/newsletter/&quot;&gt;newsletter sponsorships&lt;/a&gt;.
+We’re glad to see that these are so popular and have
+decided to bring the pricing closer to the value they provide.&lt;/p&gt;
+&lt;p&gt;Starting in August:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;The newsletter sponsorship price is $350&lt;/li&gt;
+&lt;li&gt;A featured job posting price is $250&lt;/li&gt;
+&lt;li&gt;A regular job posting price is $100&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With the move to virtual events and uncertainty in the world,
+we’re hoping to be able to use these additional sources of revenue to keep WTD sustainable well into the future.&lt;/p&gt;
+&lt;p&gt;We do have &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/sponsorship/&quot;&gt;additional sponsorship options&lt;/a&gt; available in the community including virtual conference sponsorships, website sponsorship, and more.
+We’re also open to new or interesting ways to build sponsorship into the community,
+so reach out to us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:sponsorship&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;sponsorship&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt; if you have any fun ideas!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;salary-survey&quot;&gt;
+&lt;h2&gt;Salary Survey&lt;/h2&gt;
+&lt;p&gt;The annual salary survey, run by the Write the Docs community, aims to gather data about salaries for people working in documentation and related fields around the world. &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/surveys/salary-survey/2020/&quot;&gt;Results of the second survey&lt;/a&gt; are available on our website.&lt;/p&gt;
+&lt;p&gt;We hope that this data can help our community members determine what appropriate salary ranges are, and provide a benchmark for future employment-related decisions and negotiations.
+Additionally, we’re hoping the results spark discussion of employment-related trends and issues in our industry, including but not limited to the effects of the COVID-19 pandemic.&lt;/p&gt;
+&lt;p&gt;We’re hoping to launch a 2021 survey here soon,
+but haven’t put the finishing touches on it quite yet.
+Watch the newsletter for that in the coming months.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;featured-job-posts&quot;&gt;
+&lt;h2&gt;Featured job posts&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/451/technical-content-developer/&quot;&gt;Technical Content Developer&lt;/a&gt;, Vectorized.io (Remote)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/437/senior-technical-writer/&quot;&gt;Senior Technical Writer&lt;/a&gt;, Galvanize (Bangalore, Karnataka, India)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/434/technical-writer-product-documentation/&quot;&gt;Technical Writer - Product Documentation&lt;/a&gt;, Upbound (Remote)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/435/technical-writer/&quot;&gt;Technical Writer&lt;/a&gt; 3M (Remote)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/440/tech-writer-for-the-domain-specific-language-dsl-documentation/&quot;&gt;Tech Writer for the domain-specific language (DSL) documentation&lt;/a&gt;, Superface (Remote)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;To apply for these jobs and more, visit the&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/&quot;&gt;Write the Docs job board&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks&quot;&gt;
+&lt;h2&gt;Thanks&lt;/h2&gt;
+&lt;p&gt;Thanks again for subscribing to our newsletter and for being a member of our community.
+We hope to see you soon at one of our online events, on our Slack,
+or continue to see you here via this newsletter.&lt;/p&gt;
+&lt;p&gt;You can always reply to this email if you have any questions or comments.
+Stay tuned for another newsletter update next month!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/stats/atom.xml">
+    <title type="text">Write the Docs Community Kickoff - January 2021</title>
+    <id>https://www.writethedocs.org/blog/2021-january-community-update/</id>
+    <updated>2021-01-13T00:00:00Z</updated>
+    <published>2021-01-13T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/2021-january-community-update/" />
+    <author>
+      <name>Eric Holscher</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-community-kickoff-january-2021&quot;&gt;
+
+&lt;p&gt;Hey folks, Eric Holscher here, one of the co-founders of Write the Docs.
+This is the January edition of the newsletter,
+which has a community update to give the newsletter team the month off.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;a-new-year&quot;&gt;
+&lt;h2&gt;A new year&lt;/h2&gt;
+&lt;p&gt;A new year comes with many expectations:
+hoping for change,
+setting new goals,
+and feeling optimistic about the fresh year that has just begun.&lt;/p&gt;
+&lt;p&gt;Sadly this year that optimism has been dashed in record time.
+We have written many times throughout 2020 that we hope you’re okay,
+and we’re continuing that tradition once more in our first newsletter of 2021.&lt;/p&gt;
+&lt;p&gt;We hope you’re okay,
+and we hope that the storm we have been engulfed in will soon pass.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;a-heartfelt-thanks&quot;&gt;
+&lt;h2&gt;A heartfelt thanks&lt;/h2&gt;
+&lt;p&gt;We had a lot of big plans for last year,
+but most of those had to be put on hold in March as we scrambled to move our community fully online.
+Getting to see all the happy faces at our in-person events is one of the largest motivators for people who organize events.
+Sadly this year, we weren’t able to make that happen.&lt;/p&gt;
+&lt;p&gt;2020 has shown that the love and care we put into the community will be returned back to us when needed.
+When we moved the conferences online,
+we were genuinely worried about the health and longevity of Write the Docs.
+As we noted in our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2020/ticket-choices/&quot;&gt;ticket choices&lt;/a&gt; page for Portland,
+we had a lot of outstanding debts and we didn’t know how much support we would get with our online conferences.
+It was easy to see a worst case scenario where our venues didn’t refund us and people didn’t support the online events.&lt;/p&gt;
+&lt;p&gt;We are happy to report that we received overwhelming support from our vendors, sponsors, speakers, team, and attendees:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Most of our vendors refunded our down payments in full. Our A/V and captioning folks adapted perfectly to the new format.&lt;/li&gt;
+&lt;li&gt;Only 1 of our sponsors canceled because of the transition to a virtual event.&lt;/li&gt;
+&lt;li&gt;Our speakers pulled together to record videos and handle live online Q&amp;amp;A.&lt;/li&gt;
+&lt;li&gt;Our team pulled together to run virtual events that exceeded our expectations for what those events could be.&lt;/li&gt;
+&lt;li&gt;Our attendees, most importantly, made our virtual events &lt;em&gt;feel&lt;/em&gt; like our conferences, with a supportive and generous spirit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2020 has been a hard year,
+but we wanted to take this chance to give thanks to those who made 2020 a special year.
+We feel incredibly lucky to be able to support this wonderful community,
+and we look forward to making 2021 the best year yet,
+with your help.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;looking-forward&quot;&gt;
+&lt;h2&gt;Looking forward&lt;/h2&gt;
+&lt;p&gt;One of the largest things we noticed in 2020 was how much more support our community needed.
+As we scrambled to move our events online,
+people were also adjusting to working remotely for the first time.
+We saw lots of activity in our Slack network,
+as people were trying to connect online.
+Meetups slowly adjusted,
+trying to move online and keep some momentum going.&lt;/p&gt;
+&lt;p&gt;Write the Docs itself was able to provide similar value as in the past,
+but we had limited resources to adjust to the changing world.
+The profits from our conferences pay for everything we do,
+which constrains our ability to adjust to events as they happen.&lt;/p&gt;
+&lt;p&gt;We are planning a way for our community to support the organization directly.
+We are proud that all the content that Write the Docs produces is free to everyone,
+and we don’t plan to change that any time soon.
+The goal for 2021 is to be able to provide additional support to our community,
+funded by members in that community, who are able to contribute.&lt;/p&gt;
+&lt;p&gt;We’re still working out the details,
+and will be posting a &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/introducing-weps/&quot;&gt;Write the Docs Enhancement Proposal (WEP)&lt;/a&gt; soon to ask the community for feedback.
+We hope that you’ll support us in building a community that is better able to support you.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;write-the-docs-quorum-meetups&quot;&gt;
+&lt;h2&gt;Write the Docs Quorum Meetups&lt;/h2&gt;
+&lt;p&gt;One of the first things we’re excited about this year is an evolution of our meetups: Quorum meetups.
+These quarterly, remote, “super” meetups are an hour long and include a presentation by a speaker followed by breakout networking.&lt;/p&gt;
+&lt;p&gt;Write the Docs is running three Quorum pilot programs for 2021:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/virtual-write-the-docs-east-coast-quorum/&quot;&gt;Virtual Write the Docs East Coast Quorum on Meetup.com&lt;/a&gt; - For participants in the Eastern (UTC-4) and Central (UTC-5) time zones. The first meetup is planned for &lt;strong&gt;February&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/virtual-write-the-docs-west-coast-quorum/&quot;&gt;Virtual Write the Docs West Coast Quorum on Meetup.com&lt;/a&gt; - For participants in the Pacific (UTC-7) and Mountain (UTC-6) time zones. The first meetup is planned for &lt;strong&gt;March&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-Australia/&quot;&gt;Write the Docs Australia on Meetup.com&lt;/a&gt; - We are planning to continue hosting collaborative APAC meetups via our Australia meetup group that are similar in concept.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Events are free and open to all.
+Quarterly meetups will typically occur at 7PM local time on a Monday through Thursday evening.&lt;/p&gt;
+&lt;p&gt;If you are a local meetup organizer in the these timezones who would like to learn more about what is required to participate,
+or are located in EMEA (Europe, Middle East and Africa) and would like to know if the program expands to your time zones,
+contact Alyssa Rock on the Write the Docs Slack network.&lt;/p&gt;
+&lt;p&gt;You can read more about these meetups in the &lt;a class=&quot;reference external&quot; href=&quot;https://github.com/write-the-docs-quorum/quorum-meetups&quot;&gt;quorum meetups GitHub repository&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;other-community-updates&quot;&gt;
+&lt;h2&gt;Other community updates&lt;/h2&gt;
+&lt;p&gt;We have shared our high-level community stats for the past 4 years,
+and will continue to do it each year going forward.
+You can view our 2020 stats on our blog at &lt;a class=&quot;reference internal&quot; href=&quot;../../../write-the-docs-2020-stats/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;Write the Docs 2020 Stats&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We’re still accepting &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2021/cfp/&quot;&gt;talk proposals&lt;/a&gt; for our virtual Portland conference, April 25-27.
+Especially if you’ve not been able to attend due to travel logistics, or if you’ve not spoken before we’d love to hear your voice.
+The virtual conference format means you can speak from anywhere, though it’s ideal if you are close to the local time in Portland.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Submit your talk proposals by January 25th&lt;/strong&gt;,
+If accepted,
+we’ll ask you to put together a 30 min talk video by the end of March.
+If you need feedback or help with your talk proposal,
+some of our meetups are hosting a &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-The-Docs-PDX/events/275331733/&quot;&gt;proposal workshop&lt;/a&gt;.
+&lt;strong&gt;The proposal workshop will happen January 20th from 4-6PM PST (UTC-8)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Given the increased usage of our Slack network,
+we have also seen the need for increased formalization of our moderation.
+We will be proposing a &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/introducing-weps/&quot;&gt;WEP&lt;/a&gt; to formalize our process around moderation.
+Look for announcements of that in the newsletter if you want to contribute.&lt;/p&gt;
+&lt;p&gt;We are also working to get our 2020 Salary Survey analyzed and published.
+The plan for this year is to have a few different reports,
+one that comes out each month looking at different aspects of the data.
+We’re hoping to have the first report out for our February newsletter.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;from-our-sponsor&quot;&gt;
+&lt;h2&gt;From our sponsor&lt;/h2&gt;
+&lt;p&gt;This month’s newsletter is sponsored by &lt;a class=&quot;reference external&quot; href=&quot;https://bit.ly/3fuibKK&quot;&gt;Paligo&lt;/a&gt;:&lt;/p&gt;
+&lt;hr&gt;
+&lt;table width=&quot;100%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; style=&quot;width:100%; max-width: 600px;&quot;&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td width=&quot;75%&quot;&gt;
+          &lt;p&gt;
+          &lt;a href=&quot;https://bit.ly/3fuibKK&quot;&gt;Paligo is an all-in-one cloud-based CCMS platform.&lt;/a&gt; Authoring, versioning, branching, release workflows, publishing, translation management, and more - all updated continuously in the cloud. No more worrying about locally installed software and deployment!
+          &lt;/p&gt;
+
+          &lt;p&gt;
+          &lt;a href=&quot;https://bit.ly/2UV2uCQ&quot;&gt;Read the case study&lt;/a&gt; to learn more.
+          &lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td width=&quot;25%&quot;&gt;
+        &lt;a href=&quot;https://bit.ly/3fuibKK&quot;&gt;
+          &lt;img style=&quot;margin-left: 15px;&quot; alt=&quot;Paligo&quot; src=&quot;/_static/img/sponsors/paligo.png&quot;&gt;
+        &lt;/a&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;&lt;p&gt;&lt;em&gt;Interested in sponsoring the newsletter? Take a look at our&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;/sponsorship/newsletter/&quot;&gt;sponsorship prospectus&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;featured-job-posts&quot;&gt;
+&lt;h2&gt;Featured job posts&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;dl class=&quot;first docutils&quot;&gt;
+&lt;dt&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/265/technical-writer-developer-documentation/&quot;&gt;Technical Writer (Developer Documentation)&lt;/a&gt;, Ably&lt;/dt&gt;&lt;dd&gt;Remote (London, UK), full-time&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class=&quot;first docutils&quot;&gt;
+&lt;dt&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/261/api-technical-writer-m-f-x/&quot;&gt;API Technical Writer (m/f/x)&lt;/a&gt;, finn GmbH&lt;/dt&gt;&lt;dd&gt;Munich, Germany, full-time&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;To apply for these jobs and more, visit the&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/&quot;&gt;Write the Docs job board&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-again&quot;&gt;
+&lt;h2&gt;Thanks again&lt;/h2&gt;
+&lt;p&gt;All these numbers remind us of the scale and impact of our work.
+Thanks again for being part of our journey.&lt;/p&gt;
+&lt;p&gt;To a better 2021,&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/stats/atom.xml">
+    <title type="text">Write the Docs 2020 Stats</title>
+    <id>https://www.writethedocs.org/blog/write-the-docs-2020-stats/</id>
+    <updated>2021-01-13T00:00:00Z</updated>
+    <published>2021-01-13T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/write-the-docs-2020-stats/" />
+    <author>
+      <name>Eric Holscher</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-2020-stats&quot;&gt;
+
+&lt;p&gt;This year we have done a &lt;a class=&quot;reference internal&quot; href=&quot;../../../2021-january-community-update/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;Write the Docs Community Kickoff - January 2021&lt;/span&gt;&lt;/a&gt; post along with our stats.
+Check there for context around the community going into 2021.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;stats&quot;&gt;
+&lt;h2&gt;2020 Stats&lt;/h2&gt;
+&lt;p&gt;We have shared our high-level community stats for the past 4 years,
+and will continue to do it each year going forward.&lt;/p&gt;
+&lt;p&gt;You can read our previous posts from &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/write-the-docs-2016-year-in-review/&quot;&gt;2016&lt;/a&gt;, &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/write-the-docs-2017-stats/&quot;&gt;2017&lt;/a&gt;, &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/write-the-docs-2018-stats/&quot;&gt;2018&lt;/a&gt;, and &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/write-the-docs-2019-stats/&quot;&gt;2019&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conferences&quot;&gt;
+&lt;h3&gt;Conferences&lt;/h3&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;600 attendees in Portland (up from 500)&lt;/li&gt;
+&lt;li&gt;325 attendees in Prague (up from 300)&lt;/li&gt;
+&lt;li&gt;125 attendees in Australia &amp;amp; India (up from 100)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Given the move to virtual conferences,
+we were able to allow more people to attend this year.
+We also experimented with a joint conference with Australia &amp;amp; India.
+Working to bridge communities across distances is a major value of virtual events.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;slack-network&quot;&gt;
+&lt;h3&gt;Slack Network&lt;/h3&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;11,350 &lt;a class=&quot;reference internal&quot; href=&quot;../../../../slack/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;members&lt;/span&gt;&lt;/a&gt; (up from 8,250)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;newsletters&quot;&gt;
+&lt;h3&gt;Newsletters&lt;/h3&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;8,225 &lt;a class=&quot;reference internal&quot; href=&quot;../../../../newsletter/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;subscribers&lt;/span&gt;&lt;/a&gt; (up from 7,386)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;meetups&quot;&gt;
+&lt;h3&gt;Meetups&lt;/h3&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Over 10,000 members (too many to count)&lt;/li&gt;
+&lt;li&gt;50 &lt;a class=&quot;reference internal&quot; href=&quot;../../../../meetups/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;meetups&lt;/span&gt;&lt;/a&gt; (up from 46)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;podcast&quot;&gt;
+&lt;h3&gt;Podcast&lt;/h3&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;32 &lt;a class=&quot;reference internal&quot; href=&quot;../../../../podcast/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;episodes&lt;/span&gt;&lt;/a&gt; total (up from 26)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;website&quot;&gt;
+&lt;h3&gt;Website&lt;/h3&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;225,000 sessions (down from 250,000)&lt;/li&gt;
+&lt;li&gt;375,000 page views (down from 430,000)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The website numbers have been dropping a bit in recent years.
+Generally this is because we are respecting Do Not Track preferences from our users,
+which results in a 5-10% drop in numbers.
+This means the website traffic is likely pretty stable,
+but the measurement drops over time as more users set this setting.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;github&quot;&gt;
+&lt;h3&gt;GitHub&lt;/h3&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;1,321 &lt;a class=&quot;reference external&quot; href=&quot;https://github.com/writethedocs/www/commits/master&quot;&gt;commits&lt;/a&gt; to our repository (down from 1,955)&lt;/li&gt;
+&lt;li&gt;35 &lt;a class=&quot;reference external&quot; href=&quot;https://github.com/writethedocs/www/graphs/contributors?from=2020-01-01&amp;amp;to=2021-01-01&amp;amp;type=c&quot;&gt;people&lt;/a&gt; who contributed to our repository (down from 56)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-again&quot;&gt;
+&lt;h2&gt;Thanks again&lt;/h2&gt;
+&lt;p&gt;All these numbers remind us of the scale and impact of our work.
+Thanks again for being part of our journey.&lt;/p&gt;
+&lt;p&gt;To a better 2021,&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/stats/atom.xml">
+    <title type="text">Write the Docs Community Update - September 2020</title>
+    <id>https://www.writethedocs.org/blog/2020-community-update/</id>
+    <updated>2020-09-14T00:00:00Z</updated>
+    <published>2020-09-14T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/2020-community-update/" />
+    <author>
+      <name>Eric Holscher</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-community-update-september-2020&quot;&gt;
+
+&lt;p&gt;Hey there documentarians!&lt;/p&gt;
+&lt;p&gt;The newsletter team is taking September off as usual,
+but there’s still plenty going on in the community.
+This update covers what else is going on behind the scenes while they take a much deserved break.&lt;/p&gt;
+&lt;p&gt;We’re looking forward to seeing everyone online for our &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/conf/prague/2020/&quot;&gt;Prague&lt;/a&gt; on October 18-20 in the CEST timezone.
+We’re also getting excited about our upcoming &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/conf/australia/2020/&quot;&gt;Australia &amp;amp; India&lt;/a&gt; conference on December 3-4 in the AEDT timezone.
+The talks were just announced for the Prague conference, we’ll be publishing more information about the speakers for the Australia &amp;amp; India conference by the end of the month.&lt;/p&gt;
+&lt;p&gt;We also just recently wrapped up our first online Portland conference.
+We had around 600 people join us to make this another memorable event.
+The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/videos/portland/2020/&quot;&gt;videos&lt;/a&gt; from the conference are now available online.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;salary-survey&quot;&gt;
+&lt;h2&gt;Salary Survey&lt;/h2&gt;
+&lt;p&gt;We have now launched our &lt;a class=&quot;reference external&quot; href=&quot;https://2020-salary-survey.writethedocs.org/&quot;&gt;2020 Salary Survey&lt;/a&gt;.
+We were amazed by the response to our Salary Survey last year,
+with &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/surveys/salary-survey/2019/&quot;&gt;650 responses&lt;/a&gt; and a lot of interesting data that came out of it.&lt;/p&gt;
+&lt;p&gt;This annual survey, run by the Write the Docs community, aims to gather data about salaries for people working in documentation and related fields around the world. &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/surveys/salary-survey/2019/&quot;&gt;Results of the inaugural survey&lt;/a&gt; are available on the our website.&lt;/p&gt;
+&lt;p&gt;We hope that this data can help our community members determine what appropriate salary ranges are, and provide a benchmark for future employment-related decisions and negotiations.
+Additionally, we’re hoping the results spark discussion of employment-related trends and issues in our industry, including but not limited to the effects of the COVID-19 pandemic.&lt;/p&gt;
+&lt;p&gt;The survey is divided into 5 sections.
+It should take between 5 and 10 minutes to complete,
+so we hope that you’ll &lt;a class=&quot;reference external&quot; href=&quot;https://2020-salary-survey.writethedocs.org/&quot;&gt;fill it out&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;community-shout-out&quot;&gt;
+&lt;h2&gt;Community Shout Out&lt;/h2&gt;
+&lt;p&gt;The numbers of activities going on in the Write the Docs community grows each year.
+Most of these are organized and run primarily by volunteers,
+and we wanted to take the time to show appreciation for these folks.
+While we can’t mention every member of our extremely welcoming community,
+we want to show particular appreciation for folks who are working behind the scenes.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;newsletter-team&quot;&gt;
+&lt;h3&gt;Newsletter Team&lt;/h3&gt;
+&lt;p&gt;First up, as seems fitting, is our Newsletter team.
+Y’all probably know Beth,
+who is our editor,
+but there is an entire group writing the articles each month.
+These folks are responsible for making this newsletter happen each month:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/baitman&quot;&gt;Beth Aitman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/hillaryfraley&quot;&gt;Hillary Fraley&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/bradamante&quot;&gt;Jennifer Rondeau&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/clairelundeby&quot;&gt;Claire Lundeby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/party_parrot18&quot;&gt;Elle Jones&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://kyladelrosario.com/&quot;&gt;Kyla del Rosario&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;moderation-team&quot;&gt;
+&lt;h3&gt;Moderation Team&lt;/h3&gt;
+&lt;p&gt;Next are our Slack moderators.
+They do a ton of work to make sure the Slack network stays a welcoming place and people feel good about interacting:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;div class=&quot;first system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/blog/2020-community-update.rst&lt;/tt&gt;, line 6); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Duplicate explicit target name: “jennifer rondeau”.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/bradamante&quot;&gt;Jennifer Rondeau&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.linkedin.com/in/janinechan/&quot;&gt;Janine Chan&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/ddbeck&quot;&gt;Daniel Beck&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/themikejang&quot;&gt;Mike Jang&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/ericholscher&quot;&gt;Eric Holscher&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/plaindocs&quot;&gt;Samuel Wright&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;meetup-coordination-team&quot;&gt;
+&lt;h3&gt;Meetup Coordination Team&lt;/h3&gt;
+&lt;p&gt;There are too many &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/meetups/&quot;&gt;meetup organizers&lt;/a&gt; to list across our lovely community.
+Y’all get to know them at each meetup that you go to,
+but behind the scenes there are folks who are doing coordination to make our meetup community stronger.
+That is the job of the meetup coordination team,
+and our meetups wouldn’t be as useful without them:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/ZelWms&quot;&gt;Rose Williams&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/meker&quot;&gt;Margaret Eker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/TheMikeJang&quot;&gt;Mike Jang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/swapnilogale&quot;&gt;Swapnil Ogale&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;support-team&quot;&gt;
+&lt;h3&gt;Support Team&lt;/h3&gt;
+&lt;p&gt;This team is responsible for answering all the various emails that get sent to us at Write the Docs.
+There have been 773 emails so far this year,
+so this is a huge ongoing task done by these folks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/mxsash&quot;&gt;Sasha Romijn&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;div class=&quot;first system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/blog/2020-community-update.rst&lt;/tt&gt;, line 6); &lt;em&gt;&lt;a href=&quot;#id2&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Duplicate explicit target name: “samuel wright”.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/plaindocs&quot;&gt;Samuel Wright&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;featured-jobs&quot;&gt;
+&lt;h2&gt;Featured jobs&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Semaphore, &lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/224/&quot;&gt;Technical Editor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;You.i TV, &lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/223/&quot;&gt;Technical Writer (Developer Documentation)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Microsoft, &lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/222/&quot;&gt;Content Writer, Video Producer, Data Analyst, Developer Evangelist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Google, &lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/218/&quot;&gt;Technical Writer, Software Engineering - US locations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Google, &lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/217/&quot;&gt;Developer Programs Engineer, Developer Relations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Google, &lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/215/&quot;&gt;Technical Writer, Cloud Technologies and Tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Appian, &lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/214/&quot;&gt;Senior Information Developer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;To apply for these job, or post your own, visit the&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/&quot;&gt;Write the Docs job board&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks&quot;&gt;
+&lt;h2&gt;Thanks&lt;/h2&gt;
+&lt;p&gt;Thanks again for subscribing to our newsletter and being a member of our community.
+We hope to see you soon at one of our online events, on our Slack,
+or continue to see you here via this newsletter.&lt;/p&gt;
+&lt;p&gt;You can always reply to this email if you have any questions or comments.
+Stay tuned for another newsletter update next month!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

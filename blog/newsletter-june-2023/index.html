@@ -1,0 +1,442 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta property="og:title" content="Write the Docs Newsletter – June 2023" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/blog/newsletter-june-2023/" />
+<meta property="og:site_name" content="Write the Docs" />
+<meta property="og:description" content="Shalom, documentarians! This month marks a year since I first started putting together this newsletter and it’s been a great chance for me to learn more about all kinds of topics. If you’ve enjoyed..." />
+<meta property="og:image" content="https://www.writethedocs.org/_static/logo-opengraph.png" />
+<meta property="og:image:alt" content="Write the Docs" />
+<meta name="description" content="Shalom, documentarians! This month marks a year since I first started putting together this newsletter and it’s been a great chance for me to learn more about all kinds of topics. If you’ve enjoyed..." />
+<meta name="twitter:card" content="summary_large_image" />
+
+    <title>Write the Docs Newsletter – June 2023 &#8212; Write the Docs</title>
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/alabaster.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/global-customizations.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/survey.css" />
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/js/jobs.js"></script>
+    <link rel="canonical" href="https://QubitPi.github.io/writethedocs/blog/newsletter-june-2023.html" />
+    <link rel="shortcut icon" href="../../_static/favicon-96x96.png"/>
+    <link rel="index" title="Index" href="../../genindex/" />
+    <link rel="search" title="Search" href="../../search/" />
+  
+   
+  <link rel="stylesheet" href="../../_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  
+  <link rel="alternate" type="application/atom+xml"  href="../archive/atom.xml" title="Blog">
+  
+  
+  <link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
+  
+  <style type="text/css">
+    ul.ablog-archive {list-style: none; overflow: auto; margin-left: 0px}
+    ul.ablog-archive li {float: left; margin-right: 5px; font-size: 80%}
+    ul.postlist a {font-style: italic;}
+    ul.postlist-style-disc {list-style-type: disc;}
+    ul.postlist-style-none {list-style-type: none;}
+    ul.postlist-style-circle {list-style-type: circle;}
+  </style>
+
+  </head><body>
+  
+
+    <div class="document">
+  <div class="documentwrapper">
+    <div class="bodywrapper">
+      <div class="body" role="main">
+          
+          <div class="breadcrumbs">
+            
+            
+              <a href="../../">Home</a> &raquo;
+                
+            
+          </div>
+        
+        
+  <div class="section" id="write-the-docs-newsletter-june-2023">
+<h1>Write the Docs Newsletter – June 2023<a class="headerlink" href="#write-the-docs-newsletter-june-2023" title="Permalink to this headline">¶</a></h1>
+<p>Shalom, documentarians! This month marks a year since I first started putting together this newsletter and it’s been a great chance for me to learn more about all kinds of topics. If you’ve enjoyed the newsletter, help me learn even more by reacting to the most insightful posts in Slack with the <code class="docutils literal notranslate"><span class="pre">:suggest-for-newsletter:</span></code> emoji. Although space is limited each month, I always enjoy seeing what everyone is learning.</p>
+<p>Last month, the Portland conference marked our successful return to in-person conferences. If you missed any part of it, catch up with the <a class="reference external" href="/conf/portland/2023/news/thanks-recap/">conference recap</a>, which includes a link to videos of all of the talks. After you get through all the talks, get your tickets for the <a class="reference external" href="/conf/atlantic/2023/tickets/">Atlantic conference</a> and make plans for the <a class="reference external" href="/conf/australia/2023/news/welcome/">Australia conference</a>.</p>
+<p>To keep your mind fresh in the meantime, we have articles this month on whether to make docs public, where to put comments with code samples, how much work to do <em>before</em> you get a job, and what kind of tool to choose to build your docs site. Enjoy and we’ll be back next month with more.</p>
+<div class="section" id="public-vs-private-docs">
+<h2>Public vs. private docs<a class="headerlink" href="#public-vs-private-docs" title="Permalink to this headline">¶</a></h2>
+<p>In the world of software documentation, it’s pretty common to have your docs free and open to use. But is that right for all products? This month, the community discussed some of the pros and cons.</p>
+<p>The main reason given for keeping docs private: the advantages of secrecy. Some companies worry that open documentation allows competitors to copy your ideas and designs. And if you work on security or payment tools, exposing the details of how your software works can make it easier for bad actors to try to attack the tools. However, some folks expressed skepticism about whether keeping docs private is a very effective barrier.</p>
+<p>The downsides of private docs were around two areas: friction and marketing. Open docs are easier for your users to access. If they have to remember login information, they may just give up and file a support ticket instead. And docs-as-marketing is a well-worn path: there’s the potential to impress evaluators if the doc set looks useful and explains the product clearly, with Stripe often used as the canonical example.</p>
+<p>One last point is that it can be hard to have the conversation just based on the pros and cons. The decision to make documentation public or private often comes from high up in the company and keeping docs private is usually an attempt to protect the company. So if you’re trying to change any minds, be aware that it’s a delicate conversation!</p>
+</div>
+<div class="section" id="code-samples-comments-and-placeholder-text">
+<h2>Code samples: Comments and placeholder text<a class="headerlink" href="#code-samples-comments-and-placeholder-text" title="Permalink to this headline">¶</a></h2>
+<p>Explanatory text can be vital to understanding a code sample, but does the explanation belong in comments within the sample itself or in the surrounding text? As with so many other aspects of technical writing, both approaches have advantages.</p>
+<p>Minimizing comments helps keep code samples clear, well formatted, and easy to read. Separating the explanation from the code also gives readers a chance to absorb information about the logic and purpose of the code sample before they try to interpret it.</p>
+<p>The practice of adding comments also has benefits. Given that developers are more likely to read the code samples, comments can be a good way to make sure developers see information they really need to use the samples. Also, because code samples are often designed to be copied and pasted, code comments help ensure that important information stays with the code no matter where it is used.</p>
+<p>A related question is where to describe placeholders, those brief bits of text in code samples that users must replace with their own values before deploying the code. Placeholder descriptions are typically included in the explanatory text for a code sample rather than within the sample itself.</p>
+<p>To read more about comments and code samples, consider these two books: <a class="reference external" href="https://www.pearson.com/en-us/subject-catalog/p/developing-quality-technical-information-a-handbook-for-writers-and-editors/P200000000159/9780133118971"><em>Developing Quality Technical Information: A Handbook for Writers and Editors</em></a> and <a class="reference external" href="https://docsfordevelopers.com/"><em>Docs for Developers: An Engineer’s Field Guide to Technical Writing</em></a>.</p>
+</div>
+<div class="section" id="extreme-take-home-tests">
+<h2>Extreme take-home tests<a class="headerlink" href="#extreme-take-home-tests" title="Permalink to this headline">¶</a></h2>
+<p>With the current spate of layoffs and recent graduations, interviewing practices are hot topics. In a recent discussion, a job hunter asked about the appropriateness of spending a lot of time on a take-home writing test about a company’s product. Working on a take-home test presents certain issues to be aware of.</p>
+<div class="section" id="time">
+<h3>Time<a class="headerlink" href="#time" title="Permalink to this headline">¶</a></h3>
+<p>The general consensus was to limit any time spent to about 1 hour. Some indicated willingness to spend more time. One person indicated spending an hour doing the assignment, but then providing “an explanation of why I wasn’t going to respond to all of their requests.”</p>
+</div>
+<div class="section" id="money">
+<h3>Money<a class="headerlink" href="#money" title="Permalink to this headline">¶</a></h3>
+<p>Many in the thread cautioned about doing work about a company’s product for free. One indicated that expecting significant unpaid work was “a big red flag.” This can be a way for a company to get free work from a lot of people. Several remarked that they’ve received payment for completing take-home tests. As an interviewee, you may need to ask about payment, especially if the test requires significant work.</p>
+</div>
+<div class="section" id="ownership">
+<h3>Ownership<a class="headerlink" href="#ownership" title="Permalink to this headline">¶</a></h3>
+<p>If you do a writing test, does it belong to you or to the company? In general, if you’re writing about a company’s product, it would belong to the company. You may want to get this clarified because it may affect how long you work on the test and whether you have rights to the work itself. If you spend a lot of time on a writing sample, it may work as a good portfolio piece. So it’s worth resolving the question.</p>
+</div>
+</div>
+<div class="section" id="choosing-a-ccms-or-a-static-site-generator">
+<h2>Choosing a CCMS or a static site generator<a class="headerlink" href="#choosing-a-ccms-or-a-static-site-generator" title="Permalink to this headline">¶</a></h2>
+<p>When deciding whether to suggest a component content management system (CCMS) like Paligo or a static site builder like MkDocs, there are several things to consider. The first is the team and the people helping. Paligo and other CCMSs demand a specific understanding of XML or the tool itself. This makes them better for teams of writers who can help each other. On the other hand, a static site generator that supports Markdown or other forms that are easy to change might be a better choice if you are a single writer or have users who are not tech-savvy.</p>
+<p>Cost is another thing to think about. Markdown and MkDocs are free, but CCMSs like Paligo can be costly. But it’s also important to consider hidden costs. Static site generators, for example, often need theme development, build process upkeep, and document conversions, which can take a lot of time and resources.</p>
+<p>You should also consider the documentation method. For example, a CCMS could be a good choice if you want one tool to manage and share user documentation for different user jobs and software modules. These tools can make PDFs and web-based documents and work with single sources from the start. Of course, you can also do this with static site generators, but you have to spend time and effort creating the build steps and themes.</p>
+<p>Your choice should be based on how willing you are to learn and understand a certain tool, how many resources you have, and your long-term goals for managing and delivering documentation. To find the best choice for your needs, research and compare different options, like those on the <a class="reference external" href="https://jamstack.org/">Jamstack website</a>.</p>
+</div>
+<div class="section" id="from-our-sponsor">
+<h2>From our sponsor<a class="headerlink" href="#from-our-sponsor" title="Permalink to this headline">¶</a></h2>
+<p>This month’s newsletter is sponsored by ClickHelp:</p>
+<hr>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
+    <tbody>
+      <tr>
+        <td width="75%">
+          <p>ClickHelp is an all-in-one cloud documentation platform for technical writers and software teams. It offers powerful features to create, manage, and publish documentation efficiently. Streamline your process with single sourcing and dynamic output. Improve documentation with advanced analytics and user feedback. Collaborate seamlessly, and track versions effortlessly. Accessible across devices and platforms, supporting multiple formats. </p>
+          <p>Experience <a href="https://clickhelp.com/clickhelp-technical-writing-blog/clickhelp-april-2023-blossom-update-overview/?utm_source=wtd&utm_medium=text-link&utm_campaign=writethedocs-newsletter-2023-06"  >the latest Blossom 🌸 release</a> with Markdown import, Confluence migration, interactive screenshots, and more. Start a <a href="https://clickhelp.com/online-documentation-tool-free-trial/?utm_source=wtd&utm_medium=text-link&utm_campaign=writethedocs-newsletter-2023-06"  >free trial</a>  or book a demo to explore cutting-edge features. Join us on this transformative journey with ClickHelp.</p>
+
+        </td>
+        <td width="25%">
+          <a href="https://clickhelp.com/clickhelp-technical-writing-blog/clickhelp-april-2023-blossom-update-overview/?utm_source=wtd&utm_medium=text-link&utm_campaign=writethedocs-newsletter-2023-06">
+            <img style="margin-left: 15px;" alt="Zoomin" src="https://2.helpmonks.com/file/remote?a=6475f555a06b27f947bb3512&e=6346d75d21a5bb6d28f246c5&c=false&n=ClickHelp_logo_300x300.png">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <hr><p><em>Interested in sponsoring the newsletter? Take a look at our</em> <a class="reference external" href="/sponsorship/newsletter/">sponsorship prospectus</a>.</p>
+</div>
+<div class="section" id="featured-job-posts">
+<h2>Featured job posts<a class="headerlink" href="#featured-job-posts" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><a class="reference external" href="https://jobs.writethedocs.org/job/1473/technical-writer-for-tor-arti-documentation-3-4-month-contract/">Technical Writer for Tor/Arti Documentation (3-4 month contract)</a>, The Tor Project</li>
+</ul>
+<p><em>To apply for this job and more, visit the</em> <a class="reference external" href="https://jobs.writethedocs.org/">Write the Docs job board</a>.</p>
+</div>
+<div class="section" id="events-coming-up">
+<h2>Events coming up<a class="headerlink" href="#events-coming-up" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>7 Jun, 12:00  PDT (Portland, USA): <a class="reference external" href="https://www.meetup.com/write-the-docs-pdx/events/293742711/">Call for organizers</a></li>
+<li>16 Jun, 08:30 EDT (New England and Florida, USA): <a class="reference external" href="https://www.meetup.com/ne-write-the-docs/events/xzpxdtyfcjbvb/">Focused Conversation for Documentarians</a></li>
+<li>22 Jun, 19:00  EDT (Toronto, Canada): <a class="reference external" href="https://www.meetup.com/write-the-docs-toronto/events/mnpqgsyfcjbcc/">Write the Docs Toronto</a></li>
+<li>23 Jun, 12:00  MDT (Boulder/Denver, USA): <a class="reference external" href="https://www.meetup.com/write-the-docs-boulder-denver/events/xkrnctyfcjbfc/">Fourth Friday Write the Docs Co-working Social</a></li>
+<li>28 Jun, 19:00  MDT (Calgary, Canada): <a class="reference external" href="https://www.meetup.com/wtd-calgary/events/292346923/">Write the Docs Calgary Meetup</a></li>
+<li>30 Jun, 08:30 EDT (New England and Florida, USA): <a class="reference external" href="https://www.meetup.com/ne-write-the-docs/events/xzpxdtyfcjbnc/">Focused Conversation for Documentarians</a></li>
+</ul>
+</div>
+</div>
+
+  <div class="section">
+  
+    
+
+
+<div class="section">
+  <span style="float: left;">
+  
+  
+  <a href="../../conf/atlantic/2023/news/tickets-grants/">
+    <i class="fa fa-arrow-circle-left"></i>
+    Announcing Ticket Sales and Grant Program
+  </a>
+  
+  </span>
+  <span>&nbsp;</span>
+  <span style="float: right;">
+  
+  
+  <a href="../../conf/atlantic/2023/news/announcing-speakers/">
+    Announcing speakers and talks
+    <i class="fa fa-arrow-circle-right"></i>
+  </a>
+  
+  </span>
+</div>
+
+  
+  
+  </div>
+
+      </div>
+    </div>
+  </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<p class="logo">
+  <a href="../../">
+    <img class="logo" src="../../_static/sticker-wtd-colors.png" alt="Logo"/>
+    
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <h2>
+  
+  <i class="fa fa-calendar"></i>
+    06 June 2023
+  
+  </h2>
+
+  <ul>
+    
+
+  
+  <li id="author"><span><i class="fa-fw fa fa-user"></i></span>
+    
+      
+      <a href="../archive/author/write-the-docs-team/">Write the Docs Team</a>
+      
+    </li>
+  
+
+  
+
+  
+
+  
+
+  
+  <li id="tags"><span><i class="fa-fw fa fa-tag"></i></span>
+    
+      
+      <a href="../archive/tag/newsletter/">newsletter</a>
+      
+    </li>
+  
+  
+  </ul>
+
+
+<br>
+<p>
+Write the Docs is a global community of people who care about documentation.
+We have a Slack community, conferences on 3 continents, and local meetups!
+</p>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../../search/" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>$('#searchbox').show(0);</script><style>
+.ethical-alabaster::before {margin-top: 1em;}
+</style>
+<div id="ethical-ad-placement"></div>
+
+<div id="jobs-listing">
+    <h3>Job Postings</h3>
+    See more at our <a href="https://jobs.writethedocs.org/">Job Board</a>.
+        <ul>
+        </ul>
+</div>
+
+<div id="toc">
+
+    <h3>Site Content</h3>
+
+    <ul>
+<li class="toctree-l1"><a class="reference internal" href="../../surveys/">Salary Surveys</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../surveys/#salary-survey-now-open">2023 Salary Survey now open</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../guide/">Documentation guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../book-club/">Book Club</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../hiring-guide/">Hiring guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/stay-connected/">Stay Connected</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/about-the-org/">About Our Organization</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/events-activities/">Events and Activities</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/learning-resources/">Learning Resources</a></li>
+</ul>
+
+    
+</div>
+
+<br>
+
+
+<h3>Join our mailing list</h3>
+
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;}
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+    <form action="https://writethedocs.us6.list-manage.com/subscribe/post?u=94377ea46d8b176a11a325d03&amp;id=dcf0ed349b&amp;f_id=00d2c2e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div id="mc_embed_signup_scroll">
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
+	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
+</div>
+<div class="mc-field-group input-group">
+    <strong>What types of updates would you like? </strong>
+    <ul><li>
+    <input type="checkbox" value="1" name="group[14633][1]" id="mce-group[14633]-14633-0" checked>
+    <label for="mce-group[14633]-14633-0">Monthly Community Newsletter</label>
+</li>
+<li>
+    <input type="checkbox" value="2" name="group[14633][2]" id="mce-group[14633]-14633-1">
+    <label for="mce-group[14633]-14633-1">North American Conference Announcements</label>
+</li>
+<li>
+    <input type="checkbox" value="4" name="group[14633][4]" id="mce-group[14633]-14633-2">
+    <label for="mce-group[14633]-14633-2">European Conference Announcements</label>
+</li>
+<li>
+    <input type="checkbox" value="8" name="group[14633][8]" id="mce-group[14633]-14633-3">
+    <label for="mce-group[14633]-14633-3">Australian Conference Announcements</label>
+</li>
+<li>
+    <input type="checkbox" value="16" name="group[14633][16]" id="mce-group[14633]-14633-4">
+    <label for="mce-group[14633]-14633-4">Atlantic Conference Announcements</label>
+</li>
+</ul>
+    <span id="mce-group[14633]-HELPERTEXT" class="helper_text"></span>
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_94377ea46d8b176a11a325d03_dcf0ed349b" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<!--End mc_embed_signup-->
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+  <style>
+
+/* Sponsors */
+.sponsors {
+    float: left;
+    margin-top: 12px;
+    text-align: center;
+}
+.sponsors .sponsor {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+}
+.sponsors .sponsor img {
+    width: 90px;
+    height: auto;
+}
+.sponsors .sponsor-name {
+    font-size: 12px;
+}
+.sponsors .sponsor-description {
+    font-size: 10px;
+    color: #BCC1C3;
+}
+.sponsors .sponsor-name, .sponsors .sponsor-description {
+    text-align: center;
+    line-height: 1.4;
+}
+
+/* Links in footer */
+.footer-links {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+#social-footer {
+  line-height: 1.5rem;
+}
+div.footer,div.footer a {
+  color: #757575;
+}
+</style>
+<div class="footer">
+      
+      <div class="container footer-links">
+        <div style="flex-basis: 20rem; text-align: left;">
+          <span>© Write the Docs</span>
+          <span>
+            &nbsp;<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0; vertical-align: middle;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+          </span>
+        </div>
+        <div id="social-footer">
+          <span><a href="/contact/"><i class="iconf-email"></i>Contact Us</a></span> |
+          <span><a href="/site-map"><i class="iconf-github-circled-alt2"></i>Site map</a></span> |
+          <span><a href="https://github.com/writethedocs"><i class="iconf-github-circled-alt2"></i>GitHub</a></span> |
+          <span><a href="https://twitter.com/writethedocs"><i class="iconf-twitter-circled"></i>Twitter</a></span> |
+          <span>
+                <a href="https://www.linkedin.com/company/write-the-docs">
+                  LinkedIn
+                </a>
+          </span> |
+          <span><a href="../../code-of-conduct/">Code&nbsp;of&nbsp;Conduct</a></span> |
+          <span><a href="https://jobs.writethedocs.org/">Job Board</a></span>
+        </div>
+      </div>
+
+    
+    <a href="https://github.com/writethedocs/www" class="github">
+        <img style="position: absolute; top: 0; right: 0; border: 0;" src="/_static/img/fork-ribbon.svg" alt="Fork me on GitHub"  class="github"/>
+    </a>
+    
+
+  <div class="sponsors" id="community-sponsors" style="width: 100%;">
+  <hr>
+    <a class="sponsor" href="https://readthedocs.org" rel="noopener" target="_blank">
+      <img src="https://read-the-docs-guidelines.readthedocs-hosted.com/_images/logo-wordmark-dark.png" alt="Read the Docs" class="sponsor-image">
+      <div class="sponsor-name">Read the Docs</div>
+      <div class="sponsor-description">Website Hosting</div>
+    </a>
+    
+
+    <a class="sponsor" href="../../sponsorship/" rel="noopener" target="_blank">
+      <div class="sponsor-name">Sponsorship Info</div>
+    </a>
+  </div>
+</div>
+  </body>
+</html>

@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged thanks</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/thanks/atom.xml</id>
+  <updated>2023-09-20T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/thanks/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/thanks/atom.xml">
+    <title type="text">Conference highlights</title>
+    <id>https://www.writethedocs.org/conf/atlantic/2023/news/thank-you-recap/</id>
+    <updated>2023-09-20T00:00:00Z</updated>
+    <published>2023-09-20T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/atlantic/2023/news/thank-you-recap/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;conference-highlights&quot;&gt;
+
+&lt;p&gt;Hey everyone,&lt;/p&gt;
+&lt;p&gt;Our team is now emerging from the post-conference recovery period, and we wanted to send out a quick message to thank everyone for helping to make our conference such a success.
+We appreciate everyone who makes the conference possible: speakers, sponsors, organizers, volunteers, and attendees alike!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-recap&quot;&gt;
+&lt;h2&gt;Conference recap&lt;/h2&gt;
+&lt;p&gt;At &lt;strong&gt;almost 300 attendees&lt;/strong&gt; this conference was a welcoming and friendly event.
+This was our first Atlantic conference, where we intentionally created a schedule that suited attendees from Europe, Africa, US East Coast and parts of South America. In practice, we had attendees for all over the world, including the West coast of the United States and Asia.&lt;/p&gt;
+&lt;p&gt;We had the usual mix of talks on the main stage, along with moderated Q&amp;amp;A, lightning talks, unconference sessions, writing sprints, and a sponsor expo, similar to previous virtual conferences.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;talk-videos&quot;&gt;
+&lt;h2&gt;Talk videos&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://youtube.com/playlist?list=PLZAeFn6dfHplddJfvbke1bpUzZGozb2Yj&amp;amp;si=AOwsHHgwGEXqbUm0&quot;&gt;Videos of the talks&lt;/a&gt; are now available on YouTube. This includes all conference talks and Q&amp;amp;A, as well as the lightning talks.
+You can also subscribe to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/writethedocs&quot;&gt;YouTube channel&lt;/a&gt; so you don’t miss any talk videos from our conferences.&lt;/p&gt;
+&lt;p&gt;Thanks again to all our presenters, moderators, and folks who asked wonderful questions!
+Huge thanks also to &lt;a class=&quot;reference external&quot; href=&quot;https://www.bartatwork.com/&quot;&gt;Bart at Work&lt;/a&gt; for handling the A/V production on our event, it was flawless once again this year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;sketchnotes&quot;&gt;
+&lt;h2&gt;Sketchnotes&lt;/h2&gt;
+&lt;p&gt;We’re excited to share the &lt;a class=&quot;reference external&quot; href=&quot;https://flic.kr/s/aHBqjAVj5o&quot;&gt;full resolution sketchnotes&lt;/a&gt; from each talk. You are welcome to use them for non-commercial purposes, like including them in your conference write up ;)&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;a class=&quot;reference external&quot; href=&quot;https://dennissdawson.wixsite.com/mr--dawson/portfolio&quot;&gt;Dennis Dawson&lt;/a&gt; for doing them this year!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-still-on-sale&quot;&gt;
+&lt;h2&gt;Shirts still on sale&lt;/h2&gt;
+&lt;p&gt;If you want a souvenir from this year’s conference, our &lt;a class=&quot;reference external&quot; href=&quot;https://shirt.writethedocs.org/&quot;&gt;Write the Docs Atlantic 2023 Pop-Up Shop&lt;/a&gt; is still open until September 30th!
+We have loose and fitted options from different fabrics, and you can choose the size and cut you want.&lt;/p&gt;
+&lt;p&gt;The campaign will run in 3-day batches, with shipping from the USA or Europe.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;attend-write-the-docs-australia&quot;&gt;
+&lt;h2&gt;Attend Write the Docs Australia&lt;/h2&gt;
+&lt;p&gt;Don’t forget our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2023/&quot;&gt;Australia conference&lt;/a&gt; on &lt;strong&gt;Dec 7-8, 2023&lt;/strong&gt;. The CFP is open until September 22nd.&lt;/p&gt;
+&lt;p&gt;We’re also looking for more sponsors to make our other events just as magical as this year’s Atlantic event. You can see all our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/sponsorship/&quot;&gt;sponsorship options&lt;/a&gt; on our website.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;write-the-docs-slack&quot;&gt;
+&lt;h2&gt;Write the Docs Slack&lt;/h2&gt;
+&lt;p&gt;Our Slack network keeps on growing. Our #general channel in particular has been extra busy in the days and weeks leading up to the conference, and we hope that y’all continue the conversations throughout the year. If you haven’t joined, now is the time!
+Check out the &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/slack/&quot;&gt;Write the Docs Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/atlantic/2023/news/thank-you-recap.rst&lt;/tt&gt;, line 70); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “write the docs slack”.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;write-the-docs-newsletter&quot;&gt;
+&lt;h2&gt;Write the Docs Newsletter&lt;/h2&gt;
+&lt;p&gt;Our &lt;a class=&quot;reference external&quot; href=&quot;http://writethedocs.org/newsletter/&quot;&gt;monthly newsletter&lt;/a&gt; is the other place to keep track of everything that is happening with the community.
+Subscribe to make sure you hear about all the conferences, meetups, job postings, and summaries of relevant conversations in our Slack.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;local-meetups&quot;&gt;
+&lt;h2&gt;Local Meetups&lt;/h2&gt;
+&lt;p&gt;We hope you continue to &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/meetups/&quot;&gt;build your local or online communities&lt;/a&gt; and keep in touch with other documentarians.
+We have a number of meetups in cities across the country, and if you don’t see your city listed consider &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/organizer-guide/meetups/starting/&quot;&gt;starting&lt;/a&gt; a meetup!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;code-of-conduct-transparency-report&quot;&gt;
+&lt;h2&gt;Code of Conduct transparency report&lt;/h2&gt;
+&lt;p&gt;As with any Write the Docs event, this conference was covered by our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct/&quot;&gt;community Code of Conduct&lt;/a&gt;.
+We aim to be as transparent with CoC incidents and enforcement as we can.&lt;/p&gt;
+&lt;p&gt;To ensure that our CoC was visible and accessible, we took a number of specific steps:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Every participant agreed to the Code of Conduct in advance during registration.&lt;/li&gt;
+&lt;li&gt;The CoC, or a summary, was included on the conference website and Hopin Reception&lt;/li&gt;
+&lt;li&gt;The CoC was repeatedly mentioned in our conference introduction and announcements.&lt;/li&gt;
+&lt;li&gt;We specifically stressed that the CoC applies to all conference spaces including the social event.&lt;/li&gt;
+&lt;li&gt;We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;None of our organizers were approached about any CoC concerns related to this event.
+We know that this is, in part, a reflection of the thoughtful and inclusive community that we’re so lucky to have.&lt;/p&gt;
+&lt;p&gt;That being said, we’re also very conscious of the fact that just because nothing was reported doesn’t mean nothing happened.
+If there was any personal conduct or other aspect of the conference experience that did not meet the expectations of behavior set out in the CoC, please email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:conduct&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;conduct&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-again&quot;&gt;
+&lt;h2&gt;Thanks again&lt;/h2&gt;
+&lt;p&gt;Thanks so much to the following companies for supporting the Portland conference this year:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com?ref=writethedocs&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.helpdocs.io/?ref=writethedocs&quot;&gt;HelpDocs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.mongodb.com/?ref=writethedocs&quot;&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jb.gg/writerside?ref=writethedocs&quot;&gt;JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://clickhelp.com/?utm_source=write-the-docs&amp;amp;utm_medium=conference&amp;amp;utm_campaign=wtd-september-2023&amp;amp;utm_content=logo&quot;&gt;ClickHelp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;We’re so grateful to our sponsors, speakers, volunteers, and attendees for making this conference possible. Whether you were able to come out this time or not, we hope to see you again next year&amp;nbsp;– or
+even sooner at one of our other events!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/thanks/atom.xml">
+    <title type="text">Conference videos, photos, and info to keep in touch</title>
+    <id>https://www.writethedocs.org/conf/portland/2023/news/thanks-recap/</id>
+    <updated>2023-05-18T00:00:00Z</updated>
+    <published>2023-05-18T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2023/news/thanks-recap/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;conference-videos-photos-and-info-to-keep-in-touch&quot;&gt;
+
+&lt;p&gt;Hey everyone,&lt;/p&gt;
+&lt;p&gt;Our team is now emerging from the post-conference
+recovery period, and we wanted to send out a quick message to thank
+everyone for helping to make our conference such a
+success. We appreciate everyone who makes the conference possible:
+speakers, sponsors, organizers, and attendees alike!&lt;/p&gt;
+&lt;p&gt;Its especially gratifying to see so many folks join us in what has been a really tough year so for many,
+and in our first in-person conference in 4 years!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-recap&quot;&gt;
+&lt;h2&gt;Conference recap&lt;/h2&gt;
+&lt;p&gt;At almost &lt;strong&gt;350 attendees&lt;/strong&gt; this conference was another smashing success!
+We had the usual mix of talks on the main stage along with Q&amp;amp;A,
+lightning talks, unconference sessions,
+writing sprints, social event, and sponsor expo.
+We thought everything went pretty smoothly this year, even getting used to a new venue.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;talk-videos&quot;&gt;
+&lt;h2&gt;Talk videos&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/playlist?list=PLZAeFn6dfHpneQPsDWa4OmEpgW4pNiaZ2&quot;&gt;Videos of the talks&lt;/a&gt; are now available on YouTube. This
+includes all conference talks with Q&amp;amp;A, as well as the lightning talks.
+You can also subscribe to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/writethedocs&quot;&gt;YouTube channel&lt;/a&gt; so you don’t miss any future content.&lt;/p&gt;
+&lt;p&gt;Thanks again to all our presenters, moderator, and folks who asked wonderful questions!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-photos&quot;&gt;
+&lt;h2&gt;Conference photos&lt;/h2&gt;
+&lt;p&gt;We have photos from the event available &lt;a class=&quot;reference external&quot; href=&quot;https://www.flickr.com/photos/writethedocs/albums/72177720308088427&quot;&gt;on Flickr&lt;/a&gt;, thanks to our wonderful photographer &lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/goatlady&quot;&gt;Kay&lt;/a&gt;!
+We really love the photos each year, and you’re welcome to use them for non-commercial purposes, such as conference write ups, as per our &lt;a class=&quot;reference external&quot; href=&quot;https://creativecommons.org/licenses/by-nc-sa/2.0/&quot;&gt;Creative Commons License&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;come-see-us-at-our-atlantic-or-australia-conferences&quot;&gt;
+&lt;h2&gt;Come see us at our Atlantic or Australia conferences&lt;/h2&gt;
+&lt;p&gt;Don’t forget our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/atlantic/2023/&quot;&gt;Atlantic virtual conference&lt;/a&gt; on &lt;strong&gt;September 10-12&lt;/strong&gt;, and our
+&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2023/&quot;&gt;Australia in-person conference&lt;/a&gt; on &lt;strong&gt;December 7-8&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We’re also looking for more sponsors to make our other events just as
+magical as this year’s Portland event. You can see all our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/sponsorship/&quot;&gt;sponsorship options&lt;/a&gt; on our website.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;join-our-slack-network&quot;&gt;
+&lt;h2&gt;Join our Slack Network&lt;/h2&gt;
+&lt;p&gt;Our Slack network has really grown over the past few years.
+It has been extra busy in the days and weeks leading up to the conference,
+and we hope that y’all continue the conversations throughout the year.&lt;/p&gt;
+&lt;p&gt;If you haven’t joined, now is the time!
+Check out the &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/slack/&quot;&gt;Write the Docs Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;subscribe-to-our-newsletter&quot;&gt;
+&lt;h2&gt;Subscribe to our Newsletter&lt;/h2&gt;
+&lt;p&gt;Our &lt;a class=&quot;reference external&quot; href=&quot;http://writethedocs.org/newsletter/&quot;&gt;monthly newsletter&lt;/a&gt; is the other place to keep track of everything
+that is happening with the community. Subscribe to make sure you hear
+about all the conferences, meetups, job postings, and summaries of
+relevant conversations in our Slack.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;join-a-meetup&quot;&gt;
+&lt;h2&gt;Join a meetup&lt;/h2&gt;
+&lt;p&gt;We hope you continue to &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/meetups/&quot;&gt;build the meetup community&lt;/a&gt; and keep in touch
+with other documentarians near your hometown. We have a number of
+meetups in cities across the country, and if you don’t see your city
+listed consider &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/organizer-guide/meetups/starting/&quot;&gt;starting&lt;/a&gt; a meetup!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;code-of-conduct-transparency-report&quot;&gt;
+&lt;h2&gt;Code of Conduct transparency report&lt;/h2&gt;
+&lt;p&gt;As with any Write the Docs event,
+this conference was covered by our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct/&quot;&gt;community Code of Conduct&lt;/a&gt;.
+We aim to be as transparent with CoC incidents and enforcement as we can.&lt;/p&gt;
+&lt;p&gt;To ensure that our CoC was visible and accessible, we took a number of specific steps:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Every participant agreed to the Code of Conduct in advance during registration.&lt;/li&gt;
+&lt;li&gt;The CoC, or a summary, was included on the conference website and around the venue.&lt;/li&gt;
+&lt;li&gt;The CoC was repeatedly mentioned in our conference introduction and announcements.&lt;/li&gt;
+&lt;li&gt;We specifically stressed that the CoC applies to all conference spaces including the social event.&lt;/li&gt;
+&lt;li&gt;We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;None of our organizers were approached about any CoC concerns at this event.
+We know that this is, in part, a reflection of the thoughtful and inclusive community that we’re so lucky to have.&lt;/p&gt;
+&lt;p&gt;That being said, we’re also very conscious of the fact that just because
+nothing was reported doesn’t mean nothing happened. If there was any personal
+conduct or other aspect of the conference experience that did not meet the
+expectations of behavior set out in the CoC, please email us at
+&lt;a class=&quot;reference external&quot; href=&quot;mailto:conduct&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;conduct&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-again&quot;&gt;
+&lt;h2&gt;Thanks again&lt;/h2&gt;
+&lt;p&gt;Thanks so much to the following companies for supporting the Portland conference this year:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.mongodb.com/&quot;&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://redoc.ly/&quot;&gt;Redocly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.jetbrains.com/&quot;&gt;JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.bloomberg.com/company/careers/working-here/engineering/&quot;&gt;Bloomberg Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.raspberrypi.com/&quot;&gt;Raspberry Pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://about.readthedocs.com/&quot;&gt;Read the Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;We’re so grateful to our sponsors, speakers, volunteers, and attendees
+for making this conference possible. Whether you were able to come out
+this time or not, we hope to see you again next year - or
+even sooner at one of our other events!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/thanks/atom.xml">
+    <title type="text">Conference highlights and thanks to the community!</title>
+    <id>https://www.writethedocs.org/conf/australia/2022/news/thank-you-recap/</id>
+    <updated>2022-12-15T00:00:00Z</updated>
+    <published>2022-12-15T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2022/news/thank-you-recap/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;conference-highlights-and-thanks-to-the-community&quot;&gt;
+
+&lt;p&gt;G’day everyone,&lt;/p&gt;
+&lt;p&gt;The Write the Docs Australia team is now emerging from the post-conference recovery period, and we wanted to send out a quick message to thank everyone for helping to make our 2022 Australia online conference such a success.
+We appreciate everyone who makes the conference possible: speakers, sponsors, organizers, volunteers, and attendees alike!
+We’re happy to share some of the highlights with you.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-recap&quot;&gt;
+&lt;h2&gt;Conference recap&lt;/h2&gt;
+&lt;p&gt;We had almost one hundred attendees and were happy to see folks come back after the Write the Docs Australia team took a year out in 2021. We had the usual mix of main stage and lightning talks, and a social event.
+We thought everything went pretty smoothly this year; we’re getting pretty good at virtual events!&lt;/p&gt;
+&lt;p&gt;Overall, we were excited with how our awesome community came together in our virtual venue.
+Lots of knowledge was shared, and we had a great time.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;videos&quot;&gt;
+&lt;h2&gt;Videos&lt;/h2&gt;
+&lt;p&gt;Videos of the talks and lightning talks are now available on &lt;a class=&quot;reference external&quot; href=&quot;https://youtube.com/playlist?list=PLy70RNJ7dYrJB-2yuGw-bTppEDmQr5T56&quot;&gt;our YouTube playlist&lt;/a&gt;. We also included the Q&amp;amp;A recordings for the main talks.&lt;/p&gt;
+&lt;p&gt;Thanks again to &lt;a class=&quot;reference external&quot; href=&quot;https://www.bartatwork.com/atwork/&quot;&gt;Bart at Work&lt;/a&gt; for doing such a great job with these. You can also subscribe to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/writethedocs&quot;&gt;YouTube channel&lt;/a&gt; so you don’t miss any future content!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;sketchnotes&quot;&gt;
+&lt;h2&gt;Sketchnotes&lt;/h2&gt;
+&lt;p&gt;We’re excited to share the &lt;a class=&quot;reference external&quot; href=&quot;https://www.flickr.com/photos/writethedocs/albums/72177720304378693&quot;&gt;full resolution sketchnotes&lt;/a&gt; from the conference on Flickr. You are welcome to use them for non-commercial purposes, like including in your write up from the conference :)&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/mslanei&quot;&gt;Linette Voller&lt;/a&gt; for doing them again this year!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-still-on-sale&quot;&gt;
+&lt;h2&gt;Shirts still on sale&lt;/h2&gt;
+&lt;p&gt;If you want a souvenir from this year’s conference, our &lt;a class=&quot;reference external&quot; href=&quot;https://shirt.writethedocs.org/&quot;&gt;Write the Docs Australia 2022 Pop-Up Shop&lt;/a&gt; is still open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.&lt;/p&gt;
+&lt;p&gt;The campaign will run in 3-day batches until December 31st 2022. Shipping is available from the USA or Europe.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;code-of-conduct-transparency-report&quot;&gt;
+&lt;h2&gt;Code of Conduct transparency report&lt;/h2&gt;
+&lt;p&gt;As with any Write the Docs event, this conference was covered by our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct/&quot;&gt;community Code of Conduct&lt;/a&gt;.
+We aim to be as transparent with CoC incidents and enforcement as we can.&lt;/p&gt;
+&lt;p&gt;To ensure that our CoC was visible and accessible, we took a number of specific steps:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Every participant agreed to the Code of Conduct in advance during registration.&lt;/li&gt;
+&lt;li&gt;The CoC, or a summary, was included on the conference website and Hopin Reception&lt;/li&gt;
+&lt;li&gt;The CoC was repeatedly mentioned in our conference introduction and announcements.&lt;/li&gt;
+&lt;li&gt;We specifically stressed that the CoC applies to all conference spaces including the social event.&lt;/li&gt;
+&lt;li&gt;We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;None of our organizers were approached about any CoC concerns at this event.
+We know that this is, in part, a reflection of the thoughtful and inclusive community that we’re so lucky to have.&lt;/p&gt;
+&lt;p&gt;That being said, we’re also very conscious of the fact that just because nothing was reported doesn’t mean nothing happened.
+If there was any personal conduct or other aspect of the conference experience that did not meet the expectations of behaviour set out in the CoC, please email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:conduct&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;conduct&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;ready-for-more&quot;&gt;
+&lt;h2&gt;Ready for more?&lt;/h2&gt;
+&lt;p&gt;We are already talking 2023 folks! Our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/&quot;&gt;Portland conference&lt;/a&gt; has announced its dates for 7-9 May and CFPs are now open.
+You can &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/cfp/&quot;&gt;submit a talk for the Portland conference&lt;/a&gt; until &lt;strong&gt;midnight Pacific time 13 February 2023&lt;/strong&gt;.
+This conference will take place in-person in Portland.&lt;/p&gt;
+&lt;p&gt;If you cannot make the Portland conference, we have also announced dates for the online &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/atlantic/2023/&quot;&gt;Atlantic conference&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Around early-mid 2023, we will announce dates and more details for the Australian conference.&lt;/p&gt;
+&lt;p&gt;We’re also looking for more sponsors to make our other events just as magical as this year’s Australia event.
+You can see all our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/sponsorship/&quot;&gt;sponsorship options&lt;/a&gt; on our website.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-again&quot;&gt;
+&lt;h2&gt;Thanks again&lt;/h2&gt;
+&lt;p&gt;We’re so grateful to our sponsors, speakers, volunteers, and attendees for making this conference possible.
+Whether you were able to come out this time or not, we hope to see you again next year&amp;nbsp;– or even sooner at one of our other events!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/thanks/atom.xml">
+    <title type="text">Conference highlights and thanks for attending!</title>
+    <id>https://www.writethedocs.org/conf/prague/2022/news/thank-you-recap/</id>
+    <updated>2022-09-23T00:00:00Z</updated>
+    <published>2022-09-23T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2022/news/thank-you-recap/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;conference-highlights-and-thanks-for-attending&quot;&gt;
+
+&lt;p&gt;Hey everyone,&lt;/p&gt;
+&lt;p&gt;Our team is now emerging from the post-conference recovery period, and we wanted to send out a quick message to thank everyone for helping to make our conference such a success.
+We appreciate everyone who makes the conference possible: speakers, sponsors, organizers, volunteers, and attendees alike!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-recap&quot;&gt;
+&lt;h2&gt;Conference recap&lt;/h2&gt;
+&lt;p&gt;At &lt;strong&gt;over 200 attendees&lt;/strong&gt; this conference was a welcoming and friendly event.
+We had the usual mix of talks on the main stage along with Q&amp;amp;A, lightning talks, unconference sessions, writing sprints, social event, and job fair.
+We thought everything went pretty smoothly this year; we’re getting pretty good at virtual events!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;talk-videos&quot;&gt;
+&lt;h2&gt;Talk videos&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://youtube.com/playlist?list=PLZAeFn6dfHpm1PRgp84X5jh9Jca_KTJSF&quot;&gt;Videos of the talks&lt;/a&gt; are now available on YouTube. This includes all conference talks and Q&amp;amp;A, as well as the lightning talks.
+You can also subscribe to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/writethedocs&quot;&gt;YouTube channel&lt;/a&gt; so you don’t miss any future content.&lt;/p&gt;
+&lt;p&gt;Thanks again to all our presenters, moderators, and folks who asked wonderful questions!
+Huge thanks also to &lt;a class=&quot;reference external&quot; href=&quot;https://www.bartatwork.com/&quot;&gt;Bart at Work&lt;/a&gt; for handling the A/V production on our event, it was flawless once again this year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;sketchnotes&quot;&gt;
+&lt;h2&gt;Sketchnotes&lt;/h2&gt;
+&lt;p&gt;We’re excited to share the &lt;a class=&quot;reference external&quot; href=&quot;https://flic.kr/ps/2RZ8SH&quot;&gt;full resolution sketchnotes&lt;/a&gt; from the conference on Flickr. You are welcome to use them for non-commercial purposes, like including in your write up from the conference :)&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/mslanei&quot;&gt;Linette Voller&lt;/a&gt; for doing them again this year!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-still-on-sale&quot;&gt;
+&lt;h2&gt;Shirts still on sale&lt;/h2&gt;
+&lt;p&gt;If you want a souvenir from this year’s conference, our &lt;a class=&quot;reference external&quot; href=&quot;https://shirt.writethedocs.org/&quot;&gt;Write the Docs Prague 2022 Pop-Up Shop&lt;/a&gt; is still open until September 30th!
+We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.&lt;/p&gt;
+&lt;p&gt;The campaign will run in 3-day batches, and shipping is available from the USA or Europe.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;come-see-us-at-our-australia-conference&quot;&gt;
+&lt;h2&gt;Come see us at our Australia conference&lt;/h2&gt;
+&lt;p&gt;Don’t forget our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/&quot;&gt;Australia conference&lt;/a&gt; on &lt;strong&gt;Dec 8-9, 2022&lt;/strong&gt;. The talks will be posted soon!&lt;/p&gt;
+&lt;p&gt;We’re also looking for more sponsors to make our other events just as magical as this year’s Prague event. You can see all our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/sponsorship/&quot;&gt;sponsorship options&lt;/a&gt; on our website.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;write-the-docs-slack&quot;&gt;
+&lt;h2&gt;Write the Docs Slack&lt;/h2&gt;
+&lt;p&gt;Our Slack network has really grown more this last year. Our #general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that y’all continue the conversations throughout the year. If you haven’t joined, now is the time!
+Check out the &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/slack/&quot;&gt;Write the Docs Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/prague/2022/news/thank-you-recap.rst&lt;/tt&gt;, line 70); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “write the docs slack”.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;write-the-docs-newsletter&quot;&gt;
+&lt;h2&gt;Write the Docs Newsletter&lt;/h2&gt;
+&lt;p&gt;Our &lt;a class=&quot;reference external&quot; href=&quot;http://writethedocs.org/newsletter/&quot;&gt;monthly newsletter&lt;/a&gt; is the other place to keep track of everything that is happening with the community.
+Subscribe to make sure you hear about all the conferences, meetups, job postings, and summaries of relevant conversations in our Slack.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;local-meetups&quot;&gt;
+&lt;h2&gt;Local Meetups&lt;/h2&gt;
+&lt;p&gt;We hope you continue to &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/meetups/&quot;&gt;build your local or online communities&lt;/a&gt; and keep in touch with other documentarians.
+We have a number of meetups in cities across the country, and if you don’t see your city listed consider &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/organizer-guide/meetups/starting/&quot;&gt;starting&lt;/a&gt; a meetup!&lt;/p&gt;
+&lt;p&gt;New this year are our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/meetups/#current-meetups-quorum&quot;&gt;Quorum Meetups&lt;/a&gt; which are virtual and targeting large geographic areas. There’s already one covering most everyone in the US or in a similar timezone.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;code-of-conduct-transparency-report&quot;&gt;
+&lt;h2&gt;Code of Conduct transparency report&lt;/h2&gt;
+&lt;p&gt;As with any Write the Docs event, this conference was covered by our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct/&quot;&gt;community Code of Conduct&lt;/a&gt;.
+We aim to be as transparent with CoC incidents and enforcement as we can.&lt;/p&gt;
+&lt;p&gt;To ensure that our CoC was visible and accessible, we took a number of specific steps:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Every participant agreed to the Code of Conduct in advance during registration.&lt;/li&gt;
+&lt;li&gt;The CoC, or a summary, was included on the conference website and Hopin Reception&lt;/li&gt;
+&lt;li&gt;The CoC was repeatedly mentioned in our conference introduction and announcements.&lt;/li&gt;
+&lt;li&gt;We specifically stressed that the CoC applies to all conference spaces including the social event.&lt;/li&gt;
+&lt;li&gt;We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;None of our organizers were approached about any CoC concerns at this event.
+We know that this is, in part, a reflection of the thoughtful and inclusive community that we’re so lucky to have.&lt;/p&gt;
+&lt;p&gt;That being said, we’re also very conscious of the fact that just because nothing was reported doesn’t mean nothing happened.
+If there was any personal conduct or other aspect of the conference experience that did not meet the expectations of behavior set out in the CoC, please email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:conduct&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;conduct&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-again&quot;&gt;
+&lt;h2&gt;Thanks again&lt;/h2&gt;
+&lt;p&gt;Thanks so much to the following companies for supporting the Portland conference this year:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.archbee.io/?utm_medium=banner&amp;amp;utm_source=conference&amp;amp;utm_campaign=wtd&quot;&gt;Archbee&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.adyen.com/&quot;&gt;Adyen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.jetbrains.com/&quot;&gt;JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.veeam.com/&quot;&gt;Veeam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.dolby.com/&quot;&gt;Dolby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;We’re so grateful to our sponsors, speakers, volunteers, and attendees for making this conference possible. Whether you were able to come out this time or not, we hope to see you again next year&amp;nbsp;– or
+even sooner at one of our other events!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/thanks/atom.xml">
+    <title type="text">Conference highlights and thanks for attending!</title>
+    <id>https://www.writethedocs.org/conf/portland/2022/news/thanks-recap/</id>
+    <updated>2022-06-01T00:00:00Z</updated>
+    <published>2022-06-01T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2022/news/thanks-recap/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;conference-highlights-and-thanks-for-attending&quot;&gt;
+
+&lt;p&gt;Hey everyone,&lt;/p&gt;
+&lt;p&gt;Our team is now emerging from the post-conference
+recovery period, and we wanted to send out a quick message to thank
+everyone for helping to make our conference such a
+success. We appreciate everyone who makes the conference possible:
+speakers, sponsors, organizers, and attendees alike!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-recap&quot;&gt;
+&lt;h2&gt;Conference recap&lt;/h2&gt;
+&lt;p&gt;At &lt;strong&gt;650 attendees&lt;/strong&gt; this conference was another smashing success!
+We had the usual mix of talks on the main stage along with Q&amp;amp;A,
+lightning talks, unconference sessions,
+writing sprints, social event, and job fair.
+We thought everything went pretty smoothly this year;
+we’re getting pretty good at virtual events!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;talk-videos&quot;&gt;
+&lt;h2&gt;Talk videos&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/playlist?list=PLZAeFn6dfHpnDhFvXG8GprqlLlzSQRBui&quot;&gt;Videos of the talks&lt;/a&gt; are now available on YouTube. This
+includes all conference talks and Q&amp;amp;A, as well as the lightning talks.
+You can also subscribe to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/writethedocs&quot;&gt;YouTube channel&lt;/a&gt; so you don’t miss any future content.&lt;/p&gt;
+&lt;p&gt;Thanks again to all our presenters, moderator, and folks who asked wonderful questions!
+Huge thanks also to &lt;a class=&quot;reference external&quot; href=&quot;https://www.bartatwork.com/&quot;&gt;Bart at Work&lt;/a&gt; for handling the A/V production on
+our event, it was flawless once again this year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;sketchnotes&quot;&gt;
+&lt;h2&gt;Sketchnotes&lt;/h2&gt;
+&lt;p&gt;We’re excited to share the &lt;a class=&quot;reference external&quot; href=&quot;https://www.flickr.com/photos/writethedocs/albums/72177720299222782&quot;&gt;full resolution sketchnotes&lt;/a&gt; from the
+conference on Flickr. You are welcome to use them for non-commercial
+purposes, like including in your write up from the conference :)&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/nitya&quot;&gt;Nitya Narasimhan&lt;/a&gt; for doing them this year!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;come-see-us-at-our-prague-or-australia-india-conferences&quot;&gt;
+&lt;h2&gt;Come see us at our Prague or Australia &amp;amp; India conferences&lt;/h2&gt;
+&lt;p&gt;Don’t forget our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2022/&quot;&gt;Prague conference&lt;/a&gt; on &lt;strong&gt;September 11-13&lt;/strong&gt;, and our
+&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/&quot;&gt;Australia conference&lt;/a&gt; on &lt;strong&gt;Dec 8-9&lt;/strong&gt;. The CFP is open for Prague, and
+Australia will be open soon.&lt;/p&gt;
+&lt;p&gt;We’re also looking for more sponsors to make our other events just as
+magical as this year’s Portland event. You can see all our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/sponsorship/&quot;&gt;sponsorship options&lt;/a&gt; on our website.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;write-the-docs-slack&quot;&gt;
+&lt;h2&gt;Write the Docs Slack&lt;/h2&gt;
+&lt;p&gt;Our Slack network has really grown more this last year. Our #general
+Slack channel has been extra busy in the days and weeks leading up to
+the conference, and we hope that y’all continue the conversations
+throughout the year. If you haven’t joined, now is the time! Check out
+the &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/slack/&quot;&gt;Write the Docs Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/portland/2022/news/thanks-recap.rst&lt;/tt&gt;, line 79); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “write the docs slack”.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;write-the-docs-newsletter&quot;&gt;
+&lt;h2&gt;Write the Docs Newsletter&lt;/h2&gt;
+&lt;p&gt;Our &lt;a class=&quot;reference external&quot; href=&quot;http://writethedocs.org/newsletter/&quot;&gt;monthly newsletter&lt;/a&gt; is the other place to keep track of everything
+that is happening with the community. Subscribe to make sure you hear
+about all the conferences, meetups, job postings, and summaries of
+relevant conversations in our Slack.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;local-meetups&quot;&gt;
+&lt;h2&gt;Local Meetups&lt;/h2&gt;
+&lt;p&gt;We hope you continue to &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/meetups/&quot;&gt;build the meetup community&lt;/a&gt; and keep in touch
+with other documentarians near your hometown. We have a number of
+meetups in cities across the country, and if you don’t see your city
+listed consider &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/organizer-guide/meetups/starting/&quot;&gt;starting&lt;/a&gt; a meetup!&lt;/p&gt;
+&lt;p&gt;New this year are our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/meetups/#current-meetups-quorum&quot;&gt;Quorum Meetups&lt;/a&gt; which are virtual and targeting
+large geographic areas. There’s already one covering most everyone in
+the US or in a similar timezone.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;code-of-conduct-transparency-report&quot;&gt;
+&lt;h2&gt;Code of Conduct transparency report&lt;/h2&gt;
+&lt;p&gt;As with any Write the Docs event,
+this conference was covered by our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct/&quot;&gt;community Code of Conduct&lt;/a&gt;.
+We aim to be as transparent with CoC incidents and enforcement as we can.&lt;/p&gt;
+&lt;p&gt;To ensure that our CoC was visible and accessible, we took a number of specific steps:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Every participant agreed to the Code of Conduct in advance during registration.&lt;/li&gt;
+&lt;li&gt;The CoC, or a summary, was included on the conference website and Hopin Reception&lt;/li&gt;
+&lt;li&gt;The CoC was repeatedly mentioned in our conference introduction and announcements.&lt;/li&gt;
+&lt;li&gt;We specifically stressed that the CoC applies to all conference spaces including the social event.&lt;/li&gt;
+&lt;li&gt;We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;None of our organizers were approached about any CoC concerns at this event.
+We know that this is, in part, a reflection of the thoughtful and inclusive community that we’re so lucky to have.&lt;/p&gt;
+&lt;p&gt;That being said, we’re also very conscious of the fact that just because
+nothing was reported doesn’t mean nothing happened. If there was any personal
+conduct or other aspect of the conference experience that did not meet the
+expectations of behavior set out in the CoC, please email us at
+&lt;a class=&quot;reference external&quot; href=&quot;mailto:conduct&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;conduct&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-again&quot;&gt;
+&lt;h2&gt;Thanks again&lt;/h2&gt;
+&lt;p&gt;Thanks so much to the following companies for supporting the Portland conference this year:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.google.com&quot;&gt;Google&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://stackblitz.com/&quot;&gt;StackBlitz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.cncf.io/&quot;&gt;Cloud Native Computing Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.mongodb.com/&quot;&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.twilio.com/&quot;&gt;Twilio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://livelike.com/&quot;&gt;LiveLike&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://opencollective.com/open-web-docs&quot;&gt;Open Web Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.jetbrains.com/&quot;&gt;JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;We’re so grateful to our sponsors, speakers, volunteers, and attendees
+for making this conference possible. Whether you were able to come out
+this time or not, we hope to see you again next year&amp;nbsp;– or
+even sooner at one of our other events!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/thanks/atom.xml">
+    <title type="text">Conference highlights and thanks to the community!</title>
+    <id>https://www.writethedocs.org/conf/prague/2021/news/thank-you-recap/</id>
+    <updated>2021-10-13T00:00:00Z</updated>
+    <published>2021-10-13T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2021/news/thank-you-recap/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;conference-highlights-and-thanks-to-the-community&quot;&gt;
+
+&lt;p&gt;Hey everyone,&lt;/p&gt;
+&lt;p&gt;The Write the Docs team is now emerging from the post-conference recovery period, and we wanted to send out a quick message to thank everyone for helping to make our conference such a success.
+We appreciate everyone who makes the conference possible: speakers, sponsors, organizers, and attendees alike.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-recap&quot;&gt;
+&lt;h2&gt;Conference recap&lt;/h2&gt;
+&lt;p&gt;At &lt;strong&gt;nearly 300 attendees&lt;/strong&gt;, the conference was active and full of usual mix of talks on the main stage along with Q&amp;amp;A, lightning talks, unconference sessions, writing sprints, social event, and job fair.
+We thought everything went pretty smoothly this year, including experiments like the new social event platform.&lt;/p&gt;
+&lt;p&gt;As always, we were excited with how our awesome community come together in our virtual venue. Lots of knowledge was shared, and we had a great time.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;talk-videos&quot;&gt;
+&lt;h2&gt;Talk videos&lt;/h2&gt;
+&lt;p&gt;Videos of the talks are now available on &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/playlist?list=PLZAeFn6dfHpnaoiOQyd9BYbQbprDGQjQ9&quot;&gt;YouTube&lt;/a&gt;. This includes all conference talks and Q&amp;amp;A, as well as the lightning talks.
+You can also subscribe to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/writethedocs&quot;&gt;YouTube channel&lt;/a&gt; so you don’t miss any future content.
+We are also working to add the videos and sketchnotes for all the talks to our website archive, so stay tuned for updates.&lt;/p&gt;
+&lt;p&gt;Thanks again to all our presenters and moderators! Huge thanks also to &lt;a class=&quot;reference external&quot; href=&quot;https://www.bartatwork.com/&quot;&gt;Bart at Work&lt;/a&gt; for handling the A/V production on our event, it was flawless once again this year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-still-on-sale&quot;&gt;
+&lt;h2&gt;Shirts still on sale&lt;/h2&gt;
+&lt;p&gt;If you want a souvenir from this year’s conference, our &lt;a class=&quot;reference external&quot; href=&quot;https://shirt.writethedocs.org/&quot;&gt;Write the Docs Prague 2021 Pop-Up Shop&lt;/a&gt; is still open!
+We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want. The campaign will run in 3-day batches for another few weeks. Shipping is available from the USA or Europe.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New this year&lt;/strong&gt;: You can shop for non-conference swag in our &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.threadless.com/&quot;&gt;Write the Docs Community Shop&lt;/a&gt; on Threadless.
+We have non-apparel options like stickers, notebooks, bags, and other accessories with various community slogens (including the now-famous “Docs or it didn’t happen!”).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;code-of-conduct-transparency-report&quot;&gt;
+&lt;h2&gt;Code of Conduct transparency report&lt;/h2&gt;
+&lt;p&gt;As with any Write the Docs event, this conference was covered by our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct/&quot;&gt;community Code of Conduct&lt;/a&gt;.
+We aim to be as transparent with CoC incidents and enforcement as we can.&lt;/p&gt;
+&lt;p&gt;To ensure that our CoC was visible and accessible, we took a number of specific steps:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Every participant agreed to the Code of Conduct in advance during registration.&lt;/li&gt;
+&lt;li&gt;The CoC, or a summary, was included on the conference website and Hopin Reception&lt;/li&gt;
+&lt;li&gt;The CoC was repeatedly mentioned in our conference introduction and announcements.&lt;/li&gt;
+&lt;li&gt;We specifically stressed that the CoC applies to all conference spaces including the social event.&lt;/li&gt;
+&lt;li&gt;We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;None of our organizers were approached about any CoC concerns at this event.
+We know that this is, in part, a reflection of the thoughtful and inclusive community that we’re so lucky to have.&lt;/p&gt;
+&lt;p&gt;That being said, we’re also very conscious of the fact that just because nothing was reported doesn’t mean nothing happened.
+If there was any personal conduct or other aspect of the conference experience that did not meet the expectations of behavior set out in the CoC, please email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:conduct&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;conduct&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;keep-in-touch&quot;&gt;
+&lt;h2&gt;Keep in touch&lt;/h2&gt;
+&lt;p&gt;As you probably know, we’ve decided to take a break this year from a full Australia &amp;amp; India conference, to help the organizers maintain their well-being and prevent burnout.
+Instead of the conference, we’re organizing a more casual super-meetup instead. Stay tuned for details soon!&lt;/p&gt;
+&lt;p&gt;We’re also looking for more sponsors to make our other events just as magical as this year’s Prague event.
+You can see all our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/sponsorship/&quot;&gt;sponsorship options&lt;/a&gt; on our website.&lt;/p&gt;
+&lt;p&gt;Our Slack network has expanded yet again this year.
+Our #general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that y’all continue the conversations throughout the year.
+If you haven’t joined, now’s the time! Check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/slack/&quot;&gt;Write the Docs Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/newsletter/&quot;&gt;monthly newsletter&lt;/a&gt; is the other place to keep track of everything that is happening with the community.
+Subscribe to make sure you hear about all the conferences, meetups, job postings, and summaries of relevant conversations in our Slack.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-again-to-our-sponsors&quot;&gt;
+&lt;h2&gt;Thanks again to our sponsors&lt;/h2&gt;
+&lt;p&gt;Thanks so much to the following companies for supporting the Prague conference this year:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.redhat.com/en&quot;&gt;Red Hat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.people-text.de/en/home-en.html&quot;&gt;people text&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.jetbrains.com/&quot;&gt;JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://opencollective.com/open-web-docs&quot;&gt;Open Web Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://aiven.io/&quot;&gt;Aiven&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://developer.mozilla.org/en-US/&quot;&gt;MDN Web Docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;until-next-time&quot;&gt;
+&lt;h2&gt;Until next time&lt;/h2&gt;
+&lt;p&gt;We’re so grateful to our sponsors, speakers, volunteers, and attendees for making this conference possible.
+Whether you were able to attend this time or not, we hope to see you again next year and we wish everyone a safe and happy time!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/thanks/atom.xml">
+    <title type="text">Conference highlights and thanks to the community!</title>
+    <id>https://www.writethedocs.org/conf/portland/2021/news/thanks-recap/</id>
+    <updated>2021-05-05T00:00:00Z</updated>
+    <published>2021-05-05T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2021/news/thanks-recap/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;conference-highlights-and-thanks-to-the-community&quot;&gt;
+
+&lt;p&gt;Hey everyone,&lt;/p&gt;
+&lt;p&gt;The Write the Docs team is now emerging from the post-conference
+recovery period, and we wanted to send out a quick message to thank
+everyone for helping to make our conference such a
+success. We appreciate everyone who makes the conference possible:
+speakers, sponsors, organizers, and attendees alike.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-recap&quot;&gt;
+&lt;h2&gt;Conference recap&lt;/h2&gt;
+&lt;p&gt;At &lt;strong&gt;700 attendees&lt;/strong&gt; this conference was our biggest yet! We had
+the usual mix of talks on the main stage along with Q&amp;amp;A,
+lightning talks, unconference sessions,
+writing sprints, social event, and job fair.
+We thought everything went pretty smoothly this year,
+including experiments like the new social event platform.&lt;/p&gt;
+&lt;p&gt;Overall, we were excited with how our awesome community come together in our new venue.
+Lots of knowledge was shared, and we had a great time.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;talk-videos&quot;&gt;
+&lt;h2&gt;Talk videos&lt;/h2&gt;
+&lt;p&gt;Videos of the talks are now available on &lt;a class=&quot;reference external&quot; href=&quot;https://youtube.com/playlist?list=PLZAeFn6dfHpkCk5Fw5yLFGTqd1OJoaXhR&quot;&gt;YouTube&lt;/a&gt;. This
+includes all conference talks and Q&amp;amp;A, as well as the lightning talks.
+You can also subscribe to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/writethedocs&quot;&gt;YouTube channel&lt;/a&gt; so you don’t miss any future content.&lt;/p&gt;
+&lt;p&gt;Thanks again to all our presenters and moderators!
+Huge thanks also to &lt;a class=&quot;reference external&quot; href=&quot;https://www.bartatwork.com/&quot;&gt;Bart at Work&lt;/a&gt; for handling the A/V production on
+our event, it was flawless once again this year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-still-on-sale&quot;&gt;
+&lt;h2&gt;Shirts still on sale&lt;/h2&gt;
+&lt;p&gt;If you want a souvenir from this year’s conference, our &lt;a class=&quot;reference external&quot; href=&quot;https://teespring.com/wtd-pdx-2021&quot;&gt;Write the Docs Portland 2021 Pop-Up Shop&lt;/a&gt; is still open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.&lt;/p&gt;
+&lt;p&gt;The campaign will run in 3-day batches for another few weeks. Shipping is available from the USA or Europe.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;code-of-conduct-transparency-report&quot;&gt;
+&lt;h2&gt;Code of Conduct transparency report&lt;/h2&gt;
+&lt;p&gt;As with any Write the Docs event,
+this conference was covered by our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct/&quot;&gt;community Code of Conduct&lt;/a&gt;.
+We aim to be as transparent with CoC incidents and enforcement as we can.&lt;/p&gt;
+&lt;p&gt;To ensure that our CoC was visible and accessible, we took a number of specific steps:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Every participant agreed to the Code of Conduct in advance during registration.&lt;/li&gt;
+&lt;li&gt;The CoC, or a summary, was included on the conference website and Hopin Reception&lt;/li&gt;
+&lt;li&gt;The CoC was repeatedly mentioned in our conference introduction and announcements.&lt;/li&gt;
+&lt;li&gt;We specifically stressed that the CoC applies to all conference spaces including the social event.&lt;/li&gt;
+&lt;li&gt;We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;None of our organizers were approached about any CoC concerns at this event.
+We know that this is, in part, a reflection of the thoughtful and inclusive community that we’re so lucky to have.&lt;/p&gt;
+&lt;p&gt;That being said, we’re also very conscious of the fact that just because
+nothing was reported doesn’t mean nothing happened. If there was any personal
+conduct or other aspect of the conference experience that did not meet the
+expectations of behavior set out in the CoC, please email us at
+&lt;a class=&quot;reference external&quot; href=&quot;mailto:conduct&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;conduct&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;keep-in-touch&quot;&gt;
+&lt;h2&gt;Keep in touch&lt;/h2&gt;
+&lt;p&gt;Don’t forget our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2021/&quot;&gt;Prague conference&lt;/a&gt; on &lt;strong&gt;October 3-5&lt;/strong&gt;, and our
+&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2021/&quot;&gt;Australia &amp;amp; India conference&lt;/a&gt; on &lt;strong&gt;December 2-3&lt;/strong&gt;. Tickets are on sale
+now and the CFP is open for Prague, and Australia &amp;amp; India will be open
+soon. They take place during the day in the CEST and AEDT time zones, respectively.&lt;/p&gt;
+&lt;p&gt;We’re also looking for more sponsors to make our other events just as magical as this year’s Portland event. You can see all our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/sponsorship/&quot;&gt;sponsorship options&lt;/a&gt; on our website.&lt;/p&gt;
+&lt;p&gt;Our Slack network has expanded yet again this year. Our #general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that y’all continue the conversations throughout the year. If you haven’t joined, now’s the time! Check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/slack/&quot;&gt;Write the Docs Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/newsletter/&quot;&gt;monthly newsletter&lt;/a&gt; is the other place to keep track of everything
+that is happening with the community. Subscribe to make sure you hear
+about all the conferences, meetups, job postings, and summaries of
+relevant conversations in our Slack.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-again&quot;&gt;
+&lt;h1&gt;Thanks again&lt;/h1&gt;
+&lt;p&gt;Thanks so much to the following companies for supporting the Portland conference this year:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.google.com&quot;&gt;Google&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.cncf.io/&quot;&gt;Cloud Native Computing Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.twilio.com/&quot;&gt;Twilio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.mongodb.com/&quot;&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.juniper.net/&quot;&gt;Juniper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.starburst.io/&quot;&gt;Starburst&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;We’re so grateful to our sponsors, speakers, volunteers, and attendees
+for making this conference possible. Whether you were able to come out
+this time or not, we hope to see you again next year&amp;nbsp;– or
+even sooner at one of our other events!&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/thanks/atom.xml">
+    <title type="text">Conference highlights and thanks to the community!</title>
+    <id>https://www.writethedocs.org/conf/australia/2020/news/thank-you-recap/</id>
+    <updated>2020-12-14T00:00:00Z</updated>
+    <published>2020-12-14T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2020/news/thank-you-recap/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;conference-highlights-and-thanks-to-the-community&quot;&gt;
+
+&lt;p&gt;G’day everyone,&lt;/p&gt;
+&lt;p&gt;The Write the Docs Australia and India team is now emerging from the post-conference recovery period, and we wanted to send out a quick message to thank everyone for helping to make our joint Australia and India online conference such a success.
+We’re happy to share some of the highlights with you.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-recap&quot;&gt;
+&lt;h2&gt;Conference recap&lt;/h2&gt;
+&lt;p&gt;At over 125 people, this year’s conference was our biggest yet! We had the usual mix of main stage and lightning talks, and social events.
+Learning from our Portland and Prague events, we were very happy with how well all of our events transitioned to our new online format. We loved how the spirit of the community was so palpable even in an online event, which was even more special given the year we’ve all had.&lt;/p&gt;
+&lt;p&gt;Overall, we were excited with how our awesome community came together in our new virtual venue.
+Lots of knowledge was shared, and we had a great time.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;videos&quot;&gt;
+&lt;h2&gt;Videos&lt;/h2&gt;
+&lt;p&gt;Videos of the talks and lightning talks are now available on &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/playlist?list=PLZAeFn6dfHpl2E5JhVd34llZD4a4oAeCo&quot;&gt;our YouTube playlist&lt;/a&gt;. We also included the Q&amp;amp;A recordings for the main talks.&lt;/p&gt;
+&lt;p&gt;Thanks again to &lt;a class=&quot;reference external&quot; href=&quot;https://www.bartatwork.com/atwork/&quot;&gt;Bart at Work&lt;/a&gt; for doing such a great job with these. You can also subscribe to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/writethedocs&quot;&gt;YouTube channel&lt;/a&gt; so you don’t miss any future content!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;sketchnotes&quot;&gt;
+&lt;h2&gt;Sketchnotes&lt;/h2&gt;
+&lt;p&gt;One of our fantastic volunteers from the conference did some amazing sketchnotes of all the talks at the conference, as a takeaway for attendees.
+These sketchnotes are now available for everyone at &lt;a class=&quot;reference external&quot; href=&quot;https://drive.google.com/drive/folders/10h8EguUikzaTqRRRScflxRdSBDD1G3Hq?usp=sharing&quot;&gt;WTD AU and India 2020 sketchnotes&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-still-on-sale&quot;&gt;
+&lt;h2&gt;Shirts still on sale&lt;/h2&gt;
+&lt;p&gt;If you want a souvenir from this year’s conference, our &lt;a class=&quot;reference external&quot; href=&quot;https://teespring.com/wtd-australia-india-2020&quot;&gt;Write the Docs Australia 2020 Pop-Up Shop&lt;/a&gt; is still open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.&lt;/p&gt;
+&lt;p&gt;The campaign will run in 3-day batches until January 10th 2021. Shipping is available from the USA or Europe.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;code-of-conduct-transparency-report&quot;&gt;
+&lt;h2&gt;Code of Conduct transparency report&lt;/h2&gt;
+&lt;p&gt;As with any Write the Docs event, this conference was covered by our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct/&quot;&gt;community Code of Conduct&lt;/a&gt;.
+We aim to be as transparent with CoC incidents and enforcement as we can.&lt;/p&gt;
+&lt;p&gt;To ensure that our CoC was visible and accessible, we took a number of specific steps:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Every participant agreed to the Code of Conduct in advance during registration.&lt;/li&gt;
+&lt;li&gt;The CoC, or a summary, was included on the conference website and Hopin Reception&lt;/li&gt;
+&lt;li&gt;The CoC was repeatedly mentioned in our conference introduction and announcements.&lt;/li&gt;
+&lt;li&gt;We specifically stressed that the CoC applies to all conference spaces including the social event.&lt;/li&gt;
+&lt;li&gt;We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;None of our organizers were approached about any CoC concerns at this event.
+We know that this is, in part, a reflection of the thoughtful and inclusive community that we’re so lucky to have.&lt;/p&gt;
+&lt;p&gt;That being said, we’re also very conscious of the fact that just because nothing was reported doesn’t mean nothing happened.
+If there was any personal conduct or other aspect of the conference experience that did not meet the expectations of behaviour set out in the CoC, please email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:conduct&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;conduct&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;ready-for-more&quot;&gt;
+&lt;h2&gt;Ready for more?&lt;/h2&gt;
+&lt;p&gt;We are already talking 2021 folks! Our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2021/&quot;&gt;Portland conference&lt;/a&gt; has announced its dates for 25-27 April and CFPs are now open.
+You can &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2021/cfp/&quot;&gt;submit a talk for the Portland conference&lt;/a&gt; until &lt;strong&gt;midnight Pacific time 25 January 2021&lt;/strong&gt;.
+This conference is also virtual next year, so you can attend or present from anywhere.&lt;/p&gt;
+&lt;p&gt;Our Slack network has expanded yet again this year.
+Our #general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that you will continue the conversations throughout the year.
+If you haven’t joined, now’s the time!
+Check out the &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/slack/&quot;&gt;Write the Docs Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We’re also looking for more sponsors to make our other events just as magical as this year’s Australia and India event.
+You can see all our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/sponsorship/&quot;&gt;sponsorship options&lt;/a&gt; on our website.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-again&quot;&gt;
+&lt;h2&gt;Thanks again&lt;/h2&gt;
+&lt;p&gt;We’re so grateful to our sponsors, speakers, volunteers, and attendees for making this conference possible.
+Whether you were able to come out this time or not, we hope to see you again next year&amp;nbsp;– or even sooner at one of our other events!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/thanks/atom.xml">
+    <title type="text">Conference highlights and thanks to the community!</title>
+    <id>https://www.writethedocs.org/conf/prague/2020/news/thank-you-recap/</id>
+    <updated>2020-10-27T00:00:00Z</updated>
+    <published>2020-10-27T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2020/news/thank-you-recap/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;conference-highlights-and-thanks-to-the-community&quot;&gt;
+
+&lt;p&gt;Hey everyone,&lt;/p&gt;
+&lt;p&gt;The Write the Docs team is now emerging from the post-conference recovery period, and we wanted to send out a quick message to thank everyone for helping to make our Prague online conference such a success. We’re happy to share some of the highlights with you.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-recap&quot;&gt;
+&lt;h2&gt;Conference recap&lt;/h2&gt;
+&lt;p&gt;At over 300 people, this year’s conference was our biggest yet! We had the usual mix of main stage and lightning talks, unconference sessions, writing sprints, and social events.
+We were very happy with how well all of our events transitioned to our new online format. We loved how the spirit of the community was so palpable even in an online event, which was even more special given the year we’ve all had.&lt;/p&gt;
+&lt;p&gt;Overall, we were excited with how our awesome community came together in our new virtual venue.
+Lots of knowledge was shared, and we had a great time.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;videos&quot;&gt;
+&lt;h2&gt;Videos&lt;/h2&gt;
+&lt;p&gt;Videos of the talks and lightning talks are now available on &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/playlist?list=PLZAeFn6dfHpmRWZJaUwQzsdagW2TtRI2x&quot;&gt;our YouTube playlist&lt;/a&gt;. We also included the Q&amp;amp;A recordings for the main talks.&lt;/p&gt;
+&lt;p&gt;Thanks again to &lt;a class=&quot;reference external&quot; href=&quot;https://www.bartatwork.com/atwork/&quot;&gt;Bart at Work&lt;/a&gt; for doing such a great job with these. You can also subscribe to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/writethedocs&quot;&gt;YouTube channel&lt;/a&gt; so you don’t miss any future content!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-still-on-sale&quot;&gt;
+&lt;h2&gt;Shirts still on sale&lt;/h2&gt;
+&lt;p&gt;If you want a souvenir from this year’s conference, our &lt;a class=&quot;reference external&quot; href=&quot;https://teespring.com/wtd-prague-2020&quot;&gt;Write the Docs Prague 2020 Pop-Up Shop&lt;/a&gt; is still open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.&lt;/p&gt;
+&lt;p&gt;The campaign will run in 3-day batches until November 30th. Shipping is available from the USA or Europe.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;code-of-conduct-transparency-report&quot;&gt;
+&lt;h2&gt;Code of Conduct transparency report&lt;/h2&gt;
+&lt;p&gt;As with any Write the Docs event, this conference was covered by our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct/&quot;&gt;community Code of Conduct&lt;/a&gt;.
+We aim to be as transparent with CoC incidents and enforcement as we can.&lt;/p&gt;
+&lt;p&gt;To ensure that our CoC was visible and accessible, we took a number of specific steps:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Every participant agreed to the Code of Conduct in advance during registration.&lt;/li&gt;
+&lt;li&gt;The CoC, or a summary, was included on the conference website and Hopin Reception&lt;/li&gt;
+&lt;li&gt;The CoC was repeatedly mentioned in our conference introduction and announcements.&lt;/li&gt;
+&lt;li&gt;We specifically stressed that the CoC applies to all conference spaces including the social event.&lt;/li&gt;
+&lt;li&gt;We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;None of our organizers were approached about any CoC concerns at this event.
+We know that this is, in part, a reflection of the thoughtful and inclusive community that we’re so lucky to have.&lt;/p&gt;
+&lt;p&gt;That being said, we’re also very conscious of the fact that just because nothing was reported doesn’t mean nothing happened.
+If there was any personal conduct or other aspect of the conference experience that did not meet the expectations of behavior set out in the CoC, please email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:conduct&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;conduct&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;ready-for-more&quot;&gt;
+&lt;h2&gt;Ready for more?&lt;/h2&gt;
+&lt;p&gt;Don’t forget our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2020/&quot;&gt;Australia + India conference&lt;/a&gt; in December.
+The talks are already posted on the website, and tickets are selling fast so grab yours now!
+This conference is also virtual this year, so you can attend or present from anywhere.&lt;/p&gt;
+&lt;p&gt;Our Slack network has expanded yet again this year.
+Our #general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that you will continue the conversations throughout the year.
+If you haven’t joined, now’s the time!
+Check out the &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/slack/&quot;&gt;Write the Docs Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We’re also looking for more sponsors to make our other events just as magical as this year’s Prague event.
+You can see all our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/sponsorship/&quot;&gt;sponsorship options&lt;/a&gt; on our website.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-again&quot;&gt;
+&lt;h2&gt;Thanks again&lt;/h2&gt;
+&lt;p&gt;We’re so grateful to our sponsors, speakers, volunteers, and attendees for making this conference possible.
+Whether you were able to come out this time or not, we hope to see you again next year&amp;nbsp;– or even sooner at one of our other events!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/thanks/atom.xml">
+    <title type="text">Conference highlights and thanks to the community!</title>
+    <id>https://www.writethedocs.org/conf/portland/2020/news/thanks-recap/</id>
+    <updated>2020-08-20T00:00:00Z</updated>
+    <published>2020-08-20T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2020/news/thanks-recap/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;conference-highlights-and-thanks-to-the-community&quot;&gt;
+
+&lt;p&gt;Hey everyone,&lt;/p&gt;
+&lt;p&gt;The Write the Docs team is now emerging from the post-conference
+recovery period, and we wanted to send out a quick message to thank
+everyone for helping to make our 1st online conference such a
+success. We’re happy to share some of the highlights with you.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-recap&quot;&gt;
+&lt;h2&gt;Conference recap&lt;/h2&gt;
+&lt;p&gt;At over 600 people this year’s conference was our biggest yet! We had
+the usual mix of main stage and lightning talks, unconference sessions,
+writing sprints, and social events. We were very happy with how well all of our
+events transitioned to our new online format. We loved how the spirit of the community
+was so palpable even in an online event, which was even more special given the year we’ve all had.&lt;/p&gt;
+&lt;p&gt;Overall, we were excited with how our awesome community come together in our new venue.
+Lots of knowledge was shared, and we had a great time.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;videos&quot;&gt;
+&lt;h2&gt;Videos&lt;/h2&gt;
+&lt;p&gt;Videos of the talks are now available on &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ&quot;&gt;our YouTube playlist&lt;/a&gt;. Sadly, the Monday afternoon talks had an issue with the Q&amp;amp;A not being recorded, so we weren’t able to add those to the videos. We think we know what happened with it, and hopefully we’ve addressed this issue going forward.&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;a class=&quot;reference external&quot; href=&quot;https://www.bartatwork.com/atwork/&quot;&gt;Bart at Work&lt;/a&gt; for doing such a great job with these. You can also subscribe to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/writethedocs&quot;&gt;YouTube channel&lt;/a&gt; so you don’t miss any future content!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-still-on-sale&quot;&gt;
+&lt;h2&gt;Shirts still on sale&lt;/h2&gt;
+&lt;p&gt;If you want a souvenir from this year’s conference, our &lt;a class=&quot;reference external&quot; href=&quot;https://teespring.com/wtd-portland-2020&quot;&gt;Write the Docs Portland 2020 Pop-Up Shop&lt;/a&gt; is still open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.&lt;/p&gt;
+&lt;p&gt;The campaign will run in 3-day batches until August 30th. Shipping is available from the USA or Europe.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;code-of-conduct-transparency-report&quot;&gt;
+&lt;h2&gt;Code of Conduct transparency report&lt;/h2&gt;
+&lt;p&gt;As with any Write the Docs event, this conference was covered by our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct/&quot;&gt;community Code of Conduct&lt;/a&gt;.
+We aim to be as transparent with CoC incidents and enforcement as we can.&lt;/p&gt;
+&lt;p&gt;To ensure that our CoC was visible and accessible, we took a number of specific steps:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Every participant agreed to the Code of Conduct in advance during registration.&lt;/li&gt;
+&lt;li&gt;The CoC, or a summary, was included on the conference website and Hopin Reception&lt;/li&gt;
+&lt;li&gt;The CoC was repeatedly mentioned in our conference introduction and announcements.&lt;/li&gt;
+&lt;li&gt;We specifically stressed that the CoC applies to all conference spaces including the social event.&lt;/li&gt;
+&lt;li&gt;We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;None of our organizers were approached about any CoC concerns at this event.
+We know that this is, in part, a reflection of the thoughtful and inclusive community that we’re so lucky to have.&lt;/p&gt;
+&lt;p&gt;That being said, we’re also very conscious of the fact that just because nothing was reported doesn’t mean nothing happened. If there was any personal conduct or other aspect of the conference experience that did not meet the expectations of behavior set out in the CoC, please email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:conduct&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;conduct&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;ready-for-more&quot;&gt;
+&lt;h2&gt;Ready for more?&lt;/h2&gt;
+&lt;p&gt;Don’t forget our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2020/&quot;&gt;Prague conference&lt;/a&gt; in
+October, and our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2020/&quot;&gt;Australia+India conference&lt;/a&gt; in
+December. Tickets are on sale for Prague. The call for talk proposals for the Australia conference is still open, and ticket sales are open.&lt;/p&gt;
+&lt;p&gt;Our Prague and Australia+India conferences are also virtual this year, so you can attend or present from anywhere. They take place during the day in the CEST and AEDT time zones, respectively.&lt;/p&gt;
+&lt;p&gt;Our Slack network has expanded yet again this year. Our #general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that y’all continue the conversations throughout the year. If you haven’t joined, now’s the time! Check out the &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/slack/&quot;&gt;Write the Docs Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We’re also looking for more sponsors to make our other events just as magical as this year’s Portland event. You can see all our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/sponsorship/&quot;&gt;sponsorship options&lt;/a&gt; on our website.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-again&quot;&gt;
+&lt;h2&gt;Thanks again&lt;/h2&gt;
+&lt;p&gt;We’re so grateful to our sponsors, speakers, volunteers, and attendees
+for making this conference possible. Whether you were able to come out
+this time or not, we hope to see you again next year&amp;nbsp;– or
+even sooner at one of our other events!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

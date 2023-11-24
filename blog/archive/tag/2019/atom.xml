@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged 2019</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/2019/atom.xml</id>
+  <updated>2019-08-01T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/2019/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/2019/atom.xml">
+    <title type="text">Announcing Full Schedule &amp; Tickets Almost Sold Out</title>
+    <id>https://www.writethedocs.org/conf/prague/2019/news/announcing-schedule/</id>
+    <updated>2019-08-01T00:00:00Z</updated>
+    <published>2019-08-01T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2019/news/announcing-schedule/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-full-schedule-tickets-almost-sold-out&quot;&gt;
+
+&lt;p&gt;Although it hasn’t been that long since our last update, we have some big news to share with you all.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets-are-almost-sold-out&quot;&gt;
+&lt;h2&gt;Tickets are almost sold out!&lt;/h2&gt;
+&lt;p&gt;Since our last blog post, we had a surge of registrations, and we are now &lt;strong&gt;more than 80% sold out&lt;/strong&gt;. This means that we only have a few dozen tickets left, and we expect to reach our capacity within the next week or so.&lt;/p&gt;
+&lt;p&gt;If you’re still considering whether to attend, now is definitely the time to &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2019/tickets/&quot;&gt;buy your ticket&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As a reminder, we cannot be held responsible for any loss of non-refundable travel expenses, and we cannot risk overselling the venue capacity. Please make sure you have a conference ticket before you book your travel!&lt;/p&gt;
+&lt;p&gt;After we reach capacity, we will operate a waiting list on the ticket website in case of any cancellations, but historically we haven’t had many cancellations to our events, so we cannot guarantee that anyone can be taken off the waiting list.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;full-presentation-schedule&quot;&gt;
+&lt;h2&gt;Full presentation schedule&lt;/h2&gt;
+&lt;p&gt;The conference website is now updated with the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2019/schedule/&quot;&gt;talk schedule&lt;/a&gt; for the main stage presentations, so you can start planning your time (and getting excited!) for the conference.&lt;/p&gt;
+&lt;p&gt;Parallel to the conference talks, we will run the unconference &lt;strong&gt;all day on Monday and in the afternoon on Tuesday&lt;/strong&gt;. On Tuesday morning the unconference room will be converted to the &lt;strong&gt;Job Fair&lt;/strong&gt;, where you can meet companies who care about content and find out about documentarian-friendly jobs all around Europe and the world.&lt;/p&gt;
+&lt;p&gt;We’ll also have a round of lightning talks after lunch on each conference day.
+You’ll be able to sign up for unconference sessions and lightning talks during the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-shirts-are-still-on-sale&quot;&gt;
+&lt;h2&gt;Conference shirts are still on sale&lt;/h2&gt;
+&lt;p&gt;Another friendly reminder that our &lt;a class=&quot;reference external&quot; href=&quot;https://teespring.com/wtd-prague-2019&quot;&gt;T-Shirt Pop-Up Shop&lt;/a&gt; is still open! The campaign will run until September 30th in case anyone wants to order their shirts after the conference, but we recommend to order at least 2-3 weeks before the conference if you want to sport your new threads.&lt;/p&gt;
+&lt;p&gt;And don’t worry, you’ll still have a Write the Docs Prague 2019 souvenir from the conference even if you decide not to order a shirt.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-to-our-newest-sponsors&quot;&gt;
+&lt;h2&gt;Thanks to our newest sponsors&lt;/h2&gt;
+&lt;p&gt;We are so grateful to have our sponsors help in bringing these events to life every year. Thanks to the following companies for supporting the Write the Docs community:&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://developer.mozilla.org/en-US/&quot;&gt;Mozilla&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.contact-software.com/en/&quot;&gt;CONTACT Software&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Want to support our community? Head over to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2019/sponsors/prospectus/&quot;&gt;sponsorship prospectus&lt;/a&gt; for details on how your company can get involved! We have several types of sponsorship available, including tables at the job fair that we’ll be hosting on Tuesday.&lt;/p&gt;
+&lt;p&gt;Thanks so much for all your support and enthusiasm so far – we’re so excited to see you all next month!&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/2019/atom.xml">
+    <title type="text">Announcing Full Schedule, Tickets, Events, and Activities</title>
+    <id>https://www.writethedocs.org/conf/vilnius/2019/news/announcing-schedule-activities/</id>
+    <updated>2019-05-23T00:00:00Z</updated>
+    <published>2019-05-23T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/vilnius/2019/news/announcing-schedule-activities/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-full-schedule-tickets-events-and-activities&quot;&gt;
+
+&lt;p&gt;Hello everyone!&lt;/p&gt;
+&lt;p&gt;Our first-year event in Vilnius is just over a week away, and we hope everyone is as excited as we are. We’re writing today to announce the full presentation schedule and to give you the latest updates to help you make the most out of your conference experience.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;full-presentation-schedule&quot;&gt;
+&lt;h2&gt;Full presentation schedule&lt;/h2&gt;
+&lt;p&gt;The conference website is now updated with the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/schedule/&quot;&gt;talk schedule&lt;/a&gt; for the main stage presentations, so you can start planning your time (and getting excited!) for the conference.&lt;/p&gt;
+&lt;p&gt;We’ll also be running the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/writing-day/&quot;&gt;Writing Day&lt;/a&gt; on Sunday and &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/lightning-talks/&quot;&gt;lightning talks&lt;/a&gt; after lunch on Monday.&lt;/p&gt;
+&lt;p&gt;You’ll be able to sign up for Writing Day projects and lightning talks during the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets-are-going&quot;&gt;
+&lt;h2&gt;Tickets are going!&lt;/h2&gt;
+&lt;p&gt;We still have some tickets available, so head over to the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/tickets/&quot;&gt;Tickets&lt;/a&gt; page and grab one!&lt;/p&gt;
+&lt;p&gt;Keep in mind that due to printing schedules, if you register after &lt;strong&gt;Monday, 27th May&lt;/strong&gt; we will not be able to print a badge for you.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;events-and-activities&quot;&gt;
+&lt;h2&gt;Events and activities&lt;/h2&gt;
+&lt;p&gt;Write the Docs is more than a conference. At each of our events, we try to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge.&lt;/p&gt;
+&lt;p&gt;Here is the overview of what you can expect during the conference:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;div class=&quot;first system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/vilnius/2019/news/announcing-schedule-activities.rst&lt;/tt&gt;, line 7); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Duplicate explicit target name: “writing day”.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Writing Day.&lt;/strong&gt; The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/writing-day/&quot;&gt;Writing Day&lt;/a&gt; will be held on Sunday from &lt;em&gt;10:00-18:00&lt;/em&gt;, and you can drop in at any time during the day. If you have a project you want to propose to others, you can pitch your topic during the welcome announcement that will be held at &lt;em&gt;10:30&lt;/em&gt;. You can sign up for a project during the day, or email us in advance if you want to have your project listed on our website.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;strong&gt;Welcome reception.&lt;/strong&gt; The meet-and-greet event will be held on Sunday from &lt;em&gt;19:00-21:00&lt;/em&gt; near the conference venue. This is a great chance to meet your fellow documentarians before the conference starts. Stay tuned for location details!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;div class=&quot;first system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/vilnius/2019/news/announcing-schedule-activities.rst&lt;/tt&gt;, line 7); &lt;em&gt;&lt;a href=&quot;#id2&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Duplicate explicit target name: “lightning talks”.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Lightning Talks.&lt;/strong&gt; We’ll have &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/lightning-talks/&quot;&gt;lightning talks&lt;/a&gt; on Monday after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;strong&gt;Informal networking.&lt;/strong&gt; After the talks end on Monday, we’ll set aside space at the conference venue where you can relax and chat with other attendees about the day’s talks, the conference, or any topic that you find interesting!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Don’t forget to check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/vilnius/2019/visiting/&quot;&gt;Visit Vilnius&lt;/a&gt; page on the conference website, and the local team is happy to answer your questions in the &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.slack.com/messages/wtd-conferences&quot;&gt;#wtd-conferences&lt;/a&gt; channel on Slack.&lt;/p&gt;
+&lt;p&gt;Thanks so much for all your support and enthusiasm, we’re looking forward to see you in Vilnius soon!&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/2019/atom.xml">
+    <title type="text">Announcing Full Schedule, Live Streaming, and Tickets Sold Out</title>
+    <id>https://www.writethedocs.org/conf/portland/2019/news/schedule-tickets/</id>
+    <updated>2019-04-08T00:00:00Z</updated>
+    <published>2019-04-08T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2019/news/schedule-tickets/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-full-schedule-live-streaming-and-tickets-sold-out&quot;&gt;
+
+&lt;p&gt;Hello everyone!
+We’re about a month out from the Portland conference and we hope you’re getting ready!
+We’re writing today to announce the full presentation schedule and to give you the latest registration update.&lt;/p&gt;
+&lt;p&gt;In the meantime, if it’s your first Write the Docs, now’s a great time to check out &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/welcome-wagon/&quot;&gt;the Welcome Wagon page&lt;/a&gt;, which is packed with info to help you get oriented.
+And whether it’s your first or fifth conference, it’s never too early to check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/visiting/&quot;&gt;Explore Portland&lt;/a&gt; page for inspiration on how to make the most of your visit.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets-are-sold-out&quot;&gt;
+&lt;h2&gt;Tickets are sold out&lt;/h2&gt;
+&lt;p&gt;Every year we see more enthusiasm from the community, and we are grateful for your support! Tickets are now &lt;strong&gt;sold out&lt;/strong&gt; and we are at maximum capacity.&lt;/p&gt;
+&lt;p&gt;We have a waiting list on our ticket website where you can register in case of cancellations, but we usually don’t have a high rate of cancellations so please do not book travel unless you have a ticket.&lt;/p&gt;
+&lt;p&gt;There are still spaces available in the Saturday hike, so if you want to join us &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/tickets/&quot;&gt;register for the hike now&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;And if you are a member of an underrepresented group, the application for &lt;a class=&quot;reference external&quot; href=&quot;https://diversitytickets.org/en/events/415/&quot;&gt;diversity scholarship tickets&lt;/a&gt; is still open until &lt;strong&gt;April 15th&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;live-streaming&quot;&gt;
+&lt;h2&gt;Live streaming&lt;/h2&gt;
+&lt;p&gt;After last year’s successful pilot, we’re happy to announce the return of the live stream! If you can’t attend for any reason, we will be broadcasting all the main stage presentations.&lt;/p&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/portland/2019/news/schedule-tickets.rst&lt;/tt&gt;, line 7); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “live streaming”.&lt;/div&gt;
+&lt;p&gt;Bookmark the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/livestream&quot;&gt;live streaming&lt;/a&gt; page, which will be updated on the morning of the conference with the embedded streaming viewer.
+In the meantime, you can join the #live-streaming channel on Slack to connect with other remote attendees, ask questions, and troubleshoot technical issues with the stream.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;full-presentation-schedule&quot;&gt;
+&lt;h2&gt;Full presentation schedule&lt;/h2&gt;
+&lt;p&gt;The conference website is now updated with the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/schedule/&quot;&gt;talk schedule&lt;/a&gt; for the main stage presentations, so you can start planning your time (and getting excited!) for the conference.&lt;/p&gt;
+&lt;p&gt;As always, we’ll be running the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/unconference/&quot;&gt;unconference&lt;/a&gt; downstairs in Lola’s room, and &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/lightning-talks/&quot;&gt;lightning talks&lt;/a&gt; each day after lunch.&lt;/p&gt;
+&lt;p&gt;You’ll be able to sign up for unconference sessions and lightning talks during the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;start-thinking-about-writing-day&quot;&gt;
+&lt;h2&gt;Start thinking about Writing Day&lt;/h2&gt;
+&lt;p&gt;Our pre-conference &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/writing-day/&quot;&gt;Writing Day&lt;/a&gt; will happen on Sunday at the Crystal Ballroom.
+We’ve got a couple of projects on the docket – including our annual ‘Write Write the Docs’ sprint on the community website.
+But the day is much more fun when folks come with their own projects in mind!&lt;/p&gt;
+&lt;p&gt;If you have a project or are part of a community that you think would benefit from a writing sprint, start brainstorming now about what you might want to focus on.
+If you’d like us to include your project on the Writing Day page, drop us an email at &lt;a class=&quot;reference external&quot; href=&quot;mailto:portland&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;portland&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.
+Or just show up on Sunday ready to introduce your project!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;childcare-reminder&quot;&gt;
+&lt;h2&gt;Childcare reminder&lt;/h2&gt;
+&lt;p&gt;If you are traveling with children to the conference, remember that you can register for free childcare provided by &lt;a class=&quot;reference external&quot; href=&quot;https://www.divcarepdx.com/&quot;&gt;DivCare PDX&lt;/a&gt;. In order to plan capacity, the deadline to register is &lt;strong&gt;April 22nd, 2019&lt;/strong&gt;. Please email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:portland&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;portland&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt; to request one of the limited spots. We hope this effort will help more of our lovely documentarians to attend the conference!&lt;/p&gt;
+&lt;p&gt;Thanks so much for all your support and enthusiasm so far – we’re so excited to see you all next month!&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

@@ -1,0 +1,885 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged newsletter</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/newsletter/atom.xml</id>
+  <updated>2023-11-06T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/"/>
+  <link href="https://www.writethedocs.org/blog/archive/tag/newsletter/atom.xml" rel="self"/>
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/newsletter/atom.xml">
+    <title type="text">Write the Docs Newsletter &#8211; November 2023</title>
+    <id>https://www.writethedocs.org/blog/newsletter-november-2023/</id>
+    <updated>2023-11-06T00:00:00Z</updated>
+    <published>2023-11-06T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-november-2023/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="write-the-docs-newsletter-november-2023"&gt;
+
+&lt;p&gt;Salutations, documentarians. I hope you are able to find things in your life to be thankful for and also the time to be able to appreciate them. I&amp;#8217;m thankful for the wonderful community of documentarians at Write the Docs and the insights they freely share with us every day.&lt;/p&gt;
+&lt;p&gt;Have you filled out the &lt;a class="reference external" href="https://salary-survey.writethedocs.org/"&gt;2023 Documentation Salary Survey&lt;/a&gt; yet? If you have, we appreciate you &amp;#8211; is there a friend or colleague you could spread the word to? If you haven&amp;#8217;t, please consider adding your data &amp;#8211; the insights become more valuable with every submission.&lt;/p&gt;
+&lt;p&gt;A special call to contractors, freelancers, and self-employed people: to publish meaningful median rates, we still need a lot more data - so if you can think of any other spaces where your fellow contractors and freelancers might gather, &lt;a class="reference external" href="https://salary-survey.writethedocs.org/"&gt;please share the survey link&lt;/a&gt;. The questions for non-employees have been updated to cater to a variety of independent work situations, and if they don&amp;#8217;t fit for you, please let us know in the feedback section of your submission how we can make it better.&lt;/p&gt;
+&lt;p&gt;In conference news, the Australia conference has now published its &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2023/news/announcing-speakers/"&gt;full schedule&lt;/a&gt;. Be sure to &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2023/tickets/"&gt;book a ticket&lt;/a&gt; while you still can. And the Portland conference has announced &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2024/news/welcome/"&gt;dates for 2024&lt;/a&gt;, so you can start making plans already.&lt;/p&gt;
+&lt;p&gt;The newsletter this month covers whether and how to publish logs of changes to docs themselves, how the organization of docs teams might affect people on them, and how to measure the quality of docs.&lt;/p&gt;
+&lt;div class="section" id="changelogs-for-docs"&gt;
+&lt;h2&gt;Changelogs for Docs&lt;/h2&gt;
+&lt;p&gt;Technical writers often publish product-focused changelogs or release notes that describe new product features and fixes but may also publish changelogs that list new and updated content in the docs themselves. Tech writers might need to provide a docs changelog to satisfy standards like ISO, inform technical support engineers of new docs that can help with support cases, or ensure that stakeholders like marketing and product know about docs they can refer to in their materials. Docs changelogs are also useful for highlighting the quality and volume of the work the docs team does, building goodwill, and enhancing the team&amp;#8217;s reputation throughout the organization.&lt;/p&gt;
+&lt;p&gt;Some writers collect their own commit messages as the basis for docs changelogs, either manually or with a tool based on a standard like &lt;a class="reference external" href="https://www.conventionalcommits.org/en/v1.0.0/"&gt;Conventional Commits&lt;/a&gt; that helps automate changelog builds. The &lt;a class="reference external" href="https://github.com/tinymce/tinymce-docs/blob/staging/docs-6/changelog.md"&gt;TinyMCE changelog&lt;/a&gt; is an example of a commit-based changelog. Others rely on features that are built in to the documentation tools they already use, like page histories that make it easier to figure out what changed. When you&amp;#8217;re deciding what to include, consider focusing on new content and substantial updates and perhaps omitting typo corrections and style changes.&lt;/p&gt;
+&lt;p&gt;Distribution methods for docs changelogs naturally depend on the intended audience. For example, you might share an internal-only changelog via the company Slack workspace or other established employee communication channels. For external audiences, the changelog might be published in the docs or posted in the docs repository.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="doc-team-organization"&gt;
+&lt;h2&gt;Doc Team Organization&lt;/h2&gt;
+&lt;p&gt;The organization of a documentation team can have a significant effect on team members. As a manager, you may want to review your current setup; as a documentarian, you may want to consider the structure before joining an existing team.&lt;/p&gt;
+&lt;p&gt;One aspect to consider is the ratio of more experienced to less experienced writers. Some teams expect more experienced writers to train less experienced ones. The larger the team is, the more likely it is that writers can be matched up.&lt;/p&gt;
+&lt;p&gt;Another consideration is whether specific writers have assigned roles (such as writing, editing, reviewing, or automating procedures). Some teams have generalists, who can also support the team with specific skills. Other teams have specific assignments for each member. A manager may be responsible for filling in gaps.&lt;/p&gt;
+&lt;p&gt;Besides roles, you may need to consider if writers have responsibilities for the full product line or for specific products (or features). When all writers are familiar with everything, workload balancing can be easier. One person mentioned assigning specific products or features to newcomers, but expecting more experienced writers to be available for all products.&lt;/p&gt;
+&lt;p&gt;To complete their work successfully, documentarians interact with others. When assigned to a product, the interactions may be limited to product managers. With features, writers may need to interact with very specific subject matter experts. Through these interactions, documentarians can develop their skills, get known throughout the company, and demonstrate professional growth.&lt;/p&gt;
+&lt;p&gt;But what happens when products or product lines change? See &lt;a class="reference external" href="https://www.writethedocs.org/blog/newsletter-september-2023/"&gt;Keeping Up-To-Date with Necessary Changes&lt;/a&gt; for dealing with ongoing changes. A manager needs to be aware of significant upcoming changes. With timely communications, writers can develop the skills needed to document new features or products.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="measuring-docs-quality"&gt;
+&lt;h2&gt;Measuring Docs Quality&lt;/h2&gt;
+&lt;p&gt;Evaluating documentation quality is a common practice, but it often presents a unique set of challenges. A recent conversation shed light on the complexities involved in this process, offering insights into how to approach it effectively.&lt;/p&gt;
+&lt;p&gt;One person shared the dilemma of having to rate hundreds of articles in their knowledge base for quality within a tight timeframe. The request came from their CTO, who believed it would only take a few minutes in total.&lt;/p&gt;
+&lt;p&gt;The conversation revealed a range of questions and concerns. First and foremost, people wondered about the purpose behind such an evaluation. Some speculated that it might set a baseline for future improvements, while others considered it a potential case for securing additional resources. Without clear initial motivations, the task becomes much more challenging.&lt;/p&gt;
+&lt;p&gt;Some suggested the development of a rubric to assess documentation quality, focusing on criteria like use case examples, information clarity, and adherence to a style guide. One person shared a checklist with a structured approach to the assessment process. The categories were:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Findability&lt;/li&gt;
+&lt;li&gt;Accuracy&lt;/li&gt;
+&lt;li&gt;Beginner-friendliness&lt;/li&gt;
+&lt;li&gt;Layout&lt;/li&gt;
+&lt;li&gt;Task-orientation&lt;/li&gt;
+&lt;li&gt;Language&lt;/li&gt;
+&lt;li&gt;Visuals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;People emphasized that such an approach to measuring quality would take considerably more than the initially suggested timeframe. This led to the observation that it&amp;#8217;s important to clarify from the start the extent of rigor expected in the evaluation.&lt;/p&gt;
+&lt;p&gt;Someone pointed out the difficulty of measuring the usefulness of documentation when you&amp;#8217;re not the end user, stressing the importance of identifying the reader and the document&amp;#8217;s purpose.&lt;/p&gt;
+&lt;p&gt;Ultimately, there was a consensus that the task was complex. For a more comprehensive and accurate approach, people advocated for ongoing content audits. Everyone acknowledged that evaluating documentation quality is a challenging but vital endeavor in maintaining effective knowledge bases.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="from-our-sponsor"&gt;
+&lt;h2&gt;From Our Sponsor&lt;/h2&gt;
+&lt;p&gt;This month&amp;#8217;s newsletter is sponsored by JetBrains Writerside:&lt;/p&gt;
+&lt;hr class="docutils"&gt;
+&lt;a class="reference external image-reference" href="https://jb.gg/writerside"&gt;&lt;img alt="JetBrains Writerside logo" class="align-center" src="https://www.writethedocs.org/_images/JB_Writerside_logo.png"&gt;&lt;/a&gt;
+&lt;p&gt;Try a new documentation authoring solution from JetBrains &amp;#128071;&lt;/p&gt;
+&lt;p&gt;JetBrains is well-known for its software development tools. Writerside is our first solution aimed at technical writers &amp;#8212; and developers contributing to documentation.&lt;/p&gt;
+&lt;p&gt;Writerside gives you the whole docs-as-code pipeline out of the box:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Support for both Markdown and XML&lt;/li&gt;
+&lt;li&gt;Live preview and local build&lt;/li&gt;
+&lt;li&gt;Doc quality automation&lt;/li&gt;
+&lt;li&gt;Single-source support&lt;/li&gt;
+&lt;li&gt;And more&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Help us create the best solution for developers and writers alike &amp;#129299; &amp;#128526; -&amp;gt; &lt;a class="reference external" href="https://jb.gg/writerside"&gt;Join the Early Access Program!&lt;/a&gt;&lt;/p&gt;
+&lt;hr class="docutils"&gt;
+&lt;p&gt;&lt;em&gt;Interested in sponsoring the newsletter? Take a look at our&lt;/em&gt; &lt;a class="reference external" href="https://www.writethedocs.org/sponsorship/newsletter/"&gt;sponsorship prospectus&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="events-coming-up"&gt;
+&lt;h2&gt;Events Coming Up&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;14 Nov, 09:00  MST (Calgary, Canada): &lt;a class="reference external" href="https://www.meetup.com/wtd-calgary/events/292346950/"&gt;Talking About Trends in Tech Comm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;16 Nov, 17:30  CST (Austin, USA): &lt;a class="reference external" href="https://www.meetup.com/writethedocs-atx-meetup/events/295309120/"&gt;Write the Docs ATX Happy Hour Meetup: November 16th&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;17 Nov,  08:30 EDT (New England and Florida, USA): &lt;a class="reference external" href="https://www.meetup.com/boston-write-the-docs/events/297009539/"&gt;Focused Conversation for Documentarians&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;17 Nov, 12:00  EST (Washington, USA): &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-dc/events/297053658/"&gt;Webinar: Navigating the AI Revolution&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;1 Dec,  08:30 EDT (New England and Florida, USA): &lt;a class="reference external" href="https://www.meetup.com/boston-write-the-docs/events/xzpxdtyfcqbcb/"&gt;Focused Conversation for Documentarians&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/newsletter/atom.xml">
+    <title type="text">Write the Docs Newsletter &#8211; October 2023</title>
+    <id>https://www.writethedocs.org/blog/newsletter-october-2023/</id>
+    <updated>2023-10-06T00:00:00Z</updated>
+    <published>2023-10-06T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-october-2023/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="write-the-docs-newsletter-october-2023"&gt;
+
+&lt;p&gt;Ave, documentarians. Halloween may be approaching, but there&amp;#8217;s nothing scary about this month&amp;#8217;s batch of stories from the world of Write the Docs.&lt;/p&gt;
+&lt;p&gt;The Write the Docs &lt;a class="reference external" href="https://salary-survey.writethedocs.org/"&gt;Documentarian Salary Survey for 2023&lt;/a&gt; is open and accepting submissions! This is the survey&amp;#8217;s fifth year and, in addition to our regular salary and job-related questions, we&amp;#8217;re exploring our community&amp;#8217;s thoughts on &amp;#8220;back to the office&amp;#8221; mandates, feelings about job security in a volatile market, and attitudes towards pay transparency.&lt;/p&gt;
+&lt;p&gt;So whether you&amp;#8217;re an employee, contractor, freelancer, or currently unemployed, &lt;a class="reference external" href="https://salary-survey.writethedocs.org/"&gt;head on over&lt;/a&gt; and help us make this year&amp;#8217;s survey the most useful yet.&lt;/p&gt;
+&lt;p&gt;In conference news, the in-person Australia conference has just &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2023/news/announcing-speakers/"&gt;announced its speakers&lt;/a&gt;. Check out the amazing talks you have to look forward to and then &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2023/tickets/"&gt;grab a ticket&lt;/a&gt;. If you&amp;#8217;d like to apply for an &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2023/opportunity-grants/"&gt;opportunity grant&lt;/a&gt;, you have until 15 October.&lt;/p&gt;
+&lt;p&gt;The newsletter this month covers how to include links within your docs, whether you can show some of your personality in your docs, how to handle docs in the same repository as product source code, and how much (or little) to capitalize feature names. Hope you enjoy!&lt;/p&gt;
+&lt;div class="section" id="hyperlink-text"&gt;
+&lt;h2&gt;Hyperlink Text&lt;/h2&gt;
+&lt;p&gt;How to deal with links is a recurring question for documentarians. To answer it, some people suggested guidelines from the &lt;a class="reference external" href="https://www.w3.org/WAI/tips/writing/#make-link-text-meaningful"&gt;W3C&lt;/a&gt;, &lt;a class="reference external" href="https://learn.microsoft.com/en-us/style-guide/urls-web-addresses"&gt;Microsoft&lt;/a&gt;, and &lt;a class="reference external" href="https://developers.google.com/style/link-text"&gt;Google&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The general consensus was to include text that&amp;#8217;s relevant &amp;#8212; not just &amp;#8216;click here&amp;#8217;. Suggestions included using the linked page&amp;#8217;s title, turning the title into relevant text, and creating descriptive text based on the context. Non-writers (such as developers) may prefer using the title for simplicity. More experienced documentarians may want to craft the text.&lt;/p&gt;
+&lt;p&gt;There are several issues involved:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;If there are inadequate guidelines for cross-referencing content, new or updated guidelines may be needed.&lt;/li&gt;
+&lt;li&gt;The page title may be too long or unhelpful. If so, either edit the title or summarize the content in a few words.&lt;/li&gt;
+&lt;li&gt;Some documentation systems focus on short, succinct topics. This may require many links to cross-reference content adequately.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A related issue concerns &lt;em&gt;where&lt;/em&gt; to put the links: throughout the content or at the end of the content in a separate list? The main arguments against putting links at the end: the link may have lost its context or the reader may never scroll that far. In either case, it&amp;#8217;s important to use relevant text. Having the link within the content may disrupt the reader by triggering cognitive overload and making them wonder: &amp;#8220;Should I click or not? Should I click as I come to the link or wait until I finish reading?&amp;#8221;&lt;/p&gt;
+&lt;p&gt;If you put links within the content, &lt;a class="reference external" href="https://readabilityguidelines.co.uk/content-design/links/#2-avoid-mid-sentence-links"&gt;one reference suggested&lt;/a&gt; always putting the link at the end of the sentence to minimize distraction. Accessibility was an additional concern, but exact solutions were unclear because interpretation depends upon the screen reader.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="personality-in-technical-writing"&gt;
+&lt;h2&gt;Personality in Technical Writing&lt;/h2&gt;
+&lt;p&gt;There are still different views among documentarians on the issue of the importance of personality, customization, and tone in technical writing.&lt;/p&gt;
+&lt;p&gt;Some people said that strict accuracy was the most important consideration in technical writing, while others said that there was room for creativity and humor as long as precision wasn&amp;#8217;t compromised. In particular, they said that adding a bit of personality can make such writing more interesting, especially if the readers can handle it.&lt;/p&gt;
+&lt;p&gt;Context also came up as an essential factor, with people agreeing that different kinds of technical material need different levels of formality. For example, troubleshooting guides should always be very clear, while onboarding tutorials might benefit from a more friendly tone.&lt;/p&gt;
+&lt;p&gt;Also, many people stressed the importance of knowing the audience and suggested that the amount of personalization should match what they want and expect. Some even pushed for tech writing that changes the language by using broader terms and more open methods to improve users&amp;#8217; experience.&lt;/p&gt;
+&lt;p&gt;Most people agreed that the audience&amp;#8217;s needs should always come first. Individuality, personalization, and tone can improve technical writing in some situations, but isn&amp;#8217;t appropriate everywhere. Finding the best mix between readability, accuracy, and interest is important for making technical documentation that users can relate to and use to reach their goals.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="docs-with-code-or-just-as-code"&gt;
+&lt;h2&gt;Docs &lt;em&gt;with&lt;/em&gt; Code Or Just &lt;em&gt;as&lt;/em&gt; Code?&lt;/h2&gt;
+&lt;p&gt;Someone who switched jobs recently asked in &lt;a class="reference external" href="https://writethedocs.slack.com/archives/C72NZ18FR"&gt;#docs-as-code&lt;/a&gt; about the benefits and drawbacks of keeping docs in the same repository as app code. They moved from having docs in a separate repository to docs in the same repository as the product source code and were feeling frustrated.&lt;/p&gt;
+&lt;p&gt;Some of the perceived drawbacks to keeping docs with app code included changes feeling slower and less flexible, requiring PRs for everything, even small typos. Each change also required reviews from developers and lots of linting when app code wasn&amp;#8217;t touched. Also, collaboration seemed more difficult than in tools like Google Docs and Notion. In short, it felt like there were roadblocks everywhere.&lt;/p&gt;
+&lt;p&gt;People noted some potential benefits, including increased accountability for changes with PRs. Some also felt safer knowing any mistakes weren&amp;#8217;t theirs alone and that the CI checks and reviews helped keep entire pages from breaking. Someone also noted that with docs in the same repository as code, it was easier to enforce docs changes when code is updated, including potentially automating some changes.&lt;/p&gt;
+&lt;p&gt;People had some suggestions to help overcome some roadblocks. Opening PRs early in the process lets reviewers check out changes locally to see the effects. Someone also suggested using the principle of pair programming in pair reviews for easier collaboration: run the docs locally and walk through the changes on a video call. Another idea was keeping PRs small and therefore manageable, but batching really small things like typos together if each PR takes too long. And encouraging improvements to the CI to catch typos earlier and also only running when needed (not linting untouched code).&lt;/p&gt;
+&lt;p&gt;Either setup can work and each works for some situations. As someone pointed out, if you&amp;#8217;re going to use docs-as-code, it&amp;#8217;s best to optimize for the code tools and processes available to you.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="capitalizing-feature-names"&gt;
+&lt;h2&gt;Capitalizing Feature Names&lt;/h2&gt;
+&lt;p&gt;How much is too much when it comes to capitalizing the names of features in the docs? The limit may be lower than you think! This month, most documentarians recommended using capitalization only sparingly in your documentation.&lt;/p&gt;
+&lt;p&gt;Unnecessary capitalization is distracting for readers. It looks odd in English, especially when the words aren&amp;#8217;t proper nouns. Capitalizing generic terms like &amp;#8220;dashboard&amp;#8221; or &amp;#8220;alert&amp;#8221; makes it more difficult for readers to understand whether you&amp;#8217;re talking about the general meaning of the word or a specialized concept.&lt;/p&gt;
+&lt;p&gt;In addition, many writing systems do not used mixed case, and capitalization norms vary among languages, so excessive capitalization can make it more difficult to translate your documentation. It&amp;#8217;s also difficult to remove over-capitalization programmatically, particularly when certain words should retain capitalization in a specific context.&lt;/p&gt;
+&lt;p&gt;If you want to establish a precedent, it can be helpful to take a look at other companies&amp;#8217; docs. Also, capitalization and naming is often covered in style guides &amp;#8211; check out these examples:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://polaris.shopify.com/content/naming#does-it-need-a-branded-name-"&gt;Shopify Polaris&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://docs.splunk.com/Documentation/StyleGuide/current/StyleGuide/UIGuidelines"&gt;Splunk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://carbondesignsystem.com/guidelines/content/writing-style/#capitalization"&gt;IBM Carbon Design System&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For a designer&amp;#8217;s take on the subject, read &lt;a class="reference external" href="https://kubie.co/blog/fighting-feature-names/"&gt;Fighting Feature Names&lt;/a&gt; by Scott Kubie.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="from-our-sponsor"&gt;
+&lt;h2&gt;From Our Sponsor&lt;/h2&gt;
+&lt;p&gt;This month&amp;#8217;s newsletter is sponsored by Heretto:&lt;/p&gt;
+&lt;hr&gt;
+&lt;table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td width="75%"&gt;
+          &lt;p&gt;
+            At Heretto, we&amp;#8217;re thrilled to unveil a game-changing feature for tech writers and developers alike:  &lt;a href="https://heretto.com/interactive-api-docs-product-and-api-documentation-in-one-place/"&gt;Interactive API Docs&lt;/a&gt;.
+          &lt;/p&gt;
+          &lt;p&gt;
+            API Docs empowers companies to consolidate their product and API documentation into a single-source repository for a seamless user experience.
+          &lt;/p&gt;
+          &lt;p&gt;
+            Unify your docs on one branded site, test APIs in seconds, and drive API adoptions with search-ready documentation.
+          &lt;/p&gt;
+          &lt;p&gt;
+            Want to learn more? &lt;a href="https://go.heretto.com/api-docs?utm_medium=3rd-party&amp;amp;utm_source=writethedocs&amp;amp;utm_campaign=q323-apidocs&amp;amp;utm_content=&amp;amp;utm_term="&gt;Meet with our team to see API Docs in action&lt;/a&gt;.
+          &lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td width="25%"&gt;
+        &lt;a href="https://go.heretto.com/api-docs?utm_medium=3rd-party&amp;amp;utm_source=writethedocs&amp;amp;utm_campaign=q323-apidocs&amp;amp;utm_content=&amp;amp;utm_term="&gt;
+          &lt;img style="margin-left: 15px;" alt="Heretto" src="https://www.writethedocs.org/_static/img/sponsors/Heretto_Square__For_Non_White_Backgrounds.png"&gt;
+        &lt;/a&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;&lt;p&gt;&lt;em&gt;Interested in sponsoring the newsletter? Take a look at our&lt;/em&gt; &lt;a class="reference external" href="https://www.writethedocs.org/sponsorship/newsletter/"&gt;sponsorship prospectus&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="events-coming-up"&gt;
+&lt;h2&gt;Events Coming Up&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;6 Oct, 08:30 EDT (New England and Florida, USA): &lt;a class="reference external" href="https://www.meetup.com/boston-write-the-docs/events/295963820/"&gt;Focused conversation: Document types and templates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;7 Oct, 19:30  EAT (Nairobi, Kenya): &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-kenya/events/296445236/"&gt;Documentation Localization in Open Source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;12 Oct, 18:30  EDT (Pittsburgh, USA): &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-pittsburgh/events/295832422/"&gt;UX writing for the rest of us&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;18 Oct, 08:00  PDT (Seattle, USA): &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-seattle/events/296381865/"&gt;Write the Docs Seattle: Casual Caffeine Hour&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;19 Oct, 17:30  CDT (Austin, USA): &lt;a class="reference external" href="https://www.meetup.com/writethedocs-atx-meetup/events/295309096/"&gt;Write the Docs ATX Happy Hour Meetup: October 19th&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;20 Oct, 08:30 EDT (New England and Florida, USA): &lt;a class="reference external" href="https://www.meetup.com/boston-write-the-docs/events/295963821/"&gt;Focused Conversation for Documentarians&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;3 Nov, 08:30 EDT (New England and Florida, USA): &lt;a class="reference external" href="https://www.meetup.com/boston-write-the-docs/events/xzpxdtyfcpbfb/"&gt;Focused Conversation for Documentarians&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/newsletter/atom.xml">
+    <title type="text">Write the Docs Newsletter &#8211; September 2023</title>
+    <id>https://www.writethedocs.org/blog/newsletter-september-2023/</id>
+    <updated>2023-09-07T00:00:00Z</updated>
+    <published>2023-09-07T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-september-2023/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="write-the-docs-newsletter-september-2023"&gt;
+
+&lt;p&gt;Hey, documentarians, the newsletter is back!&lt;/p&gt;
+&lt;p&gt;In conference news, we have the &lt;a class="reference external" href="https://www.writethedocs.org/conf/atlantic/2023/"&gt;2023 Atlantic conference&lt;/a&gt; running Sunday through Tuesday. If you don&amp;#8217;t have a ticket yet, grab one while you can (through 7 September). Looking forward to seeing you there. And after you get inspired, the Australia conference still has its &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2023/cfp/"&gt;call for proposals&lt;/a&gt;, but it closes 15 September, so get your ideas in soon.&lt;/p&gt;
+&lt;p&gt;Elsewhere, the Write the Docs Salary Survey for 2023 is opening next week. We encourage everyone working in areas related to documentation to participate - working or currently unemployed, contract or permanent, employee or freelance. Your contribution will help the whole community better understand what an appropriate salary is and provide a basis for future negotiations. This year, we&amp;#8217;re including new questions about &amp;#8220;return to the office&amp;#8221; mandates, job changes, and your thoughts on job security &amp;#8211; issues at the top of a lot of people&amp;#8217;s minds. We&amp;#8217;ll be announcing when the survey goes live on Slack and Twitter, and you can always find all details at &lt;a class="reference external" href="https://salary-survey.writethedocs.org/"&gt;https://salary-survey.writethedocs.org/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;d like to extend a special goodbye to Beth Aitman. This month marks the first newsletter in years that she hasn&amp;#8217;t participated in. Thanks for your leadership, help, and many other contributions.&lt;/p&gt;
+&lt;p&gt;The summer was a busy time, with too many conversations to cover here. For example, the &lt;a class="reference external" href="https://writethedocs.slack.com/archives/C6ADX1YVA"&gt;#career-advice channel&lt;/a&gt; had multiple discussions of resume formatting and resume peer checks. So if you&amp;#8217;re looking for help with your resume, join the discussion in the channel.&lt;/p&gt;
+&lt;p&gt;We do have articles today on motivating people to contribute to internal docs, whether to number your section headings, dealing with unpleasant people in open-source projects, and staying up-to-date with changes you need to make. Something for everyone!&lt;/p&gt;
+&lt;div class="section" id="motivating-contributions-to-internal-docs"&gt;
+&lt;h2&gt;Motivating Contributions to Internal Docs&lt;/h2&gt;
+&lt;p&gt;This month, documentarians shared their best practices and tips for motivating others to contribute to internal docs, especially in work cultures that share information verbally.&lt;/p&gt;
+&lt;p&gt;If you need to generate support for adding to internal docs, focus on the costs of incomplete or poorly written documentation. Explain how often engineers are interrupted to answer questions, how often they answer the same questions, and how long it takes to regain concentration after an interruption. You might even try to estimate the actual cost of the lost time using engineer salaries. Failing to maintain internal docs is also a business continuity risk: experienced employees have a harder time getting up to speed on new projects, former employees take their knowledge with them when they leave, and new employees can&amp;#8217;t onboard efficiently.&lt;/p&gt;
+&lt;p&gt;When it comes to the actual writing, it helps to make the documentation process as efficient and repeatable as possible. Develop patterns for different types of documentation to make the task less burdensome for people who don&amp;#8217;t write the docs every day. Publish instructions to help people understand how to make small changes themselves and ask for help for big issues. Consider keeping a shorter, more streamlined style guide for internal docs. You might also be able to integrate docs work into other teams&amp;#8217; workflows. For example, you could automatically create a docs ticket for every feature initiative opened by a product manager or require information about any relevant docs needs in bug report forms.&lt;/p&gt;
+&lt;p&gt;Look for opportunities to encourage a sense of ownership among those who contribute to internal docs. When you act on someone&amp;#8217;s feedback or publish someone&amp;#8217;s contribution, make sure to follow up with a link to the result so that people know their efforts matter. Interested contributors might benefit from polishing their skills with &lt;a class="reference external" href="https://developers.google.com/tech-writing"&gt;Google&amp;#8217;s tech writing courses for software engineers&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Other recommendations for further information:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.writethedocs.org/videos/portland/2019/any-friend-of-the-docs-is-a-friend-of-mine-cultivating-a-community-of-documentation-advocates-heather-stenson/"&gt;Any friend of the docs is a friend of mine: Cultivating a community of documentation advocates&lt;/a&gt; from Write the Docs Portland, 2019&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://cloud.google.com/blog/products/devops-sre/deep-dive-into-2022-state-of-devops-report-on-documentation"&gt;2022 State of DevOps Report data deep dive: Documentation is like sunshine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://increment.com/documentation/why-investing-in-internal-docs-is-worth-it/"&gt;Why it&amp;#8217;s worth it to invest in internal docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="numbering-section-headings"&gt;
+&lt;h2&gt;Numbering Section Headings&lt;/h2&gt;
+&lt;p&gt;To number or not was a question posed in recent months. In general, these queries related to printed (or PDF) manuals.&lt;/p&gt;
+&lt;p&gt;Often, the reasons for numbering section headings relate to using the number as a reference or clarifying the sequencing of sections and relationships between sections. As one documentarian noted, &amp;#8220;Titles alone do not tell users &amp;#8230; where they will find the information unless they are already &amp;#8230; familiar with the content structure of the document. When you have to check section 3, you know that it is before section 4 and &amp;#8230; after section 2.&amp;#8221;&lt;/p&gt;
+&lt;p&gt;Certain domains may also prefer or require section numbers. For example, if your readers are in a scientific community, a legal or academic environment, or a strictly regulated domain, they may expect to see section numbers.&lt;/p&gt;
+&lt;p&gt;One caution: if your documentation tool doesn&amp;#8217;t support automatic numbering, then including numbers can be a maintenance nightmare. If your tool doesn&amp;#8217;t support automatic numbering, perhaps a plug-in may be needed.&lt;/p&gt;
+&lt;p&gt;Several people mentioned issues about updating the content and adding in new sections. Even with automatic numbering, readers of previous versions may suggest looking at a specific section by its number &amp;#8211; only to find that the number has changed in a recent update.&lt;/p&gt;
+&lt;p&gt;When numbering is a content convention, it may not represent a sequence to follow. In this case, numbers can interrupt the reader&amp;#8217;s focus by forcing them determine whether they really need to go through content sequentially. One person wrote, &amp;#8220;Numbering is often one of those unnecessary things that people do without really thinking why.&amp;#8221; Documentarians may have section 3 before section 4 just because that&amp;#8217;s the sequence that they thought of &amp;#8211; not because it needs to come first.&lt;/p&gt;
+&lt;p&gt;For online documentation, people were less in favor of using numbers. The discussion emphasized that it could depend on the structure of the online content and navigational features.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="dealing-with-unpleasant-people-in-open-source-projects"&gt;
+&lt;h2&gt;Dealing with Unpleasant People in Open-Source Projects&lt;/h2&gt;
+&lt;p&gt;Although open-source groups are famed for their collaborative attitude, dealing with problematic personalities can sometimes be challenging. A recent WTD discussion provided useful ideas for efficiently dealing with such circumstances.&lt;/p&gt;
+&lt;p&gt;In this conversation, advice was needed on how to deal with an individual whose behavior in an open-source project was troublesome. This person acted in ways that verged on being unacceptable without being overtly prohibited. Their perceived importance in the community added to the complication.&lt;/p&gt;
+&lt;p&gt;A critical initial step was suggested: reviewing the project&amp;#8217;s code of conduct, ideally with clearly stated repercussions for violations. Reminding individuals of appropriate community conduct addresses the current issue while reassuring other community members.&lt;/p&gt;
+&lt;p&gt;A real-life example from the Arch Linux mailing lists was also presented in which a similar situation was defused by reminding the member of the code of conduct. This demonstrates how established open-source groups deal with such difficulties.&lt;/p&gt;
+&lt;p&gt;Moreover, a more empathic strategy was suggested, such as advocating for compassion rather than aggressiveness in response. Recognizing the content of their comments while politely expressing disagreement can pave the way for meaningful discourse.&lt;/p&gt;
+&lt;p&gt;Finally, it was emphasized that rules of conduct promote a culture of respect and kindness and that leading with the assumption that the person didn&amp;#8217;t intend to be impolite can help ease tensions.&lt;/p&gt;
+&lt;p&gt;Fostering a communal feeling of respect and collaboration is critical in open-source groups. By following standards of behavior and encouraging polite debate, these communities may continue to grow, guaranteeing an inclusive and productive environment for all contributors. Though difficult, dealing with challenging people is critical to sustaining the integrity and vibrancy of open-source initiatives.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="keeping-up-to-date-with-necessary-changes"&gt;
+&lt;h2&gt;Keeping Up-To-Date with Necessary Changes&lt;/h2&gt;
+&lt;p&gt;Even in periods when many people are taking vacations, an organization can have a lot going on. A recent discussion touched on how to stay on top of it all when you have many articles to keep track of. Some complained about working long hours to add documentation only to be told right after it was published that it no longer applied. The discussion turned to tools and processes to avoid such issues.&lt;/p&gt;
+&lt;p&gt;Many people used a ticketing system. Jira was popular because it was where others were working and so made it easier to follow changes. For similar reasons, others used GitHub or GitLab and followed changes directly in projects. Others had their own separate system in someplace like Asana with just what they needed.&lt;/p&gt;
+&lt;p&gt;Other than tools, people also suggested setting up regular meetings with people like product managers, especially if these meetings line up with a release schedule. It helped to put in place some sort of check to determine whether doc changes are necessary before release. Others suggested seeing if you can get rid of some content, such as pages with few visits. Then there&amp;#8217;s less to deal with.&lt;/p&gt;
+&lt;p&gt;Even with the best process, everyone misses some things. So it helps to think about how to find the things you&amp;#8217;ve missed. For example, make it easy to report issues so you learn about anything that falls through. And multiple people noted the benefits of regular documentation audits, starting with the most important or most visited pages. Go through things slowly but steadily to check that everything still works as it should.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="from-our-sponsor"&gt;
+&lt;h2&gt;From Our Sponsor&lt;/h2&gt;
+&lt;p&gt;This month&amp;#8217;s newsletter is sponsored by ClickHelp:&lt;/p&gt;
+&lt;hr&gt;
+  &lt;table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;"&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td width="75%"&gt;
+          &lt;p&gt;ClickHelp empowers teams to create awesome documentation experiences.&lt;/p&gt;
+          &lt;p&gt;ClickHelp is a comprehensive cloud-based documentation platform. It offers a full range of content production functions that cover all stages of the content lifecycle: create, review, translate, publish, and update. You can also embed Context Help into web apps!&lt;/p&gt;
+          &lt;p&gt;Single sourcing and dynamic output provide you with the tools you need to be productive. Create online user guides, API documentation, and nice-looking PDF documents - all in one professional platform.&lt;/p&gt;
+          &lt;p&gt;&lt;a href="https://clickhelp.com/?utm_source=write-the-docs&amp;amp;utm_medium=email&amp;amp;utm_campaign=wtd-september-2023&amp;amp;utm_content=sponsor-message"&gt;Learn more about ClickHelp&amp;#8230;&lt;/a&gt;&lt;/p&gt;
+        &lt;/td&gt;
+        &lt;td width="25%"&gt;
+          &lt;a href="https://clickhelp.com/?utm_source=write-the-docs&amp;amp;utm_medium=email&amp;amp;utm_campaign=wtd-september-2023&amp;amp;utm_content=sponsor-message"&gt;
+            &lt;img style="margin-left: 15px;" alt="ClickHelp: intuitive documentation tool" src="https://www.writethedocs.org/_static/img/sponsors/ClickHelp_Banner_WTD23.png"&gt;
+          &lt;/a&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+  &lt;hr&gt;&lt;p&gt;&lt;em&gt;Interested in sponsoring the newsletter? Take a look at our&lt;/em&gt; &lt;a class="reference external" href="https://www.writethedocs.org/sponsorship/newsletter/"&gt;sponsorship prospectus&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="featured-job-posts"&gt;
+&lt;h2&gt;Featured Job Posts&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://jobs.writethedocs.org/job/1877/staff-technical-writer/"&gt;Staff Technical Writer&lt;/a&gt;, Cockroach Labs (Hybrid; New York, San Francisco, Toronto)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;To apply for this job and more, visit the&lt;/em&gt; &lt;a class="reference external" href="https://jobs.writethedocs.org/"&gt;Write the Docs job board&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="events-coming-up"&gt;
+&lt;h2&gt;Events Coming Up&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;8 Sep, 08:30 EDT (New England and Florida, USA): &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-florida/events/295094684/"&gt;Focused conversation: Videos in documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;8 Sep, 19:30  IST (Bangalore, India): &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-india/events/295604665/"&gt;Let&amp;#8217;s bring science into API documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;10&amp;#8211;12 Sep: &lt;a class="reference external" href="https://www.writethedocs.org/conf/atlantic/2023/"&gt;Atlantic conference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;13 Sep, 18:00  MDT (Boulder/Denver, USA): &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-boulder-denver/events/295749600/"&gt;Building our own applications: Nextworld&amp;#8217;s journey to Content 4.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;15 Sep, 24:00: Closing of the &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2023/cfp/"&gt;call for proposals for the Australia conference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;21 Sep, 10:00  AEST (Australia): &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-australia/events/295577798/"&gt;(Remote): Fight for your promotion in 3 steps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;21 Sep, 17:30  CDT (Austin, USA): &lt;a class="reference external" href="https://www.meetup.com/writethedocs-atx-meetup/events/295309065/"&gt;Write the Docs ATX Happy Hour Meetup: September 21&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;22 Sep, 12:00  MDT (Boulder/Denver, USA): &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-boulder-denver/events/295850155/"&gt;Fourth Friday Write the Docs Co-working Social&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;22 Sep, 08:30 EDT (New England and Florida, USA): &lt;a class="reference external" href="https://www.meetup.com/boston-write-the-docs/events/295844994/"&gt;Focused Conversation for Documentarians&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;6 Oct, 08:30 EDT (New England and Florida, USA): &lt;a class="reference external" href="https://www.meetup.com/boston-write-the-docs/events/xzpxdtyfcnbjb/"&gt;Focused Conversation for Documentarians&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/newsletter/atom.xml">
+    <title type="text">Write the Docs Community Update - August 2023</title>
+    <id>https://www.writethedocs.org/blog/2023-community-update/</id>
+    <updated>2023-08-14T00:00:00Z</updated>
+    <published>2023-08-14T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/2023-community-update/"/>
+    <author>
+      <name>Eric Holscher</name>
+    </author>
+    <content type="html">&lt;div class="section" id="write-the-docs-community-update-august-2023"&gt;
+
+&lt;p&gt;Hey there documentarians!&lt;/p&gt;
+&lt;p&gt;Eric Holscher here filling in for the Newsletter team as they take their normal August break.&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;re looking forward to seeing everyone online for our virtual &lt;a class="reference external" href="http://www.writethedocs.org/conf/atlantic/2023/"&gt;Atlantic&lt;/a&gt; on &lt;strong&gt;September 10-12&lt;/strong&gt;.
+The event is scheduled to be available for both folks in EDT and CEST timezones.
+Tickets are still on sale until a few days before the event, so grab yours now if you haven&amp;#8217;t yet.&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;re also getting excited about our upcoming &lt;a class="reference external" href="http://www.writethedocs.org/conf/australia/2023/"&gt;Australia&lt;/a&gt; conference on &lt;strong&gt;December 7-8&lt;/strong&gt; in Melbourne.
+The &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2023/cfp/"&gt;Australia conference CFP&lt;/a&gt; is open for a few more weeks if you have ideas, and can make it to Melbourne.&lt;/p&gt;
+&lt;p&gt;We held our first in-person Portland conference since 2019 this May.
+It was lovely to see all the familiar faces,
+and explore our new venue in Portland.
+The &lt;a class="reference external" href="https://www.flickr.com/photos/writethedocs/albums/72177720308088427"&gt;photos&lt;/a&gt; and &lt;a class="reference external" href="https://www.youtube.com/playlist?list=PLZAeFn6dfHpneQPsDWa4OmEpgW4pNiaZ2"&gt;videos&lt;/a&gt; from the conference are available if you haven&amp;#8217;t caught up with them yet.&lt;/p&gt;
+&lt;div class="section" id="conferences"&gt;
+&lt;h2&gt;2024 Conferences&lt;/h2&gt;
+&lt;p&gt;We are still in the planning phrase for our 2024 conferences.
+We expect Portland to return in-person,
+and we will make a decision about the other conferences after the 2023 editions happen later this year.&lt;/p&gt;
+&lt;p&gt;Overall, we are trying to balance between the accessibility of virtual events and the human interaction value of in-person events.
+The other major factor is organizer energy and availability,
+given that running a conference is a lot of work across many members of our organizer teams.&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;re really grateful for the support that the community has given us throughout the past few years,
+and we&amp;#8217;re excited to see what the future holds for our events.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="community-board-updates"&gt;
+&lt;h2&gt;Community Board Updates&lt;/h2&gt;
+&lt;p&gt;Our Community Board has been meeting each quarter for all of 2023,
+and we have been posting &lt;a class="reference external" href="https://www.writethedocs.org/blog/archive/tag/community-board/"&gt;meeting summaries&lt;/a&gt; for each meeting.&lt;/p&gt;
+&lt;p&gt;The current structure of the board includes the team leads from each of our teams, and each of our conference chairs.
+This allows us to get a good cross-section of the community,
+and share information between the teams.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="meetup-updates"&gt;
+&lt;h2&gt;Meetup Updates&lt;/h2&gt;
+&lt;p&gt;The Meetup team is focusing on updating organizer resources and streamlining communication.
+To support our efforts, the Meetup team lead Rose Williams created an organizer mailing list and distributed a meetup activity survey.
+The survey asked about meetup activity and collected ideas for evolving the local and regional meetup structure.
+The Meetup team is currently reviewing the survey results and deciding on next steps.&lt;/p&gt;
+&lt;p&gt;We appreciate all of the hard work that meetup organizers do to keep their communities engaged, and will continue to work with the meetup teams to adapt to the current the global landscape.
+If you want to start a new meetup or join an existing meetup, check out the &lt;a class="reference external" href="https://www.writethedocs.org/meetups/"&gt;Meetups page&lt;/a&gt; on our website.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="salary-survey"&gt;
+&lt;h2&gt;Salary Survey&lt;/h2&gt;
+&lt;p&gt;Our annual salary survey gathers data about salaries for people working in documentation and related fields around the world.
+&lt;a class="reference external" href="https://www.writethedocs.org/surveys/salary-survey/2022/"&gt;Results of the 2022 salary survey&lt;/a&gt; are available on our website.&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;re hoping to launch next year&amp;#8217;s survey here soon,
+but haven&amp;#8217;t put the finishing touches on it quite yet.
+Watch the newsletter for updates in the coming months.&lt;/p&gt;
+&lt;div class="section" id="from-our-sponsor"&gt;
+&lt;h3&gt;From our sponsor&lt;/h3&gt;
+&lt;p&gt;This month&amp;#8217;s newsletter is sponsored by &lt;a class="reference external" href="https://www.knowledgeowl.com/"&gt;KnowledgeOwl&lt;/a&gt;:&lt;/p&gt;
+&lt;hr&gt;
+&lt;table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td width="75%"&gt;
+      &lt;p&gt;
+        As a documentarian, do you put your customers first in your sentences? Do you know how to write in a people-first way? Let WTD community member, Marcia Riefer Johnston, show you how it's done on our &lt;a href="https://www.knowledgeowl.com/blog/posts/customer-first-in-your-sentences"&gt;blog&lt;/a&gt;.
+    &lt;/p&gt;
+
+      &lt;p&gt;
+        KnowledgeOwl helps documentarians build knowledge base websites. And we always put people first. Check out our &lt;a href="https://www.knowledgeowl.com/video-demo/"&gt;5-minute demo&lt;/a&gt; or book a 15- minute call with us to learn how we can help you put your customers first.
+    &lt;/p&gt;
+
+      &lt;p&gt;
+        P.S. We love articles like Marcia's that deep dive into the craft of technical writing. Interested in sharing your ideas? We are always excited to feature WTD members and their ideas as &lt;a href="https://www.knowledgeowl.com/opportunities/"&gt;paid guest blog writers&lt;/a&gt;.
+    &lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td width="25%"&gt;
+        &lt;a href="https://www.knowledgeowl.com/"&gt;
+          &lt;img style="margin-left: 15px;" alt="SPONSOR" src="https://www.writethedocs.org/_static/img/sponsors/knowledgeowl-square.png"&gt;
+        &lt;/a&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;&lt;p&gt;&lt;em&gt;Interested in sponsoring the newsletter? Take a look at our&lt;/em&gt; &lt;a class="reference external" href="https://www.writethedocs.org/sponsorship/newsletter/"&gt;sponsorship prospectus&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="thanks"&gt;
+&lt;h2&gt;Thanks&lt;/h2&gt;
+&lt;p&gt;Thanks again for subscribing to our newsletter and for being a member of our community.
+We hope to see you soon at one of our online events, on our Slack,
+or continue to see you here via this newsletter.&lt;/p&gt;
+&lt;p&gt;You can always reply to this email if you have any questions or comments.
+Stay tuned for another newsletter update next month!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/newsletter/atom.xml">
+    <title type="text">Write the Docs Newsletter &#8211; July 2023</title>
+    <id>https://www.writethedocs.org/blog/newsletter-july-2023/</id>
+    <updated>2023-07-07T00:00:00Z</updated>
+    <published>2023-07-07T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-july-2023/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="write-the-docs-newsletter-july-2023"&gt;
+
+&lt;p&gt;Aloha! There&amp;#8217;s lots to cover this month, so let&amp;#8217;s dive in.&lt;/p&gt;
+&lt;p&gt;Who makes up the Write the Docs community? What proportion support pay transparency? Where are salaries highest? How many have started a new job in the past 12 months? All these questions and more are answered in the &lt;a class="reference external" href="https://writethedocs.org/surveys"&gt;2022 Write the Docs Salary Survey results&lt;/a&gt;. Stay tuned: the survey for 2023 will be opening in early September.&lt;/p&gt;
+&lt;p&gt;In conference news, we recently saw the announcement of the &lt;a class="reference external" href="https://www.writethedocs.org/conf/atlantic/2023/news/announcing-speakers/"&gt;speakers for the 2023 Atlantic conference&lt;/a&gt;. So check out all the interesting things you can look forward to learning. And the Australia conference has released the &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2023/cfp/"&gt;call for proposals&lt;/a&gt; and &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2023/tickets/"&gt;ticket sales&lt;/a&gt; so get ready for good times in December.&lt;/p&gt;
+&lt;p&gt;Away from the conferences and surveys, I&amp;#8217;d like to extend thanks from all of Write the Docs to Daryl White. He has been coordinating the &lt;a class="reference external" href="https://www.writethedocs.org/book-club/"&gt;book club in #learn-tech-writing&lt;/a&gt; since January 2020 and facilitating many discussions. It&amp;#8217;s been a tremendous benefit to many people to be able to learn about various aspects of technical writing together with others on a similar journey. I know it&amp;#8217;s helped push me to read books and learn things I wouldn&amp;#8217;t have otherwise. Thank you for your contributions, Daryl.&lt;/p&gt;
+&lt;p&gt;We have articles today on pushing back on overwork, getting info from others, documenting YAML files, and how much to disclose neurodiverse needs in interviews. We&amp;#8217;re off after this for our semiannual winter/summer break. We&amp;#8217;ll be back in September with more.&lt;/p&gt;
+&lt;div class="section" id="pushing-back-when-you-re-overloaded"&gt;
+&lt;h2&gt;Pushing Back When You&amp;#8217;re Overloaded&lt;/h2&gt;
+&lt;p&gt;When you have too much to do, but new requests and assignments keep coming your way, what&amp;#8217;s the most effective way to push back? The top tip is to ask your manager which tasks to deprioritize: &amp;#8220;I can do this new task, but it means I will not have time for X, Y, or Z. Which of these would you like me to stop working on?&amp;#8221;&lt;/p&gt;
+&lt;p&gt;Often, that discussion is enough to resolve the problem. But if your manager isn&amp;#8217;t responsive, it becomes a matter of holding to your boundaries. In this case, consider providing your manager with a breakdown that describes each task, how long it will take, and why. You can point to this breakdown to answer questions about why tasks aren&amp;#8217;t getting done. Task boards like Jira and Trello can help with this and also making others aware of the problem because reporters can be notified when their tickets are affected by new requests.&lt;/p&gt;
+&lt;p&gt;Another idea is taking a few days of vacation so that others have to fill in for you and learn by experience how overloaded you are. Or when you get an impossible request, respond by describing an alternative you &lt;em&gt;can&lt;/em&gt; deliver instead of explaining why you can&amp;#8217;t achieve the unachievable. If possible, take unclear requests off of your schedule until you understand the business need and requirements. A last resort is taking the problem to an intermediary like a colleague, another manager, or Human Resources.&lt;/p&gt;
+&lt;p&gt;When all else fails, you can continue working on tasks at a slow enough pace to prevent burnout, prioritizing as you go and doing your best to ignore unfair criticism and attempts to make you feel guilty. If important tasks are delayed because you&amp;#8217;re overloaded, it might eventually draw enough attention to the problem to get it solved. If you&amp;#8217;re worried about getting fired for taking this approach, consider spending the time you save on looking for a new job or finding some freelance work to mitigate the risk and help you get comfortable with moving on.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="getting-info-from-others"&gt;
+&lt;h2&gt;Getting Info from Others&lt;/h2&gt;
+&lt;p&gt;A recent thread resurrected an enduring issue with documentarians: How do we get the information we need from experts? The &lt;a class="reference external" href="https://www.writethedocs.org/blog/newsletter-may-2020/#getting-more-info-from-smes"&gt;May 2020 newsletter&lt;/a&gt; addressed this issue. The current discussion focused on how to ask questions of developers: what questions to ask and how to get the best responses for documentation.&lt;/p&gt;
+&lt;p&gt;People indicated that there are two levels of questions: 1) general, high-level questions; and 2) specific, detailed questions. Documentarians ask general questions to get an overall understanding of a product or domain. After we have the higher-level understanding, we can determine what detailed questions to ask. Specific questions fill in the gaps in our knowledge.&lt;/p&gt;
+&lt;p&gt;For general questions, you can ask product managers or customer support. Another potential resource could be any QA testers. We also have &lt;a class="reference external" href="https://www.writethedocs.org/topics/#working-with-other-roles"&gt;learning resources on the topic&lt;/a&gt; for interacting with people in other positions. If you&amp;#8217;re writing end-user documentation, this knowledge along with your personal experience of the product may be sufficient.&lt;/p&gt;
+&lt;p&gt;If you&amp;#8217;re writing for a more technical audience, you may need to approach subject-matter experts (SMEs; such as developers) for detailed information. See the &lt;a class="reference external" href="https://www.writethedocs.org/blog/newsletter-may-2020/#getting-more-info-from-smes"&gt;2020 article&lt;/a&gt; for interacting effectively with SMEs. A current poster mentioned that it&amp;#8217;s important &amp;#8220;to show you&amp;#8217;ve put effort into figuring things out before taking up their time.&amp;#8221; Another suggested asking very specific (not open-ended) questions based on your understanding because experts like to correct misunderstandings. In the 2020 article, this was indicated as Cunningham&amp;#8217;s Law: &amp;#8220;The best way to get the right answer on the internet isn&amp;#8217;t to ask a question; it&amp;#8217;s to post the wrong answer.&amp;#8221;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="documenting-yaml-files"&gt;
+&lt;h2&gt;Documenting YAML Files&lt;/h2&gt;
+&lt;p&gt;YAML Ain&amp;#8217;t Markup Language (YAML) is a machine-parsable data serialization language that is commonly used for specific tasks. YAML works well with native data structures and its syntax is independent of a specific programming language. It&amp;#8217;s also designed for human interaction and works well with modern programming languages, making it a good choice for configuration and documentation.&lt;/p&gt;
+&lt;p&gt;To document YAML files, look at current reference documentation formats and tools. For example, &lt;a class="reference external" href="https://json-schema.org/"&gt;JSON Schema&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/adobe/jsonschema2md"&gt;jsonschema2md&lt;/a&gt; are two viable options for describing schemas and configuration files.&lt;/p&gt;
+&lt;p&gt;OpenAPI documentation in YAML or JSON can also serve as an example of YAML configuration documentation. Consider &lt;a class="reference external" href="https://swagger.io/specification/"&gt;OpenAPI&lt;/a&gt; as a resource to explore.&lt;/p&gt;
+&lt;p&gt;Many documentarians create example YAML configuration files using comments, placeholders, and links. They also use tables for lengthy references and some use &lt;a class="reference external" href="https://plantuml.com/yaml"&gt;PlantUML for YAML visualization&lt;/a&gt;. Writers also emphasized the significance of YAML schemas and the possibility of automated documentation creation. Some suggested using JSON Schema to design schemas, produce Markdown documentation, and use the &lt;a class="reference external" href="https://www.schemastore.org/json/"&gt;JSON Schema Store&lt;/a&gt; to validate files such as for GitHub and Kubernetes configuration.&lt;/p&gt;
+&lt;p&gt;Overall, documentarians may improve their comprehension and communication of YAML configuration choices by reviewing current documentation formats, considering schema-based techniques, and leveraging tools and technologies.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="setting-up-for-success-as-a-neurodivergent-person"&gt;
+&lt;h2&gt;Setting Up for Success as a Neurodivergent Person&lt;/h2&gt;
+&lt;p&gt;A recent discussion involved whether as a neurodivergent person to mention any disability (and need for support) during an interview. A major concern was about being effective during the first few weeks of a new job. Three types of responses occurred: 1) bring it up during the interview, 2) discuss it with your manager after you&amp;#8217;re hired, and 3) don&amp;#8217;t disclose unless you can&amp;#8217;t effectively do your job.&lt;/p&gt;
+&lt;p&gt;Those who prefer to address this during the interview based it on bad experiences after waiting. One suggestion was to ask relevant questions of the interviewer. Aim for general questions related to working style. Try to determine how supportive the environment is for people with disabilities and how accommodation-friendly they are. Before you get an offer, you should have a sense of whether the company is a &amp;#8220;safe&amp;#8221; space for you. (One interviewer suggested not disclosing because it&amp;#8217;s illegal to consider that during the hiring process.)&lt;/p&gt;
+&lt;p&gt;If you wait to disclose, one thought is to not necessarily disclose a disability, but to communicate your needs to be an effective employee. For example, &amp;#8220;I work best when I have external structure.&amp;#8221; You can also ask about using certain scheduling tools, hardware, or methods to do your work. Explicit communications may be a key factor. In fact, some suggestions may help others on the team! In a supportive environment, your disclosure may elicit others to disclose their disabilities.&lt;/p&gt;
+&lt;p&gt;Some don&amp;#8217;t disclose ever because of legal issues. Forcing an employer to address your disability may result in a decision that the company would NOT be able to reasonably accommodate it. A disability that prevents you from doing the work you were hired to do is not legally protected. Those that don&amp;#8217;t disclose self-accommodate as best as they can.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="events-coming-up"&gt;
+&lt;h2&gt;Events Coming Up&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;14 Jul, 08:30 EDT (New England and Florida, USA): &lt;a class="reference external" href="https://www.meetup.com/ne-write-the-docs/events/xzpxdtyfckbsb/"&gt;Focused Conversation for Documentarians&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;20 Jul, 19:00  EDT (Toronto, Canada): &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-toronto/events/mnpqgsyfckbzb/"&gt;Write the Docs Toronto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;28 Jul, 08:30 EDT (New England and Florida, USA): &lt;a class="reference external" href="https://www.meetup.com/ne-write-the-docs/events/xzpxdtyfckblc/"&gt;Focused Conversation for Documentarians&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;28 Jul, 12:00  MDT (Boulder/Denver, USA):: &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-boulder-denver/events/xkrnctyfckblc/"&gt;Fourth Friday Write the Docs Co-working Social&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2 Aug, 17:30  AEST (Australia): &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-australia/events/292445204/"&gt;Brisbane (Onsite): Content Design or Content Strategy?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;17 Aug, 19:00  EDT (Toronto, Canada): &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-toronto/events/mnpqgsyfclbvb/"&gt;Write the Docs Toronto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;25 Aug, 12:00  MDT (Boulder/Denver, USA): &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-boulder-denver/events/xkrnctyfclbhc/"&gt;Fourth Friday Write the Docs Co-working Social&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;30 Aug, 19:00  MDT (Calgary, Canada): &lt;a class="reference external" href="https://www.meetup.com/wtd-calgary/events/292346941/"&gt;Write the Docs Calgary Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/newsletter/atom.xml">
+    <title type="text">Write the Docs Newsletter &#8211; June 2023</title>
+    <id>https://www.writethedocs.org/blog/newsletter-june-2023/</id>
+    <updated>2023-06-06T00:00:00Z</updated>
+    <published>2023-06-06T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-june-2023/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="write-the-docs-newsletter-june-2023"&gt;
+
+&lt;p&gt;Shalom, documentarians! This month marks a year since I first started putting together this newsletter and it&amp;#8217;s been a great chance for me to learn more about all kinds of topics. If you&amp;#8217;ve enjoyed the newsletter, help me learn even more by reacting to the most insightful posts in Slack with the &lt;code class="docutils literal notranslate"&gt;&lt;span class="pre"&gt;:suggest-for-newsletter:&lt;/span&gt;&lt;/code&gt; emoji. Although space is limited each month, I always enjoy seeing what everyone is learning.&lt;/p&gt;
+&lt;p&gt;Last month, the Portland conference marked our successful return to in-person conferences. If you missed any part of it, catch up with the &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/news/thanks-recap/"&gt;conference recap&lt;/a&gt;, which includes a link to videos of all of the talks. After you get through all the talks, get your tickets for the &lt;a class="reference external" href="https://www.writethedocs.org/conf/atlantic/2023/tickets/"&gt;Atlantic conference&lt;/a&gt; and make plans for the &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2023/news/welcome/"&gt;Australia conference&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To keep your mind fresh in the meantime, we have articles this month on whether to make docs public, where to put comments with code samples, how much work to do &lt;em&gt;before&lt;/em&gt; you get a job, and what kind of tool to choose to build your docs site. Enjoy and we&amp;#8217;ll be back next month with more.&lt;/p&gt;
+&lt;div class="section" id="public-vs-private-docs"&gt;
+&lt;h2&gt;Public vs. private docs&lt;/h2&gt;
+&lt;p&gt;In the world of software documentation, it&amp;#8217;s pretty common to have your docs free and open to use. But is that right for all products? This month, the community discussed some of the pros and cons.&lt;/p&gt;
+&lt;p&gt;The main reason given for keeping docs private: the advantages of secrecy. Some companies worry that open documentation allows competitors to copy your ideas and designs. And if you work on security or payment tools, exposing the details of how your software works can make it easier for bad actors to try to attack the tools. However, some folks expressed skepticism about whether keeping docs private is a very effective barrier.&lt;/p&gt;
+&lt;p&gt;The downsides of private docs were around two areas: friction and marketing. Open docs are easier for your users to access. If they have to remember login information, they may just give up and file a support ticket instead. And docs-as-marketing is a well-worn path: there&amp;#8217;s the potential to impress evaluators if the doc set looks useful and explains the product clearly, with Stripe often used as the canonical example.&lt;/p&gt;
+&lt;p&gt;One last point is that it can be hard to have the conversation just based on the pros and cons. The decision to make documentation public or private often comes from high up in the company and keeping docs private is usually an attempt to protect the company. So if you&amp;#8217;re trying to change any minds, be aware that it&amp;#8217;s a delicate conversation!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="code-samples-comments-and-placeholder-text"&gt;
+&lt;h2&gt;Code samples: Comments and placeholder text&lt;/h2&gt;
+&lt;p&gt;Explanatory text can be vital to understanding a code sample, but does the explanation belong in comments within the sample itself or in the surrounding text? As with so many other aspects of technical writing, both approaches have advantages.&lt;/p&gt;
+&lt;p&gt;Minimizing comments helps keep code samples clear, well formatted, and easy to read. Separating the explanation from the code also gives readers a chance to absorb information about the logic and purpose of the code sample before they try to interpret it.&lt;/p&gt;
+&lt;p&gt;The practice of adding comments also has benefits. Given that developers are more likely to read the code samples, comments can be a good way to make sure developers see information they really need to use the samples. Also, because code samples are often designed to be copied and pasted, code comments help ensure that important information stays with the code no matter where it is used.&lt;/p&gt;
+&lt;p&gt;A related question is where to describe placeholders, those brief bits of text in code samples that users must replace with their own values before deploying the code. Placeholder descriptions are typically included in the explanatory text for a code sample rather than within the sample itself.&lt;/p&gt;
+&lt;p&gt;To read more about comments and code samples, consider these two books: &lt;a class="reference external" href="https://www.pearson.com/en-us/subject-catalog/p/developing-quality-technical-information-a-handbook-for-writers-and-editors/P200000000159/9780133118971"&gt;&lt;em&gt;Developing Quality Technical Information: A Handbook for Writers and Editors&lt;/em&gt;&lt;/a&gt; and &lt;a class="reference external" href="https://docsfordevelopers.com/"&gt;&lt;em&gt;Docs for Developers: An Engineer&amp;#8217;s Field Guide to Technical Writing&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="extreme-take-home-tests"&gt;
+&lt;h2&gt;Extreme take-home tests&lt;/h2&gt;
+&lt;p&gt;With the current spate of layoffs and recent graduations, interviewing practices are hot topics. In a recent discussion, a job hunter asked about the appropriateness of spending a lot of time on a take-home writing test about a company&amp;#8217;s product. Working on a take-home test presents certain issues to be aware of.&lt;/p&gt;
+&lt;div class="section" id="time"&gt;
+&lt;h3&gt;Time&lt;/h3&gt;
+&lt;p&gt;The general consensus was to limit any time spent to about 1 hour. Some indicated willingness to spend more time. One person indicated spending an hour doing the assignment, but then providing &amp;#8220;an explanation of why I wasn&amp;#8217;t going to respond to all of their requests.&amp;#8221;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="money"&gt;
+&lt;h3&gt;Money&lt;/h3&gt;
+&lt;p&gt;Many in the thread cautioned about doing work about a company&amp;#8217;s product for free. One indicated that expecting significant unpaid work was &amp;#8220;a big red flag.&amp;#8221; This can be a way for a company to get free work from a lot of people. Several remarked that they&amp;#8217;ve received payment for completing take-home tests. As an interviewee, you may need to ask about payment, especially if the test requires significant work.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="ownership"&gt;
+&lt;h3&gt;Ownership&lt;/h3&gt;
+&lt;p&gt;If you do a writing test, does it belong to you or to the company? In general, if you&amp;#8217;re writing about a company&amp;#8217;s product, it would belong to the company. You may want to get this clarified because it may affect how long you work on the test and whether you have rights to the work itself. If you spend a lot of time on a writing sample, it may work as a good portfolio piece. So it&amp;#8217;s worth resolving the question.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="choosing-a-ccms-or-a-static-site-generator"&gt;
+&lt;h2&gt;Choosing a CCMS or a static site generator&lt;/h2&gt;
+&lt;p&gt;When deciding whether to suggest a component content management system (CCMS) like Paligo or a static site builder like MkDocs, there are several things to consider. The first is the team and the people helping. Paligo and other CCMSs demand a specific understanding of XML or the tool itself. This makes them better for teams of writers who can help each other. On the other hand, a static site generator that supports Markdown or other forms that are easy to change might be a better choice if you are a single writer or have users who are not tech-savvy.&lt;/p&gt;
+&lt;p&gt;Cost is another thing to think about. Markdown and MkDocs are free, but CCMSs like Paligo can be costly. But it&amp;#8217;s also important to consider hidden costs. Static site generators, for example, often need theme development, build process upkeep, and document conversions, which can take a lot of time and resources.&lt;/p&gt;
+&lt;p&gt;You should also consider the documentation method. For example, a CCMS could be a good choice if you want one tool to manage and share user documentation for different user jobs and software modules. These tools can make PDFs and web-based documents and work with single sources from the start. Of course, you can also do this with static site generators, but you have to spend time and effort creating the build steps and themes.&lt;/p&gt;
+&lt;p&gt;Your choice should be based on how willing you are to learn and understand a certain tool, how many resources you have, and your long-term goals for managing and delivering documentation. To find the best choice for your needs, research and compare different options, like those on the &lt;a class="reference external" href="https://jamstack.org/"&gt;Jamstack website&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="from-our-sponsor"&gt;
+&lt;h2&gt;From our sponsor&lt;/h2&gt;
+&lt;p&gt;This month&amp;#8217;s newsletter is sponsored by ClickHelp:&lt;/p&gt;
+&lt;hr&gt;
+  &lt;table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;"&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td width="75%"&gt;
+          &lt;p&gt;ClickHelp is an all-in-one cloud documentation platform for technical writers and software teams. It offers powerful features to create, manage, and publish documentation efficiently. Streamline your process with single sourcing and dynamic output. Improve documentation with advanced analytics and user feedback. Collaborate seamlessly, and track versions effortlessly. Accessible across devices and platforms, supporting multiple formats. &lt;/p&gt;
+          &lt;p&gt;Experience &lt;a href="https://clickhelp.com/clickhelp-technical-writing-blog/clickhelp-april-2023-blossom-update-overview/?utm_source=wtd&amp;amp;utm_medium=text-link&amp;amp;utm_campaign=writethedocs-newsletter-2023-06"&gt;the latest Blossom &amp;#127800; release&lt;/a&gt; with Markdown import, Confluence migration, interactive screenshots, and more. Start a &lt;a href="https://clickhelp.com/online-documentation-tool-free-trial/?utm_source=wtd&amp;amp;utm_medium=text-link&amp;amp;utm_campaign=writethedocs-newsletter-2023-06"&gt;free trial&lt;/a&gt;  or book a demo to explore cutting-edge features. Join us on this transformative journey with ClickHelp.&lt;/p&gt;
+
+        &lt;/td&gt;
+        &lt;td width="25%"&gt;
+          &lt;a href="https://clickhelp.com/clickhelp-technical-writing-blog/clickhelp-april-2023-blossom-update-overview/?utm_source=wtd&amp;amp;utm_medium=text-link&amp;amp;utm_campaign=writethedocs-newsletter-2023-06"&gt;
+            &lt;img style="margin-left: 15px;" alt="Zoomin" src="https://2.helpmonks.com/file/remote?a=6475f555a06b27f947bb3512&amp;amp;e=6346d75d21a5bb6d28f246c5&amp;amp;c=false&amp;amp;n=ClickHelp_logo_300x300.png"&gt;
+          &lt;/a&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+  &lt;hr&gt;&lt;p&gt;&lt;em&gt;Interested in sponsoring the newsletter? Take a look at our&lt;/em&gt; &lt;a class="reference external" href="https://www.writethedocs.org/sponsorship/newsletter/"&gt;sponsorship prospectus&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="featured-job-posts"&gt;
+&lt;h2&gt;Featured job posts&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://jobs.writethedocs.org/job/1473/technical-writer-for-tor-arti-documentation-3-4-month-contract/"&gt;Technical Writer for Tor/Arti Documentation (3-4 month contract)&lt;/a&gt;, The Tor Project&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;To apply for this job and more, visit the&lt;/em&gt; &lt;a class="reference external" href="https://jobs.writethedocs.org/"&gt;Write the Docs job board&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="events-coming-up"&gt;
+&lt;h2&gt;Events coming up&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;7 Jun, 12:00  PDT (Portland, USA): &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-pdx/events/293742711/"&gt;Call for organizers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;16 Jun, 08:30 EDT (New England and Florida, USA): &lt;a class="reference external" href="https://www.meetup.com/ne-write-the-docs/events/xzpxdtyfcjbvb/"&gt;Focused Conversation for Documentarians&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;22 Jun, 19:00  EDT (Toronto, Canada): &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-toronto/events/mnpqgsyfcjbcc/"&gt;Write the Docs Toronto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;23 Jun, 12:00  MDT (Boulder/Denver, USA): &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-boulder-denver/events/xkrnctyfcjbfc/"&gt;Fourth Friday Write the Docs Co-working Social&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;28 Jun, 19:00  MDT (Calgary, Canada): &lt;a class="reference external" href="https://www.meetup.com/wtd-calgary/events/292346923/"&gt;Write the Docs Calgary Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;30 Jun, 08:30 EDT (New England and Florida, USA): &lt;a class="reference external" href="https://www.meetup.com/ne-write-the-docs/events/xzpxdtyfcjbnc/"&gt;Focused Conversation for Documentarians&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/newsletter/atom.xml">
+    <title type="text">Write the Docs Newsletter &#8211; May 2023</title>
+    <id>https://www.writethedocs.org/blog/newsletter-may-2023/</id>
+    <updated>2023-05-04T00:00:00Z</updated>
+    <published>2023-05-04T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-may-2023/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="write-the-docs-newsletter-may-2023"&gt;
+
+&lt;p&gt;Aloha, documentarians! I hope any showers you may have experienced in April are paying off in flowers. There&amp;#8217;s lots blossoming within Write the Docs.&lt;/p&gt;
+&lt;p&gt;The main thing going on this week is the &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/"&gt;Portland conference&lt;/a&gt;. Wishing all of you who will make it to Portand safe travels, and if you can&amp;#8217;t make it there, you can follow along with the main talks through the &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/livestream/"&gt;livestream&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you get inspired, there&amp;#8217;s still time this month to submit a talk for the Atlantic virtual conference. Check out the &lt;a class="reference external" href="https://www.writethedocs.org/conf/atlantic/2023/cfp/"&gt;Call for Proposals&lt;/a&gt; and submit your proposal by 15 May.&lt;/p&gt;
+&lt;p&gt;And after that you can look forward to our third conference of the year, in Australia. Check out the &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2023/news/welcome/"&gt;announcement for the dates&lt;/a&gt; and start planning for December.&lt;/p&gt;
+&lt;p&gt;Away from the conferences and back to this newsletter, I&amp;#8217;d like to extend thanks from Write the Docs to Heather Zoppetti. For a long time, every month she took brought you discussions and things to read or listen to from the #bipoc channel. We appreciate the hard work that went into this, but it&amp;#8217;s a difficult burden to carry alone. If you&amp;#8217;d like to continue the conversation, join in the &lt;a class="reference external" href="https://writethedocs.slack.com/archives/C016STMEWJD"&gt;#bipoc channel&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I hope you have pleasant and insightful conversations, whether in Slack, at the conference, or elsewhere in the world of documentation.&lt;/p&gt;
+&lt;div class="section" id="the-importance-of-docs-in-30-minutes"&gt;
+&lt;h2&gt;The importance of docs&amp;#8230; in 30 minutes&lt;/h2&gt;
+&lt;p&gt;If your company gave you 30 minutes to give a presentation about why documentation is important, what would you say? The &lt;a class="reference external" href="https://writethedocs.threadless.com/collections/docs-or-it-didnt-happen"&gt;&amp;#8220;Docs or it didn&amp;#8217;t happen!&amp;#8221;&lt;/a&gt; motto can be a useful starting point because it&amp;#8217;s catchy and memorable. Another idea is to start by asking the audience to remember a time when they were frustrated by a product&amp;#8217;s instructions&amp;#8212;and to think about whether they would give that product a good or bad review.&lt;/p&gt;
+&lt;p&gt;Focus your talk on the business value that documentation provides, such as improving product adoption, deflecting support cases, and increasing the value of existing engineering work. If possible, include specific examples that demonstrate how documentation solved a question or problem or led to a successful business outcome. Talk about the &lt;em&gt;benefits&lt;/em&gt; of good documentation rather than its characteristics (like clarity and conciseness).&lt;/p&gt;
+&lt;p&gt;You might also explain the kinds of information that you typically need from subject matter experts and product managers and how it helps you craft good documentation. This reminds the audience that you&amp;#8217;re allies with the same goal: making sure your customers can use your product to solve their problems.&lt;/p&gt;
+&lt;p&gt;For a few more thoughts on the subject with a side of laconic wit, check out the blog post &lt;a class="reference external" href="https://docsbydesign.com/2022/02/13/proving-and-defending-the-value-of-technical-writing-again/"&gt;Proving and defending the value of technical writing, again&lt;/a&gt; by documentarian Bob Watson.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="getting-past-tech-writer-s-block"&gt;
+&lt;h2&gt;Getting past tech writer&amp;#8217;s block&lt;/h2&gt;
+&lt;p&gt;One recent Slack discussion started with questions about transitioning to a technical writing career. But many of the suggestions seem appropriate to addressing the blank page syndrome (the fear of starting to write) that some documentarians experience.&lt;/p&gt;
+&lt;p&gt;People also brought up imposter syndrome (doubting your ability to document well) and suggested that this thought could make a transition harder.&lt;/p&gt;
+&lt;p&gt;So, here are some suggestions that might break through the blank page syndrome and make you feel better about being a documentarian:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Just write&amp;#8230; anything. (Suggestions included non-work writing such as a personal journal or a blog.)&lt;/li&gt;
+&lt;li&gt;Find something to rewrite. (Think about the improvements that you make.)&lt;/li&gt;
+&lt;li&gt;Identify different types of writing (such as procedures, tutorials, or overviews). If there is one type that&amp;#8217;s easier for you to do, start with that type of document.&lt;/li&gt;
+&lt;li&gt;Make outlines&amp;#8230; or mind maps&amp;#8230; or just list words that may be relevant.&lt;/li&gt;
+&lt;li&gt;Specifically write a first, rough draft to get some words down without expecting that it will be good work. (One person suggested calling this a &amp;#8220;zero&amp;#8221; draft, which is not even a rough draft.)&lt;/li&gt;
+&lt;li&gt;If your product is software, read through existing documentation or tinker with the software.&lt;/li&gt;
+&lt;li&gt;Browse documentation for similar products. Notice what you find interesting, helpful, or distracting. Try adapting what you see for your product.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Several people reminded the group that technical writing is NOT creative writing. So being able to communicate clearly to someone who knows nothing is more important than being creative. If you follow basic documentation guidelines, you might get some words written AND decide that you aren&amp;#8217;t an imposter after all.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="how-to-describe-career-progression"&gt;
+&lt;h2&gt;How to describe career progression&lt;/h2&gt;
+&lt;p&gt;If you ever find yourself having to write job descriptions for documentarian roles, you might find it challenging to define the role&amp;#8217;s level&amp;#8212;such as junior, senior, or principal. The problem isn&amp;#8217;t so much the hierarchy of job levels as what exactly the role levels mean. For example, some might think juniors strive to do things, seniors demonstrate the ability to do things, and principals are role models in how they do things. But then you might be questioning what those things are.&lt;/p&gt;
+&lt;p&gt;One way to put it plainly is:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Juniors&lt;/strong&gt; contribute to doing things with assistance and review from others.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Seniors&lt;/strong&gt; do things independently.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Principals&lt;/strong&gt; do things independently and refine and develop how things get done.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can define career levels for junior, senior, and principals in many ways. Regardless of the definition, the levels reflect how much supervision people need and their impact radius. Usually, juniors have a smaller impact as compared to a principal, who looks to make an impact across a product or company by mentoring others, finding global solutions, and guiding a team to use more efficient and effective processes and procedures. When making comparisons, higher levels have more influence on how things get done.&lt;/p&gt;
+&lt;p&gt;It&amp;#8217;s also important to know that career levels differ not just by workplace but also by country. Some people aren&amp;#8217;t familiar with certain U.S. job role levels, especially principal as the most senior. In these cases and others where job roles seem ambiguous, it&amp;#8217;s best to define them well, securing them within the organization&amp;#8217;s unique context and clearly defining &amp;#8220;the thing.&amp;#8221;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="what-to-do-after-surviving-layoffs"&gt;
+&lt;h2&gt;What to do after surviving layoffs&lt;/h2&gt;
+&lt;p&gt;Many tech companies are going through layoffs at the moment and it&amp;#8217;s not an easy thing to live through&amp;#8212;whether you&amp;#8217;ve been laid off or even if you make it through. This month, a community member asked for advice with handling survivor&amp;#8217;s guilt after a round of layoffs. Here&amp;#8217;s what folks on Slack thought.&lt;/p&gt;
+&lt;p&gt;First up, feeling uneasy or guilty is a normal reaction, as is worry that this round won&amp;#8217;t be the last. Some companies recognize this and give folks a bit of a pause to process, but some don&amp;#8217;t. It&amp;#8217;s also reasonable to feel glad about still having your own job, even if others don&amp;#8217;t.&lt;/p&gt;
+&lt;p&gt;One thing you can do is help out those who were laid off. Checking in on former colleagues, seeing how they&amp;#8217;re feeling, and checking if they would appreciate written recommendations or hearing about good job openings: all of these are kind actions to take.&lt;/p&gt;
+&lt;p&gt;Lastly, some folks recommended spending time on simpler work: you can lose yourself in quick wins or more routine work that takes less brainpower. It can be a helpful way to pass the time while you are processing.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="featured-job-posts"&gt;
+&lt;h2&gt;Featured job posts&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://jobs.writethedocs.org/job/1399/senior-technical-writer-security-observability/"&gt;Senior Technical Writer, Security/Observability&lt;/a&gt;, Cockroach Labs (Hybrid)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;To apply for this job and more, visit the&lt;/em&gt; &lt;a class="reference external" href="https://jobs.writethedocs.org/"&gt;Write the Docs job board&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="events-coming-up"&gt;
+&lt;h2&gt;Events coming up&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;9 May, 08:30 EDT (New England and Florida, USA): &lt;a class="reference external" href="https://www.meetup.com/ne-write-the-docs/events/mvctctyfchbmb/"&gt;Focused conversation: Managing tech docs projects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;17 May, 19:45  EDT (Pittsburgh, USA): &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-pittsburgh/events/292965229/"&gt;Happy Hour Schmooze: Write the Docs Portland recap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;18 May, 19:00  EDT (Toronto, Canada): &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-toronto/events/mnpqgsyfchbwb/"&gt;Write the Docs Toronto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;23 May, 08:30 EDT (New England and Florida, USA): &lt;a class="reference external" href="https://www.meetup.com/ne-write-the-docs/events/mvctctyfchbfc/"&gt;Focused Conversation for Documentarians&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;26 May, 12:00  MDT (Boulder/Denver, USA): &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-boulder-denver/events/xkrnctyfchbjc/"&gt;Fourth Friday Write the Docs Co-working Social&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;6 Jun, 08:30 EDT (New England and Florida, USA): &lt;a class="reference external" href="https://www.meetup.com/ne-write-the-docs/events/mvctctyfcjbjb/"&gt;Focused Conversation for Documentarians&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/newsletter/atom.xml">
+    <title type="text">Write the Docs Newsletter &#8211; April 2023</title>
+    <id>https://www.writethedocs.org/blog/newsletter-april-2023/</id>
+    <updated>2023-04-07T00:00:00Z</updated>
+    <published>2023-04-07T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-april-2023/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="write-the-docs-newsletter-april-2023"&gt;
+
+&lt;p&gt;Hello again. April may or may not be the cruelest month, but there&amp;#8217;s no cruelty in our latest batch of news and views from the world of docs.&lt;/p&gt;
+&lt;p&gt;In conference news, the Portland conference has &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/news/announcing-schedule/"&gt;announced its full schedule&lt;/a&gt;. So check out the exciting talks you can see in person.&lt;/p&gt;
+&lt;p&gt;If in-person talks aren&amp;#8217;t your thing or Portland is a little too far away from you, the Atlantic conference is new this year. It&amp;#8217;s an online conference timed to be as convenient as possible for both Europe and the eastern parts of the Americas. If you have ideas you&amp;#8217;d like to share, the &lt;a class="reference external" href="https://www.writethedocs.org/conf/atlantic/2023/cfp/"&gt;Call for Proposals&lt;/a&gt; is open until May 15. Check out the call to see some guidance on how to put together a good proposal and share your ideas with other documentarians.&lt;/p&gt;
+&lt;p&gt;In addition to our conferences, our community provides other learning resources through the website. A recent addition is a guide on &lt;a class="reference external" href="https://www.writethedocs.org/hiring-guide/portfolios/"&gt;maintaining a portfolio&lt;/a&gt;. If you have other ideas to capture, fork the &lt;a class="reference external" href="https://github.com/writethedocs/www"&gt;website repository&lt;/a&gt; and open a pull request.&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;ve also captured some highlights of recent discussions right here. Let us know if you see something else we should include.&lt;/p&gt;
+&lt;div class="section" id="building-an-api-portfolio"&gt;
+&lt;h2&gt;Building an API Portfolio&lt;/h2&gt;
+&lt;p&gt;If you&amp;#8217;re new to API documentation but keen to learn more and demonstrate your skills, brace yourself: this month, the community delivered an idea-packed discussion about developing an API portfolio as you learn.&lt;/p&gt;
+&lt;p&gt;One approach is to create a fake API and document it. You don&amp;#8217;t need to code &amp;#8211; for example, you can create an &lt;a class="reference external" href="https://www.openapis.org/"&gt;OpenAPI&lt;/a&gt; API design specification using &lt;a class="reference external" href="https://www.redhat.com/en/topics/automation/what-is-yaml"&gt;YAML&lt;/a&gt; and write the documentation in &lt;a class="reference external" href="https://www.markdownguide.org/"&gt;Markdown&lt;/a&gt;. Here are a few things to keep in mind to help you succeed:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Keep your API simple. You might be tempted to prove your skills, but documenting an elaborate API is overwhelming when you&amp;#8217;re still learning.&lt;/li&gt;
+&lt;li&gt;Make sure your use case is clear. It&amp;#8217;s easier to document an API if its purpose and context makes sense.&lt;/li&gt;
+&lt;li&gt;Use a familiar tool that you&amp;#8217;re comfortable with (even a traditional word processor) and aim for minimum viable documentation. You can migrate to new formats and tools later.&lt;/li&gt;
+&lt;li&gt;Try to have some fun. For example, your API could be for an ice cream shop. &lt;a class="reference external" href="https://petstore3.swagger.io/"&gt;Swagger&amp;#8217;s API demo&lt;/a&gt; is for a pet store.&lt;/li&gt;
+&lt;li&gt;Find someone to review your work and iterate based on their feedback.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Resources that can help with the fake API approach include &lt;a class="reference external" href="https://www.manning.com/books/the-design-of-web-apis"&gt;The Design of Web APIs&lt;/a&gt; by Arnaud Lauret and Tom Johnson&amp;#8217;s &lt;a class="reference external" href="https://idratherbewriting.com/learnapidoc/"&gt;free course on documenting APIs&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A second approach is contributing to an open-source project with an API that has poor or nonexistent documentation. Here are some tips for this path:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;To find a project, think about a topic that interests you and then search for that topic along with &amp;#8220;Open Source&amp;#8221; and &amp;#8220;API&amp;#8221;.&lt;/li&gt;
+&lt;li&gt;Look for projects that are actively maintained to ensure someone reviews your contributions in a timely manner. It&amp;#8217;s not always obvious whether a project is active, so make your first contribution something quick like a typo fix to see how the maintainers respond. If your contribution isn&amp;#8217;t reviewed within a couple days or seems unwelcome, keep searching for another project.&lt;/li&gt;
+&lt;li&gt;If possible, work with design-first projects that test the API code against the API design. If the API is code-first, there&amp;#8217;s a risk that each build will overwrite your work.&lt;/li&gt;
+&lt;li&gt;If your contributions are ignored or rejected, try not to take it personally. You&amp;#8217;re likely to have many of the same challenges you&amp;#8217;d have for any other docs work, including maintainers who may be unresponsive or too busy to help you get started.&lt;/li&gt;
+&lt;li&gt;Consider &lt;a class="reference external" href="https://developers.google.com/season-of-docs"&gt;Google Season of Docs&lt;/a&gt;, which connects interested writers with open-source projects that need documentation support.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="measuring-productivity-of-docs-teams"&gt;
+&lt;h2&gt;Measuring productivity of docs teams&lt;/h2&gt;
+&lt;p&gt;If your management is looking for measures of documentation productivity, what&amp;#8217;s the best way to meet that need?&lt;/p&gt;
+&lt;p&gt;It&amp;#8217;s a tricky problem because many metrics are obvious but unhelpful. Counting team commits is perilously close to bad measures like counting lines of code. Counting words added is almost the opposite of what you want! The number of initiatives launched also doesn&amp;#8217;t tell you about their quality.&lt;/p&gt;
+&lt;p&gt;A bad metric can lead you down the wrong path. Consider Goodhart&amp;#8217;s law: &amp;#8220;As soon as a measure becomes a target, it ceases to be a good measure.&amp;#8221;&lt;/p&gt;
+&lt;p&gt;One place to start is what you want to achieve, and then work backwards to a metric. If productivity means &lt;em&gt;velocity&lt;/em&gt; to your team: perhaps tickets closed. If it&amp;#8217;s &lt;em&gt;solving problems&lt;/em&gt; for your audience: possibly content satisfaction. For providing a &lt;em&gt;good service&lt;/em&gt; to other teams: maybe backlog size growth. But be careful with what you&amp;#8217;re aiming for. For example, a slow turnaround time can be good if it means well-thought out improvements to your users&amp;#8217; lives.&lt;/p&gt;
+&lt;p&gt;It&amp;#8217;s worth digging into what management is really looking for. Authoring is not like manufacturing: the visible output (topics published, page views) isn&amp;#8217;t well correlated with effort. A better angle is impact on the business &amp;#8211; such as the diagram at the end of this &lt;a class="reference external" href="https://document360.com/blog/value-of-documentation/"&gt;article on the value of documentation&lt;/a&gt;. Depending on what your users say, your goal might be increasing time spent on the docs website or reducing support tickets.&lt;/p&gt;
+&lt;p&gt;Whatever you do, you should think it through. &amp;#8220;What gets measured gets done&amp;#8221;: if you measure quantity not quality, your docs will suffer.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="setting-boundaries"&gt;
+&lt;h2&gt;Setting boundaries&lt;/h2&gt;
+&lt;p&gt;As a documentarian, it&amp;#8217;s common to seek feedback on your work from others, especially people who aren&amp;#8217;t exclusively focused on documentation. It&amp;#8217;s important to remember that not everyone has the same level of expertise or understanding of the writing process. This can lead to reviewers overstepping boundaries or providing feedback that may not be helpful or relevant.&lt;/p&gt;
+&lt;p&gt;To set clear working boundaries, it&amp;#8217;s best to share documentation standards, which can be rooted in technical writing principles such as task-based writing, minimalism, and structured content. Suppose you receive pushback after sharing the standards. For example, what if reviewers ask about what they were derived from? In that case, you could offer sources on the validity of the standards.&lt;/p&gt;
+&lt;p&gt;An &lt;a class="reference external" href="https://medium.com/@davidagash/a-painless-introduction-to-information-typing-d06041013fd5"&gt;article by Dave Gash on information typing&lt;/a&gt; might be a good place to start if you find yourself having to &amp;#8220;show your work&amp;#8221; in terms of standard technical writing practices. In the article, Gash clearly explains the importance of content structuring while providing examples to make things easily understandable to non-experts.&lt;/p&gt;
+&lt;p&gt;Setting boundaries with reviewers can be challenging, but it&amp;#8217;s crucial to the writing process. By implementing these tips, you can communicate your expectations clearly, establish respectful boundaries, and ensure that the feedback you receive is helpful and constructive. Remember, you are the expert on your own writing and it&amp;#8217;s okay to prioritize your own creative vision and process. By setting boundaries, you can work with your reviewers more effectively and ultimately create stronger, more compelling writing that stays true to your unique voice and vision.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="complexity-of-languages"&gt;
+&lt;h2&gt;Complexity of languages&lt;/h2&gt;
+&lt;p&gt;Last month, an interesting discussion started from a somewhat innocuous posting: Is &amp;#8216;a unique&amp;#8217; or &amp;#8216;an unique&amp;#8217; correct?&lt;/p&gt;
+&lt;p&gt;From the English &amp;#8216;rule&amp;#8217; about the &amp;#8216;sound&amp;#8217; of a letter (such as u) determining whether to use &amp;#8216;a&amp;#8217; or &amp;#8216;an&amp;#8217;, the discussion moved into the &amp;#8216;correct&amp;#8217; order of a series of adjectives. Apparently, English learners know this as the Royal Order, but native speakers often don&amp;#8217;t even realize that there&amp;#8217;s a rule&amp;#8230; they just put adjectives in the &amp;#8216;correct&amp;#8217; order.&lt;/p&gt;
+&lt;p&gt;This lead to a discussion about the perception that many US English speakers are monolingual. Some posters discussed wanting to learn other languages; some mentioned other languages that they&amp;#8217;ve learned&amp;#8230; including the challenges of learning a second (or third) language. The consensus was that some rules get formalized when learning another language that native speakers know unconsciously. One person recommended watching &lt;a class="reference external" href="https://www.youtube.com/channel/UCywGsTdh_qqZUYmA2Gro2CA"&gt;Lo&amp;#239;c Suberville videos on YouTube&lt;/a&gt;. (His channel description: That French guy who doesn&amp;#8217;t understand French.)&lt;/p&gt;
+&lt;p&gt;Others mentioned that one challenge to learning English was the many loan words from other languages (leading to seemingly unexpected pronunciation and spelling issues), but others mentioned that all languages have loan words (with  English &amp;#8216;invading&amp;#8217; many languages). Then some touched on the evolution of languages with loan words becoming standard vocabulary (such as Japanese using Chinese characters and pronunciation). Others mentioned that languages develop different dialects (such as Yiddish), which may be challenging for people who speak the same language but use a different dialect. This brought culture and history into the discussion as being inseparable from language.&lt;/p&gt;
+&lt;p&gt;The thread ended up reflecting on inconsistencies in other languages and how the ease of learning another language may depend the new language&amp;#8217;s relationship to your native language.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="events-coming-up"&gt;
+&lt;h2&gt;Events coming up&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;11 April, 08:30 EST (New England and Florida, USA) - &lt;a class="reference external" href="https://www.meetup.com/ne-write-the-docs/events/mvctctyfcgbpb/"&gt;Focused conversation for documentarians&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;18 April, 17:30 AEST (Sydney, Australia) - &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-australia/events/291787201/"&gt;Navigating the future of tech writing | Lightning talks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;25 April, 08:30 EST (New England and Florida, USA) - &lt;a class="reference external" href="https://www.meetup.com/ne-write-the-docs/events/mvctctyfcgbhc/"&gt;Focused conversation for documentarians&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;25 April, 19:00 MDT (Calgary, Canada) - &lt;a class="reference external" href="https://www.meetup.com/wtd-calgary/events/292346914/"&gt;Write the Docs Calgary Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;28 April, 12:00 MDT (Boulder/Denver, USA) - &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-boulder-denver/events/xkrnctyfcgblc/"&gt;Fourth Friday Write the Docs Co-working Social&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;4 May, 18:00 CEST (Stockholm, Sweden) - &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-stockholm/events/292409546/"&gt;Stockholm WTD meetup #7&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/newsletter/atom.xml">
+    <title type="text">Write the Docs Newsletter &#8211; March 2023</title>
+    <id>https://www.writethedocs.org/blog/newsletter-march-2023/</id>
+    <updated>2023-03-06T00:00:00Z</updated>
+    <published>2023-03-06T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-march-2023/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="write-the-docs-newsletter-march-2023"&gt;
+
+&lt;p&gt;Hello, everyone! March is here, which should mean the changing of the season. I hope you are able to find some balance with the upcoming equinox.&lt;/p&gt;
+&lt;p&gt;This month&amp;#8217;s big community news is the &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/news/announcing-speakers/"&gt;announcement of the Portland conference speakers&lt;/a&gt;. This marks the return of in-person talks, and the variety of topics and speakers means it&amp;#8217;s sure to be a treat for those able to attend. If you can&amp;#8217;t make it to Portland, some other areas are also retuning to in-person meetups. So if that&amp;#8217;s your thing, check out the list at the end of the newsletter.&lt;/p&gt;
+&lt;p&gt;Before the meetup list, enjoy some discussions about how to deal with being a sole documentarian, how to break up your docs-as-code, what the most interesting projects some of us have worked on, and how to face the challenge of documenting AI (since we know from last month that it won&amp;#8217;t yet replace us).&lt;/p&gt;
+&lt;div class="section" id="loneliness-of-the-lone-ly-documentarian"&gt;
+&lt;h2&gt;Loneliness of the &amp;#8220;Lone-ly&amp;#8221; Documentarian&lt;/h2&gt;
+&lt;p&gt;&amp;#8220;Sometimes being surrounded by everyone is the loneliest because you&amp;#8217;ll realize you have no one to turn to.&amp;#8221; &amp;#8212; Soraya&lt;/p&gt;
+&lt;p&gt;A recent discussion in &lt;a class="reference external" href="https://writethedocs.slack.com/archives/CAL5Y0NB1"&gt;#lone-writer&lt;/a&gt; elicited some responses with value for all documentarians. The essence of the posted question also appears in #career-advice: How to develop skills to feel successful throughout a career?&lt;/p&gt;
+&lt;p&gt;Some of the responses related to training opportunities: certification programs or online training (within the domain or for new skills). Some suggested joining the &lt;a class="reference external" href="https://writethedocs.slack.com/archives/C7YJR1N02"&gt;#learn-tech-writing&lt;/a&gt; channel and participating in its book club. For some people, reading books may be helpful.&lt;/p&gt;
+&lt;p&gt;The importance of developing relationships with other documentarians was brought up. Interacting with the Write the Docs community (asking questions in the Slack workspace, mingling in meetups, or attending WTD conferences) was important for many people. Maintaining relationships with previous co-workers or finding a mentor to bounce ideas off of was suggested by others.&lt;/p&gt;
+&lt;p&gt;Documentarians might have to step out of their comfort zone to ask for feedback. Some suggested developing relationships with &amp;#8220;solid doc allies&amp;#8221; or trusted subject matter experts within the company to get quality feedback. Learn from it but don&amp;#8217;t take it personally. Realize that morale boosters are elusive for documentarians, so accept positive feedback gracefully.&lt;/p&gt;
+&lt;p&gt;Appreciate the benefits of being a lone (or lonely) writer. As the company&amp;#8217;s advocate for your audience, you can ask for necessary information in a way to focus other teams. As long as the company considers documentation important, you have the power to make a difference and be recognized as an important contributor to your company.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="semantic-linefeeds"&gt;
+&lt;h2&gt;Semantic Linefeeds&lt;/h2&gt;
+&lt;p&gt;If you write the docs in a markup language such as Markdown, AsciiDoc, or reStructured Text, you might have encountered semantic linefeeds (also known as &lt;a class="reference external" href="https://sembr.org/"&gt;semantic line breaks&lt;/a&gt;). Semantic linefeeds mean that you add a line break after each sentence or even clause in your source file, not just after paragraphs. These shorter lines make the source files easier to read and edit (and the pages are still rendered in paragraphs when published).&lt;/p&gt;
+&lt;p&gt;Some documentarians dislike the choppy, random look that semantic linefeeds can produce. Others like the technique because it helps with docs-as-code issues such as keeping file comparisons (&amp;#8220;diffs&amp;#8221;) neat and legible and because it helps break down text for translation by line.&lt;/p&gt;
+&lt;p&gt;Among those who do use semantic linefeeds, the most common form is a variation called ventilated prose: one sentence per line. Adding a line break after every sentence feels somewhat natural and makes it easier to compare sentence lengths. Ventilated prose also makes it more obvious when you have long sentences that could be rewritten.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="most-interesting-projects"&gt;
+&lt;h2&gt;Most interesting projects&lt;/h2&gt;
+&lt;p&gt;As the role of documentarians has become increasingly crucial in today&amp;#8217;s fast-paced technological world, they have been tasked with numerous challenging projects. From documenting complex software systems to creating user manuals for cutting-edge devices, documentarians have a lot on their proverbial plates. However, among all these projects, some always stand out as particularly intriguing or memorable. For example, some recall documenting museum software to help guide staff in recording details about everything they collect, such as art, clothing, and dinosaur skeletons.&lt;/p&gt;
+&lt;p&gt;Others mentioned having a localization voiceover gig to demonstrate using a chainsaw, working on contracts for a company that built and sold childcare facilities, writing instructions for a reading tracking software company, authoring an operations manual for a robotic systems defense contractor, and creating content for a bespoke application for the oil and gas industry. From the variety of examples, it can be said that documentarians are tasked with complex and exciting projects, even if it&amp;#8217;s just helping a parent write and edit books on sleight-of-hand magic.&lt;/p&gt;
+&lt;p&gt;The most interesting projects that documentarians have worked on showcase the diverse range of topics and industries they can adapt to and the complexity of the information they need to communicate. As technology continues to evolve and shape our world, documentarians will remain a crucial part of the process, ensuring that information is shared effectively and efficiently with a broad audience. It&amp;#8217;s clear that it&amp;#8217;s already a fascinating and challenging field, and it&amp;#8217;s expected that more innovative and interesting projects will emerge in the future.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="documenting-ai"&gt;
+&lt;h2&gt;Documenting AI&lt;/h2&gt;
+&lt;p&gt;Artificial intelligence (AI) is still top of mind for many. Based on a discussion this month, here&amp;#8217;s what the community thinks we should we be looking out for.&lt;/p&gt;
+&lt;p&gt;First up, if you&amp;#8217;re working on a machine learning (ML) tool, keep an eye on data lineage. It&amp;#8217;s important to distinguish between the known input for the ML tool and These analysis or predictions that the tool outputs. For example, this might mean labelling a prediction on a person&amp;#8217;s age as &amp;#8220;Age analysis result&amp;#8221; rather than &amp;#8220;Age of subject&amp;#8221;. If you&amp;#8217;re interested, the following article present more on the subject: &lt;a class="reference external" href="https://counting.substack.com/p/data-science-practice-101-always-leave-an-analysis-paper-trail-cc17079fae5a"&gt;Always Leave An Analysis Paper Trail&lt;/a&gt;, and &lt;a class="reference external" href="https://weallcount.com/2019/01/21/an-introduction-to-the-data-biography/"&gt;An Introduction to the Data Biography&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A related challenge can be explaining to end users what AI is actually doing. One discussion participant had been interested in the &lt;a class="reference external" href="https://weina.me/euca/"&gt;End-User-Centered Explainable AI Framework&lt;/a&gt;, a prototyping tool for explaining AI to users; another linked to an example of a documentation standard trying to be transparent about AI, IBM&amp;#8217;s &lt;a class="reference external" href="https://aifs360.mybluemix.net/introduction"&gt;AI FactSheets 360&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The community was also interested in the ethics of AI. They recommended a few pieces:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;A paper called &lt;a class="reference external" href="https://dl.acm.org/doi/10.1145/3442188.3445922"&gt;&amp;#8220;On the Dangers of Stochastic Parrots&amp;#8221;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;A recent publication, &lt;a class="reference external" href="https://knowingmachines.org/critical-field-guide"&gt;A Critical Field Guide for Working With Machine Learning Datasets&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;A few books that discuss the technical side of ethics in machine learning, but accessibly: &lt;a class="reference external" href="https://wsp.wharton.upenn.edu/book/the-ethical-algorithm/"&gt;The Ethical Algorithm&lt;/a&gt;, &lt;a class="reference external" href="https://brianchristian.org/the-alignment-problem/"&gt;The Alignment Problem&lt;/a&gt;, and &lt;a class="reference external" href="https://us.macmillan.com/books/9780374720513/livingindata"&gt;Living in Data&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="from-our-sponsor"&gt;
+&lt;h2&gt;From our sponsor&lt;/h2&gt;
+&lt;p&gt;This month&amp;#8217;s newsletter is sponsored by Zoomin:&lt;/p&gt;
+&lt;hr&gt;
+&lt;table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td width="75%"&gt;
+          &lt;p&gt;
+            GPT is here, and your users expect the same content experience from you. &lt;a href="https://www.zoominsoftware.com/zoomin-gpt/revolutionizing-the-technical-content-industry"&gt;Discover how&lt;/a&gt; Zoomin is revolutionizing the technical content industry
+          &lt;/p&gt;
+
+          &lt;p&gt;
+            Our documentation portal is now public and open to all! &lt;a href="https://docs.zoominsoftware.io/"&gt;Find out&lt;/a&gt; what it looks like to have a SINGLE SOURCE OF TRUTH.
+          &lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td width="25%"&gt;
+        &lt;a href="https://www.zoominsoftware.com/?vert=Write_The_Docs_Newsletter&amp;amp;utm_medium=referral&amp;amp;utm_source=WriteTheDocs&amp;amp;utm_campaign=March_Newsletter"&gt;
+          &lt;img style="margin-left: 15px;" alt="Zoomin" src="https://www.writethedocs.org/_static/img/sponsors/zoomin.png"&gt;
+        &lt;/a&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;&lt;p&gt;&lt;em&gt;Interested in sponsoring the newsletter? Take a look at our&lt;/em&gt; &lt;a class="reference external" href="https://www.writethedocs.org/sponsorship/newsletter/"&gt;sponsorship prospectus&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="events-coming-up"&gt;
+&lt;h2&gt;Events coming up&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;09 March, 17:30 MST (Boise, USA) - &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-boise/events/291393490/"&gt;Write the Docs Boise Revival Kickoff&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;14 March, 08:30 EST (New England and Florida, USA) - &lt;a class="reference external" href="https://www.meetup.com/ne-write-the-docs/events/cfpnxsyfcfbsb/"&gt;Focused conversation: Tech writers are user advocates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;15 March, 17:30 AEDT (Melbourne, Australia) &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-australia/events/291898839/"&gt;Creating more accessible content and documents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;24 March, 12:00 MST (Boulder/Denver, USA) - &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-boulder-denver/events/xkrnctyfcfbgc/"&gt;Fourth Friday Write the Docs Co-working Social&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;27 March, 19:00 EST (Pittsburgh, USA) - &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-pittsburgh/events/291842688/"&gt;Did AI write this presentation?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;28 March, 08:30 EST (New England and Florida, USA) - &lt;a class="reference external" href="https://www.meetup.com/ne-write-the-docs/events/cfpnxsyfcdblc/"&gt;Morning Social: Focused conversation for documentarians&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/newsletter/atom.xml">
+    <title type="text">Write the Docs Newsletter &#8211; February 2023</title>
+    <id>https://www.writethedocs.org/blog/newsletter-february-2023/</id>
+    <updated>2023-02-06T00:00:00Z</updated>
+    <published>2023-02-06T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-february-2023/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="write-the-docs-newsletter-february-2023"&gt;
+
+&lt;p&gt;Greetings, documentarians! I hope your 2023 is off to a wonderful start. Mine has been very full so far, and we&amp;#8217;re only a 12th of the way through.&lt;/p&gt;
+&lt;p&gt;It seems to be a time of change for many. The tech industry has been laying people off, which people have been discussing from many angles. And AI has been making the rounds, with some wondering if it will replace human documentarians in the near future. Since our last newsletter, the Slack community has double-digit threads with triple-digit participants. It&amp;#8217;s clearly on many people&amp;#8217;s minds! Some of the thoughts are below, but I&amp;#8217;m sure you all have more to share.&lt;/p&gt;
+&lt;p&gt;For those valuable conversations in Slack, you should know about the an update to the &lt;a class="reference external" href="https://www.writethedocs.org/slack/#guidelines"&gt;guidelines for the Write the Docs Slack&lt;/a&gt;. They should help clarify how to keep our Slack community thriving and on-topic. If you find it all overwhelming, you might find useful a description of &lt;a class="reference external" href="https://flicstar.com/wtd-slack"&gt;how to get the most out of the Slack community&lt;/a&gt; from Felicity Brand (@flicstar).&lt;/p&gt;
+&lt;p&gt;In other news, if you&amp;#8217;re reading this today, you still have a few hours left to get in your proposals for &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/cfp/"&gt;talks for the Portland conference this year&lt;/a&gt;. If you&amp;#8217;re reading this later, you still have time to get your tickets to the in-person conference.&lt;/p&gt;
+&lt;p&gt;Thank you for all of your inspiring conversations in Slack. And don&amp;#8217;t forget to use the &lt;cite&gt;:suggest-for-newsletter:&lt;/cite&gt; reactji for your next one!&lt;/p&gt;
+&lt;div class="section" id="will-ai-take-over-documentation"&gt;
+&lt;h2&gt;Will AI take over documentation?&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://openai.com/blog/chatgpt/"&gt;ChatGPT&lt;/a&gt; is a new conversational AI tool that has been making waves in the tech community for its impressively human responses and wide-ranging capabilities. There&amp;#8217;s been a lot of discussion &amp;#8211; and concern &amp;#8211; in the Write the Docs Slack recently about what ChatGPT means for documentarians. Are our jobs about to disappear?&lt;/p&gt;
+&lt;p&gt;In several conversations over the last month, the community was pretty unanimous: we don&amp;#8217;t believe ChatGPT can do the full job of a technical writer, as it has too many flaws. Top of the list is simply being wrong: ChatGPT will merrily make things up, &lt;a class="reference external" href="https://www.reddit.com/r/ChatGPT/comments/zd7l8t/nice/"&gt;making statements that are not supported even by its own data&lt;/a&gt;. Also, it only has access to certain source material &amp;#8211; for example, it can&amp;#8217;t tell you what&amp;#8217;s in your upcoming software release. One community member said ChatGPT had invented command-line flags for their product that don&amp;#8217;t exist. It&amp;#8217;s also not able to interview SMEs or figure out from a long technical explanation which parts are actually relevant for an end user.&lt;/p&gt;
+&lt;p&gt;That said, people saw plenty of potential in AI. There is work that is boring and repetitive, which we&amp;#8217;d all appreciate being automated away. ChatGPT is good at creating many suggestions really quickly if you give it the information you have to work with. Some suggestions may be bad or wrong, but some could be a decent first draft. ChatGPT could also potentially help with editing &amp;#8211; suggesting ways to make sentences shorter or more grammatical.&lt;/p&gt;
+&lt;p&gt;It&amp;#8217;s a tool, not a replacement. Like the &lt;a class="reference external" href="https://www.nasa.gov/feature/jpl/when-computers-were-human"&gt;&amp;#8216;computers&amp;#8217; at NASA early on&lt;/a&gt; &amp;#8211; once machines got more capable, humans stopped doing repetitive tasks, went up a level of abstraction, and became computer programmers. So it&amp;#8217;s something we&amp;#8217;ll have to try out and figure out how useful it can be for us.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="inclusiveness-in-diagrams"&gt;
+&lt;h2&gt;Inclusiveness in diagrams&lt;/h2&gt;
+&lt;p&gt;Inclusivity in diagrams and visual aids is an important topic and growing increasingly so. Specifically, as documentarians being inclusive is necessary to make collaboration more welcoming. For example, what&amp;#8217;s the most inclusive option to pick if documentation calls for emojis? Is it yellow because that&amp;#8217;s a &amp;#8220;neutral&amp;#8221; option? And what about genders? These decisions helps ensure people are represented properly.&lt;/p&gt;
+&lt;p&gt;Of course, there are alternatives to using those easily recognizable emojis to represent people. For instance, you could use ones that appear to be more &amp;#8220;blobby and amorphous.&amp;#8221; The downside to using more abstract emojis and characters is that the diagram or visual aid may not be as compelling.&lt;/p&gt;
+&lt;p&gt;If you don&amp;#8217;t use emojis because you dread the workload of updating them, you might not think this applies to you. But there might be instances where you notice emojis or characters in other places around your organization, such as in org charts or team member profiles. Or you might see them in workplace communications or marketing materials. One good piece of advice is to have people create their own emojis or visual representation of themselves.&lt;/p&gt;
+&lt;p&gt;When it comes to inclusive diagrams or any other visual aid, it&amp;#8217;s best to exercise empathy and be respectful of others&amp;#8217; views and opinions. If something seems unclear with respect to inclusion, consult HR or talk with your company&amp;#8217;s diversity, equity, and inclusion (DEI) team if possible.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="when-less-is-not-more"&gt;
+&lt;h2&gt;When less is NOT more&lt;/h2&gt;
+&lt;p&gt;Apologies to Mies Van Der Rohe who said, &amp;#8220;Less is more.&amp;#8221;&lt;/p&gt;
+&lt;p&gt;The &lt;a class="reference external" href="https://writethedocs.slack.com/archives/C5G1SBQHL"&gt;#managing-writers channel&lt;/a&gt; had a recent discussion on layoffs. Managers are concerned when asked to downsize their documentation teams &amp;#8212; especially when expected to maintain the same workload with fewer people. This is also a concern when people leave by choice and the manager has to justify hiring replacements. Having a smaller documentation team is particularly challenging when development teams have the same level of work on new products or features.&lt;/p&gt;
+&lt;p&gt;One suggested solution at some companies was to have the development team work on documentation. This solution was met with some skepticism. Another suggestion was to document how the reduction (for example, 20%) would affect the team&amp;#8217;s productivity. This elicited a discussion about a documentation team&amp;#8217;s responsibilities, which may include:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Writing new content for new features.&lt;/li&gt;
+&lt;li&gt;Reviewing existing content and updating as needed.&lt;/li&gt;
+&lt;li&gt;Resolving support requests by adjusting the documentation.&lt;/li&gt;
+&lt;li&gt;Getting (and responding to) feedback from users about existing content.&lt;/li&gt;
+&lt;li&gt;Adding multimedia to (or refreshing the UI for) existing documentation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;After determining a complete set of tasks, what can the team realistically do with fewer documentarians? One suggestion was to specify subsets of tasks that could be covered with differently sized teams.&lt;/p&gt;
+&lt;p&gt;Some managers start by evaluating their current workload (perhaps through a tracking system like Jira). Often this involves ranking existing tasks and indicating that fewer team members means lower-level ones get dropped. You can adjust assignments to make sure certain high-priority tasks got covered at least partially. Some questioned the amount of time it takes to set up effective tracking metrics, but those that do this tracking felt that it was worth the time and trouble.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="optimal-number-of-reviewers"&gt;
+&lt;h2&gt;Optimal number of reviewers&lt;/h2&gt;
+&lt;p&gt;This month&amp;#8217;s discussion brought a new twist on the challenges associated with docs reviews: How many reviewers is just right for adequately reviewing a draft without risking diminishing returns? The more reviewers you have, the more things seem to slide toward opinions and preferences instead of constructive feedback. Plus, more reviewers makes for a longer review process.&lt;/p&gt;
+&lt;p&gt;The sweet spot for docs seems to be three reviewers, each with a different focus: one for technical accuracy, one for a customer-centric perspective, and one for clarity and consistency. In terms of roles, that may mean a developer/engineer, a product owner, and another documentarian. For details about the optimal number of reviewers, folks suggested two classic articles by Jakob Nielsen: &lt;a class="reference external" href="https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/"&gt;Why You Only Need to Test with 5 Users&lt;/a&gt; and &lt;a class="reference external" href="https://www.nngroup.com/articles/discount-usability-20-years/"&gt;Discount Usability: 20 Years&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Reviews are most productive when all reviewers understand their focus area as well as the documentarian&amp;#8217;s responsibility for questions of style, tone, and content placement. For more thoughts on the importance of focus among docs reviewers, check out &lt;a class="reference external" href="https://www.linkedin.com/pulse/tech-doc-unbearable-lightness-peer-reviewing-kristian-klima/"&gt;Tech Doc: Unbearable lightness of peer-reviewing&lt;/a&gt; by Kristian Klima.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="from-our-sponsor"&gt;
+&lt;h2&gt;From our sponsor&lt;/h2&gt;
+&lt;p&gt;This month&amp;#8217;s newsletter is sponsored by Zoomin:&lt;/p&gt;
+&lt;hr&gt;
+&lt;table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;"&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td width="75%"&gt;
+          &lt;p&gt;
+          All your technical content, right within your Salesforce support portal. &lt;a href="https://www.zoominsoftware.com/use-case-sfdc/zoomin-for-salesforce-support-portal-new"&gt;Make sure&lt;/a&gt; your customers never have to leave Salesforce to get the answers they need to effectively self-serve.
+          &lt;/p&gt;
+
+          &lt;p&gt;
+          Our docs portal is now publicly available and open for all! &lt;a href="https://docs.zoominsoftware.io/"&gt;See&lt;/a&gt; what a SINGLE SOURCE OF TRUTH looks like.
+          &lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td width="25%"&gt;
+        &lt;a href="https://www.zoominsoftware.com/?vert=Write_The_Docs_Newsletter&amp;amp;utm_medium=referral&amp;amp;utm_source=WriteTheDocs&amp;amp;utm_campaign=February_Newsletter"&gt;
+          &lt;img style="margin-left: 15px;" alt="Zoomin" src="https://www.writethedocs.org/_static/img/sponsors/zoomin.png"&gt;
+        &lt;/a&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;&lt;p&gt;&lt;em&gt;Interested in sponsoring the newsletter? Take a look at our&lt;/em&gt; &lt;a class="reference external" href="https://www.writethedocs.org/sponsorship/newsletter/"&gt;sponsorship prospectus&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="virtual-events-coming-up"&gt;
+&lt;h2&gt;Virtual events coming up&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;14 February, 08:30 EST (New England and Florida, USA) - &lt;a class="reference external" href="https://www.meetup.com/ne-write-the-docs/events/cfpnxsyfcdbsb/"&gt;Morning Social: Focused conversation for documentarians&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;24 February, 12:00 MST (Boulder/Denver, USA) - &lt;a class="reference external" href="https://www.meetup.com/write-the-docs-boulder-denver/events/290851647/"&gt;Informal Tech Writer Socializing and Co-Working&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;28 February, 08:30 EST (New England and Florida, USA) - &lt;a class="reference external" href="https://www.meetup.com/ne-write-the-docs/events/cfpnxsyfcdblc/"&gt;Morning Social: Focused conversation for documentarians&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2 March, 18:30 EST (NYC, USA) - &lt;a class="reference external" href="https://www.meetup.com/writethedocsnyc/events/290318260/"&gt;March Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posted in 2018</title>
+  <id>https://www.writethedocs.org/blog/archive/2018/atom.xml</id>
+  <updated>2018-12-20T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/2018/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2018/atom.xml">
+    <title type="text">Announcing Prague 2019 Conference Dates</title>
+    <id>https://www.writethedocs.org/conf/prague/2019/news/prague-19-dates/</id>
+    <updated>2018-12-20T00:00:00Z</updated>
+    <published>2018-12-20T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2019/news/prague-19-dates/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-prague-2019-conference-dates&quot;&gt;
+
+&lt;p&gt;Happy holidays, documentarians!&lt;/p&gt;
+&lt;p&gt;Today we are announcing the dates for &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2019/&quot;&gt;Write the Docs Prague 2019&lt;/a&gt;.
+This year’s Prague conference will be held &lt;strong&gt;September 15-17, 2019, in Prague, Czech Republic&lt;/strong&gt;.
+We will return to the the Auto Klub, Opletalova 29, Prague 1 right next to the train station in the Prague city center.&lt;/p&gt;
+&lt;p&gt;We expect to open both ticket sales and the Call for Proposals in March 2019.
+In the meantime, mark your calendars and start getting excited!&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2018/atom.xml">
+    <title type="text">Write the Docs Newsletter – December 2018</title>
+    <id>https://www.writethedocs.org/blog/newsletter-december-2018/</id>
+    <updated>2018-12-04T00:00:00Z</updated>
+    <published>2018-12-04T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-december-2018/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-newsletter-december-2018&quot;&gt;
+
+&lt;p&gt;Hi, everyone, and welcome to the last newsletter of the year!&lt;/p&gt;
+&lt;p&gt;What a packed year it’s been - with &lt;em&gt;four&lt;/em&gt; conferences, and more meetups than I’m going to try to count. If you missed our most recent conference, Write the Docs Australia, there are tons of ways to catch up:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Swapnil’s &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2018/news/thanks-recap/&quot;&gt;blog post recap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;A lovely &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/watch?v=N13_FP2NkSk&amp;amp;list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&quot;&gt;playlist of all the videos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The fabulous &lt;a class=&quot;reference external&quot; href=&quot;https://www.flickr.com/photos/writethedocs/albums/72157697741784910&quot;&gt;photo album&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Looking forward to next year: the Call for Proposals for Write the Docs Portland has just gone up! It’s open until &lt;strong&gt;midnight PST, 17 January 2019&lt;/strong&gt;, so get cracking and send us all your brilliant talk ideas. For full details, here’s the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/news/welcome/&quot;&gt;announcement post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The newsletter team is off next month for Christmas (it’s snowing here already and I am &lt;em&gt;super&lt;/em&gt; excited); we’ll be back in your inboxes in February. Happy holidays, everyone!&lt;/p&gt;
+&lt;p&gt;Here’s what we’ve been talking about on Slack this month:&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;discovering-user-needs&quot;&gt;
+&lt;h2&gt;Discovering user needs&lt;/h2&gt;
+&lt;p&gt;Understanding what users need is at the heart of good technical writing. A recent question about how to determine user needs led to tons of ideas about who to ask, how to ask, and what to watch out for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;Ask your colleagues: product managers, support/success teams, developers…&lt;/p&gt;
+&lt;p&gt;Product managers often have wide knowledge about user needs. Support can tell you about big and small customer pain points. Developers - particularly experienced ones - can give you insight into use cases, and the needs their code seeks to address.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;Also try reviewing support tickets, for a detailed view on how users really work with the product.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;Take a look at customer requests, and analyse them carefully. You want to distinguish between what customers ask for, and what they actually need.&lt;/p&gt;
+&lt;p&gt;If you step back, you may realise that behind a specific request, there’s a better solution to their problem – teleporting as opposed to a faster car was one humorous example.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;Dig through StackOverflow for questions tagged with your product (or related keywords).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;Communicate with users to let them know that you’re working on their issues. Even if it’s not strictly speaking a docs issue, your communication skills can help product management and support reassure customers who are waiting for new features.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;technical-writing-career-paths&quot;&gt;
+&lt;h2&gt;Technical writing career paths&lt;/h2&gt;
+&lt;p&gt;There was a big discussion this month about how to define career paths for tech writers. Even the term itself was controversial, spanning two related ideas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;How a company defines levels of a role (also called  a “career ladder”).&lt;/p&gt;
+&lt;p&gt;This could be levels like Associate -&amp;gt; Senior -&amp;gt; Principal/Lead, or Technical Writer Level 1 through 4 (or higher).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;Where you personally go in your career.&lt;/p&gt;
+&lt;p&gt;This isn’t bounded by your organisation’s ladder: your path might involve changing company, or role.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Some participants thought the idea of a career path is tied to leadership: you don’t have a career path if there’s no route to C level. There were two counter-points here: firstly, you can have a path without that as your goal. Secondly, there are many routes to leadership, not necessarily defined by a ladder - for example becoming a product manager, and moving up from there to C suite.&lt;/p&gt;
+&lt;p&gt;Career ladders vary a lot. Bigger companies may have different “tracks”, for those who want to move into management and those who want to stay as individual contributors. In smaller companies, you might struggle to become a tech writer manager if the company doesn’t need a large docs team.&lt;/p&gt;
+&lt;p&gt;It’s important that ladders have well-defined levels. For example, if you move up after a fixed number of years, the change isn’t so meaningful. For better ideas on progression, take a look at &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/newsletter-june-2018/#junior-vs-senior-technical-writers&quot;&gt;junior vs senior technical writers&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ultimately, your career is a combination of the path you want and the ladders available: it’s a collaboration between you and your company.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;grammar-and-style-questions&quot;&gt;
+&lt;h2&gt;Grammar and style questions&lt;/h2&gt;
+&lt;p&gt;This month came with a spate of language usage questions. We love getting these, so go ahead and post them in &lt;em&gt;#general&lt;/em&gt;, but other good places to check came up:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://docs.microsoft.com/en-us/style-guide/welcome/&quot;&gt;Microsoft Writing Style Guide&lt;/a&gt; (the usual suspect)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://www.oed.com/&quot;&gt;Oxford English Dictionary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.merriam-webster.com/&quot;&gt;Merriam-Webster Dictionary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://trends.google.com/trends/?geo=US&quot;&gt;Google Trends&lt;/a&gt; can give you an idea of common usage&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;section&quot; id=&quot;possessives-and-apostrophes&quot;&gt;
+&lt;h3&gt;Possessives and apostrophes&lt;/h3&gt;
+&lt;p&gt;What’s the possessive form of “someone”? It is “someone’s” - the possessive of indefinite pronouns (like &lt;em&gt;someone&lt;/em&gt;, &lt;em&gt;anyone&lt;/em&gt;, &lt;em&gt;everyone&lt;/em&gt;) use an apostrophe. Not to be confused with possessive &lt;em&gt;personal&lt;/em&gt; pronouns (like &lt;em&gt;its&lt;/em&gt;, &lt;em&gt;mine&lt;/em&gt;, &lt;em&gt;yours&lt;/em&gt;) which don’t use apostrophes.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;punctuation-and-quotation-marks&quot;&gt;
+&lt;h3&gt;Punctuation and quotation marks&lt;/h3&gt;
+&lt;p&gt;Most US style guides say that commas and periods always go inside quotation marks. Whereas British style guides say they only go inside if the punctuation is part of the quotation. So it depends on your audience; take a look at &lt;a class=&quot;reference external&quot; href=&quot;https://www.quickanddirtytips.com/education/grammar/how-to-use-quotation-marks&quot;&gt;this post&lt;/a&gt; for a bunch more detail.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;capitalisation&quot;&gt;
+&lt;h3&gt;Capitalisation&lt;/h3&gt;
+&lt;p&gt;Should you capitalise “Boolean”? It came from a proper noun (named for George Boole), which implies it should be capitalised. However, developer audiences are used to seeing “boolean”. Decide which will make sense to your audience, then stick to it!&lt;/p&gt;
+&lt;p&gt;“Internet” versus “internet” also came up - another one that varies between style guides. (However, the correct opinion is “internet” – Ed.)&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;resources-for-learning-tech-writing&quot;&gt;
+&lt;h2&gt;Resources for learning tech writing&lt;/h2&gt;
+&lt;p&gt;Some of our tech writing beginners asked for suggestions of where they can learn more. Our documentarians had these suggestions:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://content-guide.18f.gov/&quot;&gt;18F Content Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.nngroup.com/search/?q=write+for+the+web&quot;&gt;Nielsen Norman Group&lt;/a&gt; articles about writing for the web&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.usability.gov/&quot;&gt;Usability.gov&lt;/a&gt; user experience best practices&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.quickanddirtytips.com/grammar-girl&quot;&gt;Grammar Girl’s&lt;/a&gt; general writing tips&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.udemy.com/courses/search/?src=ukw&amp;amp;q=api+documentation&quot;&gt;Udemy API documentation courses&lt;/a&gt; and &lt;a class=&quot;reference external&quot; href=&quot;https://www.stc.org/education/&quot;&gt;STC webinars and online courses&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There was one book suggestion too: Janet Van Wicklen’s The Tech Writer’s Survival Guide: A Comprehensive Handbook for Aspiring Technical Writers.&lt;/p&gt;
+&lt;p&gt;New tech writers and documentarians can also check out the &lt;em&gt;#learn-tech-writing&lt;/em&gt; channel.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;featured-jobs&quot;&gt;
+&lt;h2&gt;Featured jobs&lt;/h2&gt;
+&lt;dl class=&quot;docutils&quot;&gt;
+&lt;dt&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/87/technical-writer-remote/&quot;&gt;Technical Writer (Remote)&lt;/a&gt;&lt;/dt&gt;&lt;dd&gt;GitLab, full-time&lt;/dd&gt;
+&lt;dt&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/85/technical-writer/&quot;&gt;Technical Writer&lt;/a&gt;&lt;/dt&gt;&lt;dd&gt;WEB Eindhoven, long-term contract&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;&lt;em&gt;To apply for these jobs and more, visit the&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/&quot;&gt;Write the Docs job board&lt;/a&gt; .&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;community-events-coming-up&quot;&gt;
+&lt;h2&gt;Community events coming up&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;4 December - Austin, TX, USA - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/256123170/&quot;&gt;December meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;4 December - Portland, OR, USA - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-The-Docs-PDX/events/256608934/&quot;&gt;Minimum viable documentation for RESTful APIs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;7 December - Moscow, Russia - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-Moscow/events/256266076/&quot;&gt;Positive authoring tools battle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;8 December - Salt Lake City, UT, USA - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-SLC/events/256577622/&quot;&gt;WTD 2019 proposals and networking&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;11 December - Ottawa, Canada - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyxqbpb/&quot;&gt;Shopify meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;12 December - Toronto, Canada - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-Toronto/events/fstxxpyxqbrb/&quot;&gt;Social meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;12 December - Berlin, Germany - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-The-Docs-Berlin/events/256295654/&quot;&gt;A year in review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;13 December - Los Angeles, CA, USA - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-LA/events/256523952/&quot;&gt;Potluck and lightning talks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;19 December - Austin, TX, USA - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/255186933/&quot;&gt;Breakfast meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;8 January - Ottawa, Canada - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyzcblb/&quot;&gt;Shopify meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;17 January - San Francisco, CA, USA - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-SF/events/256309174/&quot;&gt;Usability testing for docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2018/atom.xml">
+    <title type="text">Highlights and thanks from the Australian conference</title>
+    <id>https://www.writethedocs.org/conf/australia/2018/news/thanks-recap/</id>
+    <updated>2018-12-03T00:00:00Z</updated>
+    <published>2018-12-03T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2018/news/thanks-recap/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;highlights-and-thanks-from-the-australian-conference&quot;&gt;
+
+&lt;p&gt;We had our first Write the Docs Australia conference in Melbourne on 15-16 Nov.
+While we had the Write the Docs Day in 2017, this was our first proper conference that went for 2 days and was
+packed with presentations, workshops, lightning talks and unconference sessions. Here’s a quick recap of the 2 days.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-recap&quot;&gt;
+&lt;h2&gt;Conference recap&lt;/h2&gt;
+&lt;p&gt;At over 100  people, our first conference was a great start to what should now become a regular event on the Write the Docs conference calendar. We had a mix of main stage and lightning talks, unconference sessions, workshops and a social event.
+We received a lot of positive feedback on all of these and look forward to carry them to future events. We also had some interesting feedback on some things we might improve for next time.&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;The main stage presentations had a good blend of topics across documentation, user experience, customer support, content strategy, coding and style guides.&lt;/li&gt;
+&lt;li&gt;The unconference sessions and the lightning talks was well received and prompted people to think, collaborate and talk about documentation in a more unstructured way. It also allowed people to discuss topics that were not covered fully or partially throughout the conference.&lt;/li&gt;
+&lt;li&gt;We received a mixed response to the workshops and this can be an area we can look at improving next year.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Overall, we were so excited to see our first conference come together and see our awesome community gather under one roof.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-venue&quot;&gt;
+&lt;h2&gt;Conference venue&lt;/h2&gt;
+&lt;p&gt;What better place to hold a documentation conference than a library! We had 2 rooms overlooking the sensational Port Phillip Bay right at the top floor of a public library. When the audience was not soaking in the documentation goodness, they were more than happy to stretch their legs and have a stroll through the library amidst tons of books.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;food-and-drinks&quot;&gt;
+&lt;h2&gt;Food and Drinks&lt;/h2&gt;
+&lt;p&gt;In the spirit of the community sharing nature of Write the Docs events, we decided to use social enterprises for our catering.
+Our food (check out the photos to see the amazing spread!) was catered for by &lt;a class=&quot;reference external&quot; href=&quot;https://www.streat.com.au/&quot;&gt;Streat&lt;/a&gt;, who are tackling youth homelessness and disadvantage their way.
+When it came to beverages, we were ably supported by &lt;a class=&quot;reference external&quot; href=&quot;https://wheellygoodcoffee.com.au/&quot;&gt;Wheelly Good Coffee&lt;/a&gt;, who have programs to improve the social and economic capabilities of some of Australia’s most high risk young people.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;videos-and-photos&quot;&gt;
+&lt;h2&gt;Videos and photos&lt;/h2&gt;
+&lt;p&gt;Videos of all the talks are now available on our &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/playlist?list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&quot;&gt;Youtube channel&lt;/a&gt;.
+Thanks to &lt;a class=&quot;reference external&quot; href=&quot;https://www.darrenchanphotography.com/&quot;&gt;Darren Chan Photography&lt;/a&gt; (also one of our regular documentarians) for doing such a great job with the videos and photos from the conference.
+You can also subscribe to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/channel/UCPhWNEFb53x6PjnpRIYf1yg?&quot;&gt;YouTube channel&lt;/a&gt; so you don’t miss any future content!&lt;/p&gt;
+&lt;p&gt;We also have photos from the event available on &lt;a class=&quot;reference external&quot; href=&quot;https://www.flickr.com/photos/writethedocs/albums/72157695294209550&quot;&gt;Flickr&lt;/a&gt;
+You are welcome to use them for non-commercial purposes, as per our Creative Commons License.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;audience-feedback&quot;&gt;
+&lt;h2&gt;Audience feedback&lt;/h2&gt;
+&lt;p&gt;We sent out a survey to our attendees and these are some of the initial reactions:&lt;/p&gt;
+&lt;p&gt;80% of attendees found the conference relevant and helpful to their jobs&lt;/p&gt;
+&lt;p&gt;95% of attendees were satisfied with the session content&lt;/p&gt;
+&lt;p&gt;A few comments from the conference:&lt;/p&gt;
+&lt;p&gt;“Being part of the WTD community provides me access to a large, diverse group of very talented people.”&lt;/p&gt;
+&lt;p&gt;“I loved how diverse they all were. They were all great.”&lt;/p&gt;
+&lt;p&gt;“They were all great. A high bar set for next year.”&lt;/p&gt;
+&lt;p&gt;“I enjoyed the unconference sessions a lot as they were a good opportunity to take an active role, rather than a passive role.”&lt;/p&gt;
+&lt;p&gt;“Excellent event, well organised and structured, and highly enjoyable.”&lt;/p&gt;
+&lt;p&gt;“Great fun and social. Glad I attended. You created a safe / community space.”&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;code-of-conduct-transparency-report&quot;&gt;
+&lt;h2&gt;Code of Conduct transparency report&lt;/h2&gt;
+&lt;p&gt;As with any Write the Docs event, this conference was covered by our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct/&quot;&gt;community Code of Conduct&lt;/a&gt;.
+We aim to be as transparent with CoC incidents and enforcement as we can.&lt;/p&gt;
+&lt;p&gt;To ensure that our CoC was visible and accessible, we took a number of specific steps:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Every participant agreed to the Code of Conduct in advance.&lt;/li&gt;
+&lt;li&gt;The CoC, or a summary, was included on the conference website, conference booklet, and in posters around the conference venue.&lt;/li&gt;
+&lt;li&gt;The CoC was repeatedly mentioned in announcements on the stage.&lt;/li&gt;
+&lt;li&gt;We specifically stressed that the CoC applies to all conference spaces including the social event, and therefore attendees should drink responsibly.&lt;/li&gt;
+&lt;li&gt;We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;None of our organizers were approached about any CoC concerns at this event.
+We know that this is, in part, a reflection of the thoughtful and inclusive community that we’re so lucky to have.&lt;/p&gt;
+&lt;p&gt;That being said, we’re also very conscious of the fact that just because nothing was reported doesn’t mean nothing happened. If there was any personal conduct or other aspect of the conference experience that did not meet the expectations of behavior set out in the CoC, please email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:australia&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;australia&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-again&quot;&gt;
+&lt;h2&gt;Thanks again&lt;/h2&gt;
+&lt;p&gt;We’re so grateful to our speakers, sponsors, volunteers, and attendees for making this conference possible.
+We hope to see you back next year&amp;nbsp;– or even sooner at one of our other local events!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2018/atom.xml">
+    <title type="text">Announcing Write the Docs Portland 2019 CFP</title>
+    <id>https://www.writethedocs.org/conf/portland/2019/news/welcome/</id>
+    <updated>2018-11-28T00:00:00Z</updated>
+    <published>2018-11-28T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2019/news/welcome/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-write-the-docs-portland-2019-cfp&quot;&gt;
+
+&lt;p&gt;Welcome to the official launch of &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/&quot;&gt;Write the Docs Portland 2019&lt;/a&gt;. We hope you’re getting excited – we certainly are! It’s shaping up to be another wonderful year full of great conversations and interesting talks.&lt;/p&gt;
+&lt;p&gt;Today we are announcing our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/cfp/&quot;&gt;Call for Proposals&lt;/a&gt;
+and &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/&quot;&gt;website&lt;/a&gt;.
+Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians.
+If there is something you’d really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;id1&quot;&gt;
+&lt;h2&gt;Call for Proposals&lt;/h2&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/portland/2019/news/welcome.rst&lt;/tt&gt;, line 17); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “call for proposals”.&lt;/div&gt;
+&lt;p&gt;Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
+We’re looking for ideas and use-cases from all disciplines and roles, so whether you’re a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!&lt;/p&gt;
+&lt;p&gt;You can read our full &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/cfp/&quot;&gt;Call for Proposals&lt;/a&gt; on the website.
+The Call for Proposals will be open until &lt;strong&gt;Midnight PST January 17, 2019&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets&quot;&gt;
+&lt;h2&gt;Tickets&lt;/h2&gt;
+&lt;p&gt;Tickets will officially go on sale in &lt;strong&gt;January 2019&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/portland/2019/news/welcome.rst&lt;/tt&gt;, line 7); &lt;em&gt;&lt;a href=&quot;#id2&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “tickets”.&lt;/div&gt;
+&lt;p&gt;In the meantime, you can see the ticket prices on our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/tickets/&quot;&gt;Tickets&lt;/a&gt; page.
+As with the previous years, we have tiered pricing to make it fair for everyone. Please buy the ticket that best fits your situation.&lt;/p&gt;
+&lt;p&gt;As always, we keep ticket prices low so that it is accessible to the widest range of people possible. However, if you can’t afford these prices and still wish to attend, please email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:portland&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;portland&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;, and we can see how we can help.&lt;/p&gt;
+&lt;p&gt;We will also open a call for volunteers and organizers soon, both of which are great opportunities to get involved with the community and also receive a free ticket.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;stay-updated&quot;&gt;
+&lt;h2&gt;Stay Updated&lt;/h2&gt;
+&lt;p&gt;Want to find out what’s happening with the conference, or enjoy our monthly global community newsletter?
+Sign up to one or more of our &lt;a class=&quot;reference external&quot; href=&quot;http://eepurl.com/cdWqc5&quot;&gt;mailing lists&lt;/a&gt;. Your information will never be shared with any third-parties, and you can unsubscribe at any time.&lt;/p&gt;
+&lt;p&gt;Want to connect with other documentarians in real-time? Join our &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.org/slack/&quot;&gt;Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;conclusion&quot;&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;We hope you will join us in Portland for the seventh annual Write the Docs conference.
+Whether as a speaker or attendee, you can bet it will be another delightful year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2018/atom.xml">
+    <title type="text">Write the Docs Newsletter – November 2018</title>
+    <id>https://www.writethedocs.org/blog/newsletter-november-2018/</id>
+    <updated>2018-11-05T00:00:00Z</updated>
+    <published>2018-11-05T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-november-2018/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-newsletter-november-2018&quot;&gt;
+
+&lt;p&gt;Hi everyone! It’s Beth Aitman here, in my first issue as your newsletter editor. Hoping to continue Kelly O’Brien’s fine work bringing you news and interesting discussions from across the Write the Docs community.&lt;/p&gt;
+&lt;p&gt;I’m so pleased to be joining the team - I love the idea of this newsletter. It’s sometimes mentioned as a shame in Slack that we only have access to the most recent 10,000 messages (which is because, unfortunately, paid Slack is super expensive). Although some like the impermanence, it’s great to have the newsletter to counter it a little, keeping track of some of the wisdom that gets shared. In case you didn’t know, you can browse through &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/blog/archive/tag/newsletter/&quot;&gt;all the issues of the newsletter&lt;/a&gt; on the Write the Docs website.&lt;/p&gt;
+&lt;p&gt;There’s plenty going on in the community at the moment, including gearing up for our second conference down under! &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2018/&quot;&gt;Write the Docs Australia&lt;/a&gt; starts in Melbourne on 15th November, with a packed two-day &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2018/schedule/&quot;&gt;schedule&lt;/a&gt; of talks, workshops and unconference sessions.&lt;/p&gt;
+&lt;p&gt;Looking further ahead, we have confirmed dates for Write the Docs Portland: 19th-21st May 2019. One to put in the diary!&lt;/p&gt;
+&lt;p&gt;So what have we all been talking about this month?&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;recommended-reads&quot;&gt;
+&lt;h2&gt;Recommended reads&lt;/h2&gt;
+&lt;p&gt;If you’re looking to curl up with a book in the November cold (or, if you’re in the southern hemisphere, the lovely spring weather), the community has a few recommendations:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Technical writing&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;Developing Quality Technical Information (Gretchen Hargis, Michelle Carey, Ann Kilty Hernandez, Polly Hughes, Deidre Longo, Shannon Rouiller, and Elizabeth Wilde)&lt;/li&gt;
+&lt;li&gt;Docs Like Code (Anne Gentle)&lt;/li&gt;
+&lt;li&gt;Every Page is Page One (Mark Baker)&lt;/li&gt;
+&lt;li&gt;Letting Go of the Words (Janice Redish)&lt;/li&gt;
+&lt;li&gt;Modern Technical Writing (Andrew Etter)&lt;/li&gt;
+&lt;li&gt;The Product is Docs (Christopher Gales &amp;amp; the Splunk Documentation Team)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;General interest&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;Diffusion of Innovations (Everett M. Rodgers)&lt;/li&gt;
+&lt;li&gt;How Learning Works (Susan A. Ambrose, Michael W. Bridges, and Michelle DiPietro)&lt;/li&gt;
+&lt;li&gt;Universal Principles of Design, Revised and Updated (William Lidwell, Kritrina Holden, Jill Butler)&lt;/li&gt;
+&lt;li&gt;The Wisdom of Crowds (James Surowiecki)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reference and style&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;Elements of Style (Strunk &amp;amp; White)&lt;/li&gt;
+&lt;li&gt;Microsoft Manual of Style&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;promoting-plain-language&quot;&gt;
+&lt;h2&gt;Promoting plain language&lt;/h2&gt;
+&lt;p&gt;Recently, a new Slack member 🎉 used their first post in #general to ask about everyone’s experiences with encouraging plain language at work.&lt;/p&gt;
+&lt;p&gt;First off, most participants agreed that distributing a style guide isn’t enough, even with support from management. It can help to include justifications for the rules in your style guide - not only can it win colleagues over, it also helps people remember them. One documentarian suggested pairing every style guide rule with a second line explaining the rationale for it.&lt;/p&gt;
+&lt;p&gt;Another idea was to target a few issues at a time. For example, you might start by getting everyone on board with “using” rather than “utilizing”, then move on to eliminating passive voice.&lt;/p&gt;
+&lt;p&gt;If you’re the lone writer, you might have luck with transitioning to plain language without announcing it and addressing concerns as they come up.&lt;/p&gt;
+&lt;p&gt;More ideas for winning colleagues over included:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Developing internal content using plain language to demonstrate its usefulness.&lt;/li&gt;
+&lt;li&gt;Explaining that plain language improves translation accuracy and reduces translation costs, if that’s relevant to your content.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you need help wrangling tech docs into plain language, try looking to your marketing. Marketing materials tend to use less technical language, and they might give you ideas for simpler ways to phrase things in your tech docs.&lt;/p&gt;
+&lt;p&gt;No matter what, adopting and implementing plain language seems to be a work in progress: almost everyone mentioned that they are looking for opportunities to improve.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;how-to-hire-a-documentarian&quot;&gt;
+&lt;h2&gt;How to hire a documentarian&lt;/h2&gt;
+&lt;p&gt;How to hire is a topic of perennial interest. So fortunately, there’s a great new addition to the Write the Docs website: the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/hiring-guide/&quot;&gt;Guide to Hiring and Getting Hired&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It came from the Writing Day at the Prague conference, when a group of documentarians got together to collect the questions that they use in interviews and the questions they like to ask when they’re &lt;em&gt;being&lt;/em&gt; interviewed. All of this knowledge is now written up in the guide, aimed at helping out candidates and hiring managers alike.&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;a class=&quot;reference external&quot; href=&quot;https://github.com/kristyj&quot;&gt;Kristy James&lt;/a&gt; for running the session and putting the guide together, and to everyone who contributed words and ideas!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;getting-feedback-from-users&quot;&gt;
+&lt;h2&gt;Getting feedback from users&lt;/h2&gt;
+&lt;p&gt;This month, there’s been a lot of discussion about gathering feedback from users on your documentation site. Here’s a quick summary of what we learned.&lt;/p&gt;
+&lt;p&gt;For starters, it’s worth remembering that your users’ attention is generally on the product they’re trying to use. They won’t tend to think about your docs as a whole, but rather about the product experience. So be careful asking questions about their experience of the documentation.&lt;/p&gt;
+&lt;p&gt;One option is a rating system on each page (a thumbs up or down, or a “Was this helpful? Yes/No”). These can tell you about trends, but many felt they rarely got actionable feedback from these systems. A thumbs down doesn’t tell you what the problem with the page was, so it’s hard to work out how to fix it. It can help a bit to ask for further information if you get a thumbs down.&lt;/p&gt;
+&lt;p&gt;To go further than that, you can ask more specific and relevant questions to prompt for the information you’re really looking for. Some options suggested were:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;“What were you trying to do? Were you successful?” and if not, “Why not?”&lt;/li&gt;
+&lt;li&gt;“Where did you get stuck?”&lt;/li&gt;
+&lt;li&gt;“What did you want to learn? Did we help?” and if not, “What could be better?”&lt;/li&gt;
+&lt;li&gt;“Did you find what you were looking for? Did you understand it? Did it work?” If no to any, “What were you were trying to do?”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;featured-job-postings&quot;&gt;
+&lt;h2&gt;Featured job postings&lt;/h2&gt;
+&lt;dl class=&quot;docutils&quot;&gt;
+&lt;dt&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/82/technical-writer-automation-robotics/&quot;&gt;Technical Writer, Automation &amp;amp; Robotics&lt;/a&gt;&lt;/dt&gt;&lt;dd&gt;6 River Systems, long-term contract&lt;/dd&gt;
+&lt;dt&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/83/technical-writer/&quot;&gt;Technical Writer&lt;/a&gt;&lt;/dt&gt;&lt;dd&gt;Elastic, full-time&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;&lt;em&gt;To apply for these jobs and more, visit the&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/&quot;&gt;Write the Docs job board&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;upcoming-community-events&quot;&gt;
+&lt;h2&gt;Upcoming community events&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;6 November - Ottawa, Canada - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyxpbrb/&quot;&gt;Tech comm goes back to the future&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;7 November - Boise, ID, USA - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-Boise/events/255571539/&quot;&gt;Accessibility stories&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;7 November - Brisbane, Australia - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-Australia/events/255983009/&quot;&gt;Share your writing hints and tips&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;13 November - Boulder, CO, USA - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/255978323/&quot;&gt;GitHub 101&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;14 November - San Diego, CA, USA - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/STC-San-Diego/events/255805506/&quot;&gt;Tech comm pub social&lt;/a&gt; (joint with STC)&lt;/li&gt;
+&lt;li&gt;15 November - Melbourne, Australia - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2018/&quot;&gt;Write the Docs Australia conference!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;15 November - Los Angeles, CA, USA - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-LA/events/255347446/&quot;&gt;Writing for engineers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;23 November - Bangalore, India - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-India/events/fwmjbqyxpbdb/&quot;&gt;Accessible content&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;28 November - Austin, TX, USA - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/255187026/&quot;&gt;Breakfast meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;28 November - Manchester, UK - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-North/events/255416890/&quot;&gt;Documentation in agile workshop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;11 December - Ottawa, Canada - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyxqbpb/&quot;&gt;Monthly meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2018/atom.xml">
+    <title type="text">Write the Docs Newsletter – October 2018</title>
+    <id>https://www.writethedocs.org/blog/newsletter-october-2018/</id>
+    <updated>2018-10-08T00:00:00Z</updated>
+    <published>2018-10-08T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-october-2018/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-newsletter-october-2018&quot;&gt;
+
+&lt;p&gt;Hi folks!&lt;/p&gt;
+&lt;p&gt;Kelly O. here, wishing you a happy October! I hope the change of season, whether it’s fall or spring, is starting out well for everybody! Although nearly a month has passed, the good vibes from the Prague conference are still lingering (at least for me!). We were really proud and excited to see such a crowd turn out for our fifth European conference. As usual, we had an awesome batch of speakers, a bustling writing day, a vibrant unconf track, and just generally a great few days of getting to interact with the community in real life. If you missed out on the conference, you can catch up on the talk videos &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/playlist?list=PLZAeFn6dfHplRZcYDQjST22bAVeeWML4d&quot;&gt;on our YouTube channel&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Also, while every single one of our lightning talks this year was stellar (they’re included in the playlist above), I would be remiss if I didn’t call out what was one of the best moments of any Write the Docs conference I’ve been to. On Tuesday afternoon, a particularly intrepid group of attendees got up on stage and delivered a lightning talk in the form of a documentation-themed, a capella cover of Michael Jackson’s ‘Man in the Mirror’. I cried from laughing (and also, if I’m honest, from community feels). &lt;a class=&quot;reference external&quot; href=&quot;https://youtu.be/3U48bgbccj0&quot;&gt;Don’t miss it.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you’re dying to get in on a Write the Docs conference before the end of the year, you have one more chance! Our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2018/&quot;&gt;Australian conference&lt;/a&gt; is coming up November 15-16 in Melbourne, and we would love to have you join us! Check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2018/&quot;&gt;conference website&lt;/a&gt; to peruse the great line up of speakers and to buy your ticket!&lt;/p&gt;
+&lt;p&gt;Before we jump into stories, I just wanted to say – as this my last issue – thank you all so much for letting me take up space in your inboxes over the last couple of years! It’s been a real pleasure. We have an excellent editor lined up to take the reins, but I’ll let her introduce herself next issue. Rest assured, you’re in great hands. ;)&lt;/p&gt;
+&lt;p&gt;Now, let’s see what folks have been talking about this month!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;to-prompt-or-not-to-prompt-that-is-the-question&quot;&gt;
+&lt;h2&gt;To prompt, or not to prompt, that is the question&lt;/h2&gt;
+&lt;p&gt;We had a great conversation emerge this month that is at once very narrow in scope – the whole thing revolves around just 1 or 2 characters – and broadly relevant to anyone writing docs that include code samples. The question at its heart: What’s the best way to handle command prompts in code samples?&lt;/p&gt;
+&lt;p&gt;There’s a surprising number of considerations to account for here. First, depending on your reader’s environment, the prompt they’re used to staring at might vary. Second, is it safe to assume that everyone will interpret a &lt;cite&gt;$&lt;/cite&gt; or a &lt;cite&gt;#&lt;/cite&gt; at the beginning of a line as a prompt and not as part of the command? (Probably not, was the feeling.) Third, if you’re including code samples in your docs, you should also be optimizing them for copying and pasting. Including the prompt, while it does provide some context, means your reader has to manually remove it if they’re copying and pasting into the command line.&lt;/p&gt;
+&lt;p&gt;The general consensus was to strike a balance by including the prompt character in the code samples, but preventing it from being copied and pasted with a little bit of CSS wizardry. You can see examples of how this looks in &lt;a class=&quot;reference external&quot; href=&quot;https://stripe.com/docs/building-extensions#use-api&quot;&gt;Stripe’s documentation&lt;/a&gt;. And &lt;a class=&quot;reference external&quot; href=&quot;https://evanhahn.com/how-to-disable-copy-paste-on-your-website/&quot;&gt;this blog post&lt;/a&gt; covers a handful of approaches to making text unselectable.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;If you’re ever struggling with code sample styling in your own docs, pop into&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.slack.com/messages/documenting-apis&quot;&gt;#documenting-apis&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;resources-for-planning-out-your-information-architecture&quot;&gt;
+&lt;h2&gt;Resources for planning out your information architecture&lt;/h2&gt;
+&lt;p&gt;Often, when tackling a new docs project, one of the biggest challenges can be figuring out how to approach your information architecture. This month, a user came to the WTD hivemind for help with this very problem. Many of the good documentarians of Slack jumped in to share an excellent array of IA and user testing resources:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.optimalworkshop.com&quot;&gt;Optimal Workshop&lt;/a&gt;: suite of user research tools and services to help improve UX (folks specifically recommended their OptimalSort card sorting tool)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/&quot;&gt;Complete Beginner’s Guide to Information Architecture&lt;/a&gt;: UX Booth article&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.nngroup.com/search/?q=information+architecture&amp;amp;searchSubmit=Search&quot;&gt;Nielsen Norman IA archive&lt;/a&gt;: collection of articles from a UX research firm&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://abbytheia.com/makesense/&quot;&gt;How to Make Sense of Any Mess&lt;/a&gt;: book + website by Abby Covert, which includes a fun and thorough seven-step IA process&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.iainstitute.org/what-is-ia&quot;&gt;The Information Architecture Institute&lt;/a&gt;: brief overview with suggested books on IA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;If you can’t get enough IA, check out the&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.slack.com/messages/infoarchitecture/&quot;&gt;#infoarchitecture&lt;/a&gt; &lt;em&gt;channel on Slack.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;task-management-tools-for-docs-teams&quot;&gt;
+&lt;h2&gt;Task management tools for docs teams&lt;/h2&gt;
+&lt;p&gt;While we often discuss the tools we use to create our documentation, we also, from time to time, compare our other tool sets. This month, there was a hearty discussion on to topic of task management tools. In the age of “&lt;a class=&quot;reference external&quot; href=&quot;https://www.docslikecode.com/&quot;&gt;Docs Like Code&lt;/a&gt;,” many documentarians have also begun to adopt doing “Tasks Like Code”. In other words, many docs teams use similar task management tools as developers, such as Jira or GitHub issues. This approach comes with its own benefits and challenges.&lt;/p&gt;
+&lt;p&gt;Benefits:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Easier alignment with development &amp;amp; QA teams&lt;/li&gt;
+&lt;li&gt;Built-in sprint planning tools&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Challenges:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Viewing all documentation-related tasks at once&lt;/li&gt;
+&lt;li&gt;Developer tasks and documentation tasks not being one-to-one&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Of course, there are those of us who use non-developer driven task management tools – either instead of or in addition to those tools – such as Trello, Asana, or Flow.&lt;/p&gt;
+&lt;p&gt;While we may use different tools, what matters in the end is that you utilize a task management tool (or tool set) that works for you!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Have more thoughts about your toolset? Come share them in&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.slack.com/messages/doctools&quot;&gt;#doctools&lt;/a&gt; &lt;em&gt;or one of the many tool-specific channels we have on Slack.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;show-us-your-workflows&quot;&gt;
+&lt;h2&gt;Show us your workflows!&lt;/h2&gt;
+&lt;p&gt;Speaking of docs-as-code, and task management for that matter, there was another great discussion this month about how to map docs-as-code to software development workflows, with special reference to agile.&lt;/p&gt;
+&lt;p&gt;Most of the conversation revolved around how to map pull requests in Github to issue tracking in tools such as Jira. Several folks who track issues with Jira start with basic issue scoring based on estimated effort (or t-shirt sizing as some people call it), and then assign tickets on a per-sprint cycle. A couple of teams mentioned using a Fibonacci sequence to determine story points for relative effort (for more information, see &lt;a class=&quot;reference external&quot; href=&quot;https://www.atlassian.com/agile/project-management/estimation/&quot;&gt;Atlassian’s article on story points and agile estimation&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;When a PR is started, Jira tickets then move through specified phases (in one case, “In Progress”, “Tech Review”, “Editorial Review”, “Revision”, “Ready to Release”, “Published”) that map to the phases of PR review.&lt;/p&gt;
+&lt;p&gt;Some teams work on the same schedule as dev and test – that is, docs are completed during the same sprint. Other teams work on their own sprint schedules, add a week or two, or add an entire sprint cycle, to accommodate documentation lag. Sprint duration seems to range from 1-3 weeks.&lt;/p&gt;
+&lt;p&gt;Another common practice is for writers to be included in sprint planning meetings, so that the documentation and development of features are agreed on up front.&lt;/p&gt;
+&lt;p&gt;TL;DR: The closer the docs team gets to dev/code, the easier it seems to be to get a docs-as-code workflow to fall into place.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Looking for more perspectives on how best to manage docs-as-code? We’ve got just the channel for you:&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.slack.com/messages/docs-as-code&quot;&gt;#docs-as-code&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;featured-job-postings&quot;&gt;
+&lt;h2&gt;Featured job postings&lt;/h2&gt;
+&lt;dl class=&quot;docutils&quot;&gt;
+&lt;dt&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/79/technical-writer/&quot;&gt;Technical Writer&lt;/a&gt;&lt;/dt&gt;&lt;dd&gt;Circonus, Inc., Full-time, remote&lt;/dd&gt;
+&lt;dt&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/76/technical-writer-robotics-fulfillment-automation/&quot;&gt;Technical Writer – Robotics &amp;amp; Fulfillment Automation&lt;/a&gt;&lt;/dt&gt;&lt;dd&gt;6 River Systems, Short-term contract&lt;/dd&gt;
+&lt;dt&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/73/director-of-documentation/&quot;&gt;Director of Documentation&lt;/a&gt;&lt;/dt&gt;&lt;dd&gt;MongoDB, Full-time&lt;/dd&gt;
+&lt;dt&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/75/technical-writer/&quot;&gt;Technical Writer&lt;/a&gt;&lt;/dt&gt;&lt;dd&gt;Adyen, Full-time&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;&lt;em&gt;To apply for these jobs and more, visit the&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/&quot;&gt;Write the Docs job board&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;upcoming-community-events&quot;&gt;
+&lt;h2&gt;Upcoming community events&lt;/h2&gt;
+&lt;p&gt;October 09 – Ottawa, Alberta, Canada –&amp;nbsp;&lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyxnbmb/&quot;&gt;Structured Writing with Mark Baker&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;October 14 – Moscow, Russia – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-Moscow/events/255163318/&quot;&gt;Second Meetup&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;October 15 – Amsterdam, Netherlands – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-The-Docs-Amsterdam/events/255018670/&quot;&gt;To CMS or Not To CMS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;October 15 – Salt Lake City, Utah, USA – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-SLC/events/255125405/&quot;&gt;Accessibility Best Practices&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;October 16 – Denver, Colorado, USA – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/254987098/&quot;&gt;Hacktoberfest! Contribute to open source docs with pizza, beer, and prizes.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;October 16 – Portland, Oregon, USA – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/PDX-Support-Driven-Meetup/events/254842347/&quot;&gt;Joint Meetup with PSU &amp;amp; Support Driven: A Day in the Life&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;October 17 – Bradford, West Yorkshire, UK – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-North/events/254988997/&quot;&gt;Hacktoberfest! Join us in a basement in Bradford!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;October 24 – Austin, Texas, USA –&amp;nbsp;&lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/255188139/&quot;&gt;Engineering/Developer-focused Content: Stories and Tools for Practitioners&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;October 25 – Remote (Australia time) – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-Australia/events/253769102/&quot;&gt;Remote: Teaching engineers about content strategy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;November 6 – Ottawa, Alberta, Canada – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/254735859/&quot;&gt;Monthly Ottawa Shopify Meetup&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;November 15 – Melbourne, Australia –&lt;/strong&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2018/&quot;&gt;Write the Docs Australia&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2018/atom.xml">
+    <title type="text">Welcome to Portland 2019</title>
+    <id>https://www.writethedocs.org/conf/portland/2019/news/init/</id>
+    <updated>2018-09-18T00:00:00Z</updated>
+    <published>2018-09-18T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2019/news/init/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;welcome-to-portland-2019&quot;&gt;
+
+&lt;p&gt;This is a landing page website for our 2019 conference.&lt;/p&gt;
+&lt;p&gt;More information coming soon!&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2018/atom.xml">
+    <title type="text">Highlights and thanks from the Prague conference</title>
+    <id>https://www.writethedocs.org/conf/prague/2018/news/thanks-recap/</id>
+    <updated>2018-09-18T00:00:00Z</updated>
+    <published>2018-09-18T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2018/news/thanks-recap/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;highlights-and-thanks-from-the-prague-conference&quot;&gt;
+
+&lt;p&gt;Hello everyone,&lt;/p&gt;
+&lt;p&gt;As we are wrapping up the Prague conference, we wanted to send out a quick email to thank everyone for helping to make our fifth European conference such a success.
+Whether you joined us in person or watched from afar, we thought you might like to get some of the highlights!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-recap&quot;&gt;
+&lt;h2&gt;Conference recap&lt;/h2&gt;
+&lt;p&gt;At over 250 people, this year’s conference was our biggest European event to date!
+We had the usual mix of main stage and lightning talks, unconference sessions, writing sprints, and social events.
+We were also pleased with the success of some new experiments, including livestreaming the talks, running real-time captioning for the main stage, and hosting an in-person job fair.
+We received a lot of positive feedback on all of these and are excited to carry them forward to future events.&lt;/p&gt;
+&lt;p&gt;We also had some interesting feedback on some things we might improve for next time.
+The writing day, for example, picked up a lot of interest this year, and we’re now looking at providing more in-depth guidance on how to get the most out of the sessions.&lt;/p&gt;
+&lt;p&gt;Overall, we were so excited to see another conference come together and see our awesome community gather under one roof.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;videos-and-photos&quot;&gt;
+&lt;h2&gt;Videos and photos&lt;/h2&gt;
+&lt;p&gt;Videos of all the talks are now available &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/videos/prague/2018/&quot;&gt;in our video archive&lt;/a&gt;.
+Thanks to &lt;a class=&quot;reference external&quot; href=&quot;https://heretorecord.com/&quot;&gt;Here to Record&lt;/a&gt; for doing such a great job with these.
+If you gave a lightning talk, we’re working to get them on our site, but in the meantime you can see them on &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/watch?v=oXmrFoEEf3A&amp;amp;list=PLZAeFn6dfHplRZcYDQjST22bAVeeWML4d&quot;&gt;YouTube&lt;/a&gt; for now.
+(You can also subscribe to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/channel/UCr019846MitZUEhc6apDdcQ&quot;&gt;YouTube channel&lt;/a&gt;
+so you don’t miss any future content!)&lt;/p&gt;
+&lt;p&gt;We also have photos from the event available on &lt;a class=&quot;reference external&quot; href=&quot;https://www.flickr.com/photos/writethedocs/albums/72157695294209550&quot;&gt;Flickr&lt;/a&gt;, thanks to our wonderful photographer &lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/goatlady&quot;&gt;Kay Smoljak&lt;/a&gt;!
+We really love the photos each year, and you’re welcome to use them for non-commercial purposes, as per our &lt;a class=&quot;reference external&quot; href=&quot;https://creativecommons.org/licenses/by-nc-sa/2.0/&quot;&gt;Creative Commons License&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;code-of-conduct-transparency-report&quot;&gt;
+&lt;h2&gt;Code of Conduct transparency report&lt;/h2&gt;
+&lt;p&gt;As with any Write the Docs event, this conference was covered by our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct/&quot;&gt;community Code of Conduct&lt;/a&gt;.
+We aim to be as transparent with CoC incidents and enforcement as we can.&lt;/p&gt;
+&lt;p&gt;To ensure that our CoC was visible and accessible, we took a number of specific steps:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Every participant agreed to the Code of Conduct in advance.&lt;/li&gt;
+&lt;li&gt;The CoC, or a summary, was included on the conference website, conference booklet, and in posters around the conference venue.&lt;/li&gt;
+&lt;li&gt;The CoC was repeatedly mentioned in announcements on the stage.&lt;/li&gt;
+&lt;li&gt;We specifically stressed that the CoC applies to all conference spaces including the social event, and therefore attendees should drink responsibly.&lt;/li&gt;
+&lt;li&gt;We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;None of our organizers were approached about any CoC concerns at this event.
+We know that this is, in part, a reflection of the thoughtful and inclusive community that we’re so lucky to have.&lt;/p&gt;
+&lt;p&gt;That being said, we’re also very conscious of the fact that just because nothing was reported doesn’t mean nothing happened. If there was any personal conduct or other aspect of the conference experience that did not meet the expectations of behavior set out in the CoC, please email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:conduct&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;conduct&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;ready-for-more&quot;&gt;
+&lt;h2&gt;Ready for more?&lt;/h2&gt;
+&lt;p&gt;We still have our second &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2018/&quot;&gt;Australia conference&lt;/a&gt; in November.
+Tickets are still available and the list of talks is now published on the website.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-again&quot;&gt;
+&lt;h2&gt;Thanks again&lt;/h2&gt;
+&lt;p&gt;We’re so grateful to our speakers, sponsors, volunteers, and attendees for making this conference possible.
+Whether you were able to join us this time or not, we hope to see you back in Prague next year&amp;nbsp;– or even sooner at one of our other events!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2018/atom.xml">
+    <title type="text">Welcome to Write the Docs Prague 2018!</title>
+    <id>https://www.writethedocs.org/conf/prague/2018/news/get-ready/</id>
+    <updated>2018-09-04T00:00:00Z</updated>
+    <published>2018-09-04T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2018/news/get-ready/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;welcome-to-write-the-docs-prague-2018&quot;&gt;
+
+&lt;p&gt;Yet another edition of Write the Docs Prague nearly upon us! We’re excited to see you all in just a few days.&lt;/p&gt;
+&lt;p&gt;Below you’ll find all the practical information you need to plan for and navigate the event and activities.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;be-prepared&quot;&gt;
+&lt;h2&gt;Be Prepared&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Read the Welcome Wagon Guide.&lt;/strong&gt; Our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/welcome-wagon/&quot;&gt;Welcome Wagon Guide&lt;/a&gt; is packed full of information on how to get the most out of the conference. There will also be a few Welcome Wagon events that will help you learn more about the conference.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Review the schedule.&lt;/strong&gt; The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/schedule/&quot;&gt;Schedule Page&lt;/a&gt; has the latest and most complete information about the presentations and activities. This is where we will also update any changes or cancellations if they occur.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Review the Code of Conduct.&lt;/strong&gt; We have a wonderful community full of diverse and amazing people. We expect everyone to behave in a respectful manner at all conference events and online channels. Our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct/&quot;&gt;Code of Conduct&lt;/a&gt; boils down to “Be excellent to each other”, but the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct&quot;&gt;full text&lt;/a&gt; is also available. Our mobile numbers and email addresses are on that page if you ever need to contact us.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Review the Venue information.&lt;/strong&gt; Our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/venue/&quot;&gt;Venue Page&lt;/a&gt; for information about accessibility and orientation. If you have any specific accessibility questions, please email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:prague&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;prague&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt; and we will be happy to do our best to make the event as accessible as possible. This year we are launching &lt;em&gt;live captioning&lt;/em&gt; for all presentations, and priority accessibility seating will be available near the stage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;get-involved&quot;&gt;
+&lt;h2&gt;Get Involved&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;div class=&quot;first system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/prague/2018/news/get-ready.rst&lt;/tt&gt;, line 7); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Duplicate explicit target name: “writing day”.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Plan a project for Writing Day.&lt;/strong&gt; The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/writing-day/&quot;&gt;Writing Day&lt;/a&gt; will be held on Sunday from &lt;em&gt;9:00-17:00&lt;/em&gt;, and you can drop in at any time during the day. If you have a project you want to propose to others, you can pitch your topic during the welcome announcement that will be held at &lt;em&gt;10:00&lt;/em&gt;. Check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/writing-day/&quot;&gt;Writing Day&lt;/a&gt; page for a few suggested projects.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;strong&gt;Plan a lightning talk.&lt;/strong&gt; We’ll have &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/lightning-talks/&quot;&gt;lightning talks&lt;/a&gt; each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want; this is your chance to share something you are passionate about with the audience. Slides are not required.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;strong&gt;Get ready for the Job Fair&lt;/strong&gt;. New this year, on Tuesday morning we’ll have a &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/job-fair&quot;&gt;job fair&lt;/a&gt; where you can find your next documentarian-friendly job.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;strong&gt;Plan an unconference session.&lt;/strong&gt; We’ll be running the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/unconference/&quot;&gt;Unconference&lt;/a&gt; all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a very specific thing? This is the place. We’ll have a sign-up board so you know what’s happening, and supplies to help you brainstorm.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;strong&gt;Coffee, breakfast, and lunch are provided on all three days!&lt;/strong&gt; Don’t worry about coffee before you come to the conference on Sunday, Monday, or Tuesday. Coffee and breakfast are served at &lt;em&gt;9:00&lt;/em&gt; each day, and the conference programme starts at &lt;em&gt;10:00&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;find-your-way-around&quot;&gt;
+&lt;h2&gt;Find Your Way Around&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Getting around Prague.&lt;/strong&gt; Public transit is generally excellent in Prague, and there are private rides and taxi options too. For more information, see our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/visiting/&quot;&gt;Visiting Prague page&lt;/a&gt;, which has all the details you need to get around.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Where to go? What do do?&lt;/strong&gt; This year we are launching a special volunteer role, &lt;em&gt;Visiting Prague Coordinator&lt;/em&gt;, who will be available on Slack to advise you on the best places to eat, drink, and be merry in town. Feel free to reach out to Jakub Mikuláš (&lt;em&gt;&amp;#64;gak&lt;/em&gt; on Slack) for pro-tips and recommendations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;have-fun&quot;&gt;
+&lt;h2&gt;Have Fun&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Join us for the boat ride.&lt;/strong&gt; If you’re planning to come for the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/outing/&quot;&gt;boat ride&lt;/a&gt; on Saturday at &lt;em&gt;13:45&lt;/em&gt;, make sure you &lt;a class=&quot;reference external&quot; href=&quot;https://ti.to/writethedocs/write-the-docs-prague-2018/&quot;&gt;register in advance&lt;/a&gt; . &lt;strong&gt;We are almost at capacity for the boat&lt;/strong&gt;, so if you’re on the fence, grab your ticket now! Registrations for the boat ride will close on &lt;em&gt;Friday, September 7th&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pre-register at the welcome reception.&lt;/strong&gt; The meet-and-greet event will be held on Sunday from &lt;em&gt;17:00-20:00&lt;/em&gt;. You can pick up your badge and enjoy a drink and a snack on us. This is a great chance to meet your fellow documentarians before the conference starts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Relax at the social event on Monday night.&lt;/strong&gt; This is a private evening event only for conference attendees. Plan to attend so you can get to know folks in the community. We will be at &lt;a class=&quot;reference external&quot; href=&quot;https://goo.gl/maps/b1egvQhoDxt&quot;&gt;Hoffa Bar, Senovážné Náměstí 22, Prague 1&lt;/a&gt; on &lt;em&gt;Monday evening from 20:00&lt;/em&gt;, with free snacks and drinks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Participate in the badge flair contest.&lt;/strong&gt; What started as an unofficial activity is now a conference tradition. The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/badge-flair/&quot;&gt;Badge Flair Contest&lt;/a&gt; is a fun way to make the most out of your badge flair. We look forward to seeing your creative decorations!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;share-the-love&quot;&gt;
+&lt;h2&gt;Share the Love&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Slack with your fellow documentarians.&lt;/strong&gt; Feel free to use our &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.org/slack/&quot;&gt;Slack&lt;/a&gt; to coordinate dinners, ask questions, or share notes with fellow conference attendees. Please use #wtd-conferences or #prague channels for group discussions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Use the Twitter hash tag #writethedocs.&lt;/strong&gt; Twitter is a great way to communicate at events. If you arrive to Prague early and want to find others, use the hash tag &lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/search?q=%23writethedocs&amp;amp;src=tyah&quot;&gt;#writethedocs&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We’re so excited to welcome you all to Prague in just a few days – see you there!&lt;/p&gt;
+&lt;div class=&quot;line-block&quot;&gt;
+&lt;div class=&quot;line&quot;&gt;The Write the Docs team&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2018/atom.xml">
+    <title type="text">Write the Docs Newsletter – August 2018</title>
+    <id>https://www.writethedocs.org/blog/newsletter-august-2018/</id>
+    <updated>2018-08-21T00:00:00Z</updated>
+    <published>2018-08-21T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-august-2018/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-newsletter-august-2018&quot;&gt;
+
+&lt;p&gt;Hi everybody!&lt;/p&gt;
+&lt;p&gt;Kelly O. here with your late summer issue of the Write the Docs newsletter! After a nice leisurely few weeks, mid-summer, we are definitely getting back into the swing of things in here docsland. Team Newsletter’s back on the case. The Prague conference is sold out and will be upon us in less than 3 weeks. And happening as we speak is the first-ever Cincinnati Write the Docs + Open Help event!&lt;/p&gt;
+&lt;p&gt;After nine wonderful talks and a day of animated unconference sessions this weekend, the inaugural event is continuing with three days of documentation sprints. We’re so happy to have the opportunity to partner with Open Help and bring the community together for a slightly different style of event. Attendees have had the chance to learn from each other, contribute to some great open source projects, and, of course, enjoy each other’s company out in the real world.&lt;/p&gt;
+&lt;p&gt;Thanks and congratulations to all the folks who made the Cincinnati event come to life!! It’s so exciting to watch the Write the Docs ecosystem continue to grow and change! Speaking of changes, I have one more bit of business before we get to the stories…&lt;/p&gt;
+&lt;p&gt;Next month’s issue of the newsletter will be my last as editor. Since we started the newsletter just before the 2016 Prague conference, it’s been my privilege to work with our dedicated team of volunteers to put together these digests from the documentation community every month. I’m sharing all of this both to thank you all for reading over these last two years, but also to put out the call for a new editor! It’s a wonderful way to give back to the Write the Docs community and you couldn’t ask for a better group of folks to work alongside.&lt;/p&gt;
+&lt;p&gt;If you’d be interested in learning more, drop me an email at &lt;a class=&quot;reference external&quot; href=&quot;mailto:newsletter&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;newsletter&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt; or ping me on Slack (&amp;#64;kobrien042) and I’ll be happy to chat!&lt;/p&gt;
+&lt;p&gt;In the meantime, let’s tune into some highlights from the hiatus!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;common-misconceptions-about-documentation&quot;&gt;
+&lt;h2&gt;Common misconceptions about documentation&lt;/h2&gt;
+&lt;p&gt;Inspired by &lt;a class=&quot;reference external&quot; href=&quot;http://idratherbewriting.com/2018/07/18/stereotypes-about-tech-writers-in-workplace/&quot;&gt;Emily January Petersen’s guest post&lt;/a&gt; on &lt;a class=&quot;reference external&quot; href=&quot;http://idratherbewriting.com&quot;&gt;I’d Rather Be Writing&lt;/a&gt;, documentarians discussed some common misconceptions about our profession that they’ve personally experienced. As one person pointed out, &lt;strong&gt;we&lt;/strong&gt; know that it takes more than being able to use a word processor or a text editor to be a documentarian…but what about everyone else?&lt;/p&gt;
+&lt;p&gt;Here are some of the unfortunately common misconceptions mentioned on Slack this month:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Anyone can write good docs.&lt;/li&gt;
+&lt;li&gt;No one reads the docs.&lt;/li&gt;
+&lt;li&gt;Documentation is fast and easy to produce.&lt;/li&gt;
+&lt;li&gt;Documentation doesn’t have any discernible business value.&lt;/li&gt;
+&lt;li&gt;Tech writers are just there to make docs pretty.&lt;/li&gt;
+&lt;li&gt;It’s not a role that earns much respect or recognition.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Having this conversation with a bunch of other documentarians meant there was no shortage of support and commiseration to be found. When it comes to showing other people the error of their ways, one practical suggestion was to lean on whatever analytics or reporting you have – and if you don’t have any, start collecting some. Another perhaps less serious suggestion was to just stop writing the docs for a month and see how things go then. ;)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.slack.com/messages/career-advice&quot;&gt;#career-advice&lt;/a&gt; &lt;em&gt;channel is always full of sympathetic ears and practical advice for whatever professional frustrations you may encounter.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;in-the-time-of-web-based-applications-what-is-a-page-and-what-is-a-screen&quot;&gt;
+&lt;h2&gt;In the time of web-based applications, what is a page and what is a screen?&lt;/h2&gt;
+&lt;p&gt;A classic question of word choice arose this month: What’s the difference between a page and a screen - and which term should be used when?&lt;/p&gt;
+&lt;p&gt;Initially, a few documentarians seemed agree that a “page” should refer to a webpage and a “screen” should refer to a software interface. However, with so many of us documenting web-based applications, that distinction quickly loses its clarity. The Microsoft Writing Style Guide was consulted, and the following guidance emerged:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;“Use page or webpage to describe one of a collection of web documents that make up a website. Use page to refer to the page the reader is on or to a specific page, such as the home page or start page.” (&lt;a class=&quot;reference external&quot; href=&quot;https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/p/page&quot;&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;“It’s OK to use screen in instructions to describe what customers see on the screen or how they interact with it.” (&lt;a class=&quot;reference external&quot; href=&quot;https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/screen&quot;&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So…not totally definitive, and certainly still rooted in the time before applications were the web and the web was applications. Other distinctions that were entertained included “pages” for static content and “screens” for interactive interfaces. Or using “pages” for longer-form layouts that scroll, and “screens” for more compact UI patterns. There are other guidelines out there, to be sure, but ultimately, whatever decision you reach on when to use “page” and when to use “screen”, what’s most important is that you are consistent.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The Microsoft Writing Style Guide is available for free online! Check it out&lt;/em&gt; (&lt;a class=&quot;reference external&quot; href=&quot;https://docs.microsoft.com/en-us/style-guide/welcome/&quot;&gt;here&lt;/a&gt;) &lt;em&gt;the next time you have a terminology question… and then ask in&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.slack.com/messages/C6D77HJ4F/&quot;&gt;#general&lt;/a&gt; &lt;em&gt;for a second, third, and fourth opinion.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;static-and-sites-and-generators-oh-my&quot;&gt;
+&lt;h2&gt;Static and sites and generators, oh my!&lt;/h2&gt;
+&lt;p&gt;Many documentarians wrestle with the trials, tribulations, and occasional joys of producing docs with static site generators (SSGs). For anyone new to SSGs, they’re a type of publishing tool that takes documentation source files written using lightweight markup languages and processes them into web-ready HTML. A fairly lengthy conversation produced some excellent points to consider if you are thinking about adopting such a tool – or if you’re already wrestling with one. The contenders this time around were Sphinx, Hugo, and Gatsby. Here’s a summary of the main points:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;For some folks, Sphinx’s dependence on reStructuredText for a full feature suite is a blocker, because developer contributors don’t want to move away from Markdown. Some dev teams, however, are willing to make the move - it depends on your team and on your content management needs.&lt;/li&gt;
+&lt;li&gt;Others prefer Hugo to Sphinx because it seems to be more widely adopted, offers a wider range of themes from which to choose, and is more easily extensible. Extending Sphinx or developing a custom theme for Sphinx deliverables relies on in-house Python knowledge.&lt;/li&gt;
+&lt;li&gt;Gatsby offers broader functionality because it is built on top of React/Node and GraphQL. Unlike other SSGs, including Sphinx, it can build content drawn from multiple sources. Setting up a Gatsby pipeline can require more coding than with other SSGs, but can provide more powerful functionality if that’s what you need.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This month’s conversation was by no means exhaustive or conclusive. There are so many different approaches to building an SSG publishing workflow, and a lot of enthusiasm and knowledge around the pros and cons of each. You can definitely expect to see more where this conversations came from.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Experimenting with different SSGs yourself? Pop over to&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.slack.com/messages/static-site-generator&quot;&gt;#static-site-generator&lt;/a&gt; &lt;em&gt;or see if there’s a dedicated channel for the particular SSG you’ve got your eye on.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;featured-job-postings&quot;&gt;
+&lt;h2&gt;Featured job postings&lt;/h2&gt;
+&lt;dl class=&quot;docutils&quot;&gt;
+&lt;dt&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/73/director-of-documentation/&quot;&gt;Director of Documentation&lt;/a&gt;&lt;/dt&gt;&lt;dd&gt;MongoDB, Full-time&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;&lt;em&gt;To apply for these jobs and more, visit the&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/&quot;&gt;Write the Docs job board&lt;/a&gt; .&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;upcoming-community-events&quot;&gt;
+&lt;h2&gt;Upcoming community events&lt;/h2&gt;
+&lt;p&gt;August 22 – Boise, Idaho, USA –&amp;nbsp;&lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-Boise/events/253170161/&quot;&gt;Lightning Talks from the Confab Conference&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;August 22 – Moscow, Russia – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-Moscow/events/253748999/&quot;&gt;документация и управление знаниями&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;August 23 – San Francisco, California, USA – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-SF/events/253467431/&quot;&gt;Human Learning: How We Learn &amp;amp; Why it Matters&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;August 23 – Los Angeles, California, USA – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-LA/events/253632633/&quot;&gt;Food, drinks, docs!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;August 28 – Brisbane, Australia – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-Australia/events/252616288/&quot;&gt;From Writing to Product and Back Again&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;September 7 – Bangalore, India – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-India/events/253159769/&quot;&gt;First Meetup: Meet &amp;amp; Greet&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;September 11 –&amp;nbsp;Portland, Oregon, USA – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-The-Docs-PDX/events/253790717/&quot;&gt;Joint meetup with the Portland Accessibility and User Experience group&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;September 11 – Ottawa, Ontario, Canada – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/253846497/&quot;&gt;Monthly meetup at Shopify&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;September 13 – Melbourne, Australia – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-Australia/events/252731595/&quot;&gt;Presentation | Show and Tell | Let’s talk about docs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;September 13 – Toronto, Ontario, Canada – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-Toronto/events/252764862/&quot;&gt;Monthly Meetup&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;September 19 – Manchester, UK – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-North/events/253408112/&quot;&gt;National Coding Week: Contribute to open source documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;September 27 – Sydney, Australia – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-Australia/events/252882113/&quot;&gt;The Good, the Bad and the Ugly SMEs&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged DevRel</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/devrel/atom.xml</id>
+  <updated>2017-10-09T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/devrel/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/devrel/atom.xml">
+    <title type="text">Write the Docs Newsletter – October 2017</title>
+    <id>https://www.writethedocs.org/blog/newsletter-october-2017/</id>
+    <updated>2017-10-09T00:00:00Z</updated>
+    <published>2017-10-09T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-october-2017/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-newsletter-october-2017&quot;&gt;
+
+&lt;p&gt;Hello friends and fellow documentarians!&lt;/p&gt;
+&lt;p&gt;Kelly O. here, happy to be arriving in your inbox for another round-up of docs-wisdom gleaned from our community. It’s been a big month since last we spoke. We had our fourth European conference, we’ve surpassed 2500 members in Slack, AND it’s officially been a year since we started this here newsletter experiment. Happy newsletterversary!&lt;/p&gt;
+&lt;p&gt;We’re going into the last few months of this year with our sights set on shoring up some of our community frameworks, as well as developing some new projects (secret! exciting! forthcoming!). We’re so happy to have you all along for the ride!&lt;/p&gt;
+&lt;p&gt;Unsurprisingly, we had a bountiful harvest of interesting and useful conversations to choose from for this issue. We’ve tried to assemble a good mix here for your perusal. Have a great month!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Errata: In assembling the meetup calendar below, I suspect I did something wrong last month, to have come up with so few. If you ran a Write the Docs meetup last month that I didn’t catch in the newsletter, I’m so sorry!&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;putting-our-urls-to-work-for-us-and-our-readers&quot;&gt;
+&lt;h2&gt;Putting our URLs to work – for us and our readers&lt;/h2&gt;
+&lt;p&gt;How do we make our URLs meaningful to our readers? What should we do when content inevitably moves (or is removed)? How can we make sure all of the great content we write remains discoverable?&lt;/p&gt;
+&lt;p&gt;When discussing these questions this month, the community started from a point of agreement: good URL paths should carry meaning. For example, a lot of doc sites have URLs that reflect their content hierarchy, like &lt;code class=&quot;docutils literal notranslate&quot;&gt;&lt;span class=&quot;pre&quot;&gt;site/category/article-title&lt;/span&gt;&lt;/code&gt;. Ideally, in such situations, if a reader truncates the path to &lt;code class=&quot;docutils literal notranslate&quot;&gt;&lt;span class=&quot;pre&quot;&gt;site/category/&lt;/span&gt;&lt;/code&gt; they should find a list of every article in the category. But content restructuring and obsolescence are facts of life for most documentarians. It’s unrealistic to think that &lt;a class=&quot;reference external&quot; href=&quot;https://www.w3.org/Provider/Style/URI&quot;&gt;Cool URIs don’t change&lt;/a&gt;. When the inevitable does happen, it’s important to make it as easy as possible for readers to find new locations. That means redirects!&lt;/p&gt;
+&lt;p&gt;Creating redirects can be difficult to manage when there are lots of external links or when lots of URLs are changing. Sadly, most documentation tools – with the notable exception of MindTouch – don’t offer automated redirects. One suggested approach was to use analytics to prioritize your most critical URLs, setting up manual redirects for those pages first to keep your content discoverable. For long term URL hygiene, folks suggested automated link-checking tools to track down and update broken links and stray pages.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;the-true-meaning-of-api&quot;&gt;
+&lt;h2&gt;The true meaning of “API”&lt;/h2&gt;
+&lt;p&gt;What exactly are we referring to when we say “API”? While the initialism itself stands for Application Programming Interface, it’s a more complicated question than it seems. When it came up this month, it sparked a lively conversation that suggested that API might mean different things to different people in different contexts.&lt;/p&gt;
+&lt;p&gt;Most of the conversation revolved around that idea that when we say “API”, we assume that our reader (or listener) will inherently understand the type of API we’re talking about. But that might not be the case as often as you think. If you work with REST APIs, it’s likely you’ll assume that API has a silent “REST” in front of it. But if you’ve spent your career working with library APIs, that will probably be the meaning you default to.&lt;/p&gt;
+&lt;p&gt;There was some question of whether any of this mattered. Whether it’s a library, REST, SOAP, or other type of API, they’re all still “methods of communication between various software components” (thank you &lt;a class=&quot;reference external&quot; href=&quot;https://en.wikipedia.org/wiki/Application_programming_interface&quot;&gt;wikipedia&lt;/a&gt;). But as evidenced by the length and depth of the conversation, it’s definitely a topic worth clarifying. Handily enough, one of our Prague speakers, Garen Torikian, has a slide on this very topic in his presentation, ” &lt;a class=&quot;reference external&quot; href=&quot;https://youtu.be/aJk99MSVj0Y&quot;&gt;Trustworthy and Sensible API Documentation with GraphQL&lt;/a&gt;.”&lt;/p&gt;
+&lt;p&gt;In the meantime, check out #documenting-apis or #apithedocs for more conversations about APIs!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;proofreading-and-copyediting-your-own-work&quot;&gt;
+&lt;h2&gt;Proofreading and copyediting your own work&lt;/h2&gt;
+&lt;p&gt;If you’re a lone writer, you’ve probably been in the unenviable position of not having an editor around to proofread, copyedit, or otherwise sanity-check your writing. It’s a perennial dilemma, and one that surfaces regularly on Slack. This month produced a particularly good batch of suggestions and resources. To help you clean up your copy when your only editor is you, here’s some tips and tricks from the Write the Docs hivemind:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Put your writing away and review it at least a day later.&lt;/li&gt;
+&lt;li&gt;Print it out on paper and read/edit in the new format.&lt;/li&gt;
+&lt;li&gt;Read each sentence independently. Try reversing the order of sentences, starting with the last one and working your way backward to the first. Or reverse the order of paragraphs.&lt;/li&gt;
+&lt;li&gt;Listen to your writing being read aloud, either by you or by a device. Text-to-Speech tools are widely available.&lt;/li&gt;
+&lt;li&gt;For typos, repeats, and especially homophones, highlight a single line at a time. If it’s hardcopy, use a ruler. This keeps you from reading to the next line and helps you notice the “the the” problems.&lt;/li&gt;
+&lt;li&gt;Make the text much larger, or change the font. Folks recommended these tricks for on-screen or printed page reviews.&lt;/li&gt;
+&lt;li&gt;Last but not least, check out &lt;a class=&quot;reference external&quot; href=&quot;https://writetodone.com/get-your-eagle-eye-on-10-tips-for-proofreading-your-own-work/&quot;&gt;this blog post of 10 tips for proofreading your own work&lt;/a&gt;. The post repeats some of our group’s suggestions, and adds more.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;defining-developer-relations-evangelism-advocacy&quot;&gt;
+&lt;h2&gt;Defining developer relations/evangelism/advocacy&lt;/h2&gt;
+&lt;p&gt;This month, someone asked a question which many of us have wondered about, at one point or another: “What does a developer advocate or evangelist actually do?” (You may have even wondered this _as_ a developer advocate/evangelist…)&lt;/p&gt;
+&lt;p&gt;The ensuing conversation made it clear that whether you call it developer relations (DevRel), developer evangelism, or developer advocacy, it can mean a lot of different things. But some common themes emerged:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Folks in these roles are generally expected to be the “face” of their developer community. Their work involves making their product/language/framework/etc. more visible and more approachable.&lt;/li&gt;
+&lt;li&gt;Often they sit at an overlap point between engineering –&amp;nbsp;since they’re (ideally) experts in the tool they’re representing – and sales, marketing, documentation, etc.&lt;/li&gt;
+&lt;li&gt;The line between “evangelist” and “advocate” gets blurry. Often, though, the evangelist side is about bringing the product out to the community, while the advocate side focuses on bringing the community’s voice back to the product team.&lt;/li&gt;
+&lt;li&gt;Although these roles may have gotten their start in the open source community, they’re becoming increasingly common across the industry.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For further reading on the topic, this Medium post has lots of good thoghts: &lt;a class=&quot;reference external&quot; href=&quot;https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b&quot;&gt;https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;upcoming-community-events&quot;&gt;
+&lt;h2&gt;Upcoming community events&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;WRITE THE DOCS DAY AUSTRALIA COUNTDOWN: Six Weeks Left!&lt;/strong&gt;
+We’re so excited to be coming up on our first official Australian event! If you’re going to be in the Melbourne area in November, come out for a full day of sprints, talks, and community-building! Check it out (and get your ticket!) here: &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/au/2017/&quot;&gt;https://www.writethedocs.org/conf/au/2017/&lt;/a&gt;&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Tomorrow!&lt;/strong&gt; October 10 – Portland, OR, USA – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-The-Docs-PDX/events/242228205/&quot;&gt;Confluence Docs With Node.js, Intro to the PSU Tech Writing Program&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Also Tomorrow!&lt;/strong&gt; October 10 – Seattle, WA, USA – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-The-Docs-Seattle/events/243392623/&quot;&gt;WTD Seattle October Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;October 11 – Brisbane, QLD, Australia – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-Australia/events/243038647/&quot;&gt;Peanuts and Minimalism and Technical Writing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;October 12 – Leeds, UK –&amp;nbsp;&lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-Leeds-Bradford/events/242556120/&quot;&gt;Social: First Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;October 12 – San Francisco, CA, USA – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-SF/events/243528992/&quot;&gt;Lightning Talks!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;October 14 – Fredericton, NB, Canada – Technical Communicator Lunch Social&lt;/li&gt;
+&lt;li&gt;October 17 – London, UK –&amp;nbsp;&lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-The-Docs-London/events/243010658/&quot;&gt;Worked Examples in the Documentation of Complex Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;October 24 – Boston, MA, USA – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-BOS/events/242428486/&quot;&gt;mabl Happy Hour + Lightning Talks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;October 25 – Austin, TX, USA – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/242784674/&quot;&gt;Content strategy for your docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

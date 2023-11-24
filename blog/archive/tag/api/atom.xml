@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged api</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/api/atom.xml</id>
+  <updated>2017-02-09T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/api/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/api/atom.xml">
+    <title type="text">Write the Docs Newsletter - February 2017</title>
+    <id>https://www.writethedocs.org/blog/newsletter-february-2017/</id>
+    <updated>2017-02-09T00:00:00Z</updated>
+    <published>2017-02-09T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-february-2017/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-newsletter-february-2017&quot;&gt;
+
+&lt;div class=&quot;section&quot; id=&quot;welcome-back-are-we-there-yet&quot;&gt;
+&lt;h2&gt;Welcome back / Are we there yet?&lt;/h2&gt;
+&lt;p&gt;Hi everybody! We’re so happy to find ourselves back in your inbox with this, the first newsletter of 2017! Although we all took some kind of break over the holiday season, we did our best to keep an eye on Slack for good newsletter nuggets – and we definitely were not disappointed! Below are some highlights from the last couple of months, and we’ll be getting back into the regular swing of things going forward. :)&lt;/p&gt;
+&lt;p&gt;The other thing that’s looming large in docsland is the North America conference, coming up in just over three months! The details are all starting to fall into place, and now’s a great time &lt;a class=&quot;reference external&quot; href=&quot;https://ti.to/writethedocs/write-the-docs-na-2017/&quot;&gt;to get your tickets&lt;/a&gt; or &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/na/2017/cfp/&quot;&gt;submit a talk&lt;/a&gt;. While you’ve still got some time for ticket-buying (we don’t expect to sell out until mid-March), you definitely don’t want to dawdle on that second one – &lt;strong&gt;deadline for proposals is this Friday at midnight PST&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;So now, without further ado, let’s look in on what the community has been discussing, over the new year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;best-practices-for-changing-your-docs-workflow&quot;&gt;
+&lt;h2&gt;Best practices for changing your docs workflow&lt;/h2&gt;
+&lt;p&gt;A question arose, back in December, that many of us have been faced with (or perhaps daydreamed about) at some point in our careers: If you had the chance to implement a brand new documentation workflow, how would you go about it?&lt;/p&gt;
+&lt;p&gt;It’s often easy to go down the rabbit hole with a question like this, comparing the virtues of specific toolchains and markup languages. But in this case, a lot of the conversation instead revolved around some deeper, more fundamental points. Namely, how to make sure that a) the new system will be an improvement over the old system and b) that you’re making the change for the right reasons.&lt;/p&gt;
+&lt;p&gt;The general consensus was that decisions like these are fraught. It’s easy to fall into the trap of thinking that the workflow that suits you and your needs best is the best workflow for your entire team. Also, be on guard against the thought that once you switch to a new system, everything will be &lt;em&gt;perfect&lt;/em&gt;. (This is especially true for shiny new tools that you’ve just met – the honeymoon period is real.)&lt;/p&gt;
+&lt;p&gt;So what’s the best way to approach a big process change? Per usual, there was lots of excellent advice to be had. First and foremost, make sure you know a) what problems the new system is going to solve and b) what problems it’s going to introduce (remember – no system is perfect). When you know those things, &lt;strong&gt;talk to the people who will be using the new system every day.&lt;/strong&gt; Ask them what they like about their current process. Ask them where they feel pain. Then get them involved in - and ideally, give them ownership over – the transition. Anything you can do to avoid surprises will make for a much more successful roll out, in the long run.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;getting-started-with-api-docs&quot;&gt;
+&lt;h2&gt;Getting started with API Docs&lt;/h2&gt;
+&lt;p&gt;“How do I get started with API documentation?” is a question we’ve overheard on Slack and IRL, on an increasingly regular basis. When it resurfaced a few weeks ago, in our #documenting-apis channel, we thought we’d take the opportunity to pull together a little collection of resources to help folks get started on their API docs journey:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://byrslf.co/writing-great-documentation-44d90367115a&quot;&gt;Writing great documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://idratherbewriting.com/learnapidoc/&quot;&gt;Documenting REST APIs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://bradfults.com/the-best-api-documentation-b9e46400379a&quot;&gt;The Best API Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://www.yourmom.io/2016/05/apis_new_writers/&quot;&gt;So you want to learn about API documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/guide/#api-documentation&quot;&gt;Write the Docs Guide: API Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://zapier.com/engineering/great-documentation-examples/&quot;&gt;8 Great Examples of Developer Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If API docs are already your jam, head over to the API channel –&amp;nbsp;we’d love to hear about your favorite resources!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;pros-and-cons-of-using-tabbed-content-for-multiple-audiences&quot;&gt;
+&lt;h2&gt;Pros and cons of using tabbed content for multiple audiences&lt;/h2&gt;
+&lt;p&gt;Writing for multiple audiences is definitely a common predicament we find ourselves in, and one writer came to the general channel with a question about using navigation tabs (navtabs) to organize their content. It sparked a lively discussion, which we’ve distilled into a quick round-up of the pros and cons of the navtab experience:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pros&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Allows content reuse.&lt;/li&gt;
+&lt;li&gt;Lets users “choose their own adventure” to get content that’s specific to their skill level, role, or need.&lt;/li&gt;
+&lt;li&gt;Helps users find the right information more quickly – for example, platform-, language-, or device-specific information.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Cons&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Users who choose the wrong tab for their needs will see unhelpful or confusing information.&lt;/li&gt;
+&lt;li&gt;Can induce fear of missing out because users are aware that they’re only seeing one information pathway.&lt;/li&gt;
+&lt;li&gt;Defeats browser ‘search on this page’ functions because navtabs “hide” search terms if they appear inside a tabbed section.&lt;/li&gt;
+&lt;li&gt;Prevents users from scanning an entire page of information.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The general consensus was that navtabs might not be a go-to approach, but they may be the right option when other methods of organization aren’t working. Some folks suggested &lt;a class=&quot;reference external&quot; href=&quot;https://stripe.com/docs&quot;&gt;Stripe&lt;/a&gt; and &lt;a class=&quot;reference external&quot; href=&quot;https://docs.djangoproject.com/en/1.10/&quot;&gt;Django&lt;/a&gt; as examples of elegant approaches for multi-audience docs. And this &lt;a class=&quot;reference external&quot; href=&quot;https://www.nngroup.com/articles/tabs-used-right/&quot;&gt;Tabs Used Right&lt;/a&gt; article was put forth as a good resource for more navtab tips.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;running-an-effective-audit-of-your-ui-text&quot;&gt;
+&lt;h2&gt;Running an effective audit of your UI text&lt;/h2&gt;
+&lt;p&gt;A request for guidance in performing a UI audit turned into an illuminating discussion the different ways you can approach the task.&lt;/p&gt;
+&lt;p&gt;Some folks mentioned working in source code – using properties files that gather up UI strings and make it easy to detect obvious infelicities or worse. Everyone agreed, though, that this approach wasn’t sufficient in an ideal world, because you need to consider text in the context of the entire UI. Not just static text but surrounding presentation and workflow are also important considerations in reviewing copy.&lt;/p&gt;
+&lt;p&gt;It was also pointed out that reviewing the UI for copy can raise larger issues of flow, information architecture, and user experience. If a project is large, some folks found that they needed to break down the UI review into stages. One of our resident UI experts suggested not only starting with the main user flows, but also to trigger as many errors or potential problems as possible.&lt;/p&gt;
+&lt;p&gt;Folks generally agreed that if a UI style guide wasn’t already in place, an audit provides a good opportunity to start developing one. Keep it iterative. Don’t reinvent the wheel (rely on existing guides where possible in developing your own, as with any other style guide). And make sure to include specific examples from your own UI!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;exploring-your-technical-writing-career-options&quot;&gt;
+&lt;h2&gt;Exploring your technical writing career options&lt;/h2&gt;
+&lt;p&gt;We’re so lucky to have such rich conversations in our community – and that’s thanks, in large part, to how diverse our professional backgrounds are. One person’s question about how to expand their responsibilities beyond the bounds of a technical writer’s “traditional” job description produced a ton of useful insight.&lt;/p&gt;
+&lt;p&gt;There were a good number of folks who suggested that product management is a career path commonly trodden by technical writers. Others recommended looking at training or community management as roles that with significant overlap. Marketing, developer evangelism, and doc management also came up as possibilities to explore. As far as how to start moving in any of these directions, a strong first step would be to attend or start a meetup (or otherwise get involved in the community) for the type of work you’re interested in.&lt;/p&gt;
+&lt;p&gt;UI and UX also came up as good possibilities if you have a tech writing background – but that making that jump can sometime be particularly difficult to navigate. The general sentiment was that writers, who often serve as a primary advocate for software users, can contribute substantially to UX design and UI development. But some writers expressed their frustration with feeling excluded from the design process. One helpful suggestion for how to bridge that gap more smoothly was to start small, focusing on text-related questions or contributions, and then work gradually to gain trust and a more full-fledged role in the design process.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;looking-ahead-to-write-the-docs-north-america&quot;&gt;
+&lt;h2&gt;Looking ahead to Write the Docs North America&lt;/h2&gt;
+&lt;p&gt;One last reminder that we’re in the home stretch of the call for proposals – if you’ve been thinking about pitching a talk for May’s conference, make sure you get it in before midnight (PST) on Friday. You can read all about what we’re looking for, and submit your proposal, on the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/na/2017/cfp/&quot;&gt;CFP page&lt;/a&gt;. We can’t wait to see what you come up with!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

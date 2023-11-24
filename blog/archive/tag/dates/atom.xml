@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged dates</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/dates/atom.xml</id>
+  <updated>2018-05-10T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/dates/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/dates/atom.xml">
+    <title type="text">A Message about Scheduling and Inclusivity</title>
+    <id>https://www.writethedocs.org/conf/prague/2018/news/scheduling-inclusivity/</id>
+    <updated>2018-05-10T00:00:00Z</updated>
+    <published>2018-05-10T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2018/news/scheduling-inclusivity/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;a-message-about-scheduling-and-inclusivity&quot;&gt;
+
+&lt;p&gt;Dear documentarians,&lt;/p&gt;
+&lt;p&gt;This blog post is a little different from our usual updates, as we wanted to address an issue that came up on several occasions since we announced the dates for this year’s conference.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;the-short-version&quot;&gt;
+&lt;h2&gt;The short version&lt;/h2&gt;
+&lt;p&gt;We are aware that this year’s Write the Docs Prague conference is in conflict with the Jewish New Year holiday.
+This conflict was known at the time of scheduling, but we had to make a very difficult compromise due to a combination of circumstances around these dates, such as school breaks, weather in Prague, global conference workflow, and conflicts with other holidays (details in the long version).&lt;/p&gt;
+&lt;p&gt;Even though we took the time to respond to questions sent to use by email or Slack since the announcement, we should have communicated a public accountability statement about the scheduling process and an explanation of this choice, at the same time that we published the dates.&lt;/p&gt;
+&lt;p&gt;While we cannot guarantee that future conference dates will never have any conflicts, we have taken the community feedback to heart and will continue to our best to make the dates as inclusive as possible, and to communicate clearly and on time in cases where we are unable to avoid scheduling conflicts.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;the-long-version&quot;&gt;
+&lt;h2&gt;The long version&lt;/h2&gt;
+&lt;p&gt;The global Write the Docs team supports major conferences in both Portland and Prague, and also mentors smaller events throughout the year and maintains the community infrastructure.&lt;/p&gt;
+&lt;p&gt;Since we started organizing the Prague conference in 2015, September has been the month of choice, specifically around the middle of the month.&lt;/p&gt;
+&lt;p&gt;When we scheduled the conference dates for Prague we considered the following key factors:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;September is far enough from the Portland conference (which is held in May each year), which helps the team to load-balance preparation activities for both conferences.&lt;/li&gt;
+&lt;li&gt;August (and the first week of September) conflicts with the school summer holidays, which would exclude attendees who have school-aged children.&lt;/li&gt;
+&lt;li&gt;The only bank holiday in the Czech Republic that month is on September 28, and there are no other public holidays in neighboring European countries.&lt;/li&gt;
+&lt;li&gt;Mid-September doesn’t conflict with any major European conferences in the region (primarily PyCons and open-source conferences).&lt;/li&gt;
+&lt;li&gt;The weather from the end of September takes a turn for the worse in Prague (and in most of Europe), and we want attendees to have a good experience of the city and not just the conference venue.&lt;/li&gt;
+&lt;li&gt;The global core team’s yearly offsite and retrospective happens immediately after the Prague conference, and we need to allow for enough time before the end of the calendar year to wrap-up and start planning for the following year.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;section&quot; id=&quot;what-happened-this-year&quot;&gt;
+&lt;h3&gt;What happened this year&lt;/h3&gt;
+&lt;p&gt;When we looked at the calendar to choose the dates for the 2018 conference, we saw that the Jewish New Year holidays span most  of September.
+This does not occur every year, but this year it was extremely difficult to decide on dates in September, since no matter which date we chose, it would conflict with one of the holidays.&lt;/p&gt;
+&lt;p&gt;When we weighed this problem against the key factors that we use to determine the dates each year, we knew that we had to make a decision that would exclude some people from being able to attend.
+We weren’t happy about this decision, but if we moved the conference to any other month, or even to the first weekend of September, we would run the risk of excluding different groups of people, or not being able to run the conference at all this year due to organizational meltdowns.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;what-could-we-have-done-better&quot;&gt;
+&lt;h3&gt;What could we have done better&lt;/h3&gt;
+&lt;p&gt;Our failure to communicate the scheduling decision and conflict explanation at the time of announcing the conference dates led to multiple inquiries from portions of our community, who felt as if they might have been overlooked, or worse - not welcome at our events. This was absolutely not our intention, and we are sorry that our actions had this impact on parts of our community.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We owe it to our community to adhere to our philosophy of inclusivity in how we run our events, and if we are unable to choose the most inclusive option for our attendees, we should communicate about it promptly and transparently.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;After we announced the dates, we received and handled several inquiries by email or Slack messages from community members who questioned the date selection and asked to reschedule, but by the time we announced the dates we already had the venue contracts signed so it wasn’t possible to make a change.&lt;/p&gt;
+&lt;p&gt;Regardless of the actual scheduling problem, the fact that we received inquiries should have been a warning bell for us, as we saw in the past that for every person who writes to us with a question, there must be dozens more who wouldn’t feel comfortable writing to us. Rather than keeping our responses in the private channels, we should have made this public accountability statement to address this much sooner.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;what-will-we-do-better-in-the-future&quot;&gt;
+&lt;h3&gt;What will we do better in the future&lt;/h3&gt;
+&lt;p&gt;Firstly, we want to acknowledge that in 2019, the Jewish New Year holidays period begins in October, so there is no expected conflict with any dates we might choose in September.
+That said, we cannot guarantee that any future conference years (Prague, Portland, or elsewhere) will not conflict with anything ever again, as this is a long-term venture there are sure to be more difficult decisions that we’ll have to make down the line.&lt;/p&gt;
+&lt;p&gt;What we can promise is:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;if conflicts arise, to take our past conflicts into account so that we can prevent the same group(s) from being excluded during consecutive years&lt;/li&gt;
+&lt;li&gt;to improve our transparency around our scheduling practices, so that if we must make another difficult decision in the future, we will inform you, the community, our documentarian family, of the process and considerations involved&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thank-you-for-being-you&quot;&gt;
+&lt;h3&gt;Thank you for being you&lt;/h3&gt;
+&lt;p&gt;We love Write the Docs because it’s where documentarians from all walks of life feel welcome.
+Sometimes we make mistakes that cause parts of our community to feel excluded, and it’s our responsibility to own these mistakes and learn from them.&lt;/p&gt;
+&lt;p&gt;We want to express our gratitude to the community members who took the time to discuss the impact of our actions (and inactions), and we hope that this blog post will help to shine some light on how and why we ended up with these conference dates this year for the benefit of folks in our community who might not feel comfortable reaching out and asking us directly.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

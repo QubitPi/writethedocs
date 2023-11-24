@@ -1,0 +1,459 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta property="og:title" content="Write the Docs Newsletter – October 2020" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/blog/newsletter-october-2020/" />
+<meta property="og:site_name" content="Write the Docs" />
+<meta property="og:description" content="Hi everyone - it’s Beth A and the newsletter team here, back from our summer break. I hope you’ve all had a chance to take a break too recently; I’m feeling the need for time off more than ever. Bu..." />
+<meta property="og:image" content="https://www.writethedocs.org/_static/logo-opengraph.png" />
+<meta property="og:image:alt" content="Write the Docs" />
+<meta name="description" content="Hi everyone - it’s Beth A and the newsletter team here, back from our summer break. I hope you’ve all had a chance to take a break too recently; I’m feeling the need for time off more than ever. Bu..." />
+<meta name="twitter:card" content="summary_large_image" />
+
+    <title>Write the Docs Newsletter – October 2020 &#8212; Write the Docs</title>
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/alabaster.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/global-customizations.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/survey.css" />
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/js/jobs.js"></script>
+    <link rel="canonical" href="https://QubitPi.github.io/writethedocs/blog/newsletter-october-2020.html" />
+    <link rel="shortcut icon" href="../../_static/favicon-96x96.png"/>
+    <link rel="index" title="Index" href="../../genindex/" />
+    <link rel="search" title="Search" href="../../search/" />
+  
+   
+  <link rel="stylesheet" href="../../_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  
+  <link rel="alternate" type="application/atom+xml"  href="../archive/atom.xml" title="Blog">
+  
+  
+  <link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
+  
+  <style type="text/css">
+    ul.ablog-archive {list-style: none; overflow: auto; margin-left: 0px}
+    ul.ablog-archive li {float: left; margin-right: 5px; font-size: 80%}
+    ul.postlist a {font-style: italic;}
+    ul.postlist-style-disc {list-style-type: disc;}
+    ul.postlist-style-none {list-style-type: none;}
+    ul.postlist-style-circle {list-style-type: circle;}
+  </style>
+
+  </head><body>
+  
+
+    <div class="document">
+  <div class="documentwrapper">
+    <div class="bodywrapper">
+      <div class="body" role="main">
+          
+          <div class="breadcrumbs">
+            
+            
+              <a href="../../">Home</a> &raquo;
+                
+            
+          </div>
+        
+        
+  <div class="section" id="write-the-docs-newsletter-october-2020">
+<h1>Write the Docs Newsletter – October 2020<a class="headerlink" href="#write-the-docs-newsletter-october-2020" title="Permalink to this headline">¶</a></h1>
+<p>Hi everyone - it’s Beth A and the newsletter team here, back from our summer break. I hope you’ve all had a chance to take a break too recently; I’m feeling the need for time off more than ever.</p>
+<p>But there’s plenty to look forward to in the world of documentation! It’s just a few short weeks until our second virtual conference of the year - <a class="reference external" href="/conf/prague/2020/">“Prague”</a>, or more accurately, “the one in <a class="reference external" href="https://time.is/CEST">CEST</a>”. The <a class="reference external" href="/conf/prague/2020/speakers/">speaker list</a> is out and looking great, so do <a class="reference external" href="/conf/prague/2020/tickets/">grab a ticket</a> while they’re still available! (Ticket sales will close about a week before the conference.) I’ll be helping out on the <a class="reference external" href="/conf/prague/2020/welcome-wagon/">Welcome Wagon</a>, so if you’re attending the conference, please do say hi - I’d love to meet you.</p>
+<p>And if the Europe and America conferences weren’t in good time zones for you, fear not: our last conference of the year is for you! The <a class="reference external" href="/conf/australia/2020/">Australia and India conference</a> (that’s in <a class="reference external" href="http://time.is/AEDT">AEDT</a>) will be on 3-4 December, and we’ve just announced <a class="reference external" href="/conf/australia/2020/news/announcing-speakers/">the speaker line-up</a>.</p>
+<p>Finally, a request. Like we did <a class="reference external" href="/surveys/salary-survey/2019/">last year</a>, we’re running an anonymous salary survey, to help the community understand the pay scales and benefits in the software industry around documentation. We’d absolutely love it if you could fill it in; it’s open until Monday 16 November. <a class="reference external" href="/surveys/salary-survey-sep-2020/">Find out more here</a>.</p>
+<div class="section" id="learning-regular-expressions-regex">
+<h2>Learning regular expressions (regex)<a class="headerlink" href="#learning-regular-expressions-regex" title="Permalink to this headline">¶</a></h2>
+<p>When a documentarian asked if there is an automated way to update links from one format to another, the WTD Slack community replied, “Yes: regex!” A <a class="reference external" href="https://en.wikipedia.org/wiki/Regular_expression">regular expression</a>, shortened to regex, is a sequence of characters that represent a search pattern. The specific sequence depends on the search you want to perform. Regexes are handy for finding and replacing text, finding typographical errors or misspellings, creating link redirects for multiple versions of docs, and similar tasks. A very basic regex is <cite>[abc]</cite>, which will find any character between the brackets – a, b, or c – no matter where the characters fall within the text you’re searching.</p>
+<p>Regular expressions are useful and time-saving, but they do have a bit of a learning curve. Fortunately, the group had great suggestions to help get you started:</p>
+<ul class="simple">
+<li><a class="reference external" href="https://regex101.com/">regular expressions 101</a>: A regex testing and validation tool with a searchable library, quiz, and sample code generator</li>
+<li><a class="reference external" href="http://www.rexegg.com/">Rex Egg</a>: This lighthearted tutorial assumes a beginner’s starting point</li>
+<li><a class="reference external" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet">Regular expression syntax cheatsheet</a>: A list of JavaScript-specific regex syntax by MDN Web Docs</li>
+<li><a class="reference external" href="https://ryanstutorials.net/linuxtutorial/grep.php">Ryans Tutorials Grep and Regular Expressions</a>: When you’re ready to pair regex with grep to search text for your regex, try this guide and the accompanying <a class="reference external" href="https://ryanstutorials.net/linuxtutorial/cheatsheetgrep.php">cheatsheet</a></li>
+<li><a class="reference external" href="https://tldp.org/LDP/abs/html/regexp.html">Advanced Bash Scripting Guide Chapter 18 Regular Expressions</a>: If you’re comfortable working from the command line, this lesson takes you through a regex overview and provides example commands for grepping a text file</li>
+</ul>
+</div>
+<div class="section" id="organizing-docs-by-role-or-by-topic">
+<h2>Organizing docs by role, or by topic?<a class="headerlink" href="#organizing-docs-by-role-or-by-topic" title="Permalink to this headline">¶</a></h2>
+<p>This fall, we fell into a discussion of role-based docs versus topic-based docs, and the reasons to use one over the other. Is it better to organize your documentation by user role or by topic?</p>
+<p>With role-based docs, users may spend too much time identifying which type of user you consider them to be. And once they do identify their type, the docs can end up resembling a training course more than a documentation set. A single user can wear many hats, and they then end up needing to jump around more in the docs to do their work; there’s more in <a class="reference external" href="https://www.nngroup.com/articles/audience-based-navigation/">this article from the Nielsen Norman Group</a>. Topic-based docs can allow users to easily go to the topic with the information they need - as long as they can actually find the right topic in the group of topics.</p>
+<p>A sensible way forward can be to combine both ideas: for example, providing a list of links to topics associated with a role; or allowing a user to filter a list of topics by role. It also depends a lot on your specific product, and the audience for it: role-based docs may work well for some products, while topic-based docs may be just the thing for others.</p>
+</div>
+<div class="section" id="command-prompts-in-docs">
+<h2>Command prompts in docs<a class="headerlink" href="#command-prompts-in-docs" title="Permalink to this headline">¶</a></h2>
+<p>Command prompts in docs can be useful visual cues for developers - they provide the context in which to run each command. They also show at a glance that the snippet displays a terminal command and not something else, like a config file. But to avoid mistakes during copying and pasting, our community has these suggestions on integrating the prompt character in documentation:</p>
+<ul class="simple">
+<li>Include prompts if the user modes change or are otherwise relevant to the instructions.</li>
+<li>Include prompts for multiple commands in the same snippet, but consider avoiding prompts for single-line snippets.</li>
+<li>Don’t include the command prompt in the same box as the output.</li>
+<li>Make a clear distinction between the command and output. For example, separate them into different listings with labels and distinguish the prompt by color.</li>
+<li>If you don’t want the prompt character to be copyable, try the user-select css property. Or, if you have control over its behaviour, have the copy button in the snippet ignore the prompt character.</li>
+</ul>
+</div>
+<div class="section" id="what-we-re-learning-in-learn-tech-writing">
+<h2>What we’re learning in #learn-tech-writing<a class="headerlink" href="#what-we-re-learning-in-learn-tech-writing" title="Permalink to this headline">¶</a></h2>
+<p>Over in the <a class="reference external" href="https://app.slack.com/client/T0299N2DL/C7YJR1N02">#learn-tech-writing</a> book club, they’re reading through <em>Don’t Make Me Think</em> by Steve Krug. One recent conversation was about documentation structure design: both for individual pages of documentation, and for doc sites too.</p>
+<p>At the page level, it’s about making pages scannable. You can break them up into clearly defined areas using headings, and it also helps to use short paragraphs and lists. One documentarian talked about using images to make pages look less daunting - while you want to avoid adding gratuitous images, they do really help break up pages visually.</p>
+<p>For a doc set, how do you make it easy for readers to find what they need? People search for information in different ways: some stick to Google or the site search, some scan and click around. It helps to talk to your users to find out, but you can’t expect them all to work the same way. And we have to be aware that our personal preferences don’t necessarily match those of our readers.</p>
+<p>A big point of discussion was on how to divvy up pages. At one extreme is individual short pages for each topic (About the Feature, Using the Feature, Reference for the Feature…). It can mean more clicking around, but <em>Don’t Make Me Think</em> suggests: “It doesn’t matter how many times I have to click as long as every click is a mindless, unambiguous choice.”</p>
+<p>The other extreme is to have everything on one page, and a table of contents to let readers skim and skip through, like the <a class="reference external" href="https://asciidoctor.org/docs/user-manual/#glossary">Asciidoctor manual</a>.</p>
+<p>There’s no best answer here. It’s a tradeoff between scrolling/ctrl+F vs clicking/searching to find what you need. And it depends on who you’re optimising for. For new users, a huge page can be overwhelming and intimidating; you don’t know what’s important and what you can skip. But once you’ve gotten used to the content, if you’re going to refer back to it a lot, one page can be pretty convenient.</p>
+<p>There are tons more interesting ideas flying about in the book club, so do <a class="reference external" href="https://app.slack.com/client/T0299N2DL/C7YJR1N02">take a look</a>!</p>
+</div>
+<div class="section" id="from-our-sponsor">
+<h2>From our sponsor<a class="headerlink" href="#from-our-sponsor" title="Permalink to this headline">¶</a></h2>
+<p>This month’s newsletter is sponsored by Microsoft:</p>
+<hr>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
+  <tbody>
+    <tr>
+      <td width="75%">
+          <p>
+
+          Want the simplicity of a source code editor with powerful developer tooling?  Try the lightning-fast, lightweight, massively customizable editor that is taking the world by storm.  Did we mention it’s free and supports MacOS, Linux, and Windows?  To learn more and grab your copy, head here: <a href="https://code.visualstudio.com/docs/editor/whyvscode">https://code.visualstudio.com/docs/editor/whyvscode</a>.
+          </p>
+      </td>
+      <td width="25%">
+        <a href="https://blogs.microsoft.com/?p=52559013">
+          <img style="margin-left: 15px;" alt="Microsoft" src="/_static/img/sponsors/microsoft.png">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<hr><p><em>Interested in sponsoring the newsletter? Take a look at our</em> <a class="reference external" href="/sponsorship/newsletter/">sponsorship prospectus</a>.</p>
+</div>
+<div class="section" id="featured-job-posts">
+<h2>Featured job posts<a class="headerlink" href="#featured-job-posts" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><dl class="first docutils">
+<dt><a class="reference external" href="https://jobs.writethedocs.org/job/226/director-of-product-content/">Director of Product Content</a>, Mews</dt><dd>Prague, full-time</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt><a class="reference external" href="https://jobs.writethedocs.org/job/228/technical-writer/">Technical Writer</a>, AlertMedia</dt><dd>Austin Texas, full-time</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt><a class="reference external" href="https://jobs.writethedocs.org/job/227/senior-technical-writer/">Senior Technical Writer</a>, Awesome Table</dt><dd>Remote (Europe), full-time</dd>
+</dl>
+</li>
+</ul>
+<p><em>To apply for these jobs and more, visit the</em> <a class="reference external" href="https://jobs.writethedocs.org/">Write the Docs job board</a>.</p>
+</div>
+<div class="section" id="virtual-events-coming-up">
+<h2>Virtual events coming up<a class="headerlink" href="#virtual-events-coming-up" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>7 October - Philadelphia, PA, USA - <a class="reference external" href="https://www.meetup.com/WTD-Philadelphia/events/272488330/">Breaking down complex topics into documentable chunks</a></li>
+<li>8 October - Los Angeles, CA, USA - <a class="reference external" href="https://www.meetup.com/Write-the-Docs-LA/events/273649263/">Open-source docs for Sawppy</a></li>
+<li>13 October - Ottawa - <a class="reference external" href="https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqybcnbrb/">WTD Ottawa Shopify meetup</a></li>
+<li>15 October - Austin, TX, USA - <a class="reference external" href="https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/273573027/">“We miss you!” social hour</a></li>
+<li>18-20 October - <a class="reference external" href="/conf/prague/2020/">Write the Docs “Prague” conference</a></li>
+<li>19 October - Detroit, MI, USA - <a class="reference external" href="https://www.meetup.com/Write-the-Docs-Detroit/events/273639865/">Emotional personas: writing for the human animal</a></li>
+<li>20 October - Boston, USA - <a class="reference external" href="https://www.meetup.com/meetup-group-RuYaCcRS/events/273665258/">Morning Social</a></li>
+<li>21 October - Portland, OR, USA - <a class="reference external" href="https://www.meetup.com/Write-The-Docs-PDX/events/273387204/">Supermeetup: tech industry job panel</a></li>
+<li>28 October - Australia - <a class="reference external" href="https://www.meetup.com/Write-the-Docs-Australia/events/273289549/">Introducing Information Architecture</a></li>
+</ul>
+</div>
+</div>
+
+  <div class="section">
+  
+    
+
+
+<div class="section">
+  <span style="float: left;">
+  
+  
+  <a href="../../conf/australia/2020/news/announcing-speakers/">
+    <i class="fa fa-arrow-circle-left"></i>
+    Announcing speakers
+  </a>
+  
+  </span>
+  <span>&nbsp;</span>
+  <span style="float: right;">
+  
+  
+  <a href="../../conf/australia/2020/news/announcing-schedule/">
+    Announcing the full conference schedule
+    <i class="fa fa-arrow-circle-right"></i>
+  </a>
+  
+  </span>
+</div>
+
+  
+  
+  </div>
+
+      </div>
+    </div>
+  </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<p class="logo">
+  <a href="../../">
+    <img class="logo" src="../../_static/sticker-wtd-colors.png" alt="Logo"/>
+    
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <h2>
+  
+  <i class="fa fa-calendar"></i>
+    05 October 2020
+  
+  </h2>
+
+  <ul>
+    
+
+  
+  <li id="author"><span><i class="fa-fw fa fa-user"></i></span>
+    
+      
+      <a href="../archive/author/write-the-docs-team/">Write the Docs Team</a>
+      
+    </li>
+  
+
+  
+
+  
+
+  
+
+  
+  <li id="tags"><span><i class="fa-fw fa fa-tag"></i></span>
+    
+      
+      <a href="../archive/tag/newsletter/">newsletter</a>
+      
+    </li>
+  
+  
+  </ul>
+
+
+<br>
+<p>
+Write the Docs is a global community of people who care about documentation.
+We have a Slack community, conferences on 3 continents, and local meetups!
+</p>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../../search/" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>$('#searchbox').show(0);</script><style>
+.ethical-alabaster::before {margin-top: 1em;}
+</style>
+<div id="ethical-ad-placement"></div>
+
+<div id="jobs-listing">
+    <h3>Job Postings</h3>
+    See more at our <a href="https://jobs.writethedocs.org/">Job Board</a>.
+        <ul>
+        </ul>
+</div>
+
+<div id="toc">
+
+    <h3>Site Content</h3>
+
+    <ul>
+<li class="toctree-l1"><a class="reference internal" href="../../surveys/">Salary Surveys</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../surveys/#salary-survey-now-open">2023 Salary Survey now open</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../guide/">Documentation guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../book-club/">Book Club</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../hiring-guide/">Hiring guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/stay-connected/">Stay Connected</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/about-the-org/">About Our Organization</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/events-activities/">Events and Activities</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/learning-resources/">Learning Resources</a></li>
+</ul>
+
+    
+</div>
+
+<br>
+
+
+<h3>Join our mailing list</h3>
+
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;}
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+    <form action="https://writethedocs.us6.list-manage.com/subscribe/post?u=94377ea46d8b176a11a325d03&amp;id=dcf0ed349b&amp;f_id=00d2c2e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div id="mc_embed_signup_scroll">
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
+	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
+</div>
+<div class="mc-field-group input-group">
+    <strong>What types of updates would you like? </strong>
+    <ul><li>
+    <input type="checkbox" value="1" name="group[14633][1]" id="mce-group[14633]-14633-0" checked>
+    <label for="mce-group[14633]-14633-0">Monthly Community Newsletter</label>
+</li>
+<li>
+    <input type="checkbox" value="2" name="group[14633][2]" id="mce-group[14633]-14633-1">
+    <label for="mce-group[14633]-14633-1">North American Conference Announcements</label>
+</li>
+<li>
+    <input type="checkbox" value="4" name="group[14633][4]" id="mce-group[14633]-14633-2">
+    <label for="mce-group[14633]-14633-2">European Conference Announcements</label>
+</li>
+<li>
+    <input type="checkbox" value="8" name="group[14633][8]" id="mce-group[14633]-14633-3">
+    <label for="mce-group[14633]-14633-3">Australian Conference Announcements</label>
+</li>
+<li>
+    <input type="checkbox" value="16" name="group[14633][16]" id="mce-group[14633]-14633-4">
+    <label for="mce-group[14633]-14633-4">Atlantic Conference Announcements</label>
+</li>
+</ul>
+    <span id="mce-group[14633]-HELPERTEXT" class="helper_text"></span>
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_94377ea46d8b176a11a325d03_dcf0ed349b" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<!--End mc_embed_signup-->
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+  <style>
+
+/* Sponsors */
+.sponsors {
+    float: left;
+    margin-top: 12px;
+    text-align: center;
+}
+.sponsors .sponsor {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+}
+.sponsors .sponsor img {
+    width: 90px;
+    height: auto;
+}
+.sponsors .sponsor-name {
+    font-size: 12px;
+}
+.sponsors .sponsor-description {
+    font-size: 10px;
+    color: #BCC1C3;
+}
+.sponsors .sponsor-name, .sponsors .sponsor-description {
+    text-align: center;
+    line-height: 1.4;
+}
+
+/* Links in footer */
+.footer-links {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+#social-footer {
+  line-height: 1.5rem;
+}
+div.footer,div.footer a {
+  color: #757575;
+}
+</style>
+<div class="footer">
+      
+      <div class="container footer-links">
+        <div style="flex-basis: 20rem; text-align: left;">
+          <span>© Write the Docs</span>
+          <span>
+            &nbsp;<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0; vertical-align: middle;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+          </span>
+        </div>
+        <div id="social-footer">
+          <span><a href="/contact/"><i class="iconf-email"></i>Contact Us</a></span> |
+          <span><a href="/site-map"><i class="iconf-github-circled-alt2"></i>Site map</a></span> |
+          <span><a href="https://github.com/writethedocs"><i class="iconf-github-circled-alt2"></i>GitHub</a></span> |
+          <span><a href="https://twitter.com/writethedocs"><i class="iconf-twitter-circled"></i>Twitter</a></span> |
+          <span>
+                <a href="https://www.linkedin.com/company/write-the-docs">
+                  LinkedIn
+                </a>
+          </span> |
+          <span><a href="../../code-of-conduct/">Code&nbsp;of&nbsp;Conduct</a></span> |
+          <span><a href="https://jobs.writethedocs.org/">Job Board</a></span>
+        </div>
+      </div>
+
+    
+    <a href="https://github.com/writethedocs/www" class="github">
+        <img style="position: absolute; top: 0; right: 0; border: 0;" src="/_static/img/fork-ribbon.svg" alt="Fork me on GitHub"  class="github"/>
+    </a>
+    
+
+  <div class="sponsors" id="community-sponsors" style="width: 100%;">
+  <hr>
+    <a class="sponsor" href="https://readthedocs.org" rel="noopener" target="_blank">
+      <img src="https://read-the-docs-guidelines.readthedocs-hosted.com/_images/logo-wordmark-dark.png" alt="Read the Docs" class="sponsor-image">
+      <div class="sponsor-name">Read the Docs</div>
+      <div class="sponsor-description">Website Hosting</div>
+    </a>
+    
+
+    <a class="sponsor" href="../../sponsorship/" rel="noopener" target="_blank">
+      <div class="sponsor-name">Sponsorship Info</div>
+    </a>
+  </div>
+</div>
+  </body>
+</html>

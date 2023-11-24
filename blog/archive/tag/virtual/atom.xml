@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged virtual</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/virtual/atom.xml</id>
+  <updated>2022-01-26T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/virtual/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/virtual/atom.xml">
+    <title type="text">The Portland conference is going back to virtual</title>
+    <id>https://www.writethedocs.org/conf/portland/2022/news/conference-going-virtual/</id>
+    <updated>2022-01-26T00:00:00Z</updated>
+    <published>2022-01-26T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2022/news/conference-going-virtual/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;the-portland-conference-is-going-back-to-virtual&quot;&gt;
+
+&lt;p&gt;We won’t bury the lede on the announcement today:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;The Portland 2022 conference held on May 22-24 will be fully virtual again.&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;We make this very difficult decision with the understanding that it will disappoint some of you.
+We also make this decision with the knowledge that it will relieve some of you from stress or anxiety.
+We’ll explain a bit more below the reasoning for this decision,
+but the high-level issues are:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;After talking with our vendors and staff, we determined we couldn’t produce the quality of event that our attendees expect if we run a hybrid event.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Omicron has changed the risk profile associated with travel and large gatherings, and increased the number of unknown risks that we face as organizers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We are excited about the quality of our previous virtual events,
+and look forward to iterating on and improving our event once again this year.
+We have been just as excited as you at the prospect of being able to gather safely,
+but we feel the need to hold off for one more year.&lt;/p&gt;
+&lt;p&gt;We’re also looking at the ability for some of our meetups to host watch parties.
+The details are still being worked out,
+but we’d love to find a way for small groups of people to gather in this fashion.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;updated-conference-details&quot;&gt;
+&lt;h2&gt;Updated conference details&lt;/h2&gt;
+&lt;p&gt;Our 2022 conference will be structured the same to our previous virtual events:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Sunday, May 22: Writing Day&lt;/li&gt;
+&lt;li&gt;Monday, May 23: Conference talks, Lightning Talks, Unconference, Social event&lt;/li&gt;
+&lt;li&gt;Tuesday, May 24: Conference talks, Job Fair, Lightning Talks, Unconference&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We’re excited to experiment and improve on our existing format as well.
+One change we’re considering is doing scheduled Q&amp;amp;A blocks with 2 speakers,
+so attendees don’t feel rushed going from the main stage to the Q&amp;amp;A after every talk.&lt;/p&gt;
+&lt;p&gt;Now that we have made this decision,
+we are moving on to the other tasks of launching the conference.
+We expect the full conference website and ticket sales to be launched in the next couple weeks.
+The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2022/sponsors/prospectus/&quot;&gt;sponsorship prospectus&lt;/a&gt; is now available as well.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;reasons-for-going-virtual&quot;&gt;
+&lt;h2&gt;Reasons for going virtual&lt;/h2&gt;
+&lt;p&gt;There are four major areas that formed the basis of our decision:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Physical health&lt;/li&gt;
+&lt;li&gt;Event success&lt;/li&gt;
+&lt;li&gt;Mental health&lt;/li&gt;
+&lt;li&gt;Organizational sustainability&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The biggest worry that we have when organizing the conference is a COVID outbreak.
+We were already planning a number of mitigations,
+but this risk is always present whenever we gather in a large group.
+Omicron has lead to the highest case counts in the USA,
+and increased our anxiety about possible negative outcomes.&lt;/p&gt;
+&lt;p&gt;The quality of the event was another large factor in our decision.
+We discussed at length,
+but we couldn’t find a good way to integrate in-person and virtual attendees.
+We figured out a way to handle it for talks,
+but had not solved the issue for the job fair and unconference. Hybrid conferences require
+reliable in-person WiFi, which has &lt;em&gt;always&lt;/em&gt; been a difficult issue in past conferences.&lt;/p&gt;
+&lt;p&gt;Once we started planning the event,
+we realized that our hybrid event would require much more staff.
+We’d effectively be running two conferences at once,
+and each organizer would be able to focus on one event at a time.
+This alone would stretch our existing team to the limit,
+before you even consider the additional stress of COVID-related disruptions or sickness.&lt;/p&gt;
+&lt;p&gt;The other major consideration is the health of Write the Docs as a small community-supported organization.
+Reserving a venue and committing to an in-person event adds a large amount of financial risk to the organization.
+We are unsure of what attendance or sponsorship for the in-person event would look like,
+and cancellation fees would affect our financial health.&lt;/p&gt;
+&lt;p&gt;Once we thought more deeply about our options to move forward,
+keeping the event virtual for one more year seemed like the most prudent course of action.
+We know that we can produce a great virtual event for our attendees,
+and now we don’t have to worry nearly as much about COVID-related risks.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;sponsor-the-conference&quot;&gt;
+&lt;h2&gt;Sponsor the conference&lt;/h2&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/portland/2022/news/conference-going-virtual.rst&lt;/tt&gt;, line 7); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate explicit target name: “sponsorship prospectus”.&lt;/div&gt;
+&lt;p&gt;Now that we have firmed up the format for the event,
+we have also launched our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2022/sponsors/prospectus/&quot;&gt;sponsorship prospectus&lt;/a&gt;.
+We are excited to continue offering a similar sponsorship experience,
+including the Job Fair this year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;stay-updated&quot;&gt;
+&lt;h2&gt;Stay Updated&lt;/h2&gt;
+&lt;p&gt;Want to find out what’s happening with the conference, or enjoy our monthly global community newsletter?
+Sign up to one or more of our &lt;a class=&quot;reference external&quot; href=&quot;http://eepurl.com/cdWqc5&quot;&gt;mailing lists&lt;/a&gt;. Your information will never be shared with any third-parties, and you can unsubscribe at any time.&lt;/p&gt;
+&lt;p&gt;Want to connect with other documentarians in real-time? Join our &lt;a class=&quot;reference internal&quot; href=&quot;../../../../slack/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;Slack&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks&quot;&gt;
+&lt;h2&gt;Thanks&lt;/h2&gt;
+&lt;p&gt;We hope you will join us online for another Write the Docs conference.
+Whether as a speaker or attendee, you can bet it will be another delightful year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

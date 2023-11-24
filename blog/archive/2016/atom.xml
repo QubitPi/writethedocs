@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posted in 2016</title>
+  <id>https://www.writethedocs.org/blog/archive/2016/atom.xml</id>
+  <updated>2016-12-05T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/2016/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2016/atom.xml">
+    <title type="text">Write the Docs Newsletter - December 2016</title>
+    <id>https://www.writethedocs.org/blog/newsletter-december-2016/</id>
+    <updated>2016-12-05T00:00:00Z</updated>
+    <published>2016-12-05T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-december-2016/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-newsletter-december-2016&quot;&gt;
+
+&lt;div class=&quot;section&quot; id=&quot;seasons-greetings-and-see-you-next-year&quot;&gt;
+&lt;h2&gt;Seasons greetings and see you next year!&lt;/h2&gt;
+&lt;p&gt;Hello, Write the Docs! As I’m writing this, there are gentle little fairy-snowflakes drifting past my window, and it’s triggering my instinct to hibernate something fierce. On that subject, this newsletter is going to take a brief hibernation period of its own over the holiday season. But never fear! We’ll be back in your inboxes once we’ve settled into 2017 a bit.&lt;/p&gt;
+&lt;p&gt;To tide y’all over, we have a nice hefty issue for you this month. From hiring practices to API resources, readability guidelines to UX testing, the community was — per usual — engaged on a broad range of topics. We hope you find something below to intrigue or inform. Have a great end of the year, and we’ll see you in the next!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;NOTE: Remember,  we’ll be keeping an eye on the #general channel for newsletter content, but if you see a conversation elsewhere on Slack (or Twitter or wherever) that you think is a good fit, ping our editor, Kelly O’Brien (&amp;#64;kobrien042).&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;simplifying-and-tightening-your-writing&quot;&gt;
+&lt;h2&gt;Simplifying and tightening your writing&lt;/h2&gt;
+&lt;p&gt;One of our most involved discussions this month was about limiting the length of sentences and paragraphs, with the goal of avoiding the “wall-of-text”  effect and increasing the likelihood that customers will read your documentation. Here’s some of the general guidance that folks shared:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Simplify by removing as many unnecessary words as possible&lt;/li&gt;
+&lt;li&gt;Use plain language&lt;/li&gt;
+&lt;li&gt;Consider whether punctuation like commas and semi-colons might mean that you’re stringing together too many phrases in one sentence&lt;/li&gt;
+&lt;li&gt;Follow strict per-sentence word limits (participants specifically mentioned 28 and 25 words, and one commenter suggested &lt;a class=&quot;reference external&quot; href=&quot;https://insidegovuk.blog.gov.uk/2014/08/04/sentence-length-why-25-words-is-our-limit/&quot;&gt;this thoughtful GOV.UK blog post&lt;/a&gt; with even more tips for writing clearly)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Participants mentioned quite a few tools to use for refining your writing, from style handbooks to web-based readability tests. Although folks paid respect to Strunk and White’s &lt;em&gt;Elements of Style&lt;/em&gt;, many said there are better options…specifically Richard Lanham’s &lt;em&gt;Revising Prose&lt;/em&gt;, &lt;em&gt;Garner’s Modern American Usage&lt;/em&gt;, and &lt;em&gt;The Harbrace College Handbook&lt;/em&gt; (which now seems to go by &lt;em&gt;The Hodges Harbrace Handbook&lt;/em&gt;). And check out &lt;a class=&quot;reference external&quot; href=&quot;http://forum.writethedocs.org/t/style-guides-for-documentarians/112&quot;&gt;this Write the Docs Forum thread&lt;/a&gt; for more style handbook recommendations.&lt;/p&gt;
+&lt;p&gt;One participant suggested &lt;a class=&quot;reference external&quot; href=&quot;http://writersdiet.com/?page_id=4&quot;&gt;this neat tool&lt;/a&gt; for trimming your writing. Others mentioned using Flesch-Kincaid scoring, tools like the &lt;a class=&quot;reference external&quot; href=&quot;https://www.online-utility.org/english/readability_test_and_improve.jsp&quot;&gt;Readability Calculator by Online Utility&lt;/a&gt;, and linters like &lt;a class=&quot;reference external&quot; href=&quot;https://atom.io/packages/linter-write-good&quot;&gt;Write Good for Atom&lt;/a&gt; to help improve readability.&lt;/p&gt;
+&lt;p&gt;The discussion wrapped up with a 74-word sentence quoted from &lt;em&gt;Emma&lt;/em&gt; by Jane Austen:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;“It was some comfort to him that many inquiries after himself and Miss Woodhouse (for his neighbours knew that he loved to be inquired after), as well as Miss Smith, were coming in during the rest of the day; and he had the pleasure of returning for answer, that they were all very indifferent—which, though not exactly true, for she was perfectly well, and Harriet not much otherwise, Emma would not interfere with.”&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;For those keeping score at home, that includes seven commas, one semi-colon, a parenthetical, and an em dash. If you’re curious, the sentence’s Flesch-Kincaid grade level is 15.4!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;hiring-for-technical-background&quot;&gt;
+&lt;h2&gt;Hiring for technical background&lt;/h2&gt;
+&lt;p&gt;An interesting hiring question arose this month about how to word a job listing when you’re looking for a particularly &lt;em&gt;technical&lt;/em&gt; tech writer. It’s common to see “previous developer experience” listed as a requirement, but depending on what you’ll be expecting the writer to cover, it might be that what you really need is someone who comes from a system or database administrator background.&lt;/p&gt;
+&lt;p&gt;Part of the reason this crops up so often is that the listings are often assembled by non-technical recruiters who don’t always have a solid grasp on the different technical disciplines out there. So what can we do to make sure new hires show up on their first day with the technical background we’re hoping for?&lt;/p&gt;
+&lt;p&gt;There were lots of useful suggestions, most of which boiled down to: Consider your docs’ audience, and choose your words carefully. If your docs are aimed at helping people code, then probably that “previous developer experience” is a good way to go, preferably with details on the specific languages/environments they’ll be writing about. But if your documentation is more focused on configuration and/or optimization, then having a writer with  “sysadmin or DBA experience” may serve you better. If your docs are broader-ranging, you can cast a wide net by asking for “technical background”, then focus it down in the interview process with a technical test (in addition to or instead of a writing test).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;running-ux-tests-on-your-documentation&quot;&gt;
+&lt;h2&gt;Running UX tests on your documentation&lt;/h2&gt;
+&lt;p&gt;Knowing where your docs are falling down on the job is a critical first step to being able to improve them. So what can you do to determine where (and with a little luck, why) your documentation isn’t working for your readers? Simple. Test it.&lt;/p&gt;
+&lt;p&gt;User experience testing (UX testing, usability testing, etc.) can be just as helpful for testing the effectiveness of your docs as it is for determining the intuitiveness of your product. When it came up in the Slack channel this month, there were lots of great ideas for how to apply UX testing principles to documentation.&lt;/p&gt;
+&lt;p&gt;First off, whether you’re testing your product or your docs, the principles are the same – give your users (in this case your readers) some concrete examples to work through, observe their behavior and then give them an opportunity to voice their thoughts on their pain points.&lt;/p&gt;
+&lt;p&gt;Second, you don’t necessarily have to separate your product testing from your docs testing. Oftentimes, if you give your users a open-ended task to perform, you can get great insights just by watching where they go to get information and when they get stuck. (And whether that information gets them unstuck or not.)&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.nngroup.com/articles/task-scenarios-usability-testing/&quot;&gt;This blog post from the Nielsen Norman Group&lt;/a&gt; was put forth as a good resource, when you’re designing tasks for user testing. And if you’ve got tasks in mind, but you’re looking for tools that will let you capture user feedback, &lt;a class=&quot;reference external&quot; href=&quot;https://uxdesign.cc/ux-tools-for-user-research-and-user-testing-a720131552e1&quot;&gt;here’s a substantial and relatively current round-up&lt;/a&gt; of some of the products out there.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;want-to-help-make-2017-the-year-of-the-doc&quot;&gt;
+&lt;h2&gt;Want to help make 2017 the Year of the Doc?&lt;/h2&gt;
+&lt;p&gt;Okay, so we don’t really have a spiffy catchphrase, but we’d still love your help making next year Write the Docs’ best yet! We’re just starting to gear up for Write the Docs North America — in Portland, as usual, from May 14-16 — and the organizing team would love some help! If you’ve ever thought about running your own Write the Docs event, this is an excellent way to see how they come together, first-hand! If you’re interested in volunteering, &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/organizer-guide/confs/event-roles/&quot;&gt;have a look our event roles&lt;/a&gt; and drop us an email!&lt;/p&gt;
+&lt;p&gt;And of course, if you just can’t wait that long, or you’d rather focus your efforts locally, it’s always worth looking up the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/meetups/&quot;&gt;nearest meetup&lt;/a&gt; (or &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/organizer-guide/meetups/starting/&quot;&gt;starting one&lt;/a&gt; if it’s too far away!)&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2016/atom.xml">
+    <title type="text">Write the Docs Newsletter - November 2016</title>
+    <id>https://www.writethedocs.org/blog/newsletter-november-2016/</id>
+    <updated>2016-11-03T00:00:00Z</updated>
+    <published>2016-11-03T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-november-2016/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-newsletter-november-2016&quot;&gt;
+
+&lt;div class=&quot;section&quot; id=&quot;community-conversations-and-milestones&quot;&gt;
+&lt;h2&gt;Community conversations and milestones&lt;/h2&gt;
+&lt;p&gt;Hello, Write the Docs! Let me tell ya, it’s been a jam-packed month for interesting conversations in the community. It’s been really exciting to see so much activity and engagement on the Slack channel. It’s even got us thinking about bumping the frequency of these dispatches up to twice a month, just so we can include more good stuff.&lt;/p&gt;
+&lt;p&gt;But that’s a decision for the future. For right now, we have an exciting milestone to celebrate: &lt;strong&gt;The Write the Docs Slack community officially cleared 1000 members last week!!&lt;/strong&gt; Considering it’s only been around since the 2014 North American conference, that’s not too shabby! Thanks to all of you for making the Write the Docs Slack such an inquisitive, creative, supportive place to hang out.&lt;/p&gt;
+&lt;p&gt;(If you haven’t joined us on Slack yet, we’d love to have you. &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.org/slack/&quot;&gt;Just click here.&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Now, let’s get down to the stories for this month. Folks have had some really interesting chats on a great variety of topics – read on for some of the highlights!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;NOTE: Remember,  we’ll be keeping an eye on the #general channel for newsletter content, but if you see a conversation elsewhere on Slack (or Twitter or wherever) that you think is a good fit, ping our editor, Kelly O’Brien (&amp;#64;kobrien042).&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;a-quick-guide-to-style-guides&quot;&gt;
+&lt;h2&gt;A quick guide to style guides&lt;/h2&gt;
+&lt;p&gt;One of the perks of the Write the Docs community is having a group of people available to help figure out tricky style questions, when we run into them. This month, one such query led to a big discussion about what style and usage resources people use when they have questions.&lt;/p&gt;
+&lt;p&gt;Although lots of folks default to a simple Google search and go with the most common usage, there were some other suggestions for good places to start:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://www.merriam-webster.com/&quot;&gt;Merriam-Webster Dictionary&lt;/a&gt;, always a good start&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://pages.18f.gov/content-guide/&quot;&gt;18F’s in-house Content Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://styleguide.mailchimp.com/&quot;&gt;MailChimp’s Style Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;And, in fact, according to the Poll the Docs survey from last year, most of the 100 respondents, regardless of the size of their team, used some kind of in-house style guide.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In general, the recommendation was to pick one authoritative style guide and stick to it. This can be a little tricky since there’s a scarcity of up-to-date TechComm style guides to work with. (The &lt;a class=&quot;reference external&quot; href=&quot;https://www.amazon.com/Microsoft-Manual-Style-4th-Corporation/dp/0735648719&quot;&gt;Microsoft Manual of Style&lt;/a&gt; got honorable mention, but the most recent edition is still 4 years old.) Non-technical style guides like the Associated Press or Chicago Manual of Style are even more fraught, since they tend to lag seriously behind on the current technical lexicon.&lt;/p&gt;
+&lt;p&gt;If you’re looking for more style guide resources:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Thursday Bram (&amp;#64;thursday) made her style guide template available on her blog:  &lt;a class=&quot;reference external&quot; href=&quot;http://www.thursdaybram.com/download-my-in-house-style-guide-template-to-use-however-you-want&quot;&gt;http://www.thursdaybram.com/download-my-in-house-style-guide-template-to-use-however-you-want&lt;/a&gt; It makes an &lt;em&gt;excellent&lt;/em&gt; starting point if you’re developing your own style guide.&lt;/li&gt;
+&lt;li&gt;This forum post from last year also has some style guide suggestions for documentarians: &lt;a class=&quot;reference external&quot; href=&quot;http://forum.writethedocs.org/t/style-guides-for-documentarians/112&quot;&gt;http://forum.writethedocs.org/t/style-guides-for-documentarians/112&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;how-do-documentation-and-content-strategy-intersect&quot;&gt;
+&lt;h2&gt;How do documentation and content strategy intersect?&lt;/h2&gt;
+&lt;p&gt;A really interesting discussion about content strategy in technical writing emerged this month. Content strategy, historically, has been strongly associated with the marketing communications side of things. But the line between marketing content and technical communication seem to be getting blurrier by the day.&lt;/p&gt;
+&lt;p&gt;The high-level takeaway was that the definition of ‘Content Strategy’ as a practice seems to be shifting pretty significantly. People talked about seeing content strategy encompassing one, some, or all of the following:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Marketing communications&lt;/li&gt;
+&lt;li&gt;Documentation&lt;/li&gt;
+&lt;li&gt;In-product help text&lt;/li&gt;
+&lt;li&gt;UI naming conventions&lt;/li&gt;
+&lt;li&gt;Sales copy&lt;/li&gt;
+&lt;li&gt;Virtually any customer-facing content, in any context&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There was also a huge range in the types of job positions that were considered the responsible party when it came to content strategy. Everything from the very on-the-nose ‘Chief Content Officer’ role to something that sneaks onto a Product Manager’s plate (sometimes while they’re not looking). But one way or another, content strategy did seem to play a role in most people’s documentation work, whether they are overtly responsible for it or not.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;doc-friendly-toolchains-and-cmss&quot;&gt;
+&lt;h2&gt;Doc-friendly toolchains and CMSs&lt;/h2&gt;
+&lt;p&gt;As we’re all aware, tooling is a big deal. We all have specific needs to get our optimal workflows humming along, and those needs shift and evolve. Finding the ideal setup for getting your docs written and published takes time and effort (and funds). So, it was no surprise to see a discussion spark up around what kinds of doc tools are out there, and what you can (and can’t) expect from them.&lt;/p&gt;
+&lt;p&gt;The general consensus is that it’s still quite a challenge to find a solution (or combination of solutions) that suits your requirements, workflow, and budget, out of the box. As a result, many companies opt to build their own tools, in-house, instead of investing the time or money into bending one or more of the available tools to their will.&lt;/p&gt;
+&lt;p&gt;All of that said, a handful of solutions and platforms were mentioned in the conversation, if you’re looking to check out some of the options:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://readthedocs.org/&quot;&gt;Read the Docs&lt;/a&gt; – open source documentation hosting platform based on Sphinx&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/deconst/&quot;&gt;Deconst&lt;/a&gt; – open source tool from Rackspace, based on RTD + support for Sphinx and Jekyll&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.contentful.com/&quot;&gt;Contentful&lt;/a&gt; — developer-friendly, API-forward content management platform&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://forestry.io/&quot;&gt;Forestry&lt;/a&gt; – builds a CMS from a repo of your Jekyll or Hugo project&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://craftcms.com&quot;&gt;CraftCMS&lt;/a&gt; – user-friendly CMS, handy if you have non-techy folks contributing to your docs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;using-abbreviations-and-acronyms-in-documentation&quot;&gt;
+&lt;h2&gt;Using abbreviations and acronyms in documentation&lt;/h2&gt;
+&lt;p&gt;What started as a quick poll about how to abbreviate “input/output” – ‘I/O’ won handily over ‘IO’, 18:3 — quickly turned into a broader discussion about abbreviations in documentation on the whole. Here were some of the key questions and takeaways that emerged:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;For common abbreviations and acronyms, are definitions necessary?&lt;/strong&gt; The consensus on this point seemed to be yes, a definition is needed, even for common abbreviations and acronyms. Folks leaned away from assuming that your readers are familiar with terminology and abbreviations. (“Assumption is the mother of all feckups,” as one participant put it!) Basically, you never know who is reading your docs, so it’s dangerous to assume that every reader will understand undefined abbreviations and acronyms.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Does the intended audience affect whether you define abbreviations and acronyms?&lt;/strong&gt; Maybe you’ve heard something like “anyone ready to look at [X] documentation would already know what [Y] means.” The general feeling on this point was that even if you think the audience knows what you do and understands the terminology, it’s a mistake to disregard the readers who are new to the field or aren’t as familiar.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Can you count on readers to find definitions for acronyms via web searches?&lt;/strong&gt; It’s easy enough to search for unfamiliar acronyms, but what if an acronym has more than one meaning? If you don’t define what the acronym means in the context of your docs, readers could easily settle on a different meaning based on their searches. Take “CI” as an example. The most likely meaning might be “continuous integration,” but there are more than 200 possible meanings… and &lt;a class=&quot;reference external&quot; href=&quot;http://www.thefreedictionary.com/&quot;&gt;TheFreeDictionary.com&lt;/a&gt;’s list of the most common meanings doesn’t include “continuous integration” at all!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What does “define at first use” mean these days?&lt;/strong&gt; With so many technical documents published online, you might need to rethink the rule about defining acronyms at first use. Defining once “per document” doesn’t make much sense when the document isn’t a printed manual, there’s no “beginning” to flip back to, and there’s no index to check. Recommendations included spelling out acronyms at their first use in each section of documentation or in the overviews for sets of functions. The takeaway was that document structure and format will determine the best way to define acronyms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There was also an entertaining discussion of how the “everyone knows THAT” perspective can lead to problems, if you’re not careful. Go have a read about &lt;a class=&quot;reference external&quot; href=&quot;http://www.pbs.org/wgbh/nova/ancient/egypt-punt.html&quot;&gt;the location of the ancient Land of Punt&lt;/a&gt; or phenomenon like &lt;a class=&quot;reference external&quot; href=&quot;http://www.hanselman.com/blog/TheFloppyDiskMeansSaveAnd14OtherOldPeopleIconsThatDontMakeSenseAnymore.aspx&quot;&gt;iconography that doesn’t make sense anymore&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;need-more-documentation-goodness&quot;&gt;
+&lt;h2&gt;Need more documentation goodness?&lt;/h2&gt;
+&lt;p&gt;For any of you who might have your eyes set on this year’s Linux.Conf.Au, there will be a one-day miniconf called ‘Doc Down Under’ the day before LCA kicks off. Their call for proposals is open right now and is very relevant to Write the Docs’ interests. So if you’ve been looking for an excuse to visit Hobart, Tasmania in January, go &lt;a class=&quot;reference external&quot; href=&quot;https://lca2017.linux.org.au/index.html&quot;&gt;check out their CFP&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Although our next Write the Docs conference doesn’t come around ‘til the spring, you can always check to see if there’s a &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/meetups/&quot;&gt;Write the Docs meetup&lt;/a&gt; near you! (And if there’s not, &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/watch?v=ZwQ8Kd48d0w&quot;&gt;think about starting one up&lt;/a&gt;!)&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2016/atom.xml">
+    <title type="text">Write the Docs Newsletter - October 2016</title>
+    <id>https://www.writethedocs.org/blog/newsletter-october-2016/</id>
+    <updated>2016-10-03T00:00:00Z</updated>
+    <published>2016-10-03T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-october-2016/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-newsletter-october-2016&quot;&gt;
+
+&lt;div class=&quot;section&quot; id=&quot;happy-october&quot;&gt;
+&lt;h2&gt;Happy October!&lt;/h2&gt;
+&lt;p&gt;Hello Write the Docs! Nice to see you again in this, our second issue of the community newsletter. In case you missed us last time, we’ve started up a monthly newsletter to highlight interesting conversations that have been happening in the community over the last few weeks.&lt;/p&gt;
+&lt;p&gt;This month, there was tons of good material to choose from on the Write the Docs Slack. (Between us, I suspect this is going to be a recurring problem. 😉 ) On top of that, out in the real world, we successfully carried off our third EU conference! We’ll include some links to write-ups and multimedia coverage from Prague at the bottom of the newsletter, if you’re looking to relive (or vicariously experience) the fun!&lt;/p&gt;
+&lt;p&gt;In the meantime, we hope you find these tidbits useful, insightful, or at the very least a reasonably interesting way to pass a few minutes of your day.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;NOTE: As a reminder, we’ll be keeping an eye on the #general channel for newsletter content, but if you see a conversation elsewhere on Slack (or Twitter or wherever) that would make good newsletter fodder, ping our editor, Kelly O’Brien (&amp;#64;kobrien042).&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;improving-diversity-in-our-docs&quot;&gt;
+&lt;h2&gt;Improving diversity in our docs&lt;/h2&gt;
+&lt;p&gt;Often when we’re writing docs, we’ll lean on a few fictional users we can refer to by name, to make our content easier to connect with. But when picking names for these users, it’s dangerously easy to fall back on old standards like ‘Joe Bloggs’ or ‘Jane Smith’, which do little to represent a diverse user base.&lt;/p&gt;
+&lt;p&gt;It was interesting to hear how people have approached the task of bringing a broader range of users into their docs:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Pop culture references&lt;/strong&gt; — Using familiar characters from popular culture (Star Trek was the example that came up) was one example. It has the advantage of having a set established characters to choose from, and a narrative you can borrow against to boot. It also, though, runs the risk of not translating across cultural boundaries, as well as requiring some research into fair use and copyright laws, to be on the safe side.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wikipedia common names&lt;/strong&gt; — Wikipedia has a &lt;a class=&quot;reference external&quot; href=&quot;https://en.wikipedia.org/wiki/List_of_placeholder_names_by_language&quot;&gt;list of common placeholder names in lots of different languages&lt;/a&gt;, that could be a good resource. That said, the consensus was that it’d be best to check any name found there with a native speaker to make sure it’s on the up-and-up. (It was also suggested that vetting and rounding out this list might make an interesting project for a future Write the Docs writing day. Something to think on.)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Random name generators&lt;/strong&gt; — There’s also a few &lt;a class=&quot;reference external&quot; href=&quot;http://www.behindthename.com/random/&quot;&gt;random name generators&lt;/a&gt; out there that would make for good resources.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;None of these are a perfect solution, perhaps, but they all give us somewhere to start from, when thinking about broader representation in our docs.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;coming-soon-the-responsible-communication-guide&quot;&gt;
+&lt;h2&gt;Coming soon: The Responsible Communication Guide&lt;/h2&gt;
+&lt;p&gt;To help us with questions like the one above, Thursday Bram (&amp;#64;thursday) (one of our illustrious WtD speakers) and Audrey Eschright (founder and publisher of &lt;em&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://recompilermag.com/&quot;&gt;The Recompiler&lt;/a&gt;&lt;/em&gt;) just successfully funded their Kickstarter campaign to publish the &lt;a class=&quot;reference external&quot; href=&quot;https://www.kickstarter.com/projects/961164339/the-responsible-communication-style-guide&quot;&gt;Responsible Communication Guide&lt;/a&gt;. The project will produce a cross-functional style guide to help people write about technology in way that is more sensitive and inclusive around questions of race, gender, sexuality, religion, and health. Definitely a project to keep an eye on—congratulations to everyone who worked so hard to get it funded!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;writing-and-maintaining-command-reference-pages&quot;&gt;
+&lt;h2&gt;Writing and maintaining command reference pages&lt;/h2&gt;
+&lt;p&gt;On the technical side of things, early in the month a bunch of folks tackled the question of how best to put together command reference pages. For example, take a look at &lt;a class=&quot;reference external&quot; href=&quot;http://redis.io/commands&quot;&gt;http://redis.io/commands&lt;/a&gt;, &lt;a class=&quot;reference external&quot; href=&quot;https://developer.wordpress.org/cli/commands/&quot;&gt;https://developer.wordpress.org/cli/commands/&lt;/a&gt;, or &lt;a class=&quot;reference external&quot; href=&quot;https://drushcommands.com/&quot;&gt;https://drushcommands.com/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;One of the suggested approaches was to extract command messages in JSON format, then manually build a search and filter table on a static reference site. Although it might start out as a manual project, it’s probably a process that could be automated, in the long run.&lt;/p&gt;
+&lt;p&gt;There are also tools that will let you autogenerate help output, based on the source code. While this approach certainly makes the reference pages easier to maintain, its success is entirely dependent on making sure that your help text strings in the code clearly and adequately explain what the command does. If those strings are unclear, the autogenerated output won’t be helpful.&lt;/p&gt;
+&lt;p&gt;Whether you generate them manually or automatically, though, the consensus was that having a good process for reviewing your command messages/help text is important. Introducing some kind of help text review step into your regular code review process can be a good way to get your reference copy in front of your docs team, as well as giving your dev team a good example of the impact the help text strings have on your end users.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;putting-together-a-technical-writing-portfolio&quot;&gt;
+&lt;h2&gt;Putting together a technical writing portfolio&lt;/h2&gt;
+&lt;p&gt;When getting started as a documentarian, your portfolio of writing samples is often your best shot at getting your foot in the door with your first job or client. The question of what goes into a good portfolio came up this month, and people had lots of great advice to share:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Keep samples short&lt;/strong&gt; — Busy hiring managers aren’t likely to read a whole user manual, and in long samples, it’s not always obvious which parts you actually wrote. One suggestion was 3 to 5 pages of varied documentation types (reference, narrative, procedural, etc.).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Choose relevant samples&lt;/strong&gt; — Try to include samples that are related to the kind of tech writing you’d be doing, if the company were to hire you.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Share work that you’re proud of&lt;/strong&gt; — When selecting pieces for your portfolio you want to show off your best work to the hiring manager.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Just show them you can write&lt;/strong&gt; — Even if you don’t have professional technical writing samples, write a bit of example documentation for your favorite app or product. Even a blog post can be a good work sample, if it shows that you can write well.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Proofread, fiercely&lt;/strong&gt; — You want to be obsessive in your proofreading, making sure to eliminate any spelling, grammar, or typographical errors. Don’t give the hiring manager an easy way to disqualify your application!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For more help with preparing technical writing portfolios, there are some guidelines available here: &lt;a class=&quot;reference external&quot; href=&quot;http://www.synergistech.com/portfolios.shtml&quot;&gt;http://www.synergistech.com/portfolios.shtml&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tooling-highlight-bending-the-atom-editor-to-your-will&quot;&gt;
+&lt;h2&gt;Tooling highlight: Bending the Atom editor to your will&lt;/h2&gt;
+&lt;p&gt;Another of our past speakers, Chris Ward (&amp;#64;chrisward), published a new blog post this month — ‘Making Atom (even more) awesome’ —  about how he uses GitHub’s extensible, open source editor for writing documentation. The post garnered quite a bit of buzz and goes into an awesome degree of detail on his setup and all of the different customizations he’s tried out with the editor. Definitely worth a read, if you’re interested in other documentarians’ tool setups.&lt;/p&gt;
+&lt;p&gt;Read the post here: &lt;a class=&quot;reference external&quot; href=&quot;https://hackernoon.com/making-atom-even-more-awesome-my-setup-e7a89969a876&quot;&gt;https://hackernoon.com/making-atom-even-more-awesome-my-setup-e7a89969a876&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;looking-for-more-write-the-docs&quot;&gt;
+&lt;h2&gt;Looking for more Write the Docs?&lt;/h2&gt;
+&lt;p&gt;Thanks for joining us for our second edition! Just in case this wasn’t enough of a docs fix for you, here’s a sampling of the awesome community coverage for the Prague conference to tide you over til next month:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/playlist?list=PLZAeFn6dfHpnN8fXXHwPtPY33aLGGhYLJ&quot;&gt;Speaker Videos&lt;/a&gt; — by all of our wonderful speakers! ❤️&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.flickr.com/photos/writethedocs/&quot;&gt;Official Write the Docs Flickr Stream&lt;/a&gt; — photos by Kay Smoljak (&amp;#64;goatlady)&lt;/li&gt;
+&lt;li&gt;Daily Summaries, &lt;a class=&quot;reference external&quot; href=&quot;https://icreatedocs.wordpress.com/2016/09/28/write-the-docs-prague-day-1-summary/&quot;&gt;Day 1&lt;/a&gt; &amp;amp; &lt;a class=&quot;reference external&quot; href=&quot;https://icreatedocs.wordpress.com/2016/09/29/write-the-docs-prague-day-2-summary/&quot;&gt;Day 2&lt;/a&gt; — by Swapnil Ogale (&amp;#64;swapnilogale)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://docs.google.com/document/d/1Mr0vYuk6yP-OybDTQ_Zs1vBQsg7LxqlweM_oppJZVqw/edit#&quot;&gt;Live Note-taking&lt;/a&gt; — by Sarah Chambers (&amp;#64;sarahleeyoga)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://www.winglemeyer.org/technology/2016/09/20/wtd.html/&quot;&gt;Conference Session Notes&lt;/a&gt; — by Brian Exelbierd (&amp;#64;bexelbie)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://meetups.pixelastic.com/2016/09/19/writethedocs-europe-2016/&quot;&gt;Overall Conference Write-up&lt;/a&gt; — by Tim Carry (&amp;#64;pixelastic)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;p.s. And remember, even though our next conference isn’t til the spring, you can always check to see if there’s a &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/meetups/&quot;&gt;Write the Docs meetup&lt;/a&gt; near you! (And if there’s not, &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/organizer-guide/meetups/starting/&quot;&gt;think about starting one up&lt;/a&gt;!)&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2016/atom.xml">
+    <title type="text">Write the Docs Newsletter - September 2016</title>
+    <id>https://www.writethedocs.org/blog/newsletter-september-2016/</id>
+    <updated>2016-09-01T00:00:00Z</updated>
+    <published>2016-09-01T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-september-2016/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-newsletter-september-2016&quot;&gt;
+
+&lt;div class=&quot;section&quot; id=&quot;welcome-to-the-write-the-docs-newsletter&quot;&gt;
+&lt;h2&gt;Welcome to the Write the Docs Newsletter&lt;/h2&gt;
+&lt;p&gt;Hello Write the Docs! If you’re getting this email, you’ve probably attended (or considered attending) one of the documentation &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/&quot;&gt;conferences&lt;/a&gt; we’ve put on over the last few years. As our events have grown, so too has our community, and we’re working hard to make Write the Docs a year-round affair.&lt;/p&gt;
+&lt;p&gt;As part of that effort, we’re sending you this, our inaugural edition of the new Write the Docs monthly newsletter! Our goal is to make it easier for folks to keep current with what the community’s talking about each month. The bulk of the newsletter content will be distilled from interesting conversations that crop up on the #general channel of the &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.org/slack/&quot;&gt;Write the Docs Slack &lt;/a&gt;. We’ll be highlighting topics that are recurring themes or simply seem to resonate with a lot of folks.&lt;/p&gt;
+&lt;div class=&quot;admonition note&quot;&gt;
+&lt;p class=&quot;first admonition-title&quot;&gt;Note&lt;/p&gt;
+&lt;p class=&quot;last&quot;&gt;We know the #general channel is just one arena for docs talk. If  you see a conversation elsewhere on Slack (or Twitter or wherever) that would make good newsletter fodder, ping our editor, &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/team/#newsletter-team&quot;&gt;Kelly O’Brien&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;And without further ado, here’s a few topics of conversation from this past month that tickled our fancy:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;what-to-include-in-your-ui-copy&quot;&gt;
+&lt;h2&gt;What to include in your UI copy&lt;/h2&gt;
+&lt;p&gt;Deciding what to include in your UI copy — and what not to — always takes some careful thought. When do you try include full definitions or descriptions right on the screen, and when is it better to simply add a link off to more comprehensive documentation?&lt;/p&gt;
+&lt;p&gt;The general consensus was that the comfort level of your audience has a big impact on how much explanation to put in UI. If you’re writing for an audience that’s easily daunted or confused, include as much explanation as possible. On the other hand, if your audience includes experienced users who may need only reminders, the UI text could be reminders only, with a link to the extended documentation.&lt;/p&gt;
+&lt;p&gt;There were also a handful of great suggestions for UI copy best practices:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Progressive disclosure: Show key points that are likely to be broadly useful or the most critical, and make more information available on demand, for example with a hide/show control or a link to extended documentation.&lt;/li&gt;
+&lt;li&gt;Simplify the item that needs explanation, if possible, so that it requires less explanation.&lt;/li&gt;
+&lt;li&gt;Keep in mind that too much in-UI help and information can overload users and reduce readability.&lt;/li&gt;
+&lt;li&gt;User feedback through support requests and user testing can help writers find the balance of detail and explanation that is “just right” for most users.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you’re looking for more info about UI help text, check out Beth Aitman’s talk on the subject from Write the Docs EU 2015. For more on progressive disclosure, try this blog post: &lt;a class=&quot;reference external&quot; href=&quot;https://blog.recurly.com/2013/04/masking-complexity-through-progressive-disclosure&quot;&gt;Masking Complexity through Progressive Disclosure&lt;/a&gt;,&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;metrics-case-study-total-time-reading-ttr&quot;&gt;
+&lt;h2&gt;Metrics case study: Total Time Reading (TTR)&lt;/h2&gt;
+&lt;p&gt;Who doesn’t love talking about documentation metrics? (No one, that’s who.) One of the Write the Docs co-founders, Troy Howard, has a new blog post out, in which he takes a close look at Total Time Reading (TTR) as a way of judging the success of a page or article. If documentation metrics is your thing, it’s definitely worth a read:
+&lt;a class=&quot;reference external&quot; href=&quot;http://blog.thoward37.me/articles/techdocs-metrics-total-time-reading-(ttr)&quot;&gt;TechDocs Metrics Case Study: Total Time Reading (TTR)&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;code-review-versus-copy-review&quot;&gt;
+&lt;h2&gt;Code review versus copy review&lt;/h2&gt;
+&lt;p&gt;Another blog post that spurred conversation was this one from the Atlassian blog, &lt;a class=&quot;reference external&quot; href=&quot;http://blogs.atlassian.com/2016/07/written-unwritten-guide-pull-requests/&quot;&gt;The (written) unwritten guide to pull requests&lt;/a&gt;. In addition to having lots of good pointers for, y’know, doing code reviews, it also sparked a conversation about some of those same techniques can be used to conduct copy reviews on your docs.&lt;/p&gt;
+&lt;p&gt;This especially struck a chord with folks who work with a team of content contributors. Having a set editorial review process is really helpful for building up a reliable and transparent workflow. The general feeling was that stealing some code review techniques and adapting them to an editorial review process could save you from having to reinvent the wheel.&lt;/p&gt;
+&lt;p&gt;Another suggestion for a good resource when you’re building up copy review processes was &lt;a class=&quot;reference external&quot; href=&quot;http://www.powells.com/book/checklist-manifesto-9780805091748&quot;&gt;‘The Checklist Manifesto’&lt;/a&gt;, by Atul Gawande.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;one-style-guide-or-two&quot;&gt;
+&lt;h2&gt;One style guide or two?&lt;/h2&gt;
+&lt;p&gt;When it comes to content style guides, there was some discussion of whether it was better to have separate guides — one for docs and one for marketing content, for example — or to try to cover both types of writing with a single guide. There were lots of opinions.&lt;/p&gt;
+&lt;p&gt;Here are some thoughts from proponents of multiple style guides:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Technical documentation and marketing have different goals, so a single tone/voice may not be appropriate for both.&lt;/li&gt;
+&lt;li&gt;Accepted conventions in one group may be rejected by other groups (for example, using sentence case in headings).&lt;/li&gt;
+&lt;li&gt;Some groups, like marketing, typically use a casual voice and flashy word choices that aren’t always appropriate in technical documentation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;From the other camp, here were some arguments in favor of a single guide:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Customers may be confused by differing and conflicting terminology in company materials when groups use different style guides. For example, is it an app, platform, product, service, or something else?&lt;/li&gt;
+&lt;li&gt;A consistent voice across all company materials is a trend, even if, historically, technical docs may not have been beholden to the brand’s tone guidelines.&lt;/li&gt;
+&lt;li&gt;Using terms that a layperson will understand is best practice in tech docs, and having a central style guide makes that consistency easier.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For more on documentation style guides, this blog post from &lt;a class=&quot;reference external&quot; href=&quot;http://www.ihearttechnicalwriting.com/style-guide-technical-writing/&quot;&gt;I Heart Technical Writing&lt;/a&gt; is a good place to start.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;looking-for-more-write-the-docs&quot;&gt;
+&lt;h2&gt;Looking for more Write the Docs?&lt;/h2&gt;
+&lt;p&gt;We hope you enjoyed our first installment of Write the Docs hot topics! Keep an eye here every month for more. But just in case this wasn’t not enough docs love for you:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;We feel ya.&lt;/li&gt;
+&lt;li&gt;Scope out &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/&quot;&gt;our upcoming conferences&lt;/a&gt;! (&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/&quot;&gt;The next one&lt;/a&gt;, in Prague, is coming up in a few weeks!)&lt;/li&gt;
+&lt;li&gt;See if there’s a Write the Docs &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/meetups/&quot;&gt;meetup&lt;/a&gt; near you! (And if there’s not, &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/organizer-guide/meetups/starting/&quot;&gt;think about starting one up&lt;/a&gt;!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2016/atom.xml">
+    <title type="text">Documenting the Write the Docs Team &amp; European Conference Reminder</title>
+    <id>https://www.writethedocs.org/blog/team-eu-speakers/</id>
+    <updated>2016-07-29T00:00:00Z</updated>
+    <published>2016-07-29T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/team-eu-speakers/" />
+    <author>
+      <name>Eric Holscher</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;documenting-the-write-the-docs-team-european-conference-reminder&quot;&gt;
+
+&lt;p&gt;We hope you’re having a relaxing summer!
+We’ve been busy in Write the Docs land,
+planning our European conference,
+and also trying to document our internal processes a bit better.&lt;/p&gt;
+&lt;p&gt;At the conferences we try to be very explicit about our Code of Conduct and who can enforce it.
+Up til now,
+we haven’t been doing this nearly as well as we should in our online channels.
+We are hoping to change that going forward,
+so that we can make sure that all parts of the Write the Docs community are inclusive and welcoming places.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;documenting-our-team&quot;&gt;
+&lt;h2&gt;Documenting our Team&lt;/h2&gt;
+&lt;p&gt;We have built out a &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/team/&quot;&gt;team&lt;/a&gt; page that lists all of the roles that people currently play in our community.
+This doesn’t include the wonderful meetup organizers or conference organizers currently,
+but we’re in the process of more formally documenting those roles as well.&lt;/p&gt;
+&lt;p&gt;We hope that having explicit teams and points of contact will make it both easier for people to know who is doing what,
+and also give people who want to volunteer better points of contact.&lt;/p&gt;
+&lt;p&gt;Write the Docs is a fully volunteer effort,
+and we really do appreciate everyone who’s involved in our community.
+Even chatting in Slack or the Forum,
+or attending a meetup or conference,
+you are helping to build the wonderful community that we have.&lt;/p&gt;
+&lt;p&gt;Thanks to everyone who is formally and informally involved in the effort.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;write-the-docs-europe-2016-presentations&quot;&gt;
+&lt;h2&gt;Write the Docs Europe 2016 Presentations&lt;/h2&gt;
+&lt;p&gt;We’re tremendously excited to share the lineup for Write the Docs Europe 2016 with you.
+It was harder than ever to decide on the final talks this year, and we thank everyone who put
+in the time and effort to submit a proposal. We couldn’t do it without you – all of you!&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Chris Mills - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-chris-mills&quot;&gt;Feedback handling, community wrangling, panhandling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Erik Romijn - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-erik-romijn&quot;&gt;Healthy Minds in a Healthy Community&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;David Oliver - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-david-oliver&quot;&gt;Documentoring: Growing a “Love The Docs” community&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Swapnil Ogale - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-swapnil-ogale&quot;&gt;When bad screenshots happen to good writers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Chris Ward - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-chris-ward&quot;&gt;Beyond Software - Learning from Other Technical Writers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Michael Meng - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-michael-meng&quot;&gt;API documentation: Exploring the information needs of software developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;István Zoltán Szabó - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-istvan-zoltan-szabo&quot;&gt;Writing as a non-native speaker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kata Nagygyörgy - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-kata-nagygyorgy&quot;&gt;Poll the Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Daniel Beck - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-daniel-beck&quot;&gt;Checklist the Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Thursday Bram - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-thursday-bram&quot;&gt;What Writing Fiction Teaches You About Writing Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jan Christian Krause - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-jan-christian-krause&quot;&gt;Using meaningful names to improve API-documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sarah Chambers - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-sarah-chambers&quot;&gt;Documentarians and Support: Work Better Together&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Riona MacNamara - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-riona-macnamara&quot;&gt;As Good As It Gets: Why Better Trumps Best&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Paul Adams - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-paul-adams&quot;&gt;Postulating The Backlog Laxative&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Rory Tanner - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-rory-tanner&quot;&gt;Information micro-architecture: grammar, syntax, and cognitive rhetoric&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Joan Wendt - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-joan-wendt&quot;&gt;Operations Technical Writing for Data Centers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sarah Karp - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-sarah-karp&quot;&gt;Watch that tone! Creating an information experience in the Atlassian voice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Rachel Whitton - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-rachel-whitton&quot;&gt;Delivering High-Velocity Docs that Keep Pace with Rapid Release Cycles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Margaret Eker, Jennifer Rondeau - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-margaret-eker&quot;&gt;Docs as Code: The Missing Manual&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In the next few weeks, we’ll also be announcing more details of the conference events, including the city
+tour on Saturday, the writing day and welcome reception on Sunday, and the official party on Monday evening.&lt;/p&gt;
+&lt;p&gt;Tickets are going fast and we expect the conference to sell out again, so get &lt;a class=&quot;reference external&quot; href=&quot;https://ti.to/writethedocs/write-the-docs-eu-2016/&quot;&gt;your tickets now&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We hope everyone continues to have a happy and healthy summer.&lt;/p&gt;
+&lt;p&gt;The Write the Docs Team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2016/atom.xml">
+    <title type="text">Welcome to the blog</title>
+    <id>https://www.writethedocs.org/blog/welcome/</id>
+    <updated>2016-04-15T00:00:00Z</updated>
+    <published>2016-04-15T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/welcome/" />
+    <author>
+      <name>Eric Holscher</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;welcome-to-the-blog&quot;&gt;
+
+&lt;p&gt;We are hoping to launch a Write the Docs blog!
+We’ll highlight some community members,
+and lots of other fun stuff.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

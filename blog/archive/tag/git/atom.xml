@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged git</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/git/atom.xml</id>
+  <updated>2017-04-03T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/git/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/git/atom.xml">
+    <title type="text">Write the Docs Newsletter - April 2017</title>
+    <id>https://www.writethedocs.org/blog/newsletter-april-2017/</id>
+    <updated>2017-04-03T00:00:00Z</updated>
+    <published>2017-04-03T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-april-2017/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-newsletter-april-2017&quot;&gt;
+
+&lt;div class=&quot;section&quot; id=&quot;spring-has-sprung&quot;&gt;
+&lt;h2&gt;Spring has Sprung!&lt;/h2&gt;
+&lt;p&gt;In the Northern Hemisphere, anyway. In the Southern Hemisphere, Fall has…fallen? Sounds good, let’s go with it!&lt;/p&gt;
+&lt;p&gt;In both hemispheres, &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/na/2017/&quot;&gt;Write the Docs Portland&lt;/a&gt; approaches! We’ve announced the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/na/2017/news/announcing-presentations/&quot;&gt;presentations and speakers&lt;/a&gt;, and you can &lt;a class=&quot;reference external&quot; href=&quot;https://ti.to/writethedocs/write-the-docs-na-2017/&quot;&gt;get your ticket here&lt;/a&gt;. We don’t expect to sell out for another couple of weeks, but if you haven’t made plans for May 14-16 yet, the perfect time is &lt;strong&gt;soon&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class=&quot;docutils&quot; /&gt;
+&lt;div class=&quot;section&quot; id=&quot;the-art-of-the-bug-report&quot;&gt;
+&lt;h2&gt;The Art of the Bug Report&lt;/h2&gt;
+&lt;p&gt;First up this month, someone asked the channel for a good example of how to document a bug. The community came through with suggestions for a template that includes:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Environment: affected software and versions&lt;/li&gt;
+&lt;li&gt;Summary in narrative form, such as “While testing feature &lt;em&gt;x&lt;/em&gt;, I encountered &lt;em&gt;z&lt;/em&gt;.”&lt;/li&gt;
+&lt;li&gt;Steps to reproduce the bug&lt;/li&gt;
+&lt;li&gt;Results and impacts, including severity level&lt;/li&gt;
+&lt;li&gt;Workarounds&lt;/li&gt;
+&lt;li&gt;Relevant diagnostics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But how to get that info into release notes? One participant reported his team’s process:&lt;/p&gt;
+&lt;ol class=&quot;arabic simple&quot;&gt;
+&lt;li&gt;Collect all JIRA issues (especially customer-reported issues)&lt;/li&gt;
+&lt;li&gt;Filter out internal code issues and QA tests&lt;/li&gt;
+&lt;li&gt;Rewrite the issue title so it’s easy for readers to scan&lt;/li&gt;
+&lt;li&gt;Label issues so they’re easy to sort&lt;/li&gt;
+&lt;li&gt;Use &lt;a class=&quot;reference external&quot; href=&quot;https://libraries.io/github/markcraig/release-notes-list-builder&quot;&gt;this script&lt;/a&gt; to transpose the issues (in JSON format) from JIRA into a DocBook block element for release notes&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;hr class=&quot;docutils&quot; /&gt;
+&lt;div class=&quot;section&quot; id=&quot;documentation-metrics-what-to-track-and-how&quot;&gt;
+&lt;h2&gt;Documentation Metrics: What to Track and How&lt;/h2&gt;
+&lt;p&gt;An interesting topic was swatted around the #watercooler this month: documentation metrics. Capturing the right information can definitely help us make targeted doc improvements, but the identifying that information – and capturing it – can be a bear. Some of the suggestions that came up included:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Using referral links to track which docs people engage with the most and the least&lt;/li&gt;
+&lt;li&gt;Tagging support requests to find the most relevant docs&lt;/li&gt;
+&lt;li&gt;Using an analytics platform to identify which search terms are used most (or searched for but not found) and which results are most-clicked&lt;/li&gt;
+&lt;li&gt;Adding :thumbsup: and :thumbsdown: rating options to collect helpfulness ratings from users&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For a take on how one support team tracked the relationship between support and content, check out &lt;a class=&quot;reference external&quot; href=&quot;https://www.campaignmonitor.com/blog/company/2013/09/yoda-our-support-ally/&quot;&gt;this blog post from Campaign Monitor&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class=&quot;docutils&quot; /&gt;
+&lt;div class=&quot;section&quot; id=&quot;starter-kit-for-command-line-git&quot;&gt;
+&lt;h2&gt;Starter Kit for Command Line Git&lt;/h2&gt;
+&lt;p&gt;Toward the end of the month, a request for an expert to help with learning command line Git resulted in an avalanche of resources. Here’s what folks suggested for learning Git:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/na/2017/speakers#speaker-matthew-desmond&quot;&gt;Git workshop at Write the Docs in May&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://try.github.io&quot;&gt;tryGit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://tsl.io/git-fire-drill/&quot;&gt;The SilverLogic Git Fire Drill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.git-scm.com/book/en/v2&quot;&gt;Pro Git by by Scott Chacon and Ben Straub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://learngitbranching.js.org&quot;&gt;Learn Git Branching&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Also noted: there’s nothing wrong with using Git in a desktop app or on the web! Folks mentioned &lt;a class=&quot;reference external&quot; href=&quot;https://www.sourcetreeapp.com/&quot;&gt;SourceTree&lt;/a&gt; and &lt;a class=&quot;reference external&quot; href=&quot;https://bitbucket.org/&quot;&gt;Bitbucket&lt;/a&gt; as GitHub alternatives.&lt;/p&gt;
+&lt;p&gt;The advice for those who want to feel more at home using command line Git? Practice, practice, practice–repetition makes perfect.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class=&quot;docutils&quot; /&gt;
+&lt;div class=&quot;section&quot; id=&quot;stack-overflow-developer-survey&quot;&gt;
+&lt;h2&gt;2017 Stack Overflow Developer Survey&lt;/h2&gt;
+&lt;p&gt;The annual Stack Overflow Developer survey was released this month! &lt;a class=&quot;reference external&quot; href=&quot;https://stackoverflow.com/insights/survey/2017/&quot;&gt;https://stackoverflow.com/insights/survey/2017/&lt;/a&gt;. Among 2017’s tidbits – which include findings on the most dreaded coding language and the feasibility of sharing an office with a noisy-keyboard-user – &lt;strong&gt;more than 80% of respondents said that they use official documentation to learn&lt;/strong&gt;. That was even higher than the number who used Stack Overflow, who did the survey!&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr class=&quot;docutils&quot; /&gt;
+&lt;div class=&quot;section&quot; id=&quot;looking-ahead&quot;&gt;
+&lt;h2&gt;Looking Ahead&lt;/h2&gt;
+&lt;p&gt;Write the Docs Portland is right on the horizon, and Write the Docs Prague isn’t going to be far behind! We’ll be opening the CFP up shortly, so now is a great time to be thinking about a talk you might want to submit! In the meantime, if May (or September) are just too far away to bear, remember you can always check out &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/meetups/&quot;&gt;your nearest meetup&lt;/a&gt;, or &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/organizer-guide/meetups/starting/&quot;&gt;start one yourself&lt;/a&gt;!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

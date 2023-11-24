@@ -1,0 +1,222 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged australia-2019</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/australia-2019/atom.xml</id>
+  <updated>2019-09-11T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/"/>
+  <link href="https://www.writethedocs.org/blog/archive/tag/australia-2019/atom.xml" rel="self"/>
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/australia-2019/atom.xml">
+    <title type="text">Announcing speakers and talks</title>
+    <id>https://www.writethedocs.org/conf/australia/2019/news/announcing-speakers/</id>
+    <updated>2019-09-11T00:00:00Z</updated>
+    <published>2019-09-11T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2019/news/announcing-speakers/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="announcing-speakers-and-talks"&gt;
+
+&lt;p&gt;G&amp;#8217;dday fellow documentarians in Australia and beyond!&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;re happy to write to you with the latest news about our upcoming Australian conference, there&amp;#8217;s lots to share and with the conference just over two months away, we hope you&amp;#8217;re all getting excited!&lt;/p&gt;
+&lt;p&gt;Firstly, we&amp;#8217;ve finalised our speakers for the event! Every year talk selection gets more and more difficult as we get a larger, stronger batch of submissions. Thank you so much to everyone who took the time to
+send us a proposal &amp;#8211; we literally wouldn&amp;#8217;t have an event without you!&lt;/p&gt;
+&lt;p&gt;We also have some info about ticket purchasing (now&amp;#8217;s the time!), call for volunteers, and sponsor updates.&lt;/p&gt;
+&lt;div class="section" id="full-speaker-line-up"&gt;
+&lt;h2&gt;Full speaker line-up&lt;/h2&gt;
+&lt;p&gt;Every year, we look to bring a wide range of voices to the Write the Docs stage. Because the role of &amp;#8220;documentarian&amp;#8221; looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics &amp;#8211; with the odd whimsical one thrown in for good measure. We&amp;#8217;re really excited about the presentations we&amp;#8217;ve got this year &amp;#8211;&amp;#160;we hope you are too!&lt;/p&gt;
+&lt;span class="target" id="speaker-paris-buttfield-addison"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Paris Buttfield-Addison  &amp;#8211; Making interactive narrative storytelling accessible to everyone&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-payal-dhiman"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Payal Dhiman  &amp;#8211; Being a user&amp;#8217;s documentarian: Studying user&amp;#8217;s behavior and then defining a strategy for documentation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-rachel-robins"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Rachel Robins  &amp;#8211; Supercharge your writing process with a designer&amp;#8217;s toolkit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-alexander-koren"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Alexander Koren  &amp;#8211; Rethinking Release Notes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-nithya-krishnan"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Nithya Krishnan  &amp;#8211; Minimal Viable Product - What does this mean for user documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-riona-macnamara"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Riona MacNamara  &amp;#8211; Knowledge Is Power: Documentation as a tool for equity and inclusion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-fraser-mitchell"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Fraser Mitchell  &amp;#8211; Through the looking glass - how user testing can give technical writers better perspective&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-akhil-behl"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Akhil Behl  &amp;#8211; Your First Book - Doesn&amp;#8217;t have to be rocket science!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-leticia-mooney"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Leticia Mooney  &amp;#8211; The amazing, fantastic human bias that makes you bang your head on your desk&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-alec-clews"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Alec Clews  &amp;#8211; Creating API documentation for international communities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-elle-geraghty"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Elle Geraghty  &amp;#8211; Information architecture for documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-cameron-shorter"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Cameron Shorter  &amp;#8211; TheGoodDocsProject - Doc Fixit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-sarah-maddox"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Sarah Maddox  &amp;#8211; Kubeflow open source docs need your help!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-becky-todd"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Becky Todd  &amp;#8211; Git the Docs - A fun, hands-on introduction to version control&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-sarah-maddox-workshop"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Sarah Maddox  &amp;#8211; Tech Writing 101 Workshop&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Head over to the &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2019/speakers/"&gt;Speakers&lt;/a&gt; page for full abstracts. We hope there&amp;#8217;s something there for everyone to enjoy, and also something that will broaden your horizons a bit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="call-for-volunteers"&gt;
+&lt;h2&gt;Call for volunteers&lt;/h2&gt;
+&lt;p&gt;There is plenty to do during the conference and volunteers are essential to the success of all our events! We are looking for folks who are willing to help out during the conference. If you volunteer for two or more shifts (at an average of three hours each), you will receive a free ticket for the conference.&lt;/p&gt;
+&lt;p&gt;We are looking for folks to help out in these roles:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Venue set up&lt;/strong&gt; - Prepping the main conference hall on Thursday (early morning), including preparing the registration desk, laying out swag, arranging writing day boards, and other light physical labour&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Workshops/Doc Fixits&lt;/strong&gt; - Assisting the Workshops and Doc Fixits speakers, including general information inquiries, directing attendees to specific tables, helping writing day project leads with logistical questions, and other duties as assigned&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Registration desk/Info&lt;/strong&gt; - Registering people in the main conference hall and answering any questions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Speakers&lt;/strong&gt; - Finding speakers and making sure that they&amp;#8217;re where they need to be when it comes time to speak&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Talk Timing&lt;/strong&gt; - Keeping track of the length of the talks and warning speakers when they&amp;#8217;re running out of time&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unconference&lt;/strong&gt; - Camping out in the unconference area downstairs, keeping the place in order, updating unconference room schedule, and so on&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Venue take down&lt;/strong&gt; - What&amp;#8217;s more fun than setting things up? Taking them down! Helping with taking down the conference set up and leaving the conference hall better than we found it&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sydney expert&lt;/strong&gt; - If you are a Sydney local and would like to share your tips and recommendations or answer questions about places to eat, sightseeing, services, accommodation, or other events that are happening around the conference, we&amp;#8217;d love to have you on board!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Floaters&lt;/strong&gt; - Other duties as assigned ;) Assisting with odds and ends, requests from other volunteers and organizers, as well as answering questions; overall, being generally helpful&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you&amp;#8217;re not sure how to do any of these tasks, don&amp;#8217;t worry, the organisers will be available for questions and any problems you may encounter. We also have a dedicated volunteer coordinator and some volunteers from previous years will join us again, so you will have support.&lt;/p&gt;
+&lt;p&gt;To register as a volunteer for the conference, please read and fill out the &lt;a class="reference external" href="https://forms.gle/KWm4qgHdbSQuwx6x5"&gt;Call for Volunteers form&lt;/a&gt;. You will receive additional information by mid-October regarding shifts, detailed duties, and other updates to the volunteer duties and schedules.&lt;/p&gt;
+&lt;p&gt;Please email our volunteer coordinator Alexandra Perkins at &lt;a class="reference external" href="mailto:australia%40writethedocs.org"&gt;australia&lt;span&gt;@&lt;/span&gt;writethedocs&lt;span&gt;.&lt;/span&gt;org&lt;/a&gt; if you have any questions about volunteering for the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="tickets-are-going-fast"&gt;
+&lt;h2&gt;Tickets are going fast!&lt;/h2&gt;
+&lt;p&gt;If you don&amp;#8217;t have your ticket yet, now&amp;#8217;s a great time to snap one up. Last year we reached capacity a week before the conference, and this year we expect to reach it even sooner (we have already sold out 25% of the tickets), so if you&amp;#8217;re planning to come, don&amp;#8217;t leave it to the last minute.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2019/tickets/"&gt;Buy your tickets here!&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="thanks-to-our-sponsors"&gt;
+&lt;h2&gt;Thanks to our sponsors&lt;/h2&gt;
+&lt;p&gt;We are so grateful to have our sponsors help in bringing these events to life every year. Thanks sincerely to the following companies for supporting the Write the Docs community:&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.google.com/"&gt;Google&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.knowledgeowl.com/"&gt;Knowledgeowl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://buildkite.com/"&gt;Buildkite&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.gandi.net/en"&gt;Gandi.net&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://datalust.co/seq"&gt;Seq&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Want to lend a hand? Head over to our &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2019/sponsors/prospectus/"&gt;sponsorship prospectus&lt;/a&gt; for details on how your company can get involved! We have several types of sponsorship available, and is a great way to
+support and tap into the growing Australian community.&lt;/p&gt;
+&lt;p&gt;And that&amp;#8217;s the latest on the Australian conference. We hope you&amp;#8217;re all getting as excited as we are! Stay tuned for more details.&lt;/p&gt;
+&lt;p&gt;The Write the Docs Australia Team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/australia-2019/atom.xml">
+    <title type="text">CFP Reminder &amp; Tickets on Sale</title>
+    <id>https://www.writethedocs.org/conf/australia/2019/news/cfp-reminder/</id>
+    <updated>2019-08-08T00:00:00Z</updated>
+    <published>2019-08-08T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2019/news/cfp-reminder/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="cfp-reminder-tickets-on-sale"&gt;
+
+&lt;p&gt;G&amp;#8217;day fellow documentarians!&lt;/p&gt;
+&lt;p&gt;Here is the latest update about our Australian conference.
+Our &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2019/cfp/"&gt;call for proposals&lt;/a&gt; ends at midnight August 9, that is &lt;em&gt;very soon indeed&lt;/em&gt;! &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2019/tickets/"&gt;Tickets&lt;/a&gt; for the conference are still on sale, though we do expect them to sell out a bit before the conference this year.&lt;/p&gt;
+&lt;p&gt;Read on for more details on both!&lt;/p&gt;
+&lt;div class="section" id="submit-your-talk-by-end-of-the-day"&gt;
+&lt;h2&gt;Submit your talk by end of the day!&lt;/h2&gt;
+&lt;p&gt;As always, we&amp;#8217;re eagerly looking forward to &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2019/cfp/#submit-your-proposal"&gt;your submissions&lt;/a&gt;! We&amp;#8217;ll be reviewing all the talk proposals, and will be contacting everyone who submitted a proposal by Friday, Aug 30th.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="get-your-ticket-for-the-conference"&gt;
+&lt;h2&gt;Get your ticket for the conference&lt;/h2&gt;
+&lt;p&gt;This year the Australian conference will be &lt;strong&gt;in Sydney, November 14-15, 2019&lt;/strong&gt;. The &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2019/"&gt;full event website&lt;/a&gt; is live, with some preliminary details, and we&amp;#8217;ll be filling in more as it gets closer. We&amp;#8217;re already excited to see what this year has in store!&lt;/p&gt;
+&lt;p&gt;If you&amp;#8217;re excited too, go ahead and &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2019/tickets/"&gt;register for your ticket now&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Please make sure to register for your ticket before you book your travel!&lt;/strong&gt; We cannot be responsible for any non-refundable travel costs, and if we reach capacity at the venue before you register, we cannot guarantee a spot for you, even if you booked your travel.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="support-our-community-by-sponsoring"&gt;
+&lt;h2&gt;Support our community by sponsoring&lt;/h2&gt;
+&lt;p&gt;Every year we are fortunate to have the support of like-minded organizations and communities, who believe in the collaborative and welcoming community spirit and help us make our events more awesome.&lt;/p&gt;
+&lt;p&gt;If your company is interested in sponsoring one or more conferences, check out &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2019/sponsors/prospectus/"&gt;our prospectus for details on the different packages&lt;/a&gt; and drop us a line at &lt;a class="reference external" href="mailto:sponsorship%40writethedocs.org"&gt;sponsorship&lt;span&gt;@&lt;/span&gt;writethedocs&lt;span&gt;.&lt;/span&gt;org&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="thanks-to-our-sponsors"&gt;
+&lt;h2&gt;Thanks to our sponsors&lt;/h2&gt;
+&lt;p&gt;We&amp;#8217;d like to thank our current sponsors for helping us do what we do:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.knowledgeowl.com"&gt;Knowledgeowl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://buildkite.com/"&gt;Buildkite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://datalust.co/seq"&gt;Datalust&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Looking forward to seeing you all in Sydney!&lt;/p&gt;
+&lt;p&gt;The Write the Docs Team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/australia-2019/atom.xml">
+    <title type="text">Announcing Australia Website, CFP, and Ticket Sales</title>
+    <id>https://www.writethedocs.org/conf/australia/2019/news/au-2019-welcome/</id>
+    <updated>2019-06-18T00:00:00Z</updated>
+    <published>2019-06-18T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2019/news/au-2019-welcome/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="announcing-australia-website-cfp-and-ticket-sales"&gt;
+
+&lt;p&gt;Welcome to the official kick-off of &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2019/"&gt;Write the Docs Australia 2019&lt;/a&gt;!
+It&amp;#8217;s shaping up to be another wonderful year full of great conversations and interesting talks.&lt;/p&gt;
+&lt;p&gt;Today we are launching our &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2019/"&gt;website&lt;/a&gt;, &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2019/cfp/"&gt;call for proposals&lt;/a&gt;, and &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2019/tickets/"&gt;ticket sales&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="section" id="website"&gt;
+&lt;h2&gt;Website&lt;/h2&gt;
+&lt;p&gt;As per our tradition of website optimization, this year&amp;#8217;s website is even more friendly and lively!
+We&amp;#8217;ve included (hopefully) all the information you need to plan your visit to Australia, such as venue location and a schedule overview.&lt;/p&gt;
+&lt;p&gt;As with all things on the web, there are likely to be a few lingering bugs with the design.
+Feel free to reach out to us by replying to this email, or emailing us at &lt;a class="reference external" href="mailto:australia%40writethedocs.org"&gt;australia&lt;span&gt;@&lt;/span&gt;writethedocs&lt;span&gt;.&lt;/span&gt;org&lt;/a&gt; if you see any issues!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="tickets"&gt;
+&lt;h2&gt;Tickets&lt;/h2&gt;
+&lt;p&gt;Ticket prices and descriptions are available on our &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2019/tickets/"&gt;Tickets&lt;/a&gt; page. Last year we had 105 attendees, and this year, we are planning to host 100-120 attendees across 2 days in a new location.&lt;/p&gt;
+&lt;p&gt;We believe that everyone who cares about this topic has a place at our event, and we keep ticket prices low so that it is accessible to the widest range of people possible.
+However, if you can&amp;#8217;t afford these prices and still wish to attend, please email us at &lt;a class="reference external" href="mailto:australia%40writethedocs.org"&gt;australia&lt;span&gt;@&lt;/span&gt;writethedocs&lt;span&gt;.&lt;/span&gt;org&lt;/a&gt;, and we can work on getting you reduced price tickets or volunteer options.&lt;/p&gt;
+&lt;p&gt;As with the previous years, we have tiered pricing to make it fair for everyone.
+Please buy the ticket that best fits your situation.
+Tickets are &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2019/tickets/"&gt;on sale now&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="call-for-proposals"&gt;
+&lt;h2&gt;Call for proposals&lt;/h2&gt;
+&lt;p&gt;Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
+Whether you&amp;#8217;ve been writing documentation for decades or you&amp;#8217;ve just started, we want to hear from you!&lt;/p&gt;
+&lt;p&gt;The &lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2019/cfp/"&gt;Call for Proposals&lt;/a&gt; page now has all the information that you need to prepare and submit your proposal.&lt;/p&gt;
+&lt;p&gt;Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians.
+If there is something you&amp;#8217;d really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good!&lt;/p&gt;
+&lt;p&gt;The Call for Proposals will be open until &lt;strong&gt;Midnight AEST, 9th August 2019&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="conclusion"&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;We hope you will join us in Sydney, Australia for the second Australian Write the Docs conference.
+Whether as a speaker or attendee, you can bet it will be another delightful year!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/australia-2019/atom.xml">
+    <title type="text">Announcing Australia 2019 Conference Dates</title>
+    <id>https://www.writethedocs.org/conf/australia/2019/news/init/</id>
+    <updated>2019-04-30T00:00:00Z</updated>
+    <published>2019-04-30T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2019/news/init/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="announcing-australia-2019-conference-dates"&gt;
+
+&lt;p&gt;Greetings, documentarians!&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;re happy to announce the dates for Write the Docs Australia 2019. This year&amp;#8217;s Australian conference will be held November 14-15, 2019, in Sydney at the &lt;strong&gt;Justice and Police Museum, corner Albert and Phillip Streets, Circular Quay&lt;/strong&gt;, one block away from the Circular Quay train station.&lt;/p&gt;
+&lt;p&gt;We expect to open both ticket sales and the Call for Proposals late May 2019. In the meantime, mark your calendars and start getting excited!&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

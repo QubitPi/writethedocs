@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts by Eric Holscher</title>
+  <id>https://www.writethedocs.org/blog/archive/author/eric-holscher/atom.xml</id>
+  <updated>2016-07-29T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/author/eric-holscher/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/author/eric-holscher/atom.xml">
+    <title type="text">Documenting the Write the Docs Team &amp; European Conference Reminder</title>
+    <id>https://www.writethedocs.org/blog/team-eu-speakers/</id>
+    <updated>2016-07-29T00:00:00Z</updated>
+    <published>2016-07-29T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/team-eu-speakers/" />
+    <author>
+      <name>Eric Holscher</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;documenting-the-write-the-docs-team-european-conference-reminder&quot;&gt;
+
+&lt;p&gt;We hope you’re having a relaxing summer!
+We’ve been busy in Write the Docs land,
+planning our European conference,
+and also trying to document our internal processes a bit better.&lt;/p&gt;
+&lt;p&gt;At the conferences we try to be very explicit about our Code of Conduct and who can enforce it.
+Up til now,
+we haven’t been doing this nearly as well as we should in our online channels.
+We are hoping to change that going forward,
+so that we can make sure that all parts of the Write the Docs community are inclusive and welcoming places.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;documenting-our-team&quot;&gt;
+&lt;h2&gt;Documenting our Team&lt;/h2&gt;
+&lt;p&gt;We have built out a &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/team/&quot;&gt;team&lt;/a&gt; page that lists all of the roles that people currently play in our community.
+This doesn’t include the wonderful meetup organizers or conference organizers currently,
+but we’re in the process of more formally documenting those roles as well.&lt;/p&gt;
+&lt;p&gt;We hope that having explicit teams and points of contact will make it both easier for people to know who is doing what,
+and also give people who want to volunteer better points of contact.&lt;/p&gt;
+&lt;p&gt;Write the Docs is a fully volunteer effort,
+and we really do appreciate everyone who’s involved in our community.
+Even chatting in Slack or the Forum,
+or attending a meetup or conference,
+you are helping to build the wonderful community that we have.&lt;/p&gt;
+&lt;p&gt;Thanks to everyone who is formally and informally involved in the effort.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;write-the-docs-europe-2016-presentations&quot;&gt;
+&lt;h2&gt;Write the Docs Europe 2016 Presentations&lt;/h2&gt;
+&lt;p&gt;We’re tremendously excited to share the lineup for Write the Docs Europe 2016 with you.
+It was harder than ever to decide on the final talks this year, and we thank everyone who put
+in the time and effort to submit a proposal. We couldn’t do it without you – all of you!&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Chris Mills - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-chris-mills&quot;&gt;Feedback handling, community wrangling, panhandling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Erik Romijn - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-erik-romijn&quot;&gt;Healthy Minds in a Healthy Community&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;David Oliver - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-david-oliver&quot;&gt;Documentoring: Growing a “Love The Docs” community&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Swapnil Ogale - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-swapnil-ogale&quot;&gt;When bad screenshots happen to good writers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Chris Ward - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-chris-ward&quot;&gt;Beyond Software - Learning from Other Technical Writers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Michael Meng - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-michael-meng&quot;&gt;API documentation: Exploring the information needs of software developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;István Zoltán Szabó - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-istvan-zoltan-szabo&quot;&gt;Writing as a non-native speaker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kata Nagygyörgy - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-kata-nagygyorgy&quot;&gt;Poll the Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Daniel Beck - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-daniel-beck&quot;&gt;Checklist the Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Thursday Bram - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-thursday-bram&quot;&gt;What Writing Fiction Teaches You About Writing Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jan Christian Krause - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-jan-christian-krause&quot;&gt;Using meaningful names to improve API-documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sarah Chambers - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-sarah-chambers&quot;&gt;Documentarians and Support: Work Better Together&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Riona MacNamara - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-riona-macnamara&quot;&gt;As Good As It Gets: Why Better Trumps Best&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Paul Adams - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-paul-adams&quot;&gt;Postulating The Backlog Laxative&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Rory Tanner - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-rory-tanner&quot;&gt;Information micro-architecture: grammar, syntax, and cognitive rhetoric&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Joan Wendt - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-joan-wendt&quot;&gt;Operations Technical Writing for Data Centers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sarah Karp - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-sarah-karp&quot;&gt;Watch that tone! Creating an information experience in the Atlassian voice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Rachel Whitton - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-rachel-whitton&quot;&gt;Delivering High-Velocity Docs that Keep Pace with Rapid Release Cycles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Margaret Eker, Jennifer Rondeau - &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-margaret-eker&quot;&gt;Docs as Code: The Missing Manual&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In the next few weeks, we’ll also be announcing more details of the conference events, including the city
+tour on Saturday, the writing day and welcome reception on Sunday, and the official party on Monday evening.&lt;/p&gt;
+&lt;p&gt;Tickets are going fast and we expect the conference to sell out again, so get &lt;a class=&quot;reference external&quot; href=&quot;https://ti.to/writethedocs/write-the-docs-eu-2016/&quot;&gt;your tickets now&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We hope everyone continues to have a happy and healthy summer.&lt;/p&gt;
+&lt;p&gt;The Write the Docs Team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/author/eric-holscher/atom.xml">
+    <title type="text">Welcome to the blog</title>
+    <id>https://www.writethedocs.org/blog/welcome/</id>
+    <updated>2016-04-15T00:00:00Z</updated>
+    <published>2016-04-15T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/welcome/" />
+    <author>
+      <name>Eric Holscher</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;welcome-to-the-blog&quot;&gt;
+
+&lt;p&gt;We are hoping to launch a Write the Docs blog!
+We’ll highlight some community members,
+and lots of other fun stuff.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

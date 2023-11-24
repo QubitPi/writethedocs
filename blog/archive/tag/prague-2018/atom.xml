@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged prague-2018</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/prague-2018/atom.xml</id>
+  <updated>2018-09-18T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/prague-2018/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/prague-2018/atom.xml">
+    <title type="text">Highlights and thanks from the Prague conference</title>
+    <id>https://www.writethedocs.org/conf/prague/2018/news/thanks-recap/</id>
+    <updated>2018-09-18T00:00:00Z</updated>
+    <published>2018-09-18T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2018/news/thanks-recap/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;highlights-and-thanks-from-the-prague-conference&quot;&gt;
+
+&lt;p&gt;Hello everyone,&lt;/p&gt;
+&lt;p&gt;As we are wrapping up the Prague conference, we wanted to send out a quick email to thank everyone for helping to make our fifth European conference such a success.
+Whether you joined us in person or watched from afar, we thought you might like to get some of the highlights!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-recap&quot;&gt;
+&lt;h2&gt;Conference recap&lt;/h2&gt;
+&lt;p&gt;At over 250 people, this year’s conference was our biggest European event to date!
+We had the usual mix of main stage and lightning talks, unconference sessions, writing sprints, and social events.
+We were also pleased with the success of some new experiments, including livestreaming the talks, running real-time captioning for the main stage, and hosting an in-person job fair.
+We received a lot of positive feedback on all of these and are excited to carry them forward to future events.&lt;/p&gt;
+&lt;p&gt;We also had some interesting feedback on some things we might improve for next time.
+The writing day, for example, picked up a lot of interest this year, and we’re now looking at providing more in-depth guidance on how to get the most out of the sessions.&lt;/p&gt;
+&lt;p&gt;Overall, we were so excited to see another conference come together and see our awesome community gather under one roof.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;videos-and-photos&quot;&gt;
+&lt;h2&gt;Videos and photos&lt;/h2&gt;
+&lt;p&gt;Videos of all the talks are now available &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/videos/prague/2018/&quot;&gt;in our video archive&lt;/a&gt;.
+Thanks to &lt;a class=&quot;reference external&quot; href=&quot;https://heretorecord.com/&quot;&gt;Here to Record&lt;/a&gt; for doing such a great job with these.
+If you gave a lightning talk, we’re working to get them on our site, but in the meantime you can see them on &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/watch?v=oXmrFoEEf3A&amp;amp;list=PLZAeFn6dfHplRZcYDQjST22bAVeeWML4d&quot;&gt;YouTube&lt;/a&gt; for now.
+(You can also subscribe to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/channel/UCr019846MitZUEhc6apDdcQ&quot;&gt;YouTube channel&lt;/a&gt;
+so you don’t miss any future content!)&lt;/p&gt;
+&lt;p&gt;We also have photos from the event available on &lt;a class=&quot;reference external&quot; href=&quot;https://www.flickr.com/photos/writethedocs/albums/72157695294209550&quot;&gt;Flickr&lt;/a&gt;, thanks to our wonderful photographer &lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/goatlady&quot;&gt;Kay Smoljak&lt;/a&gt;!
+We really love the photos each year, and you’re welcome to use them for non-commercial purposes, as per our &lt;a class=&quot;reference external&quot; href=&quot;https://creativecommons.org/licenses/by-nc-sa/2.0/&quot;&gt;Creative Commons License&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;code-of-conduct-transparency-report&quot;&gt;
+&lt;h2&gt;Code of Conduct transparency report&lt;/h2&gt;
+&lt;p&gt;As with any Write the Docs event, this conference was covered by our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct/&quot;&gt;community Code of Conduct&lt;/a&gt;.
+We aim to be as transparent with CoC incidents and enforcement as we can.&lt;/p&gt;
+&lt;p&gt;To ensure that our CoC was visible and accessible, we took a number of specific steps:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Every participant agreed to the Code of Conduct in advance.&lt;/li&gt;
+&lt;li&gt;The CoC, or a summary, was included on the conference website, conference booklet, and in posters around the conference venue.&lt;/li&gt;
+&lt;li&gt;The CoC was repeatedly mentioned in announcements on the stage.&lt;/li&gt;
+&lt;li&gt;We specifically stressed that the CoC applies to all conference spaces including the social event, and therefore attendees should drink responsibly.&lt;/li&gt;
+&lt;li&gt;We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;None of our organizers were approached about any CoC concerns at this event.
+We know that this is, in part, a reflection of the thoughtful and inclusive community that we’re so lucky to have.&lt;/p&gt;
+&lt;p&gt;That being said, we’re also very conscious of the fact that just because nothing was reported doesn’t mean nothing happened. If there was any personal conduct or other aspect of the conference experience that did not meet the expectations of behavior set out in the CoC, please email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:conduct&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;conduct&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;ready-for-more&quot;&gt;
+&lt;h2&gt;Ready for more?&lt;/h2&gt;
+&lt;p&gt;We still have our second &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2018/&quot;&gt;Australia conference&lt;/a&gt; in November.
+Tickets are still available and the list of talks is now published on the website.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-again&quot;&gt;
+&lt;h2&gt;Thanks again&lt;/h2&gt;
+&lt;p&gt;We’re so grateful to our speakers, sponsors, volunteers, and attendees for making this conference possible.
+Whether you were able to join us this time or not, we hope to see you back in Prague next year&amp;nbsp;– or even sooner at one of our other events!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/prague-2018/atom.xml">
+    <title type="text">Welcome to Write the Docs Prague 2018!</title>
+    <id>https://www.writethedocs.org/conf/prague/2018/news/get-ready/</id>
+    <updated>2018-09-04T00:00:00Z</updated>
+    <published>2018-09-04T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2018/news/get-ready/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;welcome-to-write-the-docs-prague-2018&quot;&gt;
+
+&lt;p&gt;Yet another edition of Write the Docs Prague nearly upon us! We’re excited to see you all in just a few days.&lt;/p&gt;
+&lt;p&gt;Below you’ll find all the practical information you need to plan for and navigate the event and activities.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;be-prepared&quot;&gt;
+&lt;h2&gt;Be Prepared&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Read the Welcome Wagon Guide.&lt;/strong&gt; Our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/welcome-wagon/&quot;&gt;Welcome Wagon Guide&lt;/a&gt; is packed full of information on how to get the most out of the conference. There will also be a few Welcome Wagon events that will help you learn more about the conference.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Review the schedule.&lt;/strong&gt; The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/schedule/&quot;&gt;Schedule Page&lt;/a&gt; has the latest and most complete information about the presentations and activities. This is where we will also update any changes or cancellations if they occur.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Review the Code of Conduct.&lt;/strong&gt; We have a wonderful community full of diverse and amazing people. We expect everyone to behave in a respectful manner at all conference events and online channels. Our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct/&quot;&gt;Code of Conduct&lt;/a&gt; boils down to “Be excellent to each other”, but the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct&quot;&gt;full text&lt;/a&gt; is also available. Our mobile numbers and email addresses are on that page if you ever need to contact us.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Review the Venue information.&lt;/strong&gt; Our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/venue/&quot;&gt;Venue Page&lt;/a&gt; for information about accessibility and orientation. If you have any specific accessibility questions, please email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:prague&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;prague&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt; and we will be happy to do our best to make the event as accessible as possible. This year we are launching &lt;em&gt;live captioning&lt;/em&gt; for all presentations, and priority accessibility seating will be available near the stage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;get-involved&quot;&gt;
+&lt;h2&gt;Get Involved&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;div class=&quot;first system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/prague/2018/news/get-ready.rst&lt;/tt&gt;, line 7); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Duplicate explicit target name: “writing day”.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Plan a project for Writing Day.&lt;/strong&gt; The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/writing-day/&quot;&gt;Writing Day&lt;/a&gt; will be held on Sunday from &lt;em&gt;9:00-17:00&lt;/em&gt;, and you can drop in at any time during the day. If you have a project you want to propose to others, you can pitch your topic during the welcome announcement that will be held at &lt;em&gt;10:00&lt;/em&gt;. Check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/writing-day/&quot;&gt;Writing Day&lt;/a&gt; page for a few suggested projects.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;strong&gt;Plan a lightning talk.&lt;/strong&gt; We’ll have &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/lightning-talks/&quot;&gt;lightning talks&lt;/a&gt; each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want; this is your chance to share something you are passionate about with the audience. Slides are not required.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;strong&gt;Get ready for the Job Fair&lt;/strong&gt;. New this year, on Tuesday morning we’ll have a &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/job-fair&quot;&gt;job fair&lt;/a&gt; where you can find your next documentarian-friendly job.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;strong&gt;Plan an unconference session.&lt;/strong&gt; We’ll be running the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/unconference/&quot;&gt;Unconference&lt;/a&gt; all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a very specific thing? This is the place. We’ll have a sign-up board so you know what’s happening, and supplies to help you brainstorm.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;strong&gt;Coffee, breakfast, and lunch are provided on all three days!&lt;/strong&gt; Don’t worry about coffee before you come to the conference on Sunday, Monday, or Tuesday. Coffee and breakfast are served at &lt;em&gt;9:00&lt;/em&gt; each day, and the conference programme starts at &lt;em&gt;10:00&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;find-your-way-around&quot;&gt;
+&lt;h2&gt;Find Your Way Around&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Getting around Prague.&lt;/strong&gt; Public transit is generally excellent in Prague, and there are private rides and taxi options too. For more information, see our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/visiting/&quot;&gt;Visiting Prague page&lt;/a&gt;, which has all the details you need to get around.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Where to go? What do do?&lt;/strong&gt; This year we are launching a special volunteer role, &lt;em&gt;Visiting Prague Coordinator&lt;/em&gt;, who will be available on Slack to advise you on the best places to eat, drink, and be merry in town. Feel free to reach out to Jakub Mikuláš (&lt;em&gt;&amp;#64;gak&lt;/em&gt; on Slack) for pro-tips and recommendations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;have-fun&quot;&gt;
+&lt;h2&gt;Have Fun&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Join us for the boat ride.&lt;/strong&gt; If you’re planning to come for the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/outing/&quot;&gt;boat ride&lt;/a&gt; on Saturday at &lt;em&gt;13:45&lt;/em&gt;, make sure you &lt;a class=&quot;reference external&quot; href=&quot;https://ti.to/writethedocs/write-the-docs-prague-2018/&quot;&gt;register in advance&lt;/a&gt; . &lt;strong&gt;We are almost at capacity for the boat&lt;/strong&gt;, so if you’re on the fence, grab your ticket now! Registrations for the boat ride will close on &lt;em&gt;Friday, September 7th&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pre-register at the welcome reception.&lt;/strong&gt; The meet-and-greet event will be held on Sunday from &lt;em&gt;17:00-20:00&lt;/em&gt;. You can pick up your badge and enjoy a drink and a snack on us. This is a great chance to meet your fellow documentarians before the conference starts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Relax at the social event on Monday night.&lt;/strong&gt; This is a private evening event only for conference attendees. Plan to attend so you can get to know folks in the community. We will be at &lt;a class=&quot;reference external&quot; href=&quot;https://goo.gl/maps/b1egvQhoDxt&quot;&gt;Hoffa Bar, Senovážné Náměstí 22, Prague 1&lt;/a&gt; on &lt;em&gt;Monday evening from 20:00&lt;/em&gt;, with free snacks and drinks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Participate in the badge flair contest.&lt;/strong&gt; What started as an unofficial activity is now a conference tradition. The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/badge-flair/&quot;&gt;Badge Flair Contest&lt;/a&gt; is a fun way to make the most out of your badge flair. We look forward to seeing your creative decorations!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;share-the-love&quot;&gt;
+&lt;h2&gt;Share the Love&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Slack with your fellow documentarians.&lt;/strong&gt; Feel free to use our &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.org/slack/&quot;&gt;Slack&lt;/a&gt; to coordinate dinners, ask questions, or share notes with fellow conference attendees. Please use #wtd-conferences or #prague channels for group discussions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Use the Twitter hash tag #writethedocs.&lt;/strong&gt; Twitter is a great way to communicate at events. If you arrive to Prague early and want to find others, use the hash tag &lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/search?q=%23writethedocs&amp;amp;src=tyah&quot;&gt;#writethedocs&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We’re so excited to welcome you all to Prague in just a few days – see you there!&lt;/p&gt;
+&lt;div class=&quot;line-block&quot;&gt;
+&lt;div class=&quot;line&quot;&gt;The Write the Docs team&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/prague-2018/atom.xml">
+    <title type="text">Announcing Full Schedule &amp; Tickets Sold Out</title>
+    <id>https://www.writethedocs.org/conf/prague/2018/news/announcing-schedule/</id>
+    <updated>2018-08-15T00:00:00Z</updated>
+    <published>2018-08-15T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2018/news/announcing-schedule/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-full-schedule-tickets-sold-out&quot;&gt;
+
+&lt;p&gt;Greetings, documentarians!&lt;/p&gt;
+&lt;p&gt;We’re just under a month out from the Prague conference and we hope you’re all excited!
+We’re writing today to announce that we are officially sold out at capacity, and to share with you the full talk schedule and other interesting tidbits that you might need to know.&lt;/p&gt;
+&lt;p&gt;In the meantime, if it’s your first Write the Docs, now’s a great time to check out &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/welcome-wagon/&quot;&gt;the Welcome Wagon page&lt;/a&gt;, which has lots of great info to help you get oriented.
+And whether it’s your first or fifth conference, it’s never too early to check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/visiting/&quot;&gt;Explore Prague&lt;/a&gt; page for inspiration on how to make the most of your visit.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;full-presentation-schedule&quot;&gt;
+&lt;h2&gt;Full presentation schedule&lt;/h2&gt;
+&lt;p&gt;The conference website is now updated with the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/schedule/&quot;&gt;talk schedule&lt;/a&gt; for the main stage presentations, so you can start planning your time (and getting excited!) for the conference.&lt;/p&gt;
+&lt;p&gt;Parallel to the conference talks, we will run the unconference &lt;strong&gt;all day on Monday and in the afternoon on Tuesday&lt;/strong&gt;. On Tuesday morning the unconference room will be converted to the &lt;strong&gt;job fair&lt;/strong&gt;, where you can meet companies who care about content and find out about documentarian-friendly jobs all around Europe and the world.&lt;/p&gt;
+&lt;p&gt;We’ll also have a round of lightning talks after lunch on each conference day.
+You’ll be able to sign up for unconference sessions and lightning talks during the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets-are-sold-out&quot;&gt;
+&lt;h2&gt;Tickets are sold out!&lt;/h2&gt;
+&lt;p&gt;Each year we are excited to see a growing interest from our European community, which leads to tickets selling out earlier. We have now reached capacity at the venue, so we had to close ticket sales. If you didn’t get a chance to get your ticket, please do consider joining us at one of our other events! You can see the full list of our conferences on &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/&quot;&gt;our website&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;start-thinking-about-writing-day&quot;&gt;
+&lt;h2&gt;Start Thinking About Writing Day&lt;/h2&gt;
+&lt;p&gt;Our pre-conference &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/writing-day/&quot;&gt;Writing Day&lt;/a&gt; will happen on Sunday again this year.
+We’re looking forward to receiving your project ideas, and you can also check out our annual ‘Write Write the Docs’ sprint on the Write the Docs website.&lt;/p&gt;
+&lt;p&gt;If you have a project or are part of a community that you think would benefit from a writing sprint, start brainstorming now about what you might want to focus on.
+If you’d like us to include your project on the Writing Day page, drop us an email at &lt;a class=&quot;reference external&quot; href=&quot;mailto:prague&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;prague&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.
+Or just show up on Sunday ready to introduce your project!&lt;/p&gt;
+&lt;p&gt;Thanks so much for all your support and enthusiasm so far – we’re so excited to see you all next month!&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/prague-2018/atom.xml">
+    <title type="text">Ticket update, events, and activities</title>
+    <id>https://www.writethedocs.org/conf/prague/2018/news/activities-events/</id>
+    <updated>2018-08-01T00:00:00Z</updated>
+    <published>2018-08-01T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2018/news/activities-events/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;ticket-update-events-and-activities&quot;&gt;
+
+&lt;p&gt;Greetings documentarians!&lt;/p&gt;
+&lt;p&gt;The Prague conference is just about one month away, and we are happy to share with you the latest updates.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tickets are almost sold out!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We expect to sell out in the next couple of weeks, so if you’re still on the fence we recommend that you &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/tickets/&quot;&gt;buy your tickets now&lt;/a&gt;!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;activities-and-events&quot;&gt;
+&lt;h2&gt;Activities and events&lt;/h2&gt;
+&lt;p&gt;As always, Write the Docs events are more than just talks. Every year we offer a wider range of activities that give our community members different ways to socialize, collaborate, and connect.&lt;/p&gt;
+&lt;p&gt;Check out what we have in store for you this year in Prague:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Boat Tour of Prague, Saturday September 8th&lt;/strong&gt;. If you’re in town early, you’re invited to join us for a 2-hour cruise on the Vltava river, with light snacks and drinks included. This activity is priced separately and isn’t included with the conference ticket, so you’re welcome to register your friends and family who might be traveling with you. You can find all the details in our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/outing/&quot;&gt;Boat Tour&lt;/a&gt; page, or register directly on our &lt;a class=&quot;reference external&quot; href=&quot;https://ti.to/writethedocs/write-the-docs-prague-2018&quot;&gt;ticket website&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Writing Day and Welcome Reception, Sunday September 9th&lt;/strong&gt;. Before the main conference days, we’ll be hosting a &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/writing-day/&quot;&gt;Writing Day&lt;/a&gt;  and Welcome Reception before we dive into the main sessions. This is an excellent opportunity to register early, meet your fellow documentarians, learn about and work on interesting documentation projects, and make yourself at home!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lightning Talks.&lt;/strong&gt; One of our favorite traditions, &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/lightning-talks/&quot;&gt;lightning talks&lt;/a&gt; are as entertaining as they are informative. Each block of lightning talks will have 5-6 spots of up to 5 minutes each, both blocks will be after lunch during the main conference days. You can sign up on the mornings of the main conference days and prepare for some post-lunch fun.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unconference.&lt;/strong&gt; Parallel to the talks, you’re welcome to join the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/unconference/&quot;&gt;unconference sessions&lt;/a&gt;. These freestyle sessions are a great opportunity to brainstorm with your fellow documentarians about anything from the latest tooling, the best way to write an email, or how to handle stress and burnout. You can signup for the unconference sessions during the Writing Day and will continue during the conference.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social Event.&lt;/strong&gt; This year our social event will be held at &lt;a class=&quot;reference external&quot; href=&quot;https://goo.gl/maps/b1egvQhoDxt&quot;&gt;Hoffa Bar, Senovážné Náměstí 22, Prague 1&lt;/a&gt;, a funky bar just around the corner from the main conference venue. The starting time will be 20:00, light snacks and drinks will be provided while our tab lasts. If you want a sit-down dinner we recommend to grab something before we kick off the evening. &lt;strong&gt;Entrance is only for conference attendees&lt;/strong&gt;. We will provide you with wristbands when you check-in to the conference, but your badge should work as well. NOTE: The bar is located on the ground floor and is fully-accessible.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Job Fair.&lt;/strong&gt; Following the success of the Portland job fair, we’re happy to announce that during Tuesday morning, the unconference space will be converted to the job fair. The goal is to give job-seeking documentarians an opportunity to connect with potential employers. Documentarians looking for jobs will be able to visit employers at their table to learn about the company culture, ask about specific job openings and talk to current employees. If you’re an employer looking to fill a roll, you can find information about reserving a table in the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/&quot;&gt;sponsorship prospectus&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For the full schedule overview including start/end times for all activities, take a look at our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/schedule/&quot;&gt;Schedule&lt;/a&gt; page.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;new-to-prague-or-to-write-the-docs&quot;&gt;
+&lt;h2&gt;New to Prague or to Write the Docs?&lt;/h2&gt;
+&lt;p&gt;Every year we are thrilled to welcome new documentarians into our community. This is your friendly reminder that we have resources on our website and on Slack to help you prepare for your first trip to Prague, first time at our conference, or both!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/visiting/&quot;&gt;Visiting Prague&lt;/a&gt;. Information on transport, where to stay, where to eat, etc. You can also pop into the &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.slack.com/messages/wtd-conferences&quot;&gt;#wtd-conferences&lt;/a&gt; channel on Slack to ask questions!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;div class=&quot;first system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/prague/2018/news/activities-events.rst&lt;/tt&gt;, line 7); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Duplicate explicit target name: “#wtd-conferences”.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/welcome-wagon/&quot;&gt;Welcome Wagon&lt;/a&gt;. If this is your first time attending the conference – or even if it’s not – our Welcome Wagon is here to help you navigate the conference, the community, and answer questions. They’ll also be hanging out in &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.slack.com/messages/wtd-conferences&quot;&gt;#wtd-conferences&lt;/a&gt; and on site during the event to help out you get the most out of the experience.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-shirts-are-still-on-sale&quot;&gt;
+&lt;h2&gt;Conference shirts are still on sale&lt;/h2&gt;
+&lt;p&gt;Another friendly reminder that our T-Shirt Pop-Up Shop is still open on TeeSpring! The campaign will run until September 30th in case anyone wants to order their shirts after the conference, but we recommend to order at least 2-3 weeks before the conference if you want to sport your new threads.&lt;/p&gt;
+&lt;p&gt;And don’t worry, you’ll still have a Write the Docs Prague 2018 souvenir from the conference even if you decide not to order a shirt.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;see-you-all-soon&quot;&gt;
+&lt;h2&gt;See you all soon!&lt;/h2&gt;
+&lt;p&gt;We are in the process of compiling the final talk schedule, so expect the next update to have all the details on that front. Otherwise, we hope you’re as excited as we are, and we look forward to seeing you in Prague very soon!&lt;/p&gt;
+&lt;p&gt;The Write the Docs Team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/prague-2018/atom.xml">
+    <title type="text">Announcing speakers and talks</title>
+    <id>https://www.writethedocs.org/conf/prague/2018/news/announcing-speakers/</id>
+    <updated>2018-06-27T00:00:00Z</updated>
+    <published>2018-06-27T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2018/news/announcing-speakers/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-speakers-and-talks&quot;&gt;
+
+&lt;p&gt;Hello folks!&lt;/p&gt;
+&lt;p&gt;First off, we’re excited to announce that we’ve finalized our list of speakers for the event! Every year talk selection gets more and more difficult as we get a larger, stronger batch of submissions. Thank you so much to everyone who took the time to send us a pitch –&amp;nbsp;we literally wouldn’t have an event without you!&lt;/p&gt;
+&lt;p&gt;We also have some info about ticket purchasing (now’s the time!), trip planning (Prague beckons!), conference shirts (now printed on demand) and of course our generous sponsors (want to &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/&quot;&gt;join them&lt;/a&gt;?). Read on for more details!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;speakers-and-talks&quot;&gt;
+&lt;h2&gt;Speakers and talks&lt;/h2&gt;
+&lt;p&gt;Every year, we look to bring a wide range of voices to the Write the Docs stage. Because the role of “documentarian” looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure. We’re really excited about the presentations we’ve got this year –&amp;nbsp;we hope you are too!&lt;/p&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-carolyn-stransky&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Carolyn Stransky  – A11y-Friendly Documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-anne-edwards&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Anne Edwards  – Learning to love release notes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-louise-fahey&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Louise Fahey  – Tackling technical debt in the docs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-rowan-cota&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Rowan Cota  – A Year in the Life of The Better Docs Project&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-ivana-devcic&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Ivana Devcic  – “It’s a Feature” - Documenting Known Issues and Product Shortcomings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-jim-fisher&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Jim Fisher  – Don’t Say Simply&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-liam-keegan&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Liam Keegan  – Measuring the impact of your documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-predrag-mandic&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Predrag Mandic  – Run your docs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-vlad-stirbu&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Vlad Stirbu  – What about compliance?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-tony-ibbs&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Tony Ibbs  – A brief history of text markup languages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-abigail-sutherland&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Abigail Sutherland  – Teaching geeks to fish: tales of a contagious documentarian.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-sarah-ley-hamilton&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Sarah Ley-Hamilton  – So you want to make videos?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-gillian-von-runte&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Gillian von Runte  – Document What Matters: Lean Best Practice for Process Documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-val-grimm&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Val Grimm  – Choosing a tool … and choosing your moment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-alexandra-white&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Alexandra White  – How to tear down existing documentation and rewrite docs that actually work&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Head over to the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/speakers/&quot;&gt;Speakers page&lt;/a&gt; to see the full abstracts. We hope there’s something there for everyone to enjoy, and also something that will broaden your horizons a bit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets-are-going-fast&quot;&gt;
+&lt;h2&gt;Tickets are going fast!&lt;/h2&gt;
+&lt;p&gt;If you don’t have your ticket yet, now’s a great time to snap one up. Conference tickets have sold out for the last several years, so if you’re planning to come, don’t leave it to the last minute.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/tickets/&quot;&gt;Buy your tickets here!&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;planning-your-trip&quot;&gt;
+&lt;h2&gt;Planning your trip&lt;/h2&gt;
+&lt;p&gt;In the next few weeks, we’ll be announcing more details about the conference events, including the full schedule, boat trip on Saturday afternoon, writing day and reception on Sunday, and official party on Monday evening.&lt;/p&gt;
+&lt;p&gt;In the meantime, check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/visiting/&quot;&gt;Visit Prague&lt;/a&gt; page on the conference website for some resources on transport, where to stay, where to eat, etc. You can also pop into the &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.slack.com/messages/wtd-conferences&quot;&gt;#wtd-conferences&lt;/a&gt; channel on Slack to ask questions!&lt;/p&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/prague/2018/news/announcing-speakers.rst&lt;/tt&gt;, line 7); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate explicit target name: “#wtd-conferences”.&lt;/div&gt;
+&lt;p&gt;Beth Aitman and Daniel Beck are volunteering as our Welcome Wagon committee this year. If this is your first time attending the conference – or even if it’s not – they’ll be hanging out in &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.slack.com/messages/wtd-conferences&quot;&gt;#wtd-conferences&lt;/a&gt; and on site during the event to help out you get the most out of the experience.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-shirts&quot;&gt;
+&lt;h2&gt;Conference shirts&lt;/h2&gt;
+&lt;p&gt;As you probably noticed, we are not including shirts with your conference ticket this year. This is due partially to the logistics of sizing, ordering, and managing stock, but also because of the inevitable leftovers that we find ourselves with every year.&lt;/p&gt;
+&lt;p&gt;Inspired by our friends at DjangoCon US, we decided to shake things up and sell shirts separately, so you can buy exactly the fit and size that you want. We ran this campaign for the Portland conference and received great feedback on the vendor and the product, so we feel confident that you’ll enjoy your Prague shirt too!&lt;/p&gt;
+&lt;p&gt;Head over to our Write the Docs Prague 2018 Pop-Up Shop and order this year’s shirt. The campaign will run until September 30th in case anyone wants to order their shirts after the conference, but we recommend to order at least 2-3 weeks before the conference if you want to sport your new threads.&lt;/p&gt;
+&lt;p&gt;And don’t worry, you’ll still have a Write the Docs Prague 2018 souvenir from the conference even if you decide not to order a shirt.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-to-our-sponsors&quot;&gt;
+&lt;h2&gt;Thanks to our sponsors&lt;/h2&gt;
+&lt;p&gt;We are so grateful to have our sponsors help in bringing these events to life every year. Thanks sincerely to the following companies for supporting the Write the Docs community:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.redhat.com/en&quot;&gt;Red Hat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://developer.mozilla.org/en-US/&quot;&gt;Mozilla&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.travis-ci.com/&quot;&gt;Travis CI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.people-text.de/en/&quot;&gt;people text&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://document360.io/&quot;&gt;Document360&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://gitlab.com&quot;&gt;Gitlab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com/&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Want to lend a hand? Head over to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/&quot;&gt;sponsorship prospectus&lt;/a&gt; for details on how your company can get involved! We have several types of sponsorship available, including the option to participate in a new job fair that we’ll be hosting on Tuesday.&lt;/p&gt;
+&lt;p&gt;And that’s the latest on the Prague conference. We hope you’re all getting as excited as we are! Stay tuned for more details.&lt;/p&gt;
+&lt;p&gt;The Write the Docs Team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/prague-2018/atom.xml">
+    <title type="text">Ticket Update, Call for Volunteers, Job Fair</title>
+    <id>https://www.writethedocs.org/conf/prague/2018/news/call-for-volunteers/</id>
+    <updated>2018-06-18T00:00:00Z</updated>
+    <published>2018-06-18T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2018/news/call-for-volunteers/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;ticket-update-call-for-volunteers-job-fair&quot;&gt;
+
+&lt;p&gt;Greetings, fellow documentarians! The Prague conference is less than three months away, and we can’t wait to see you all soon! Here are the latest updates from the conference team to help you prepare.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tickets are selling fast!&lt;/strong&gt; We are not sold out yet, but our European community is showing great enthusiasm, and we expect to have another wave of registrations after we announce the presentations soon, so you might want to beat the rush and &lt;a class=&quot;reference external&quot; href=&quot;https://ti.to/writethedocs/write-the-docs-prague-2018&quot;&gt;get your ticket now&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;call-for-volunteers&quot;&gt;
+&lt;h2&gt;Call for volunteers&lt;/h2&gt;
+&lt;p&gt;There is plenty to do during the conference and volunteers are essential to the success of all our events! We are looking for folks who are willing to help out during the conference. If you volunteer for two or more shifts (at an average of three hours each), you will receive a free ticket for the conference.&lt;/p&gt;
+&lt;p&gt;We are looking for folks to help out in these roles:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Venue set up&lt;/strong&gt; - Prepping the main conference hall on Saturday (after the boat ride), including preparing the registration desk, laying out swag, arranging writing day boards, and other light physical labor&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Writing day&lt;/strong&gt; - Assisting the Writing Day coordinator, including general information inquiries, directing attendees to specific tables, helping writing day project leads with logistical questions, and other duties as assigned&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Registration desk/Info&lt;/strong&gt; - Registering people in the main conference hall and answering any questions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Speakers&lt;/strong&gt; - Finding speakers and making sure that they’re where they need to be when it comes time to speak&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Talk Timing&lt;/strong&gt; - Keeping track of the length of the talks and warning speakers when they’re running out of time&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A/V and tech support&lt;/strong&gt; - Assisting presenters at the time of their greatest need while on stage - issues with slides, video, or audio portions of their presentation. Please apply for this role if you have some A/V knowledge; experience troubleshooting different operating systems is a plus!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Floaters&lt;/strong&gt; - Other duties as assigned ;) Assisting with odds and ends, requests from other volunteers and organizers, as well as answering questions; overall, being generally helpful&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unconference&lt;/strong&gt; - Camping out in the unconference area downstairs, keeping the place in order, updating unconference room schedule, and so on&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Job Fair&lt;/strong&gt;- Helping vendors set up their tables before the job fair, or helping with setting the room back for the unconference sessions that follow in the afternoon&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Venue take down&lt;/strong&gt; - What’s more fun than setting things up? Taking them down! Helping with taking down the conference set up and leaving the conference hall better than we found it&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prague expert&lt;/strong&gt; - New this year! If you are a Prague local and would love to share your tips and recommendations or answer questions about places to eat, sightseeing, services, accommodation, or other events that are happening around the conference, we’d love to have you on board!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you’re not entirely sure how to do any of these tasks, don’t worry, the organizers will be available for questions and any problems you may encounter. We also have a dedicated volunteer coordinator, and some volunteers from previous years will join us again, so you will have support.&lt;/p&gt;
+&lt;p&gt;To register as a volunteer for the conference, please read and fill out the &lt;a class=&quot;reference external&quot; href=&quot;https://goo.gl/forms/335d8VDgzx2M9ZDm1&quot;&gt;Call for Volunteers form&lt;/a&gt;. You will receive additional information by mid-July regarding shifts, detailed duties, and other updates to the volunteer duties and schedules.&lt;/p&gt;
+&lt;p&gt;Please email our volunteer coordinator Sasha Romijn at &lt;a class=&quot;reference external&quot; href=&quot;mailto:wtd&amp;#37;&amp;#52;&amp;#48;mxsasha&amp;#46;eu&quot;&gt;wtd&lt;span&gt;&amp;#64;&lt;/span&gt;mxsasha&lt;span&gt;&amp;#46;&lt;/span&gt;eu&lt;/a&gt; if you have any questions about volunteering for the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;sponsors-and-job-fair&quot;&gt;
+&lt;h2&gt;Sponsors and job fair&lt;/h2&gt;
+&lt;p&gt;We’re glad to welcome another round of sponsors to the conference this year.
+Thanks sincerely to the following companies for joining our sponsor lineup and supporting the Write the Docs community:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.redhat.com/&quot;&gt;Red Hat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://developer.mozilla.org/en-US/&quot;&gt;Mozilla Developer Network&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.travis-ci.com/&quot;&gt;Travis CI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.people-text.de/en/home-en.html&quot;&gt;{people text&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://document360.io/&quot;&gt;Document360&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://about.gitlab.com/&quot;&gt;GitLab&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com/home&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We’re especially excited about the new Job Fair this year, along with the other normal sponsorship activities that we have had in past years. If your company is hiring or looking to learn more from our community, you can find sponsorship information on &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/&quot;&gt;the conference website&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/prague-2018/atom.xml">
+    <title type="text">Call for Proposals Extended</title>
+    <id>https://www.writethedocs.org/conf/prague/2018/news/cfp-extend/</id>
+    <updated>2018-05-15T00:00:00Z</updated>
+    <published>2018-05-15T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2018/news/cfp-extend/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;call-for-proposals-extended&quot;&gt;
+
+&lt;p&gt;Greetings fellow documentarians!&lt;/p&gt;
+&lt;p&gt;The conference is now just under four months away, and we hope you’re already planning for the latest installment of Write the Docs in Prague!&lt;/p&gt;
+&lt;p&gt;Tickets are already going fast and folks are chatting in the #wtd-conferences and #prague &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.org/slack/&quot;&gt;Slack channels&lt;/a&gt; about their travel plans, so feel free to get some tips for your trip and &lt;a class=&quot;reference external&quot; href=&quot;https://ti.to/writethedocs/write-the-docs-prague-2018&quot;&gt;grab your ticket soon&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;new-deadline-to-submit-your-proposal-is-31st-may&quot;&gt;
+&lt;h2&gt;New deadline to submit your proposal is 31st May&lt;/h2&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/cfp/&quot;&gt;Call for Proposals&lt;/a&gt; is now extended until &lt;strong&gt;31st May 2018 at Midnight CET&lt;/strong&gt; – We added two extra weeks to the deadline because so much has been going on at Write the Docs Portland!
+Make sure to get your talk in before the new deadline; we’re already excited to see lots of great proposals coming in, but we wanted to give everyone a chance to submit their ideas.&lt;/p&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/prague/2018/news/cfp-extend.rst&lt;/tt&gt;, line 7); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate explicit target name: “call for proposals”.&lt;/div&gt;
+&lt;p&gt;Check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/cfp/&quot;&gt;Call for Proposals&lt;/a&gt; page for tips and examples to help inspire you.
+And if you’ve got an idea but aren’t sure what to do with it, feel free to ask for feedback on &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.org/slack/&quot;&gt;Slack&lt;/a&gt;. Your fellow documentarians will be happy to help!&lt;/p&gt;
+&lt;p&gt;We will send out the decision emails to all who submitted by &lt;strong&gt;mid-June&lt;/strong&gt;, and the final talks will be published by the &lt;strong&gt;end of June&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;we-ll-have-more-to-share-soon&quot;&gt;
+&lt;h2&gt;We’ll have more to share soon&lt;/h2&gt;
+&lt;p&gt;We are putting the finishing touches on all the other aspects of the event. Expect to hear more about the boat ride, writing day, welcome reception, social event, and more in the next few months.
+This will be our fifth European conference, and the fourth one in Prague, and we can’t wait!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/prague-2018/atom.xml">
+    <title type="text">A Message about Scheduling and Inclusivity</title>
+    <id>https://www.writethedocs.org/conf/prague/2018/news/scheduling-inclusivity/</id>
+    <updated>2018-05-10T00:00:00Z</updated>
+    <published>2018-05-10T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2018/news/scheduling-inclusivity/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;a-message-about-scheduling-and-inclusivity&quot;&gt;
+
+&lt;p&gt;Dear documentarians,&lt;/p&gt;
+&lt;p&gt;This blog post is a little different from our usual updates, as we wanted to address an issue that came up on several occasions since we announced the dates for this year’s conference.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;the-short-version&quot;&gt;
+&lt;h2&gt;The short version&lt;/h2&gt;
+&lt;p&gt;We are aware that this year’s Write the Docs Prague conference is in conflict with the Jewish New Year holiday.
+This conflict was known at the time of scheduling, but we had to make a very difficult compromise due to a combination of circumstances around these dates, such as school breaks, weather in Prague, global conference workflow, and conflicts with other holidays (details in the long version).&lt;/p&gt;
+&lt;p&gt;Even though we took the time to respond to questions sent to use by email or Slack since the announcement, we should have communicated a public accountability statement about the scheduling process and an explanation of this choice, at the same time that we published the dates.&lt;/p&gt;
+&lt;p&gt;While we cannot guarantee that future conference dates will never have any conflicts, we have taken the community feedback to heart and will continue to our best to make the dates as inclusive as possible, and to communicate clearly and on time in cases where we are unable to avoid scheduling conflicts.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;the-long-version&quot;&gt;
+&lt;h2&gt;The long version&lt;/h2&gt;
+&lt;p&gt;The global Write the Docs team supports major conferences in both Portland and Prague, and also mentors smaller events throughout the year and maintains the community infrastructure.&lt;/p&gt;
+&lt;p&gt;Since we started organizing the Prague conference in 2015, September has been the month of choice, specifically around the middle of the month.&lt;/p&gt;
+&lt;p&gt;When we scheduled the conference dates for Prague we considered the following key factors:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;September is far enough from the Portland conference (which is held in May each year), which helps the team to load-balance preparation activities for both conferences.&lt;/li&gt;
+&lt;li&gt;August (and the first week of September) conflicts with the school summer holidays, which would exclude attendees who have school-aged children.&lt;/li&gt;
+&lt;li&gt;The only bank holiday in the Czech Republic that month is on September 28, and there are no other public holidays in neighboring European countries.&lt;/li&gt;
+&lt;li&gt;Mid-September doesn’t conflict with any major European conferences in the region (primarily PyCons and open-source conferences).&lt;/li&gt;
+&lt;li&gt;The weather from the end of September takes a turn for the worse in Prague (and in most of Europe), and we want attendees to have a good experience of the city and not just the conference venue.&lt;/li&gt;
+&lt;li&gt;The global core team’s yearly offsite and retrospective happens immediately after the Prague conference, and we need to allow for enough time before the end of the calendar year to wrap-up and start planning for the following year.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;section&quot; id=&quot;what-happened-this-year&quot;&gt;
+&lt;h3&gt;What happened this year&lt;/h3&gt;
+&lt;p&gt;When we looked at the calendar to choose the dates for the 2018 conference, we saw that the Jewish New Year holidays span most  of September.
+This does not occur every year, but this year it was extremely difficult to decide on dates in September, since no matter which date we chose, it would conflict with one of the holidays.&lt;/p&gt;
+&lt;p&gt;When we weighed this problem against the key factors that we use to determine the dates each year, we knew that we had to make a decision that would exclude some people from being able to attend.
+We weren’t happy about this decision, but if we moved the conference to any other month, or even to the first weekend of September, we would run the risk of excluding different groups of people, or not being able to run the conference at all this year due to organizational meltdowns.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;what-could-we-have-done-better&quot;&gt;
+&lt;h3&gt;What could we have done better&lt;/h3&gt;
+&lt;p&gt;Our failure to communicate the scheduling decision and conflict explanation at the time of announcing the conference dates led to multiple inquiries from portions of our community, who felt as if they might have been overlooked, or worse - not welcome at our events. This was absolutely not our intention, and we are sorry that our actions had this impact on parts of our community.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We owe it to our community to adhere to our philosophy of inclusivity in how we run our events, and if we are unable to choose the most inclusive option for our attendees, we should communicate about it promptly and transparently.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;After we announced the dates, we received and handled several inquiries by email or Slack messages from community members who questioned the date selection and asked to reschedule, but by the time we announced the dates we already had the venue contracts signed so it wasn’t possible to make a change.&lt;/p&gt;
+&lt;p&gt;Regardless of the actual scheduling problem, the fact that we received inquiries should have been a warning bell for us, as we saw in the past that for every person who writes to us with a question, there must be dozens more who wouldn’t feel comfortable writing to us. Rather than keeping our responses in the private channels, we should have made this public accountability statement to address this much sooner.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;what-will-we-do-better-in-the-future&quot;&gt;
+&lt;h3&gt;What will we do better in the future&lt;/h3&gt;
+&lt;p&gt;Firstly, we want to acknowledge that in 2019, the Jewish New Year holidays period begins in October, so there is no expected conflict with any dates we might choose in September.
+That said, we cannot guarantee that any future conference years (Prague, Portland, or elsewhere) will not conflict with anything ever again, as this is a long-term venture there are sure to be more difficult decisions that we’ll have to make down the line.&lt;/p&gt;
+&lt;p&gt;What we can promise is:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;if conflicts arise, to take our past conflicts into account so that we can prevent the same group(s) from being excluded during consecutive years&lt;/li&gt;
+&lt;li&gt;to improve our transparency around our scheduling practices, so that if we must make another difficult decision in the future, we will inform you, the community, our documentarian family, of the process and considerations involved&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thank-you-for-being-you&quot;&gt;
+&lt;h3&gt;Thank you for being you&lt;/h3&gt;
+&lt;p&gt;We love Write the Docs because it’s where documentarians from all walks of life feel welcome.
+Sometimes we make mistakes that cause parts of our community to feel excluded, and it’s our responsibility to own these mistakes and learn from them.&lt;/p&gt;
+&lt;p&gt;We want to express our gratitude to the community members who took the time to discuss the impact of our actions (and inactions), and we hope that this blog post will help to shine some light on how and why we ended up with these conference dates this year for the benefit of folks in our community who might not feel comfortable reaching out and asking us directly.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/prague-2018/atom.xml">
+    <title type="text">Announcing Prague Website, CFP, and Ticket Sales</title>
+    <id>https://www.writethedocs.org/conf/prague/2018/news/prague-18-welcome/</id>
+    <updated>2018-03-15T00:00:00Z</updated>
+    <published>2018-03-15T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2018/news/prague-18-welcome/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-prague-website-cfp-and-ticket-sales&quot;&gt;
+
+&lt;p&gt;Welcome to the official kick-off of &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/&quot;&gt;Write the Docs Prague 2018&lt;/a&gt;!
+It’s shaping up to be another wonderful year full of great conversations and interesting talks.&lt;/p&gt;
+&lt;p&gt;Today we are launching our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/&quot;&gt;website&lt;/a&gt;, &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/cfp/&quot;&gt;call for proposals&lt;/a&gt;, and &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/tickets/&quot;&gt;ticket sales&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;id1&quot;&gt;
+&lt;h2&gt;Website&lt;/h2&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/prague/2018/news/prague-18-welcome.rst&lt;/tt&gt;, line 15); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “website”.&lt;/div&gt;
+&lt;p&gt;As per our tradition of website optimization, this year’s website is even more friendly and lively!
+We’ve included (hopefully) all the information you need to plan your visit to Prague, such as venue location, schedule overview, and information about the different events and activities.&lt;/p&gt;
+&lt;p&gt;As with all things on the web, there are likely to be a few lingering bugs with the design.
+Feel free to reach out to us by replying to this email, or emailing us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:prague&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;prague&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt; if you see any issues!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets&quot;&gt;
+&lt;h2&gt;Tickets&lt;/h2&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/prague/2018/news/prague-18-welcome.rst&lt;/tt&gt;, line 7); &lt;em&gt;&lt;a href=&quot;#id2&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “tickets”.&lt;/div&gt;
+&lt;p&gt;Ticket prices and descriptions are available on our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/tickets/&quot;&gt;Tickets&lt;/a&gt; page. Last year we sold out at 250 attendees, and we’re going to maintain this maximum capacity again this year, to help our attendees feel comfortable in this beautiful venue.&lt;/p&gt;
+&lt;p&gt;We believe that everyone who cares about this topic has a place at our event, and we keep ticket prices low so that it is accessible to the widest range of people possible.
+However, if you can’t afford these prices and still wish to attend, please email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:prague&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;prague&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;, and we can work on getting you reduced price tickets or volunteer options.&lt;/p&gt;
+&lt;p&gt;As with the previous years, we have tiered pricing to make it fair for everyone.
+Please buy the ticket that best fits your situation.
+Tickets are &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/tickets/&quot;&gt;on sale now&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Please note that this year we will be selling shirts separately&lt;/strong&gt;, and we are looking into alternative swag options.
+Stay tuned for details!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;id3&quot;&gt;
+&lt;h2&gt;Call for proposals&lt;/h2&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/prague/2018/news/prague-18-welcome.rst&lt;/tt&gt;, line 39); &lt;em&gt;&lt;a href=&quot;#id3&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “call for proposals”.&lt;/div&gt;
+&lt;p&gt;Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
+Whether you’ve been writing documentation for decades or you’ve just started, we want to hear from you!&lt;/p&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/prague/2018/news/prague-18-welcome.rst&lt;/tt&gt;, line 7); &lt;em&gt;&lt;a href=&quot;#id4&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate explicit target name: “call for proposals”.&lt;/div&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/cfp/&quot;&gt;Call for Proposals&lt;/a&gt; page now has all the information that you need to prepare and submit your proposal.&lt;/p&gt;
+&lt;p&gt;Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians.
+If there is something you’d really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good!&lt;/p&gt;
+&lt;p&gt;The Call for Proposals will be open until &lt;strong&gt;Midnight CEST, 15th May 2018&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;conclusion&quot;&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;We hope you will join us in Prague for the fifth European Write the Docs conference.
+Whether as a speaker or attendee, you can bet it will be another delightful year!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

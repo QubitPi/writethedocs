@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged cfp</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/cfp/atom.xml</id>
+  <updated>2023-11-14T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/cfp/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/cfp/atom.xml">
+    <title type="text">Announcing the Call for Proposals and Sponsorship Prospectus</title>
+    <id>https://www.writethedocs.org/conf/portland/2024/news/announcing-cfp/</id>
+    <updated>2023-11-14T00:00:00Z</updated>
+    <published>2023-11-14T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2024/news/announcing-cfp/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-the-call-for-proposals-and-sponsorship-prospectus&quot;&gt;
+
+&lt;p&gt;We’re excited to announce our Portland &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2024/cfp/&quot;&gt;Call for Proposals&lt;/a&gt;, starting earlier than last year, as the conference is also a little earlier in the year.&lt;/p&gt;
+&lt;p&gt;We’re also launching our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2024/sponsors/prospectus/&quot;&gt;Sponsorship Prospectus&lt;/a&gt; for 2024 with all the information for sponsoring the conference.&lt;/p&gt;
+&lt;p&gt;Read on for more details about how you can get involved this year.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;id1&quot;&gt;
+&lt;h2&gt;Call for Proposals&lt;/h2&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/portland/2024/news/announcing-cfp.rst&lt;/tt&gt;, line 18); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “call for proposals”.&lt;/div&gt;
+&lt;p&gt;Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians.
+If there is something you’d really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good!&lt;/p&gt;
+&lt;p&gt;Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
+We’re looking for ideas and use-cases from all disciplines and roles, so whether you’re a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!&lt;/p&gt;
+&lt;p&gt;We’re looking for talk proposals to be delivered in-person, on-stage in Portland.&lt;/p&gt;
+&lt;p&gt;You can read our full &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2024/cfp/&quot;&gt;Call for Proposals&lt;/a&gt; on the website.&lt;/p&gt;
+&lt;p&gt;The Call for Proposals will be open until &lt;strong&gt;11:59 PM January 15, 2024 PST&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;(If you’d prefer not to attend an in-person event due to COVID-19 or any other reason, keep an eye out for our Atlantic conference held online in a timezone as widely accessible as possible).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;sponsorship-updates&quot;&gt;
+&lt;h2&gt;2024 Sponsorship Updates&lt;/h2&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/portland/2024/news/announcing-cfp.rst&lt;/tt&gt;, line 9); &lt;em&gt;&lt;a href=&quot;#id2&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate explicit target name: “sponsorship prospectus”.&lt;/div&gt;
+&lt;p&gt;Our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2024/sponsors/prospectus/&quot;&gt;Sponsorship Prospectus&lt;/a&gt; is updated for 2024, with lots of new additions.
+Based on sponsor feedback,
+we’ve focused on in-person interaction at the conference.
+Our new venue has lots of space for sponsors to interact with attendees.
+We’ve also reduced the number of tickets in each package and added an option for buying additional tickets at a discounted rate.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets&quot;&gt;
+&lt;h2&gt;Tickets&lt;/h2&gt;
+&lt;p&gt;Tickets will go on sale in December 2023.&lt;/p&gt;
+&lt;p&gt;As always, we keep ticket prices low so that the event is accessible to the widest range of people possible.
+However, if you can’t afford the tickets and still wish to attend, we will launch our grants program soon after opening ticket sales.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;write-the-docs-atlantic-2024&quot;&gt;
+&lt;h2&gt;Write the Docs Atlantic 2024&lt;/h2&gt;
+&lt;p&gt;If you want to speak at Write the Docs, but can’t or don’t want to attend an in-person event, keep an eye out for Write the Docs Atlantic, an online conference coming later in 2024.&lt;/p&gt;
+&lt;p&gt;This conference will be entirely virtual, in a timezone that works for as many people as possible, so you can present or attend from anywhere.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;stay-updated&quot;&gt;
+&lt;h2&gt;Stay Updated&lt;/h2&gt;
+&lt;p&gt;Want to find out what’s happening with the conference, or enjoy our monthly global community newsletter?
+Sign up to one or more of our &lt;a class=&quot;reference external&quot; href=&quot;http://eepurl.com/cdWqc5&quot;&gt;mailing lists&lt;/a&gt;. Your information will never be shared with any third-parties, and you can unsubscribe at any time.&lt;/p&gt;
+&lt;p&gt;Want to connect with other documentarians in real-time? Join our &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.org/slack/&quot;&gt;Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks&quot;&gt;
+&lt;h2&gt;Thanks&lt;/h2&gt;
+&lt;p&gt;We hope you will join us online for yet another Write the Docs conference.
+Whether as a speaker or attendee, you can bet it will be another delightful year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/cfp/atom.xml">
+    <title type="text">Call for Proposals Extended</title>
+    <id>https://www.writethedocs.org/conf/australia/2023/news/cfp-extend/</id>
+    <updated>2023-09-14T00:00:00Z</updated>
+    <published>2023-09-14T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2023/news/cfp-extend/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;call-for-proposals-extended&quot;&gt;
+
+&lt;p&gt;Greetings fellow documentarians!&lt;/p&gt;
+&lt;p&gt;The conference is now just under three months away, and we hope you’re already planning for this year’s onsite installment of Write the Docs Australia conference.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;new-deadline-to-submit-your-proposal-is-22nd-sept&quot;&gt;
+&lt;h2&gt;New deadline to submit your proposal is 22nd Sept&lt;/h2&gt;
+&lt;p&gt;We added an extra week to the deadline because there are enough things to worry about this time of the year, and we wanted to give you some more time to prepare your submissions.
+Make sure to get your talk in before the new deadline; we already have a lot of great proposals coming in.&lt;/p&gt;
+&lt;p&gt;Check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2023/cfp/&quot;&gt;Call for Proposals&lt;/a&gt; page for tips and examples to help inspire you.
+And if you’ve got an idea but aren’t sure what to do with it, feel free to ask for feedback on &lt;a class=&quot;reference external&quot; href=&quot;http://slack.writethedocs.org/&quot;&gt;Slack&lt;/a&gt;. Your fellow documentarians will be happy to help!&lt;/p&gt;
+&lt;p&gt;We will send out the decision emails to all who submitted by &lt;strong&gt;end-September&lt;/strong&gt;, and the final talks will be published by &lt;strong&gt;early October&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;we-ll-have-more-to-share-soon&quot;&gt;
+&lt;h2&gt;We’ll have more to share soon&lt;/h2&gt;
+&lt;p&gt;We are working through all the other aspects of the event. Expect to hear more about the welcome reception, social event, and more in the next few weeks.
+This will be our sixth Australian conference and we can’t wait!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/cfp/atom.xml">
+    <title type="text">Projects needed for Writing Day!</title>
+    <id>https://www.writethedocs.org/conf/atlantic/2023/news/writing-day-cta/</id>
+    <updated>2023-08-04T00:00:00Z</updated>
+    <published>2023-08-04T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/atlantic/2023/news/writing-day-cta/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;projects-needed-for-writing-day&quot;&gt;
+
+&lt;p&gt;Dear open source friends,&lt;/p&gt;
+&lt;p&gt;Send us your developer advocates, community managers, and projects. Tell them of Writing Day
+and invite them to join us!&lt;/p&gt;
+&lt;p&gt;If the first time you’re hearing about the Write the Docs conference or you’re
+unfamiliar with Writing Day, we got you:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/atlantic/2023/&quot;&gt;Write the Docs&lt;/a&gt; is the conference focused on all things related to software documentation&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/atlantic/2023/writing-day/&quot;&gt;Writing Day&lt;/a&gt; is modeled after the concept of “code sprints” or “hackathons”, which are common in open-source conferences – getting a bunch of people together and have them work towards a shared goal, such as creating or improving documentation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;The Write the Docs conference has many enthusiastic attendees. These attendees, documentarians, want to learn new
+technologies, sharpen their skills, and add to their portfolios. The world of open source has a seemingly endless
+number of wonderful open source projects. Documentarians want to write the docs, your open source project docs.&lt;/p&gt;
+&lt;p&gt;It’s a match made at Write the Docs!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;get-involved-with-writing-day&quot;&gt;
+&lt;h2&gt;Get involved with Writing Day!&lt;/h2&gt;
+&lt;p&gt;Ready to get involved?! &lt;a class=&quot;reference external&quot; href=&quot;https://forms.gle/KPo1ZPuRHqf7UZy37&quot;&gt;Submit your project&lt;/a&gt; and we’ll
+add it to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/atlantic/2023/writing-day/#your-project-here&quot;&gt;Writing Day project list&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Need help convincing your OSS project community or corporate benefactors on the benefits of attending Writing Day? See &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/atlantic/2023/writing-day-project-faq/#make-a-case-for-writing-day&quot;&gt;Make a case for Writing Day&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;writing-day-resources&quot;&gt;
+&lt;h3&gt;Writing Day resources&lt;/h3&gt;
+&lt;p&gt;We want you to have a great experience as a project and community. We know that preparing for conferences takes time and effort,
+so we put together some info to help you &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/atlantic/2023/writing-day-project-faq/#maximize-your-experience&quot;&gt;maximize your Writing Day experience&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;final-thoughts&quot;&gt;
+&lt;h2&gt;Final thoughts&lt;/h2&gt;
+&lt;p&gt;Writing Day is awesome and we hope to see you there!&lt;/p&gt;
+&lt;p&gt;You can email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:atlantic&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;atlantic&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt; with any questions.&lt;/p&gt;
+&lt;p&gt;Rose W and the Write the Docs organizing team &amp;lt;3&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/cfp/atom.xml">
+    <title type="text">Announcing Call for Proposals, Ticket Sales and the Grant program</title>
+    <id>https://www.writethedocs.org/conf/australia/2023/news/announcing-cfp-tickets/</id>
+    <updated>2023-07-07T00:00:00Z</updated>
+    <published>2023-07-07T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2023/news/announcing-cfp-tickets/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-call-for-proposals-ticket-sales-and-the-grant-program&quot;&gt;
+
+&lt;p&gt;G’day folks, today we are announcing our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2023/cfp/&quot;&gt;Call for Proposals&lt;/a&gt; and &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2023/tickets/&quot;&gt;ticket sales&lt;/a&gt;.
+We’ll have more updates about the conference soon, but we wanted to announce our CFP so you have time to prepare your talk ideas.&lt;/p&gt;
+&lt;p&gt;Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians.
+If there is something you’d really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;id1&quot;&gt;
+&lt;h2&gt;Call for Proposals&lt;/h2&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/australia/2023/news/announcing-cfp-tickets.rst&lt;/tt&gt;, line 16); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “call for proposals”.&lt;/div&gt;
+&lt;p&gt;Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
+We’re looking for ideas and use-cases from all disciplines and roles, so whether you’re a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For 2023, we are going back to an in-person event&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;You can read our full &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2023/cfp/&quot;&gt;Call for Proposals&lt;/a&gt; on the website.&lt;/p&gt;
+&lt;p&gt;The Call for Proposals will be open until &lt;strong&gt;11:59 PM September 22, 2023 AEST&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets&quot;&gt;
+&lt;h2&gt;Tickets&lt;/h2&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/australia/2023/news/announcing-cfp-tickets.rst&lt;/tt&gt;, line 7); &lt;em&gt;&lt;a href=&quot;#id2&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “tickets”.&lt;/div&gt;
+&lt;p&gt;Tickets are now on sale! Take a look at the prices for the online conference on our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2023/tickets/&quot;&gt;Tickets&lt;/a&gt; page.&lt;/p&gt;
+&lt;p&gt;As always, we keep ticket prices low so that the event is accessible to the widest range of people possible.
+However, if you can’t afford the tickets and still wish to attend, you can apply for an opportunity grant ticket.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;opportunity-grants&quot;&gt;
+&lt;h2&gt;Opportunity Grants&lt;/h2&gt;
+&lt;p&gt;Our grant program offers tickets to people who would otherwise not be able to attend.
+We’re excited to be able to offer free tickets to a larger number of people this year,
+since there are now minimal other costs to attend the event.&lt;/p&gt;
+&lt;p&gt;You can apply until &lt;strong&gt;October 15, 2023, midnight AEDT&lt;/strong&gt; on &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2023/opportunity-grants/&quot;&gt;our website&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;stay-updated&quot;&gt;
+&lt;h2&gt;Stay Updated&lt;/h2&gt;
+&lt;p&gt;Want to find out what’s happening with the conference, or enjoy our monthly global community newsletter?
+Sign up to one or more of our &lt;a class=&quot;reference external&quot; href=&quot;http://eepurl.com/cdWqc5&quot;&gt;mailing lists&lt;/a&gt;. Your information will never be shared with any third-parties, and you can unsubscribe at any time.&lt;/p&gt;
+&lt;p&gt;Want to connect with other documentarians in real-time? Join our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/slack/&quot;&gt;Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks&quot;&gt;
+&lt;h2&gt;Thanks&lt;/h2&gt;
+&lt;p&gt;We hope you will join us online for yet another Write the Docs conference.
+Whether as a speaker or attendee, you can bet it will be another delightful year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/cfp/atom.xml">
+    <title type="text">Announcing Call for Proposals</title>
+    <id>https://www.writethedocs.org/conf/atlantic/2023/news/announcing-cfp/</id>
+    <updated>2023-03-22T00:00:00Z</updated>
+    <published>2023-03-22T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/atlantic/2023/news/announcing-cfp/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-call-for-proposals&quot;&gt;
+
+&lt;p&gt;Today we are announcing our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/atlantic/2023/cfp/&quot;&gt;Call for Proposals&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Speaking at Write the Docs Atlantic is a fantastic way to share your ideas with our inspiring global community of documentarians.
+If there is something you’d really like to see a talk on, submit a proposal on it, or refer someone else who you think would be good!&lt;/p&gt;
+&lt;p&gt;Sign up to the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/newsletter/&quot;&gt;Atlantic conference mailing list&lt;/a&gt; to be the first to hear details as we announce them.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;id1&quot;&gt;
+&lt;h2&gt;Call for Proposals&lt;/h2&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/atlantic/2023/news/announcing-cfp.rst&lt;/tt&gt;, line 17); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “call for proposals”.&lt;/div&gt;
+&lt;p&gt;Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
+We’re looking for ideas and use-cases from all disciplines and roles, so whether you’re a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The conference is virtual and all talks will be pre-recorded, allowing you to present and attend from anywhere!&lt;/strong&gt;
+Our video producer will be available to help with recording if you want it.
+Timezones permitting, there will be a remote live Q&amp;amp;A with our moderators after every talk.&lt;/p&gt;
+&lt;p&gt;The schedule will run from the early afternoon to early evening in most European/African timezones,
+and from early morning to late afternoon in US East Coast/South America timezones.
+Of course, this being a virtual conference, attendees and speakers are welcomed from anywhere in the world.&lt;/p&gt;
+&lt;p&gt;Read the full &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/atlantic/2023/cfp/&quot;&gt;Call for Proposals&lt;/a&gt;,
+it will be open until &lt;strong&gt;23:59 May 15, 2023 UTC&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets&quot;&gt;
+&lt;h2&gt;Tickets&lt;/h2&gt;
+&lt;p&gt;Tickets will go on sale in April.
+Pricing will be similar to the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2022/tickets/&quot;&gt;Prague 2022 virtual conference pricing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As always, we keep ticket prices low so that the event is accessible to the widest range of people possible.
+However, if you can’t afford the tickets and still wish to attend, we will launch our grants program when we open ticket sales.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;stay-updated&quot;&gt;
+&lt;h2&gt;Stay Updated&lt;/h2&gt;
+&lt;p&gt;Want to find out what’s happening with the conference, or enjoy our monthly global community newsletter?
+Sign up to one or more of our &lt;a class=&quot;reference external&quot; href=&quot;http://eepurl.com/cdWqc5&quot;&gt;mailing lists&lt;/a&gt;. Your information will never be shared with any third-parties, and you can unsubscribe at any time.&lt;/p&gt;
+&lt;p&gt;Want to connect with other documentarians in real-time? Join our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/slack/&quot;&gt;Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks&quot;&gt;
+&lt;h2&gt;Thanks&lt;/h2&gt;
+&lt;p&gt;We hope you will join us online for yet another Write the Docs conference.
+Whether as a speaker or attendee, you can bet it will be another delightful year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/cfp/atom.xml">
+    <title type="text">Announcing ticket sales, full conference website, and CFP reminder</title>
+    <id>https://www.writethedocs.org/conf/portland/2023/news/website-tickets-cfp-reminder/</id>
+    <updated>2023-01-13T00:00:00Z</updated>
+    <published>2023-01-13T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2023/news/website-tickets-cfp-reminder/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-ticket-sales-full-conference-website-and-cfp-reminder&quot;&gt;
+
+&lt;p&gt;Happy New Year, fellow documentarians!&lt;/p&gt;
+&lt;p&gt;As we get ready to start the year, we’re happy to share the latest update about the Portland conference.
+The most important parts:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/tickets/&quot;&gt;Tickets&lt;/a&gt; for the conference are on sale.&lt;/li&gt;
+&lt;li&gt;Submit your &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/cfp/&quot;&gt;talk&lt;/a&gt; by &lt;strong&gt;February 06, 2023&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Our full &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/&quot;&gt;event website&lt;/a&gt; is now live, with lots of information about the conference.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Read on for more details!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;get-your-ticket-for-the-conference&quot;&gt;
+&lt;h2&gt;Get your ticket for the conference&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The Portland conference will be held on May 7-9, 2023.&lt;/strong&gt;
+The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/&quot;&gt;full event website&lt;/a&gt; is live and already includes many details. We’ll be updating it with more information as we get closer to the event.&lt;/p&gt;
+&lt;p&gt;We have a few big changes this year, after such a long break.
+First off, we have an exciting &lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/portland/2023/venue/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;new venue&lt;/span&gt;&lt;/a&gt; with much more space, and lots of outdoor access.
+We’re also doing a new experiment where we’re only catering drinks and snacks,
+and letting folks walk around the neighborhood to experience all the wonderful Portland lunch options.
+Our venue is located very close to a couple great vegan places,
+as well as many other exciting food options.
+We’ll have a set of recommends and a map as the conference gets closer.&lt;/p&gt;
+&lt;p&gt;If you’re excited to join us again in person,
+go ahead and &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/tickets/&quot;&gt;register for your ticket now&lt;/a&gt;!
+We are still planning to limit capacity of the event to ensure that we have a safe and community-focused experience for everyone,
+so we expect tickets to sell out a few weeks before the conference.&lt;/p&gt;
+&lt;p&gt;Similar to our past conferences, we’re going to keep as much of the spirit of the event as possible:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Excellent single track of presentations with wide-ranging talks&lt;/li&gt;
+&lt;li&gt;Writing Day&lt;/li&gt;
+&lt;li&gt;Unconference sessions&lt;/li&gt;
+&lt;li&gt;Job Fair&lt;/li&gt;
+&lt;li&gt;Sponsor booths&lt;/li&gt;
+&lt;li&gt;A much expanded hallway track!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We’re excited to see you again here soon.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;submit-your-talk-by-february-06-2023&quot;&gt;
+&lt;h2&gt;Submit your talk by &lt;strong&gt;February 06, 2023&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;You still have plenty of time to submit your talk to the conference.
+Check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/cfp/&quot;&gt;Call for Proposals page&lt;/a&gt; for more details about what would make a great talk.&lt;/p&gt;
+&lt;p&gt;If you already have an idea but you’re having a hard time getting your proposal to come together,
+you can always ask for talk feedback on the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/slack/&quot;&gt;Write the Docs Slack&lt;/a&gt;.
+The community is there to help!&lt;/p&gt;
+&lt;p&gt;The most important dates to remember:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Talk proposals are due by February 06, 2023.&lt;/li&gt;
+&lt;li&gt;Everyone who submits will get a response by February 13, 2023.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;support-our-community-by-sponsoring&quot;&gt;
+&lt;h2&gt;Support our community by sponsoring&lt;/h2&gt;
+&lt;p&gt;Every year we are fortunate to have the support of like-minded organizations and communities,
+who believe in the collaborative and welcoming community spirit and help us make our events great.&lt;/p&gt;
+&lt;p&gt;We have published our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/sponsors/prospectus/&quot;&gt;sponsorship prospectus&lt;/a&gt; for the conference,
+and are open for new sponsorship inquiries.&lt;/p&gt;
+&lt;p&gt;We have some interesting new sponsorship options with sponsored workshops.
+We will also run the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/job-fair/&quot;&gt;job fair&lt;/a&gt; again this year,
+helping documentarians and organizations connect with each other.
+Check out the sponsorship prospectus for more details and to reserve your spot today.&lt;/p&gt;
+&lt;p&gt;Looking forward to seeing you all here soon!&lt;/p&gt;
+&lt;p&gt;The Write the Docs Team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/cfp/atom.xml">
+    <title type="text">Announcing Venue and Call for Proposals</title>
+    <id>https://www.writethedocs.org/conf/portland/2023/news/announcing-cfp/</id>
+    <updated>2022-12-02T00:00:00Z</updated>
+    <published>2022-12-02T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2023/news/announcing-cfp/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-venue-and-call-for-proposals&quot;&gt;
+
+&lt;p&gt;Today we are announcing our new Portland conference venue.
+The needs of our conference have changed over the years, and we have decided to move to a lovely new space in Portland.
+We’re also excited to announce our Portland &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/cfp/&quot;&gt;Call for Proposals&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians.
+If there is something you’d really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;our-new-venue-revolution-hall&quot;&gt;
+&lt;h2&gt;Our new venue: Revolution Hall&lt;/h2&gt;
+&lt;p&gt;Our Portland conference will be held at &lt;a class=&quot;reference external&quot; href=&quot;https://www.revolutionhall.com/about/&quot;&gt;Revolution Hall&lt;/a&gt;.
+It is a beautiful concert venue located on the &lt;a class=&quot;reference external&quot; href=&quot;https://goo.gl/maps/7ncFK7Bt6jnouVJt7&quot;&gt;thriving inner east side&lt;/a&gt; of Portland.
+It was converted from a high school,
+and still has some lockers in the hallway for that extra learning ambiance.&lt;/p&gt;
+&lt;img alt=&quot;../../../../_images/rev-hall-outside.jpg&quot; src=&quot;../../../../_images/rev-hall-outside.jpg&quot; /&gt;
+&lt;p&gt;The venue has a large and beautiful primary theater,
+as well as many other social spaces:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;The Library &amp;amp; Astoria Room where we will be hosting our Unconference discussions&lt;/li&gt;
+&lt;li&gt;The Sunset Room which will be our Quiet room&lt;/li&gt;
+&lt;li&gt;The Library room where our snacks and drinks catering will happen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It also has &lt;em&gt;outdoor seating&lt;/em&gt; and a &lt;em&gt;city park&lt;/em&gt; directly on the property for plenty of fresh air and free space.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;health-and-safety-policy&quot;&gt;
+&lt;h2&gt;Health and safety policy&lt;/h2&gt;
+&lt;p&gt;As part of returning to an in-person conference, we’re also introducing a new and more detailed &lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/portland/2023/health/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;health and safety policy&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;id1&quot;&gt;
+&lt;h2&gt;Call for Proposals&lt;/h2&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/portland/2023/news/announcing-cfp.rst&lt;/tt&gt;, line 44); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “call for proposals”.&lt;/div&gt;
+&lt;p&gt;Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
+We’re looking for ideas and use-cases from all disciplines and roles, so whether you’re a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For 2023 we are going back to an in-person event&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;You can read our full &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/cfp/&quot;&gt;Call for Proposals&lt;/a&gt; on the website.&lt;/p&gt;
+&lt;p&gt;The Call for Proposals will be open until &lt;strong&gt;11:59 PM February 06, 2023 PST&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;(If you’d prefer not to attend an in-person event due to COVID-19 or any other reason, keep an eye out for &lt;a class=&quot;reference internal&quot; href=&quot;#atlantic-news&quot;&gt;Atlantic_news&lt;/a&gt; held online in a timezone as widely accessible as possible).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;write-the-docs-atlantic-online-september-2023&quot;&gt;
+&lt;span id=&quot;atlantic-news&quot;&gt;&lt;/span&gt;&lt;h2&gt;Write the Docs Atlantic, online September 2023&lt;/h2&gt;
+&lt;p&gt;If you want to speak at Write the Docs, but can’t or don’t want to attend an in-person event, keep an eye out for Write the Docs Atlantic, coming in September 2023.
+This conference will be entirely virtual, in a timezone that works for as many people as possible, so you can present or attend from anywhere.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets&quot;&gt;
+&lt;h2&gt;Tickets&lt;/h2&gt;
+&lt;p&gt;Tickets will officially go on sale early &lt;strong&gt;2023&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;As always, we keep ticket prices low so that the event is accessible to the widest range of people possible.
+However, if you can’t afford the tickets and still wish to attend, we will launch our grants program soon after opening ticket sales.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;stay-updated&quot;&gt;
+&lt;h2&gt;Stay Updated&lt;/h2&gt;
+&lt;p&gt;Want to find out what’s happening with the conference, or enjoy our monthly global community newsletter?
+Sign up to one or more of our &lt;a class=&quot;reference external&quot; href=&quot;http://eepurl.com/cdWqc5&quot;&gt;mailing lists&lt;/a&gt;. Your information will never be shared with any third-parties, and you can unsubscribe at any time.&lt;/p&gt;
+&lt;p&gt;Want to connect with other documentarians in real-time? Join our &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.org/slack/&quot;&gt;Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks&quot;&gt;
+&lt;h2&gt;Thanks&lt;/h2&gt;
+&lt;p&gt;We hope you will join us online for yet another Write the Docs conference.
+Whether as a speaker or attendee, you can bet it will be another delightful year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/cfp/atom.xml">
+    <title type="text">Ticket Sales, Grant Program, and Call for Proposals Reminder</title>
+    <id>https://www.writethedocs.org/conf/australia/2022/news/tickets-cfp-reminder/</id>
+    <updated>2022-08-29T00:00:00Z</updated>
+    <published>2022-08-29T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2022/news/tickets-cfp-reminder/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;ticket-sales-grant-program-and-call-for-proposals-reminder&quot;&gt;
+
+&lt;p&gt;Greetings, documentarians! Just a quick reminder that tickets are &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/tickets/&quot;&gt;on sale now&lt;/a&gt;, and to remind you that our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/cfp/&quot;&gt;Call for Proposals&lt;/a&gt; is still open.&lt;/p&gt;
+&lt;p&gt;Following the success of our previous virtual conferences, we look forward to more opportunities to bring the community together virtually. We excited to share the wonderful energy of our community wherever you are in the world.&lt;/p&gt;
+&lt;p&gt;If there is something you’d really like to see a talk about this year, submit a proposal for it or refer someone else who would be good!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;get-your-ticket-for-the-conference&quot;&gt;
+&lt;h2&gt;Get your ticket for the conference&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The Australia conference will be held online on Dec 8-9, 2022.&lt;/strong&gt; The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/&quot;&gt;full event website&lt;/a&gt; is live, with some preliminary details, and we’ll be filling in more as it gets closer.&lt;/p&gt;
+&lt;p&gt;Tickets are already on sale, so go ahead and &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/tickets/&quot;&gt;register for your ticket now&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;We bring as much of the spirit of our in person events as we can to  our virtual conference, including but not limited to:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Excellent single track of pre-recorded presentations with live moderated Q&amp;amp;A&lt;/li&gt;
+&lt;li&gt;Unconference sessions&lt;/li&gt;
+&lt;li&gt;A virtual hallway track&lt;/li&gt;
+&lt;li&gt;A social event of some kind, bring your own beverage and snacks :)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We really want to make sure that folks can get value from being at the event at the same time, and we think it will be another great year of helping our community connect.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;grant-program&quot;&gt;
+&lt;h2&gt;Grant program&lt;/h2&gt;
+&lt;p&gt;We updated our grant program application to take into account the virtual format of the event.
+We’re excited to be able to offer free tickets to a larger number of people, since there are now minimal other costs to attend the event.&lt;/p&gt;
+&lt;p&gt;You can apply by &lt;strong&gt;October 15, 2022&lt;/strong&gt; on &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/opportunity-grants/&quot;&gt;our website&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;submit-your-talk-by-september-16-2022&quot;&gt;
+&lt;h2&gt;Submit your talk by September 16, 2022&lt;/h2&gt;
+&lt;p&gt;There are still a couple of weeks left to submit your proposal! Check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/cfp/&quot;&gt;Call for Proposals page&lt;/a&gt; for more details about what we are looking for.&lt;/p&gt;
+&lt;p&gt;And if you already have an idea but you’re having a hard time getting your proposal to come together, you can always ask for feedback on the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/slack/&quot;&gt;Write the Docs Slack&lt;/a&gt;. The community is there to help!&lt;/p&gt;
+&lt;p&gt;We’ll then be reviewing all the talk proposals, and will be contacting everyone who submitted a proposal by &lt;strong&gt;September 30, 2022&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;support-our-community-by-sponsoring&quot;&gt;
+&lt;h2&gt;Support our community by sponsoring&lt;/h2&gt;
+&lt;p&gt;Every year we are fortunate to have the support of like-minded organizations and communities, who believe in the collaborative and welcoming community spirit and help us make our events great.&lt;/p&gt;
+&lt;p&gt;We have published our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/sponsors/prospectus/&quot;&gt;virtual sponsorship prospectus&lt;/a&gt; for the conference,
+and are open for new sponsorship inquiries.&lt;/p&gt;
+&lt;p&gt;Thanks so much to the following companies for supporting the Asutralia conference this year:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.atlassian.com/&quot;&gt;Atlassian&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;Looking forward to seeing you all in our virtual space!&lt;/p&gt;
+&lt;p&gt;The Write the Docs Team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/cfp/atom.xml">
+    <title type="text">Announcing Call for Proposals, Ticket Sales and the Grant program</title>
+    <id>https://www.writethedocs.org/conf/australia/2022/news/announcing-cfp-tickets/</id>
+    <updated>2022-08-23T00:00:00Z</updated>
+    <published>2022-08-23T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2022/news/announcing-cfp-tickets/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-call-for-proposals-ticket-sales-and-the-grant-program&quot;&gt;
+
+&lt;p&gt;G’day folks, today we are announcing our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/cfp/&quot;&gt;Call for Proposals&lt;/a&gt; and &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/tickets/&quot;&gt;ticket sales&lt;/a&gt;.
+We’ll have more updates about the conference soon, but we wanted to announce our CFP so you have time to prepare your talk ideas.&lt;/p&gt;
+&lt;p&gt;Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians.
+If there is something you’d really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;id1&quot;&gt;
+&lt;h2&gt;Call for Proposals&lt;/h2&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/australia/2022/news/announcing-cfp-tickets.rst&lt;/tt&gt;, line 16); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “call for proposals”.&lt;/div&gt;
+&lt;p&gt;Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
+We’re looking for ideas and use-cases from all disciplines and roles, so whether you’re a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The conference is virtual again and all talks will be pre-recorded, allowing you to present and attend from anywhere!&lt;/strong&gt; Our video producer will be available to help with recording if you want it. We’d also love it if you’ll be available for a remote live Q&amp;amp;A with our moderators after your talk.&lt;/p&gt;
+&lt;p&gt;You can read our full &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/cfp/&quot;&gt;Call for Proposals&lt;/a&gt; on the website.&lt;/p&gt;
+&lt;p&gt;The Call for Proposals will be open until &lt;strong&gt;11:59 PM September 16, 2022 AEDT&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets&quot;&gt;
+&lt;h2&gt;Tickets&lt;/h2&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/australia/2022/news/announcing-cfp-tickets.rst&lt;/tt&gt;, line 7); &lt;em&gt;&lt;a href=&quot;#id2&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “tickets”.&lt;/div&gt;
+&lt;p&gt;Tickets are now on sale! Take a look at the prices for the online conference on our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/tickets/&quot;&gt;Tickets&lt;/a&gt; page.&lt;/p&gt;
+&lt;p&gt;As always, we keep ticket prices low so that the event is accessible to the widest range of people possible.
+However, if you can’t afford the tickets and still wish to attend, you can apply for an opportunity grant ticket.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;opportunity-grants&quot;&gt;
+&lt;h2&gt;Opportunity Grants&lt;/h2&gt;
+&lt;p&gt;Our grant program offers tickets to people who would otherwise not be able to attend.
+We’re excited to be able to offer free tickets to a larger number of people this year,
+since there are now minimal other costs to attend the event.&lt;/p&gt;
+&lt;p&gt;You can apply until &lt;strong&gt;October 15, 2022, midnight AEDT&lt;/strong&gt; on &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/opportunity-grants/&quot;&gt;our website&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;stay-updated&quot;&gt;
+&lt;h2&gt;Stay Updated&lt;/h2&gt;
+&lt;p&gt;Want to find out what’s happening with the conference, or enjoy our monthly global community newsletter?
+Sign up to one or more of our &lt;a class=&quot;reference external&quot; href=&quot;http://eepurl.com/cdWqc5&quot;&gt;mailing lists&lt;/a&gt;. Your information will never be shared with any third-parties, and you can unsubscribe at any time.&lt;/p&gt;
+&lt;p&gt;Want to connect with other documentarians in real-time? Join our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/slack/&quot;&gt;Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks&quot;&gt;
+&lt;h2&gt;Thanks&lt;/h2&gt;
+&lt;p&gt;We hope you will join us online for yet another Write the Docs conference.
+Whether as a speaker or attendee, you can bet it will be another delightful year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/cfp/atom.xml">
+    <title type="text">Announcing Ticket Sales, Grant Program, and Call for Proposals Reminder</title>
+    <id>https://www.writethedocs.org/conf/prague/2022/news/tickets-cfp-reminder/</id>
+    <updated>2022-06-08T00:00:00Z</updated>
+    <published>2022-06-08T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2022/news/tickets-cfp-reminder/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-ticket-sales-grant-program-and-call-for-proposals-reminder&quot;&gt;
+
+&lt;p&gt;Greetings, documentarians! Today we’re happy to announce that tickets are &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2022/tickets/&quot;&gt;on sale now&lt;/a&gt;, and to remind you that our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2022/cfp/&quot;&gt;Call for Proposals&lt;/a&gt; is still open.&lt;/p&gt;
+&lt;p&gt;Following the success of our previous virtual conferences, we look forward to more opportunities to bring the community together virtually. We excited to share the wonderful energy of our community wherever you are in the world.&lt;/p&gt;
+&lt;p&gt;If there is something you’d really like to see a talk about this year, submit a proposal for it or refer someone else who would be good!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;get-your-ticket-for-the-conference&quot;&gt;
+&lt;h2&gt;Get your ticket for the conference&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The Prague conference will be held online on Sep 11-13, 2022.&lt;/strong&gt; The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2022/&quot;&gt;full event website&lt;/a&gt; is live, with some preliminary details, and we’ll be filling in more as it gets closer.&lt;/p&gt;
+&lt;p&gt;Tickets are on sale now, so go ahead and &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2022/tickets/&quot;&gt;register for your ticket now&lt;/a&gt;! Even though our capacity is more flexible due to the virtual event platform, we might still sell out to make sure we’re providing a manageable event size for our attendees, as always.&lt;/p&gt;
+&lt;p&gt;Similar to last year’s virtual conference, we’re going to keep as much as possible of the spirit of the event alive:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Excellent single track of pre-recorded presentations with live moderated Q&amp;amp;A&lt;/li&gt;
+&lt;li&gt;Writing Day sessions&lt;/li&gt;
+&lt;li&gt;Unconference sessions&lt;/li&gt;
+&lt;li&gt;A virtual hallway track&lt;/li&gt;
+&lt;li&gt;A social event of some kind, bring your own beverage and snacks :)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We really want to make sure that folks can get value from being at the event at the same time, and we think it will be another great year of helping our community connect.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;grant-program&quot;&gt;
+&lt;h2&gt;Grant program&lt;/h2&gt;
+&lt;p&gt;We updated our grant program application to take into account the virtual format of the event.
+We’re excited to be able to offer free tickets to a larger number of people, since there are now minimal other costs to attend the event.&lt;/p&gt;
+&lt;p&gt;You can apply by &lt;strong&gt;August 15, 2022&lt;/strong&gt; on &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2022/opportunity-grants/&quot;&gt;our website&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;submit-your-talk-by-june-30-2022&quot;&gt;
+&lt;h2&gt;Submit your talk by June 30, 2022&lt;/h2&gt;
+&lt;p&gt;There are still a few weeks left to submit your proposal! Check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2022/cfp/&quot;&gt;Call for Proposals page&lt;/a&gt; for more details about what we are looking for.&lt;/p&gt;
+&lt;p&gt;And if you already have an idea but you’re having a hard time getting your proposal to come together, you can always ask for feedback on the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/slack/&quot;&gt;Write the Docs Slack&lt;/a&gt;. The community is there to help!&lt;/p&gt;
+&lt;p&gt;We’ll then be reviewing all the talk proposals, and will be contacting everyone who submitted a proposal by &lt;strong&gt;July 15, 2022&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;support-our-community-by-sponsoring&quot;&gt;
+&lt;h2&gt;Support our community by sponsoring&lt;/h2&gt;
+&lt;p&gt;Every year we are fortunate to have the support of like-minded organizations and communities, who believe in the collaborative and welcoming community spirit and help us make our events great.&lt;/p&gt;
+&lt;p&gt;We have published our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2022/sponsors/prospectus/&quot;&gt;virtual sponsorship prospectus&lt;/a&gt; for the conference,
+and are open for new sponsorship inquiries.&lt;/p&gt;
+&lt;p&gt;We will still run the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2022/job-fair/&quot;&gt;job fair&lt;/a&gt;, helping documentarians and organizations connect with each other. Check out the sponsorship prospectus for more details and to reserve your spot today.&lt;/p&gt;
+&lt;p&gt;Thanks so much to the following companies for supporting the Prague conference this year:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.archbee.io/?utm_medium=banner&amp;amp;utm_source=conference&amp;amp;utm_campaign=wtd&quot;&gt;Archbee&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.adyen.com/&quot;&gt;Adyen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.jetbrains.com/&quot;&gt;JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.veeam.com/&quot;&gt;Veeam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.dolby.com/&quot;&gt;Dolby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;Looking forward to seeing you all in our virtual space!&lt;/p&gt;
+&lt;p&gt;The Write the Docs Team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

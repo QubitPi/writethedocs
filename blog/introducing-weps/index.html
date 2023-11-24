@@ -1,0 +1,463 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta property="og:title" content="Introducing Write the Docs Enhancement Proposals" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/blog/introducing-weps/" />
+<meta property="og:site_name" content="Write the Docs" />
+<meta property="og:description" content="Write the Docs began seven years ago with a single conference. It has now grown to multiple conferences worldwide, over 50 international meetups, and many other projects. We have often followed the..." />
+<meta property="og:image" content="https://www.writethedocs.org/_static/logo-opengraph.png" />
+<meta property="og:image:alt" content="Write the Docs" />
+<meta name="description" content="Write the Docs began seven years ago with a single conference. It has now grown to multiple conferences worldwide, over 50 international meetups, and many other projects. We have often followed the..." />
+<meta name="twitter:card" content="summary_large_image" />
+
+    <title>Introducing Write the Docs Enhancement Proposals &#8212; Write the Docs</title>
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/alabaster.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/global-customizations.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/survey.css" />
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/js/jobs.js"></script>
+    <link rel="canonical" href="https://QubitPi.github.io/writethedocs/blog/introducing-weps.html" />
+    <link rel="shortcut icon" href="../../_static/favicon-96x96.png"/>
+    <link rel="index" title="Index" href="../../genindex/" />
+    <link rel="search" title="Search" href="../../search/" />
+  
+   
+  <link rel="stylesheet" href="../../_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  
+  <link rel="alternate" type="application/atom+xml"  href="../archive/atom.xml" title="Blog">
+  
+  
+  <link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
+  
+  <style type="text/css">
+    ul.ablog-archive {list-style: none; overflow: auto; margin-left: 0px}
+    ul.ablog-archive li {float: left; margin-right: 5px; font-size: 80%}
+    ul.postlist a {font-style: italic;}
+    ul.postlist-style-disc {list-style-type: disc;}
+    ul.postlist-style-none {list-style-type: none;}
+    ul.postlist-style-circle {list-style-type: circle;}
+  </style>
+
+  </head><body>
+  
+
+    <div class="document">
+  <div class="documentwrapper">
+    <div class="bodywrapper">
+      <div class="body" role="main">
+          
+          <div class="breadcrumbs">
+            
+            
+              <a href="../../">Home</a> &raquo;
+                
+            
+          </div>
+        
+        
+  <div class="section" id="introducing-write-the-docs-enhancement-proposals">
+<h1>Introducing Write the Docs Enhancement Proposals<a class="headerlink" href="#introducing-write-the-docs-enhancement-proposals" title="Permalink to this headline">¶</a></h1>
+<p>Write the Docs began seven years ago with a single conference.
+It has now grown to multiple conferences worldwide,
+over 50 international meetups,
+and <a class="reference external" href="https://www.writethedocs.org/#join-the-community">many other projects</a>.</p>
+<p>We have often followed the open source philosophy in our community practices,
+keeping a loose governance model and mostly letting the work speak for itself.
+However,
+we’ve been experiencing a number of growing pains with this approach.
+A loosely defined process makes it much harder for new people to understand and join the community in leadership positions,
+since they don’t understand how the community actually works.
+Even folks doing a lot of work in the community are often lost or confused when it comes to projects they aren’t directly involved with.</p>
+<p>All organizations have power structures,
+some are just not documented. <a class="footnote-reference" href="#id2" id="id1">[1]</a>
+Instead of trying to reinvent the wheel,
+we’ve once again taken an idea from the open source ecosystem:
+Write the Docs Enhancement Proposals,
+or WEPs.</p>
+<div class="section" id="what-is-a-write-the-docs-enhancement-proposal-wep">
+<h2>What is a Write the Docs Enhancement Proposal (WEP)<a class="headerlink" href="#what-is-a-write-the-docs-enhancement-proposal-wep" title="Permalink to this headline">¶</a></h2>
+<p>The WEP system is a formalized process for making major policy changes in the community.
+Previously, our governance was usually defined with some kind of fuzzy consensus on a Slack channel or a meeting at a conference.
+Going forward, we want to establish a written record that people have time to review and comment on.
+Importantly,
+there will also be records of the conversation that lead to a change.</p>
+<p>We hope that WEPs will make the process of making major changes inside the community more explicit and collaborative.
+Any contributors can propose WEPs with a well-defined process,
+and the whole community can follow the process of proposing and implementing WEPs.
+WEPs are the first major step towards having a more open and defined model for governance,
+but certainly not the last.
+All further governance changes are planned to go through the WEP process,
+so it is truly foundational for future improvements to our community management processes.</p>
+</div>
+<div class="section" id="what-is-the-wep-process">
+<h2>What is the WEP process?<a class="headerlink" href="#what-is-the-wep-process" title="Permalink to this headline">¶</a></h2>
+<p>The WEP process is defined in <a class="reference external" href="https://github.com/writethedocs/weps/pull/1">WEP0</a>,
+the first ever WEP.
+WEP0 itself is currently ready for review,
+following the draft WEP process.
+This might appear circular at first glance,
+but we hope that it will showcase how the process works as we adopt it.</p>
+<p>The high-level overview of the WEP process is as follows,
+from the perspective of someone proposing a WEP:</p>
+<ol class="arabic simple">
+<li>Talk to people about your idea, and get feedback from other community members</li>
+<li>Draft and submit a Pull Request on the WEP GitHub Repository, which submits the WEP as a <strong>draft</strong></li>
+<li><dl class="first docutils">
+<dt>The <strong>WEP team</strong> then reviews the Draft WEP to make sure it falls within the WEP guidelines:</dt><dd><ul>
+<li>Is the WEP well-formed? Does it have all the required sections?</li>
+<li>Is the WEP specific enough that the outcome of approving it is clear?</li>
+<li>Is the proposed change within the scope of the WEP process?</li>
+</ul>
+</dd>
+</dl>
+</li>
+<li>After the WEP team accepts the draft, it is now <strong>ready-for-discussion</strong>.</li>
+<li>The WEP team then sets a deadline for discussion, currently 30 days, for community feedback and review</li>
+<li><dl class="first docutils">
+<dt>Once the WEP is <strong>ready-for-discussion</strong> and has a deadline, the Core Ops team announce the WEP in a few defined channels, where interested community members can subscribe</dt><dd><ul>
+<li>The <code class="docutils literal notranslate"><span class="pre">WEP-announcements</span></code> Slack channel</li>
+<li>The <code class="docutils literal notranslate"><span class="pre">WEP-announcements</span></code> Email list</li>
+</ul>
+</dd>
+</dl>
+</li>
+<li>During this month-long period, the WEP is updated based on incoming feedback, and the community works towards a consensus on the proposed change</li>
+<li><dl class="first docutils">
+<dt>At the deadline, the Core Ops team determines if consensus has been reached</dt><dd><ul>
+<li>If there is consensus, the WEP is <strong>Accepted</strong>, it will be implemented as specified</li>
+<li>If there is no consensus, the WEP is either <strong>Rejected</strong> or <strong>Extended</strong> for another month. Extension is available when it seems further activity could lead to consensus.</li>
+</ul>
+</dd>
+</dl>
+</li>
+<li>Once the WEP decision is made, another announcement is sent to the defined announcement channels</li>
+</ol>
+</div>
+<div class="section" id="get-involved">
+<h2>Get involved<a class="headerlink" href="#get-involved" title="Permalink to this headline">¶</a></h2>
+<p>If you want to understand the full policy,
+we invite you to review and comment on <a class="reference external" href="https://github.com/writethedocs/weps/pull/1">WEP0</a>.
+We also welcome feedback privately via email at <a class="reference external" href="mailto:support&#37;&#52;&#48;writethedocs&#46;org">support<span>&#64;</span>writethedocs<span>&#46;</span>org</a> if that is more comfortable for you.
+This is a new process,
+but we hope it will start to address questions of how change happens in the community.</p>
+<p>We hope that you’ll take the time to read our proposal and understand how we’re changing the process of making changes in the community.
+The more engaged folks are with the process,
+the better the community will be for everyone.</p>
+<table class="docutils footnote" frame="void" id="id2" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id1">[1]</a></td><td>A great read if you haven’t already: <a class="reference external" href="https://www.jofreeman.com/joreen/tyranny.htm">https://www.jofreeman.com/joreen/tyranny.htm</a></td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+  <div class="section">
+  
+    
+
+
+<div class="section">
+  <span style="float: left;">
+  
+  
+  <a href="../newsletter-october-2019/">
+    <i class="fa fa-arrow-circle-left"></i>
+    Write the Docs Newsletter – October 2019
+  </a>
+  
+  </span>
+  <span>&nbsp;</span>
+  <span style="float: right;">
+  
+  
+  <a href="../newsletter-november-2019/">
+    Write the Docs Newsletter – November 2019
+    <i class="fa fa-arrow-circle-right"></i>
+  </a>
+  
+  </span>
+</div>
+
+  
+  
+  </div>
+
+      </div>
+    </div>
+  </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<p class="logo">
+  <a href="../../">
+    <img class="logo" src="../../_static/sticker-wtd-colors.png" alt="Logo"/>
+    
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <h2>
+  
+  <i class="fa fa-calendar"></i>
+    30 October 2019
+  
+  </h2>
+
+  <ul>
+    
+
+  
+  <li id="author"><span><i class="fa-fw fa fa-user"></i></span>
+    
+      
+      <a href="../archive/author/write-the-docs-team/">Write the Docs Team</a>
+      
+    </li>
+  
+
+  
+
+  
+
+  
+
+  
+  <li id="tags"><span><i class="fa-fw fa fa-tags"></i>
+      </span>
+    
+      
+      <a href="../archive/tag/governance/">governance</a>
+      
+    
+      
+      <a href="../archive/tag/wep/">wep</a>
+      
+    
+      
+      <a href="../archive/tag/weps/">weps</a>
+      
+    </li>
+  
+  
+  </ul>
+
+
+<br>
+<p>
+Write the Docs is a global community of people who care about documentation.
+We have a Slack community, conferences on 3 continents, and local meetups!
+</p>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../../search/" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>$('#searchbox').show(0);</script><style>
+.ethical-alabaster::before {margin-top: 1em;}
+</style>
+<div id="ethical-ad-placement"></div>
+
+<div id="jobs-listing">
+    <h3>Job Postings</h3>
+    See more at our <a href="https://jobs.writethedocs.org/">Job Board</a>.
+        <ul>
+        </ul>
+</div>
+
+<div id="toc">
+
+    <h3>Site Content</h3>
+
+    <ul>
+<li class="toctree-l1"><a class="reference internal" href="../../surveys/">Salary Surveys</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../surveys/#salary-survey-now-open">2023 Salary Survey now open</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../guide/">Documentation guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../book-club/">Book Club</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../hiring-guide/">Hiring guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/stay-connected/">Stay Connected</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/about-the-org/">About Our Organization</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/events-activities/">Events and Activities</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/learning-resources/">Learning Resources</a></li>
+</ul>
+
+    
+</div>
+
+<br>
+
+
+<h3>Join our mailing list</h3>
+
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;}
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+    <form action="https://writethedocs.us6.list-manage.com/subscribe/post?u=94377ea46d8b176a11a325d03&amp;id=dcf0ed349b&amp;f_id=00d2c2e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div id="mc_embed_signup_scroll">
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
+	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
+</div>
+<div class="mc-field-group input-group">
+    <strong>What types of updates would you like? </strong>
+    <ul><li>
+    <input type="checkbox" value="1" name="group[14633][1]" id="mce-group[14633]-14633-0" checked>
+    <label for="mce-group[14633]-14633-0">Monthly Community Newsletter</label>
+</li>
+<li>
+    <input type="checkbox" value="2" name="group[14633][2]" id="mce-group[14633]-14633-1">
+    <label for="mce-group[14633]-14633-1">North American Conference Announcements</label>
+</li>
+<li>
+    <input type="checkbox" value="4" name="group[14633][4]" id="mce-group[14633]-14633-2">
+    <label for="mce-group[14633]-14633-2">European Conference Announcements</label>
+</li>
+<li>
+    <input type="checkbox" value="8" name="group[14633][8]" id="mce-group[14633]-14633-3">
+    <label for="mce-group[14633]-14633-3">Australian Conference Announcements</label>
+</li>
+<li>
+    <input type="checkbox" value="16" name="group[14633][16]" id="mce-group[14633]-14633-4">
+    <label for="mce-group[14633]-14633-4">Atlantic Conference Announcements</label>
+</li>
+</ul>
+    <span id="mce-group[14633]-HELPERTEXT" class="helper_text"></span>
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_94377ea46d8b176a11a325d03_dcf0ed349b" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<!--End mc_embed_signup-->
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+  <style>
+
+/* Sponsors */
+.sponsors {
+    float: left;
+    margin-top: 12px;
+    text-align: center;
+}
+.sponsors .sponsor {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+}
+.sponsors .sponsor img {
+    width: 90px;
+    height: auto;
+}
+.sponsors .sponsor-name {
+    font-size: 12px;
+}
+.sponsors .sponsor-description {
+    font-size: 10px;
+    color: #BCC1C3;
+}
+.sponsors .sponsor-name, .sponsors .sponsor-description {
+    text-align: center;
+    line-height: 1.4;
+}
+
+/* Links in footer */
+.footer-links {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+#social-footer {
+  line-height: 1.5rem;
+}
+div.footer,div.footer a {
+  color: #757575;
+}
+</style>
+<div class="footer">
+      
+      <div class="container footer-links">
+        <div style="flex-basis: 20rem; text-align: left;">
+          <span>© Write the Docs</span>
+          <span>
+            &nbsp;<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0; vertical-align: middle;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+          </span>
+        </div>
+        <div id="social-footer">
+          <span><a href="/contact/"><i class="iconf-email"></i>Contact Us</a></span> |
+          <span><a href="/site-map"><i class="iconf-github-circled-alt2"></i>Site map</a></span> |
+          <span><a href="https://github.com/writethedocs"><i class="iconf-github-circled-alt2"></i>GitHub</a></span> |
+          <span><a href="https://twitter.com/writethedocs"><i class="iconf-twitter-circled"></i>Twitter</a></span> |
+          <span>
+                <a href="https://www.linkedin.com/company/write-the-docs">
+                  LinkedIn
+                </a>
+          </span> |
+          <span><a href="../../code-of-conduct/">Code&nbsp;of&nbsp;Conduct</a></span> |
+          <span><a href="https://jobs.writethedocs.org/">Job Board</a></span>
+        </div>
+      </div>
+
+    
+    <a href="https://github.com/writethedocs/www" class="github">
+        <img style="position: absolute; top: 0; right: 0; border: 0;" src="/_static/img/fork-ribbon.svg" alt="Fork me on GitHub"  class="github"/>
+    </a>
+    
+
+  <div class="sponsors" id="community-sponsors" style="width: 100%;">
+  <hr>
+    <a class="sponsor" href="https://readthedocs.org" rel="noopener" target="_blank">
+      <img src="https://read-the-docs-guidelines.readthedocs-hosted.com/_images/logo-wordmark-dark.png" alt="Read the Docs" class="sponsor-image">
+      <div class="sponsor-name">Read the Docs</div>
+      <div class="sponsor-description">Website Hosting</div>
+    </a>
+    
+
+    <a class="sponsor" href="../../sponsorship/" rel="noopener" target="_blank">
+      <div class="sponsor-name">Sponsorship Info</div>
+    </a>
+  </div>
+</div>
+  </body>
+</html>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged blacklivesmatter</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/blacklivesmatter/atom.xml</id>
+  <updated>2020-06-19T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/blacklivesmatter/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/blacklivesmatter/atom.xml">
+    <title type="text">Matching donations made in support of the Black community</title>
+    <id>https://www.writethedocs.org/blog/donations-black-community/</id>
+    <updated>2020-06-19T00:00:00Z</updated>
+    <published>2020-06-19T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/donations-black-community/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;matching-donations-made-in-support-of-the-black-community&quot;&gt;
+
+&lt;p&gt;In recognition of &lt;a class=&quot;reference external&quot; href=&quot;https://en.wikipedia.org/wiki/Juneteenth&quot;&gt;Juneteenth&lt;/a&gt; here in the United States,
+we’d like to follow up on our &lt;a class=&quot;reference internal&quot; href=&quot;../../../we-stand-with-the-black-community/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;donation matching program&lt;/span&gt;&lt;/a&gt;
+for non-profit organizations supporting the Black community and their ongoing efforts.&lt;/p&gt;
+&lt;p&gt;This week, we reached the goal of $1,500 in donations made by our community,
+and Write the Docs made matching donations to nine different organizations.&lt;/p&gt;
+&lt;p&gt;We matched donations to the following organizations:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;NAACP Legal Defense Fund: $435&lt;/li&gt;
+&lt;li&gt;UndocuBlack Network: $300&lt;/li&gt;
+&lt;li&gt;Black Lives Matter Global Network: $290&lt;/li&gt;
+&lt;li&gt;Color of Change: $190&lt;/li&gt;
+&lt;li&gt;Black Alliance for Just Immigration (BAJI): $100&lt;/li&gt;
+&lt;li&gt;WeTheProtesters, Inc: $70&lt;/li&gt;
+&lt;li&gt;National Urban League: $50&lt;/li&gt;
+&lt;li&gt;The Loveland Foundation: $50&lt;/li&gt;
+&lt;li&gt;Black Minds Matter UK: $15&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thanks to all documentarians who donated.
+We hope that this will continue to inspire folks to give money to these causes,
+and support their efforts for justice.&lt;/p&gt;
+&lt;p&gt;#BlackLivesMatter&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/blacklivesmatter/atom.xml">
+    <title type="text">We stand with the Black community</title>
+    <id>https://www.writethedocs.org/blog/we-stand-with-the-black-community/</id>
+    <updated>2020-06-02T00:00:00Z</updated>
+    <published>2020-06-02T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/we-stand-with-the-black-community/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;we-stand-with-the-black-community&quot;&gt;
+
+&lt;p&gt;The mission of Write the Docs is to support the growth of a diverse community of documentarians. Any threat to the diversity of our community is a threat to our entire community.&lt;/p&gt;
+&lt;p&gt;We are distraught by the suffering, oppression and systemic racism the Black community faces every day, and we cannot remain silent.&lt;/p&gt;
+&lt;p&gt;In silence, we are complicit. To eradicate racism, xenophobia, and all other forms of inequality, we must take action. It is our responsibility to use our platforms to amplify the voices of the oppressed and marginalized.&lt;/p&gt;
+&lt;p&gt;We ask today –– and always –– that the Write the Docs community comes together in support of the Black community. We will match donations to &lt;a class=&quot;reference external&quot; href=&quot;https://blacklivesmatter.com/partners/&quot;&gt;non-profit organizations&lt;/a&gt; that are supporting these efforts, up to a total of $1,500. Please &lt;a class=&quot;reference external&quot; href=&quot;mailto:support&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;forward receipts&lt;/a&gt; to us with a request for a matching donation.&lt;/p&gt;
+&lt;p&gt;We know that our words alone won’t fix this issue, but we choose to speak and act today to show solidarity with those who continue this important work.&lt;/p&gt;
+&lt;p&gt;#BlackLivesMatter&lt;/p&gt;
+&lt;p&gt;(With thanks to the &lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/djangoproject/status/1267537367629529093&quot;&gt;Django Software Foundation&lt;/a&gt; for inspiration on this text)&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

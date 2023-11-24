@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged practical</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/practical/atom.xml</id>
+  <updated>2019-03-25T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/practical/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/practical/atom.xml">
+    <title type="text">Events and Activities, T-Shirts, and Tickets Update</title>
+    <id>https://www.writethedocs.org/conf/portland/2019/news/events-activities/</id>
+    <updated>2019-03-25T00:00:00Z</updated>
+    <published>2019-03-25T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2019/news/events-activities/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;events-and-activities-t-shirts-and-tickets-update&quot;&gt;
+
+&lt;p&gt;We’re just under two months out, and we hope everyone is getting excited!&lt;/p&gt;
+&lt;p&gt;In this update, we’re happy to share with you the different events and activities that will be available as a part of the conference, announce our pop-up t-shirt shop, and remind you to grab your tickets before they run out (hint: very soon!).&lt;/p&gt;
+&lt;p&gt;Remember to check out our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/welcome-wagon/&quot;&gt;Welcome Wagon&lt;/a&gt; guide and the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/visiting/&quot;&gt;Visiting Portland&lt;/a&gt; page for help with planning your trip and making the most out of the conference.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets-are-selling-out&quot;&gt;
+&lt;h2&gt;Tickets are selling out&lt;/h2&gt;
+&lt;p&gt;Every year we are amazed at the growing support of our community, and tickets have been selling out earlier each conference.
+We are now just over &lt;strong&gt;80%&lt;/strong&gt; sold out, and judging from past events we do expect to be sold out within the next couple weeks.&lt;/p&gt;
+&lt;p&gt;If you’re still on the fence, now is the time to decide and &lt;a class=&quot;reference external&quot; href=&quot;https://ti.to/writethedocs/write-the-docs-portland-2019/&quot;&gt;get your tickets&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;diversity-tickets&quot;&gt;
+&lt;h2&gt;Diversity tickets&lt;/h2&gt;
+&lt;p&gt;Write the Docs aims to continuously expand our community to be more diverse, welcoming, and inclusive.&lt;/p&gt;
+&lt;p&gt;This year we are launching our first collaboration with &lt;a class=&quot;reference external&quot; href=&quot;https://diversitytickets.org/en/events/415/&quot;&gt;DiversityTickets.org&lt;/a&gt;, a wondeful non-profit organization that shares qualifying events with various diversity organizations, and helps folks from underrepresented groups find events to attend.&lt;/p&gt;
+&lt;p&gt;Diversity scholarship tickets are &lt;strong&gt;free&lt;/strong&gt;, and we hope to welcome more people from all walks of life to join our community.
+Please share this campaign with your social networks and encourage folks to apply if they are interested to join us!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;childcare-available&quot;&gt;
+&lt;h2&gt;Childcare available&lt;/h2&gt;
+&lt;p&gt;New this year, we’re offering free child care for attendees who are traveling with their children provided by &lt;a class=&quot;reference external&quot; href=&quot;https://www.divcarepdx.com/&quot;&gt;DivCare PDX&lt;/a&gt;. In order to plan capacity, the deadline to register is &lt;strong&gt;April 22nd, 2019&lt;/strong&gt;. Please email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:portland&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;portland&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt; to request one of the limited spots. We hope this effort will help more of our lovely documentarians to attend the conference!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-on-sale&quot;&gt;
+&lt;h2&gt;Shirts on sale&lt;/h2&gt;
+&lt;p&gt;Following last year’s pilot, we are happy to announce that the Write the Docs Portland 2019 Pop-Up Shop is now open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want!&lt;/p&gt;
+&lt;p&gt;The campaign will run in 3-day batches until &lt;strong&gt;May 30th&lt;/strong&gt;. We recommend to order your shirt at least 2-3 weeks in advance, to allow for timely delivery of your shirts ahead of the conference.&lt;/p&gt;
+&lt;p&gt;Similarly, we will be continuing our bag swag this year, which you can pick up at the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;events-and-activities&quot;&gt;
+&lt;h2&gt;Events and activities&lt;/h2&gt;
+&lt;p&gt;Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge.&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Hike&lt;/strong&gt;. If you’re in town early, join us on Saturday for our traditional &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/hike/&quot;&gt;hike&lt;/a&gt;. This activity is a great chance to get to know your fellow documentarians in a smaller setting. The hike is free with your conference ticket, but space is limited! We will publish a separate registration soon.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Writing Day.&lt;/strong&gt; The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/writing-day/&quot;&gt;Writing Day&lt;/a&gt; will be held on Sunday from &lt;em&gt;9am-5pm&lt;/em&gt;, and you can drop in at any time during the day. If you have a project you want to propose to others, you can pitch your topic during the welcome announcement that will be held at &lt;em&gt;9:30am&lt;/em&gt;. Please email us if you want to submit a project for the Writing Day!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Welcome reception.&lt;/strong&gt; The meet-and-greet event will be held on Sunday from &lt;em&gt;5pm-8pm&lt;/em&gt;. You can pick up your badge and enjoy a couple of drinks and snacks on us. This is a great chance to meet your fellow documentarians before the conference starts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lightning Talks.&lt;/strong&gt; We’ll have &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/lightning-talks/&quot;&gt;lightning talks&lt;/a&gt; each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unconference.&lt;/strong&gt; We’ll be running the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/unconference/&quot;&gt;Unconference&lt;/a&gt; all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a specific thing? This is the place. We’ll have a sign-up board so you know what’s happening, and supplies to help you brainstorm.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social event.&lt;/strong&gt; This is a private party just for conference attendees, held on &lt;em&gt;Monday evening from 7pm&lt;/em&gt;, with free snacks and drinks. Details about the venue will be posted closer to the day.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Job Fair&lt;/strong&gt;. Following last year’s great success, on Tuesday morning we’ll have a &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/job-fair&quot;&gt;job fair&lt;/a&gt; where you can find your next documentarian friendly job.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2019/schedule/&quot;&gt;Schedule page&lt;/a&gt; has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;more-news-soon&quot;&gt;
+&lt;h2&gt;More news soon&lt;/h2&gt;
+&lt;p&gt;We’re putting together the final talk schedule, finalizing the social event and hike details, and getting more excited, so stay tuned!&lt;/p&gt;
+&lt;div class=&quot;line-block&quot;&gt;
+&lt;div class=&quot;line&quot;&gt;The Write the Docs team&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

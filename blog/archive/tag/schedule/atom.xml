@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged schedule</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/schedule/atom.xml</id>
+  <updated>2023-10-11T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/schedule/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/schedule/atom.xml">
+    <title type="text">Announcing Full Schedule</title>
+    <id>https://www.writethedocs.org/conf/australia/2023/news/announcing-schedule/</id>
+    <updated>2023-10-11T00:00:00Z</updated>
+    <published>2023-10-11T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2023/news/announcing-schedule/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-full-schedule&quot;&gt;
+
+&lt;p&gt;Hey folks!&lt;/p&gt;
+&lt;p&gt;The Melbourne conference is less than two months away, and we’re busy making things happen behind the scenes, and remembering how in-person conferences work again.&lt;/p&gt;
+&lt;p&gt;You’ve already seen our list of awesome speakers, now we can also show you the schedule so you know when they will be presenting!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;full-presentation-schedule&quot;&gt;
+&lt;h2&gt;Full presentation schedule&lt;/h2&gt;
+&lt;p&gt;The conference website is now updated with the &lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/australia/2023/schedule/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;schedule&lt;/span&gt;&lt;/a&gt; for the main stage presentations, so you can start planning your time (and getting excited!) for the conference.&lt;/p&gt;
+&lt;p&gt;We’re learning and adapting from our virtual events from the past few years, so we’re introducing a moderated Q&amp;amp;A session after each speaker. You’ll have a chance to ask most of our speakers questions after the talk via our wonderful set of moderators.&lt;/p&gt;
+&lt;p&gt;Now is a great time to buy your &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2023/tickets/&quot;&gt;tickets&lt;/a&gt; if you haven’t already.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;join-us-for-a-group-activity-pre-conference&quot;&gt;
+&lt;h2&gt;Join us for a group activity pre-conference&lt;/h2&gt;
+&lt;p&gt;We are planning an activity for conference attendees if they are in town a day earlier (Wednesday, 6 Dec). While we don’t have any details right now, we will announce this in a couple of weeks.
+Either way, if you are in town a day or two earlier, keep yourselves free for a few hours to spend with other attendees.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;simplified-technical-english-ste-workshop&quot;&gt;
+&lt;h2&gt;Simplified Technical English (STE) Workshop&lt;/h2&gt;
+&lt;p&gt;This year, similar to our last few conferences, we will have a workshop on Day 1 after the lightning talks. We will release more details about this workshop, including any pre-requisites or prior reading.
+The workshop is free for all conference attendees and is included in your ticket price, so you do not have pay anything on top of the conference registration.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;all-our-events-and-activities&quot;&gt;
+&lt;h2&gt;All our events and activities&lt;/h2&gt;
+&lt;p&gt;Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge.&lt;/p&gt;
+&lt;p&gt;The main events that you can participate in Thursday &amp;amp; Friday are:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Lightning Talks.&lt;/strong&gt; We’ll have &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2023/lightning-talks/&quot;&gt;lightning talks&lt;/a&gt; each conference day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want! This is your chance to share something you are passionate about with the audience. Slides are not required.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unconference.&lt;/strong&gt; We’ll be running the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2023/unconference/&quot;&gt;Unconference&lt;/a&gt; as our formal “second track” at the conference. This is a place to schedule discussions about a specific topic, so you can find other attendees who care about the same niche topics that you love. Want to chat with like-minded folks about oxford commas or a specific docs as code tool? This is the place.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social event&lt;/strong&gt;. On Thursday night we’ll be hosting a quiet social event. This is a great chance to get to know more folks in the community and have a drink or two on us. Non-alcoholic options will be very available, as well as some snacks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2023/schedule/&quot;&gt;Schedule page&lt;/a&gt; has the latest and most complete information about all our events.
+This is where we will also update any changes/cancellations if they should occur.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-to-our-sponsors&quot;&gt;
+&lt;h2&gt;Thanks to our sponsors&lt;/h2&gt;
+&lt;p&gt;Thanks to our sponsors for supporting the conference again this year.
+We’ve excited to have them around the conference participating in a few different ways,
+and hope you get a chance to talk with them while you’re here.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;Head over to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2023/sponsors/prospectus/&quot;&gt;sponsorship prospectus&lt;/a&gt; for details on how your company can get involved!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;see-you-soon&quot;&gt;
+&lt;h2&gt;See you soon&lt;/h2&gt;
+&lt;p&gt;Thanks so much for all your support and enthusiasm! We’re so excited to see you all soon!&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/schedule/atom.xml">
+    <title type="text">Announcing Full Schedule</title>
+    <id>https://www.writethedocs.org/conf/atlantic/2023/news/announcing-schedule/</id>
+    <updated>2023-07-26T00:00:00Z</updated>
+    <published>2023-07-26T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/atlantic/2023/news/announcing-schedule/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-full-schedule&quot;&gt;
+
+&lt;p&gt;Hey everyone!&lt;/p&gt;
+&lt;p&gt;We’re just over six weeks away from the first Atlantic conference, and we’re working hard to make sure it’ll be as welcoming and fun as previous years.&lt;/p&gt;
+&lt;p&gt;Today we’re announcing the full presentation schedule.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-platform&quot;&gt;
+&lt;h2&gt;Conference platform&lt;/h2&gt;
+&lt;p&gt;The conference will again be held on &lt;a class=&quot;reference external&quot; href=&quot;https://hopin.to/&quot;&gt;https://hopin.to/&lt;/a&gt;. Hopin not only provides a stage for our amazing speakers, but also has integrated chat, unconference rooms with breakout calls, and expo booths.
+Our Welcome Wagon guide, to be released soon, will help it feel familiar before you’ve even arrived.
+Hopin will show you the conference schedule in your time zone, making it easy to follow the schedule.&lt;/p&gt;
+&lt;p&gt;All ticket holders will receive an invite to Hopin about one week before the conference.
+If you don’t have your ticket yet, &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/atlantic/2023/tickets/&quot;&gt;register one soon&lt;/a&gt;, as we may sell out.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;full-presentation-schedule&quot;&gt;
+&lt;h2&gt;Full presentation schedule&lt;/h2&gt;
+&lt;p&gt;The conference website is now updated with the &lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/atlantic/2023/schedule/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;Schedule&lt;/span&gt;&lt;/a&gt; for the main stage presentations, so you can start planning your time (and getting excited!) for the conference.
+We’ll continue to hold live Q&amp;amp;A sessions after most talks. The Q&amp;amp;A will come from your questions but moderated by our MCs.&lt;/p&gt;
+&lt;p&gt;As our attendees are in various time zones, we’ve planned a number of equal breaks throughout the day. We are all trying to balance our screen time, so we wanted to make sure that your eyes get their rest!&lt;/p&gt;
+&lt;p&gt;Instead of a separate social event, we’ve added time in the schedule before the start and after the end of each day, for you to socialize in the hallway sessions or one on one.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;All talk videos will be published on our YouTube channel no later than 1 week after the conference.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;start-thinking-about-writing-day&quot;&gt;
+&lt;h2&gt;Start thinking about Writing Day&lt;/h2&gt;
+&lt;p&gt;Our pre-conference &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/atlantic/2023/writing-day/&quot;&gt;Writing Day&lt;/a&gt; will happen on Sunday, and it is much more fun when folks come with their own projects in mind!&lt;/p&gt;
+&lt;p&gt;If you have a project or are part of a community that you think would benefit from a writing sprint, start brainstorming now about what you might want to focus on.
+If you’d like us to include your project on the Writing Day page &lt;a class=&quot;reference external&quot; href=&quot;https://forms.gle/KPo1ZPuRHqf7UZy37&quot;&gt;submit your project&lt;/a&gt; and we’ll
+add it to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/atlantic/2023/writing-day/#your-project-here&quot;&gt;Writing Day project list&lt;/a&gt;.
+You can also just show up on Sunday ready to introduce your project, but getting it on the website in advance can increase interest.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-still-on-sale&quot;&gt;
+&lt;h2&gt;Shirts still on sale&lt;/h2&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://shirt.writethedocs.org/&quot;&gt;Write the Docs Atlantic 2023 Pop-Up Shop&lt;/a&gt; is open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.&lt;/p&gt;
+&lt;p&gt;The campaign will run in batches until October 31st. Shipping is available from the USA or Europe. However, due to the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to sport your new threads during the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;all-our-events-and-activities&quot;&gt;
+&lt;h2&gt;All our events and activities&lt;/h2&gt;
+&lt;p&gt;Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge. And even though this years conference is held online, we’re holding to that plan.&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Lightning Talks.&lt;/strong&gt; We’ll have &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/atlantic/2023/lightning-talks/&quot;&gt;lightning talks&lt;/a&gt; each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unconference.&lt;/strong&gt; We’ll be running the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/atlantic/2023/unconference/&quot;&gt;Unconference&lt;/a&gt; all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a specific thing? This is the place.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conference Help Desk&lt;/strong&gt;. If you have any questions about navigating the virtual event, we’ll be running the Write the Docs Helpdesk booth, where you can chat with one of the organizers and the Welcome Wagon team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/atlantic/2023/schedule/&quot;&gt;Schedule page&lt;/a&gt; has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-to-our-sponsors&quot;&gt;
+&lt;h2&gt;Thanks to our sponsors&lt;/h2&gt;
+&lt;p&gt;Thanks in particular to our sponsors for supporting the conference this year.
+We’ve excited to have them at our Sponsor Expo and around the entire conference participating in a few different ways.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com?ref=writethedocs&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.helpdocs.io/?ref=writethedocs&quot;&gt;HelpDocs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.mongodb.com/?ref=writethedocs&quot;&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jb.gg/writerside?ref=writethedocs&quot;&gt;JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://clickhelp.com/?utm_source=write-the-docs&amp;amp;utm_medium=conference&amp;amp;utm_campaign=wtd-september-2023&amp;amp;utm_content=logo&quot;&gt;ClickHelp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;Head over to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/atlantic/2023/sponsors/prospectus/&quot;&gt;sponsorship prospectus&lt;/a&gt; for details on how your company can get involved!
+We have several types of sponsorship available, including tables at the job fair on Tuesday.&lt;/p&gt;
+&lt;p&gt;Thanks so much for all your support and enthusiasm so far – we’re so excited to see you all next month!&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/schedule/atom.xml">
+    <title type="text">Write the Docs &lt;3’s open source</title>
+    <id>https://www.writethedocs.org/conf/portland/2023/news/writing-day-announcement/</id>
+    <updated>2023-04-05T00:00:00Z</updated>
+    <published>2023-04-05T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2023/news/writing-day-announcement/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-3-s-open-source&quot;&gt;
+
+&lt;p&gt;Dear open source friends,&lt;/p&gt;
+&lt;p&gt;Send us your developer advocates, community managers, and projects. Tell them of Writing Day
+and invite them to join us!&lt;/p&gt;
+&lt;p&gt;In case this is the first time you’re hearing about the Write the Docs conference or you’re
+unfamiliar with Writing Day, we got you:&lt;/p&gt;
+&lt;dl class=&quot;docutils&quot;&gt;
+&lt;dt&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/&quot;&gt;Write the Docs&lt;/a&gt;&lt;/dt&gt;&lt;dd&gt;The conference focused on all things related to software documentation&lt;/dd&gt;
+&lt;dt&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/writing-day/&quot;&gt;Writing Day&lt;/a&gt;&lt;/dt&gt;&lt;dd&gt;Is modeled after the concept of “code sprints” or “hackathons”, which are common in open-source conferences – getting a bunch of
+people together and have them work towards a shared goal, such as creating or improving documentation.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;The Write the Docs conference has many enthusiastic attendees. These attendees, documentarians, want to learn new
+technologies, sharpen their skills, and add to their portfolios. The world of open source has a seemingly endless
+number of wonderful open source projects. Documentarians want to write the docs, your open source project docs.&lt;/p&gt;
+&lt;p&gt;It’s a match made at Write the Docs!&lt;/p&gt;
+&lt;p&gt;But wait, there’s more! This year we have created swag bags, filled with one of a kind items. We’ll be gifting them
+to the project representatives who attend as a thank you.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;get-involved-with-writing-day&quot;&gt;
+&lt;h2&gt;Get involved with Writing Day!&lt;/h2&gt;
+&lt;p&gt;Ready to get involved?! &lt;a class=&quot;reference external&quot; href=&quot;https://forms.gle/NNBzBCwjdB2vF7ZeA&quot;&gt;Submit your project&lt;/a&gt; and we’ll
+add it to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/writing-day/#project-listing&quot;&gt;Writing Day project list&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Need help convincing your OSS project community or corporate benefactors on the benefits of attending Writing Day? See &lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/portland/2023/news/writing-day-announcement/#writing-day-case&quot;&gt;&lt;span class=&quot;std std-ref&quot;&gt;Make a case for Writing Day&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;maximize-your-experience&quot;&gt;
+&lt;h3&gt;Maximize your experience&lt;/h3&gt;
+&lt;p&gt;We want you to have a great experience as a project and community. We have found that the projects who
+get the most value out of Writing Day came prepared in the following ways:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Writing Day label&lt;/strong&gt;: Creating a specific event label allows you to identify tasks and issues that are good for new contributors.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pre-labeled tasks and issues&lt;/strong&gt;: Labeling the documentation tasks and issues empowers new contributors
+to find tasks that interest them.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Task filter&lt;/strong&gt;: Creating a task filter helps contributors find issues more easily and see which issues have been assigned.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clear onboarding&lt;/strong&gt;: Ensuring your ReadMe, contribution guidelines, or onboarding instructions are accurate and up to date.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Specific focus or goals&lt;/strong&gt;: Projects that clearly define a focus area or a goal for their Writing Day tasks have
+an advantage when it comes to enticing attendees to work on their project.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project overview&lt;/strong&gt;: Your project overview is a quick pitch that describes your project and what you’re hoping to
+get out of Writing Day, such as your goals or focus. Need some ideas? Here’s a good example from Writing Day 2022, the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2022/writing-day/#open-web-docs&quot;&gt;Open Web Docs&lt;/a&gt; project.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Writing Day project list&lt;/strong&gt;: Adding your project to the &lt;a class=&quot;reference external&quot; href=&quot;https://forms.gle/NNBzBCwjdB2vF7ZeA&quot;&gt;Writing Day project list&lt;/a&gt; promotes
+your project to our attendees before the event. Many attendees have told us that their curiosity about certain projects
+incentivised their attendance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project experts&lt;/strong&gt;: We recommend having 1-2 project experts of some kind at Writing day. We love our developer advocates, community
+managers, and subject matter experts! You’re welcome to call for virtual reinforcements from your community as well.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Remember, these are suggestions and not requirements. It is perfectly valid to show up to Writing Day the day of, tell us about
+your project, and ask for volunteers! It’s been done before and it will be done again.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Reminder&lt;/strong&gt;: Documentarians have a variety of backgrounds and may need additional info to be successful in onboarding to your project!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;make-a-case-for-writing-day&quot;&gt;
+&lt;span id=&quot;writing-day-case&quot;&gt;&lt;/span&gt;&lt;h2&gt;Make a case for Writing Day&lt;/h2&gt;
+&lt;p&gt;Write the Docs conferences bring together everyone who writes the docs – tech writers, developers, developer relations,
+customer support – making the event an ideal networking opportunity.&lt;/p&gt;
+&lt;p&gt;Writing Day is a community event modeled after the concept of “code sprints” or “hackathons”, which are common in open-source
+conferences. The idea is to get a bunch of people together and have them work towards a shared goal, in this case the goal is
+creating or improving documentation.&lt;/p&gt;
+&lt;p&gt;This event introduces your project and community to a new audience in your industry. These attendees, documentarians, want to
+learn new technologies, sharpen their skills, and add to their portfolios. They come to your projects with their own experience
+and expertise in areas such as technical writing and editing, user experience and research, and customer support. Their collective
+wealth of experience can help you upgrade your project documentation and create a more inclusive project.&lt;/p&gt;
+&lt;p&gt;The truth is that it benefits your open source projects and your communities just as much as our attendees.
+This empowers all of us to work together to create opportunities for each other and bigger, better communities.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;final-thoughts&quot;&gt;
+&lt;h2&gt;Final thoughts&lt;/h2&gt;
+&lt;p&gt;Writing Day is awesome and we hope to see you there!&lt;/p&gt;
+&lt;p&gt;You can email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:portland&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;portland&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt; with any questions.&lt;/p&gt;
+&lt;p&gt;With love,
+Rose W and the Write the Docs organizing team &amp;lt;3&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/schedule/atom.xml">
+    <title type="text">Announcing Full Schedule</title>
+    <id>https://www.writethedocs.org/conf/portland/2023/news/announcing-schedule/</id>
+    <updated>2023-03-27T00:00:00Z</updated>
+    <published>2023-03-27T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2023/news/announcing-schedule/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-full-schedule&quot;&gt;
+
+&lt;p&gt;Hey folks!&lt;/p&gt;
+&lt;p&gt;The Portland conference is less than two months away, and we’re busy making things happen behind the scenes, and remembering how in-person conferences work again.&lt;/p&gt;
+&lt;p&gt;You’ve already seen our list of awesome speakers, now we can also show you the schedule so you know when they will be presenting!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;full-presentation-schedule&quot;&gt;
+&lt;h2&gt;Full presentation schedule&lt;/h2&gt;
+&lt;p&gt;The conference website is now updated with the &lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/portland/2023/schedule/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;schedule&lt;/span&gt;&lt;/a&gt; for the main stage presentations, so you can start planning your time (and getting excited!) for the conference.&lt;/p&gt;
+&lt;p&gt;We’re learning and adapting from our virtual events from the past few years, so we’re introducing a moderated Q&amp;amp;A session after each speaker. You’ll have a chance to ask most of our speakers questions after the talk via our wonderful set of moderators.&lt;/p&gt;
+&lt;p&gt;Now is a great time to buy your &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/tickets/&quot;&gt;tickets&lt;/a&gt; if you haven’t already.
+Also please read over our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/health/&quot;&gt;Health and Safety policy&lt;/a&gt;,
+so you understand the measures we’re taking to keep our attendees safe.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;join-us-for-our-hike-again-this-year&quot;&gt;
+&lt;h2&gt;Join us for our hike again this year&lt;/h2&gt;
+&lt;p&gt;We’re reviving the traditional Pittock Mansion &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/outing/&quot;&gt;hike&lt;/a&gt; on Saturday. This is a great way to experience the beauty that Portland holds within city limits, with a walk along a creek, a majestic view of Mount Hood, and finishing with a meader through Hoyt Arboritum with hundreds of different trees and plants.&lt;/p&gt;
+&lt;p&gt;The hike will be on  &lt;strong&gt;Saturday, May 6, 1 PM&lt;/strong&gt;. Please register a &lt;a class=&quot;reference external&quot; href=&quot;https://ti.to/writethedocs/write-the-docs-portland-2023/with/hike-ticket&quot;&gt;free ticket&lt;/a&gt; so we can contact you with any last minute weather and logistics information.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;start-thinking-about-writing-day&quot;&gt;
+&lt;h2&gt;Start thinking about Writing Day&lt;/h2&gt;
+&lt;p&gt;Our pre-conference &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/writing-day/&quot;&gt;Writing Day&lt;/a&gt; is happening on Sunday. It’s a great chance to learn from other attendees, and get some contributors on a project you have in mind. There is also room for having discussions and showing off fun new tools you’ve found.&lt;/p&gt;
+&lt;p&gt;If you have a project or are part of a community that you think would benefit from a writing sprint, start brainstorming now about what you might want to focus on.&lt;/p&gt;
+&lt;p&gt;If you’d like us to include your project on the Writing Day page &lt;a class=&quot;reference external&quot; href=&quot;https://forms.gle/NNBzBCwjdB2vF7ZeA&quot;&gt;submit your project here&lt;/a&gt; or drop us an email at &lt;a class=&quot;reference external&quot; href=&quot;mailto:portland&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;portland&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;. You are also welcome to show up on Sunday ready to introduce your project!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;t-shirts-are-now-available&quot;&gt;
+&lt;h2&gt;T-shirts are now available&lt;/h2&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://shirt.writethedocs.org/&quot;&gt;Write the Docs Portland 2023 Pop-Up Shop&lt;/a&gt; is open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want. As in previous years, we’re doing the pop-up shop option so people can order the exact shirt they want, if they want one.&lt;/p&gt;
+&lt;p&gt;The campaign will run in batches until May 31st. Shipping is available from the USA or Europe. We recommend you order your shirt at least 2-3 weeks in advance if you want to sport your fancy new garb during the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;all-our-events-and-activities&quot;&gt;
+&lt;h2&gt;All our events and activities&lt;/h2&gt;
+&lt;p&gt;Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge.&lt;/p&gt;
+&lt;p&gt;The main events that you can participate in Monday &amp;amp; Tuesday are:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Lightning Talks.&lt;/strong&gt; We’ll have &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/lightning-talks/&quot;&gt;lightning talks&lt;/a&gt; each conference day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want! This is your chance to share something you are passionate about with the audience. Slides are not required.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unconference.&lt;/strong&gt; We’ll be running the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/unconference/&quot;&gt;Unconference&lt;/a&gt; as our formal “second track” at the conference. This is a place to schedule discussions about a specific topic, so you can find other attendees who care about the same niche topics that you love. Want to chat with like-minded folks about oxford commas or a specific docs as code tool? This is the place.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social event&lt;/strong&gt;. On Monday night we’ll be hosting a quiet social event. This is a great chance to get to know more folks in the community and have a drink or two on us. Non-alcoholic options will be very available, as well as some snacks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/schedule/&quot;&gt;Schedule page&lt;/a&gt; has the latest and most complete information about all our events.
+This is where we will also update any changes/cancellations if they should occur.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-to-our-sponsors&quot;&gt;
+&lt;h2&gt;Thanks to our sponsors&lt;/h2&gt;
+&lt;p&gt;Thanks to our sponsors for supporting the conference again this year.
+We’ve excited to have them around the conference participating in a few different ways,
+and hope you get a chance to talk with them while you’re here.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.mongodb.com/&quot;&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://redoc.ly/&quot;&gt;Redocly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.jetbrains.com/&quot;&gt;JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.bloomberg.com/company/careers/working-here/engineering/&quot;&gt;Bloomberg Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.raspberrypi.com/&quot;&gt;Raspberry Pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://about.readthedocs.com/&quot;&gt;Read the Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;Head over to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/sponsors/prospectus/&quot;&gt;sponsorship prospectus&lt;/a&gt; for details on how your company can get involved!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;see-you-soon&quot;&gt;
+&lt;h2&gt;See you soon&lt;/h2&gt;
+&lt;p&gt;Thanks so much for all your support and enthusiasm! We’re so excited to see you all soon!&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/schedule/atom.xml">
+    <title type="text">Announcing Full Schedule</title>
+    <id>https://www.writethedocs.org/conf/australia/2022/news/announcing-schedule/</id>
+    <updated>2022-10-19T00:00:00Z</updated>
+    <published>2022-10-19T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2022/news/announcing-schedule/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-full-schedule&quot;&gt;
+
+&lt;p&gt;G’day everyone!&lt;/p&gt;
+&lt;p&gt;We’re just over a month and a half away from the online Melbourne conference, and we’re working hard to make sure it’ll be as welcoming and fun as previous years.&lt;/p&gt;
+&lt;p&gt;Today we’re announcing the full presentation schedule and the platform we’ll be hosting the conference on.
+We are working on more details for a few more activities during the conference, so look out for more information in our next mailing.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-platform&quot;&gt;
+&lt;h2&gt;Conference platform&lt;/h2&gt;
+&lt;p&gt;The conference will again be held on &lt;a class=&quot;reference external&quot; href=&quot;https://hopin.to/&quot;&gt;https://hopin.to/&lt;/a&gt;. Hopin not only provides a stage for our amazing speakers, but also has integrated chat, unconference rooms with breakout calls, and expo booths.
+We’re updating our Welcome Wagon guide, to be released soon, so it’ll all feel familiar before you’ve even arrived.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;full-presentation-schedule&quot;&gt;
+&lt;h2&gt;Full presentation schedule&lt;/h2&gt;
+&lt;p&gt;The conference website is now updated with the &lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/australia/2022/schedule/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;Schedule&lt;/span&gt;&lt;/a&gt; for the main stage presentations, so you can start planning your time (and getting excited!) for the conference.
+We’re excited to continue and adapt live Q&amp;amp;A after most talks. This year two speakers will be chatting with the MC after each block of 2 talks, a little like a mini panel, which will come from your questions but moderated by our MC.&lt;/p&gt;
+&lt;p&gt;Like last year, we’re scheduling more breaks during the day. We are all trying to balance our screen time, so we wanted to make sure that your eyes get their rest! We hope that this adjustment will help you stay alert and happy throughout the conferences.&lt;/p&gt;
+&lt;p&gt;We’re also making sure the social event starts and ends early. We want you to have fun socializing with your fellow documentarians, but we understand that your family and home time is also important these days, so hopefully this will help us stay engaged and enjoy the social activities even more.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;All talk videos will be published on our YouTube channel no later than 1 week after the conference.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-still-on-sale&quot;&gt;
+&lt;h2&gt;Shirts still on sale&lt;/h2&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://shirt.writethedocs.org/&quot;&gt;Write the Docs Australia 2022 Pop-Up Shop&lt;/a&gt; is open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.&lt;/p&gt;
+&lt;p&gt;The campaign will run in batches until December 31st. Shipping is available from the USA or Europe. However, due to the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to sport your new threads during the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;all-our-events-and-activities&quot;&gt;
+&lt;h2&gt;All our events and activities&lt;/h2&gt;
+&lt;p&gt;Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge. And even though this years conference is held online, we’re holding to that plan.&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Lightning Talks.&lt;/strong&gt; We’ll have &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/lightning-talks/&quot;&gt;lightning talks&lt;/a&gt; each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unconference.&lt;/strong&gt; We’ll be running the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/unconference/&quot;&gt;Unconference&lt;/a&gt; on Thursday and Friday afternoon. Want to chat with like-minded folks about a specific thing? This is the place.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social event&lt;/strong&gt;. On Thursday night we’ll be moving to a spatial chat platform for our social event. This will be a more familiar social space where you can move around and join groups of people having conversations. We’ve used similar platforms at other events, and found that they really help people get to know each other in a more natural way.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conference Help Desk&lt;/strong&gt;. If you have any questions about navigating the virtual event, we’ll be running the Write the Docs Helpdesk booth, where you can chat with one of the organizers and the Welcome Wagon team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/schedule/&quot;&gt;Schedule page&lt;/a&gt; has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-to-our-sponsors&quot;&gt;
+&lt;h2&gt;Thanks to our sponsors&lt;/h2&gt;
+&lt;p&gt;Thanks in particular to our sponsors for supporting the conference this year.
+We’ve excited to have them around the entire conference participating in a few different ways.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.atlassian.com/&quot;&gt;Atlassian&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;Head over to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/sponsors/prospectus/&quot;&gt;sponsorship prospectus&lt;/a&gt; for details on how your company can get involved!
+We have several types of sponsorship available, so talk to us!&lt;/p&gt;
+&lt;p&gt;Thanks so much for all your support and enthusiasm so far – we’re so excited to see you all next month!&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/schedule/atom.xml">
+    <title type="text">Announcing Full Schedule</title>
+    <id>https://www.writethedocs.org/conf/prague/2022/news/announcing-schedule/</id>
+    <updated>2022-08-08T00:00:00Z</updated>
+    <published>2022-08-08T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2022/news/announcing-schedule/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-full-schedule&quot;&gt;
+
+&lt;p&gt;Hey everyone!&lt;/p&gt;
+&lt;p&gt;We’re just over a month away from the online Prague conference, and we’re working hard to make sure it’ll be as welcoming and fun as previous years.&lt;/p&gt;
+&lt;p&gt;Today we’re announcing the full presentation schedule and the platform we’ll be hosting the conference on.
+We are working on last-minute details for a few more activities during the conference, so look out for more information in our next mailing.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-platform&quot;&gt;
+&lt;h2&gt;Conference platform&lt;/h2&gt;
+&lt;p&gt;The conference will again be held on &lt;a class=&quot;reference external&quot; href=&quot;https://hopin.to/&quot;&gt;https://hopin.to/&lt;/a&gt;. Hopin not only provides a stage for our amazing speakers, but also has integrated chat, unconference rooms with breakout calls, and expo booths.
+We’re updating our Welcome Wagon guide, to be released soon, so it’ll all feel familiar before you’ve even arrived.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;full-presentation-schedule&quot;&gt;
+&lt;h2&gt;Full presentation schedule&lt;/h2&gt;
+&lt;p&gt;The conference website is now updated with the &lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/prague/2022/schedule/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;Schedule&lt;/span&gt;&lt;/a&gt; for the main stage presentations, so you can start planning your time (and getting excited!) for the conference.
+We’re excited to continue and adapt live Q&amp;amp;A after most talks. This year two speakers will be chatting with the MC after each block of 2 talks, a little like a mini panel, which will come from your questions but moderated by our MC.&lt;/p&gt;
+&lt;p&gt;Like last year, we’re scheduling more breaks during the day. We are all trying to balance our screen time, so we wanted to make sure that your eyes get their rest! We hope that this adjustment will help you stay alert and happy throughout the conferences.&lt;/p&gt;
+&lt;p&gt;We’re also making sure the social event starts and ends early. We want you to have fun socializing with your fellow documentarians, but we understand that your family and home time is also important these days, so hopefully this will help us stay engaged and enjoy the social activities even more.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;All talk videos will be published on our YouTube channel no later than 1 week after the conference.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;start-thinking-about-writing-day&quot;&gt;
+&lt;h2&gt;Start thinking about Writing Day&lt;/h2&gt;
+&lt;p&gt;Our pre-conference &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2022/writing-day/&quot;&gt;Writing Day&lt;/a&gt; will happen on Sunday, and it is much more fun when folks come with their own projects in mind!&lt;/p&gt;
+&lt;p&gt;If you have a project or are part of a community that you think would benefit from a writing sprint, start brainstorming now about what you might want to focus on.
+If you’d like us to include your project on the Writing Day page, drop us an email at &lt;a class=&quot;reference external&quot; href=&quot;mailto:prague&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;prague&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.
+Or just show up on Sunday ready to introduce your project!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-still-on-sale&quot;&gt;
+&lt;h2&gt;Shirts still on sale&lt;/h2&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://shirt.writethedocs.org/&quot;&gt;Write the Docs Prague 2022 Pop-Up Shop&lt;/a&gt; is open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.&lt;/p&gt;
+&lt;p&gt;The campaign will run in batches until September 30th. Shipping is available from the USA or Europe. However, due to the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to sport your new threads during the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;all-our-events-and-activities&quot;&gt;
+&lt;h2&gt;All our events and activities&lt;/h2&gt;
+&lt;p&gt;Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge. And even though this years conference is held online, we’re holding to that plan.&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Lightning Talks.&lt;/strong&gt; We’ll have &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2022/lightning-talks/&quot;&gt;lightning talks&lt;/a&gt; each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unconference.&lt;/strong&gt; We’ll be running the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2022/unconference/&quot;&gt;Unconference&lt;/a&gt; all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a specific thing? This is the place.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Job Fair&lt;/strong&gt;. As with the previous few years, on Tuesday morning we’ll have a &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2022/job-fair&quot;&gt;job fair&lt;/a&gt; where you can find your next documentarian friendly job.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social event&lt;/strong&gt;. On Monday night we’ll be moving to a spatial chat platform for our social event. This will be a more familiar social space where you can move around and join groups of people having conversations. We’ve used similar platforms at other events, and found that they really help people get to know each other in a more natural way.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conference Help Desk&lt;/strong&gt;. If you have any questions about navigating the virtual event, we’ll be running the Write the Docs Helpdesk booth, where you can chat with one of the organizers and the Welcome Wagon team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2022/schedule/&quot;&gt;Schedule page&lt;/a&gt; has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-to-our-sponsors&quot;&gt;
+&lt;h2&gt;Thanks to our sponsors&lt;/h2&gt;
+&lt;p&gt;Thanks in particular to our sponsors for supporting the conference this year.
+We’ve excited to have them at our Job Fair and around the entire conference participating in a few different ways.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.archbee.io/?utm_medium=banner&amp;amp;utm_source=conference&amp;amp;utm_campaign=wtd&quot;&gt;Archbee&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.adyen.com/&quot;&gt;Adyen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.jetbrains.com/&quot;&gt;JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.veeam.com/&quot;&gt;Veeam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.dolby.com/&quot;&gt;Dolby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;Head over to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2022/sponsors/prospectus/&quot;&gt;sponsorship prospectus&lt;/a&gt; for details on how your company can get involved!
+We have several types of sponsorship available, including tables at the job fair on Tuesday.&lt;/p&gt;
+&lt;p&gt;Thanks so much for all your support and enthusiasm so far – we’re so excited to see you all next month!&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/schedule/atom.xml">
+    <title type="text">Announcing Full Schedule</title>
+    <id>https://www.writethedocs.org/conf/portland/2022/news/announcing-schedule/</id>
+    <updated>2022-04-12T00:00:00Z</updated>
+    <published>2022-04-12T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2022/news/announcing-schedule/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-full-schedule&quot;&gt;
+
+&lt;p&gt;Hey everyone!&lt;/p&gt;
+&lt;p&gt;We’re just over a month away from the online Portland conference, and we’re working hard to make sure it’ll be as welcoming and fun as previous years.&lt;/p&gt;
+&lt;p&gt;Today we’re announcing the full presentation schedule and the platform we’ll be hosting the conference on.
+We are working on last-minute details for a few more activities during the conference, so look out for more information in our next mailing.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-platform&quot;&gt;
+&lt;h2&gt;Conference platform&lt;/h2&gt;
+&lt;p&gt;Following the success of last year’s virtual format, the conference will again be held on &lt;a class=&quot;reference external&quot; href=&quot;https://hopin.to/&quot;&gt;https://hopin.to/&lt;/a&gt;. Hopin not only provides a stage for our amazing speakers, but also has integrated chat, unconference rooms with breakout calls, and expo booths. We’re updating our Welcome Wagon guide, to be released soon, so it’ll all feel familiar before you’ve even arrived.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;full-presentation-schedule&quot;&gt;
+&lt;h2&gt;Full presentation schedule&lt;/h2&gt;
+&lt;p&gt;The conference website is now updated with the &lt;a class=&quot;reference internal&quot; href=&quot;../../../../conf/portland/2022/schedule/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;Schedule&lt;/span&gt;&lt;/a&gt; for the main stage presentations, so you can start planning your time (and getting excited!) for the conference. We’re excited to continue and adapt live Q&amp;amp;A after most talks. This year two speakers will be chatting with the MC each block of 2 talks, a little like a mini panel, which will come from your questions but be moderated by our MC.&lt;/p&gt;
+&lt;p&gt;Like last year, we’re scheduling more breaks during the day. We are all trying to balance our screen time, so we wanted to make sure that your eyes get their rest! We hope that this adjustment will help you stay alert and happy throughout the conferences.&lt;/p&gt;
+&lt;p&gt;We’re also making sure the social event starts and ends early. We want you to have fun socializing with your fellow documentarians, but we understand that your family and home time is also important these days, so hopefully this will help us stay engaged and enjoy the social activities even more.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;All talk videos will be published on our YouTube channel no later than 1 week after the conference.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;start-thinking-about-writing-day&quot;&gt;
+&lt;h2&gt;Start thinking about Writing Day&lt;/h2&gt;
+&lt;p&gt;Our pre-conference &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2022/writing-day/&quot;&gt;Writing Day&lt;/a&gt; will happen on Sunday, and it is much more fun when folks come with their own projects in mind!&lt;/p&gt;
+&lt;p&gt;If you have a project or are part of a community that you think would benefit from a writing sprint, start brainstorming now about what you might want to focus on.
+If you’d like us to include your project on the Writing Day page, drop us an email at &lt;a class=&quot;reference external&quot; href=&quot;mailto:portland&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;portland&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.
+Or just show up on Sunday ready to introduce your project!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-on-sale&quot;&gt;
+&lt;h2&gt;Shirts on sale&lt;/h2&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://shirt.writethedocs.org/&quot;&gt;Write the Docs Portland 2022 Pop-Up Shop&lt;/a&gt; is open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.&lt;/p&gt;
+&lt;p&gt;The campaign will run in batches until June 30th. Shipping is available from the USA or Europe. However, due to the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to sport your new threads during the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;all-our-events-and-activities&quot;&gt;
+&lt;h2&gt;All our events and activities&lt;/h2&gt;
+&lt;p&gt;Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge. And even though this years conference is held online, we’re holding to that plan.&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Lightning Talks.&lt;/strong&gt; We’ll have &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2022/lightning-talks/&quot;&gt;lightning talks&lt;/a&gt; each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unconference.&lt;/strong&gt; We’ll be running the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2022/unconference/&quot;&gt;Unconference&lt;/a&gt; all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a specific thing? This is the place.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Job Fair&lt;/strong&gt;. As with the previous few years, on Tuesday morning we’ll have a &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2022/job-fair&quot;&gt;job fair&lt;/a&gt; where you can find your next documentarian friendly job.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social event&lt;/strong&gt;. On Monday night we’ll be moving to a spatial chat platform for our social event. This will be a more familiar social space where you can move around and join groups of people having conversations. We’ve used similar platforms at other events, and found that they really help people get to know each other in a more natural way.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conference Help Desk&lt;/strong&gt;. If you have any questions about navigating the virtual event, we’ll be running the Write the Docs Helpdesk booth, where you can chat with one of the organizers and the Welcome Wagon team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2022/schedule/&quot;&gt;Schedule page&lt;/a&gt; has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-to-our-sponsors&quot;&gt;
+&lt;h2&gt;Thanks to our sponsors&lt;/h2&gt;
+&lt;p&gt;Thanks in particular to our sponsors for supporting the conference this year.
+We’ve excited to have them at our Job Fair and around the entire conference participating in a few different ways.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.google.com&quot;&gt;Google&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://stackblitz.com/&quot;&gt;StackBlitz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.cncf.io/&quot;&gt;Cloud Native Computing Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.mongodb.com/&quot;&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.twilio.com/&quot;&gt;Twilio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://livelike.com/&quot;&gt;LiveLike&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://opencollective.com/open-web-docs&quot;&gt;Open Web Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.jetbrains.com/&quot;&gt;JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;Head over to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2022/sponsors/prospectus/&quot;&gt;sponsorship prospectus&lt;/a&gt; for details on how your company can get involved!
+We have several types of sponsorship available, including tables at the job fair on Tuesday.&lt;/p&gt;
+&lt;p&gt;Thanks so much for all your support and enthusiasm so far – we’re so excited to see you all next month!&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/schedule/atom.xml">
+    <title type="text">Announcing Full Schedule</title>
+    <id>https://www.writethedocs.org/conf/prague/2021/news/announcing-schedule/</id>
+    <updated>2021-09-08T00:00:00Z</updated>
+    <published>2021-09-08T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2021/news/announcing-schedule/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-full-schedule&quot;&gt;
+
+&lt;p&gt;Hey everyone!&lt;/p&gt;
+&lt;p&gt;We’re less than a month away from the second online Prague conference, and we’re working hard to make sure it’ll be as welcoming and as fun as last year’s event.&lt;/p&gt;
+&lt;p&gt;Today we’re announcing the full presentation schedule and the platform we’ll be hosting the conference on.
+We are working on last-minute details for a few more activities during the conference, so look out for more information in our next mailing.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-platform&quot;&gt;
+&lt;h2&gt;Conference platform&lt;/h2&gt;
+&lt;p&gt;The conference will again be held on &lt;a class=&quot;reference external&quot; href=&quot;https://hopin.to/&quot;&gt;https://hopin.to/&lt;/a&gt;, which not only provides a stage for our amazing speakers, but also has integrated chat, unconference rooms with breakout calls, expo booths, and even a virtual hallway. We have an updated &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2021/welcome-wagon/&quot;&gt;Welcome Wagon&lt;/a&gt; guide to help you get familiar with the platform before you’ve even arrived.&lt;/p&gt;
+&lt;p&gt;IMPORTANT: If you registered for a ticket on Ti.to, please monitor your inboxes during the next weeks for an email with a registration link to Hopin. We recommend that you register for the platform in advance, to avoid the “Monday morning rush”.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;full-presentation-schedule&quot;&gt;
+&lt;h2&gt;Full presentation schedule&lt;/h2&gt;
+&lt;p&gt;The conference website is now updated with the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2021/schedule/&quot;&gt;talk schedule&lt;/a&gt; for the main stage presentations, so you can start planning your time (and getting excited!) for the conference. We’re excited to have live Q&amp;amp;A after most talks, which will come from your questions but be moderated by an MC.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;start-thinking-about-writing-day&quot;&gt;
+&lt;h2&gt;Start thinking about Writing Day&lt;/h2&gt;
+&lt;p&gt;Our pre-conference &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2021/writing-day/&quot;&gt;Writing Day&lt;/a&gt; will happen on Sunday, and it is much more fun when folks come with their own projects in mind!&lt;/p&gt;
+&lt;p&gt;If you have a project or are part of a community that you think would benefit from a writing sprint, start brainstorming now about what you might want to focus on.
+If you’d like us to include your project on the Writing Day page, drop us an email at &lt;a class=&quot;reference external&quot; href=&quot;mailto:prague&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;prague&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.
+Or just show up on Sunday ready to introduce your project!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-still-on-sale&quot;&gt;
+&lt;h2&gt;Shirts still on sale&lt;/h2&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://shirt.writethedocs.org/&quot;&gt;Write the Docs Prague 2021 Pop-Up Shop&lt;/a&gt; is open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.&lt;/p&gt;
+&lt;p&gt;The campaign will run in 3-day batches until November 30th. Shipping is available from the USA or Europe. However, due to the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to wear your new shirt during the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;all-conference-events-and-activities&quot;&gt;
+&lt;h2&gt;All conference events and activities&lt;/h2&gt;
+&lt;p&gt;Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge. And even though this years conference is held online, we’re holding to that plan.&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Lightning Talks.&lt;/strong&gt; We’ll have &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2021/lightning-talks/&quot;&gt;lightning talks&lt;/a&gt; each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unconference.&lt;/strong&gt; We’ll be running the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2021/unconference/&quot;&gt;Unconference&lt;/a&gt; all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a specific thing? This is the place.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Job Fair&lt;/strong&gt;. As with the previous few years, on Tuesday morning we’ll have a &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2021/job-fair&quot;&gt;job fair&lt;/a&gt; where you can find your next documentarian friendly job.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social event&lt;/strong&gt;. On Monday night, the main stage will be closed and the focus will be on attendee-created sessions. You’re welcome to create sessions for board games, trivia quizzes, karaoke, or any other social activity that you want to share with your fellow documentarians.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conference Help Desk&lt;/strong&gt;. If you have any questions about navigating the virtual event, we’ll be running the Write the Docs Helpdesk booth, where you can chat with one of the organizers and the Welcome Wagon team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2021/schedule/&quot;&gt;Schedule page&lt;/a&gt; has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-to-our-sponsors&quot;&gt;
+&lt;h2&gt;Thanks to our sponsors&lt;/h2&gt;
+&lt;p&gt;We are so grateful to have our sponsors help in bringing these events to life every year. Thanks sincerely to the following companies for supporting the Write the Docs community:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.redhat.com/en&quot;&gt;Red Hat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.people-text.de/en/home-en.html&quot;&gt;people text&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.jetbrains.com/&quot;&gt;JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://opencollective.com/open-web-docs&quot;&gt;Open Web Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://aiven.io/&quot;&gt;Aiven&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://developer.mozilla.org/en-US/&quot;&gt;MDN Web Docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;Head over to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2020/sponsors/prospectus/&quot;&gt;sponsorship prospectus&lt;/a&gt; for details on how your company can get involved!
+We have several types of sponsorship available, including tables at the job fair that we’ll be hosting on Tuesday.&lt;/p&gt;
+&lt;p&gt;Thanks so much for all your support and enthusiasm so far – we’re so excited to see you all next month!&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/schedule/atom.xml">
+    <title type="text">Announcing Full Schedule</title>
+    <id>https://www.writethedocs.org/conf/portland/2021/news/announcing-schedule/</id>
+    <updated>2021-03-18T00:00:00Z</updated>
+    <published>2021-03-18T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2021/news/announcing-schedule/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-full-schedule&quot;&gt;
+
+&lt;p&gt;Hey everyone!&lt;/p&gt;
+&lt;p&gt;We’re just over a month away from the online Portland conference, and we’re working hard to make sure it’ll be as welcoming and as fun as the in-person event you’re probably familiar with.&lt;/p&gt;
+&lt;p&gt;Today we’re announcing the full presentation schedule and the platform we’ll be hosting the conference on.
+We are working on last-minute details for a few more activities during the conference, so look out for more information in our next mailing.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-platform&quot;&gt;
+&lt;h2&gt;Conference platform&lt;/h2&gt;
+&lt;p&gt;Following the success of last year’s virtual format, the conference will again be held on &lt;a class=&quot;reference external&quot; href=&quot;https://hopin.to/&quot;&gt;https://hopin.to/&lt;/a&gt;. Hopin not only provides a stage for our amazing speakers, but also has integrated chat, unconference rooms with breakout calls, and expo booths. We’re updating our Welcome Wagon guide, to be released soon, so it’ll all feel familiar before you’ve even arrived.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;full-presentation-schedule&quot;&gt;
+&lt;h2&gt;Full presentation schedule&lt;/h2&gt;
+&lt;p&gt;The conference website is now updated with the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2021/schedule/&quot;&gt;talk schedule&lt;/a&gt; for the main stage presentations, so you can start planning your time (and getting excited!) for the conference. We’re excited to continue the new tradition of live Q&amp;amp;A after most talks, which will come from your questions but be moderated by our MC.&lt;/p&gt;
+&lt;p&gt;One of the big changes in the schedule based on the community feedback is scheduling more breaks during the day. We are all trying to balance our screen time, so we wanted to make sure that your eyes get their rest! We hope that this adjustment will help you stay alert and happy throughout the conferences.&lt;/p&gt;
+&lt;p&gt;Another change that we made is to move the social event to an earlier time. We want you to have fun socializing with your fellow documentarians, but we understand that your family and home time is also important these days, so hopefully this will help us stay engaged and enjoy the social activities even more.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;All talk videos will be published on our YouTube channel no later than 1 week after the conference.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;start-thinking-about-writing-day&quot;&gt;
+&lt;h2&gt;Start thinking about Writing Day&lt;/h2&gt;
+&lt;p&gt;Our pre-conference &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2021/writing-day/&quot;&gt;Writing Day&lt;/a&gt; will happen on Sunday, and it is much more fun when folks come with their own projects in mind!&lt;/p&gt;
+&lt;p&gt;If you have a project or are part of a community that you think would benefit from a writing sprint, start brainstorming now about what you might want to focus on.
+If you’d like us to include your project on the Writing Day page, drop us an email at &lt;a class=&quot;reference external&quot; href=&quot;mailto:portland&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;portland&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.
+Or just show up on Sunday ready to introduce your project!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-on-sale&quot;&gt;
+&lt;h2&gt;Shirts on sale&lt;/h2&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://teespring.com/wtd-pdx-2021&quot;&gt;Write the Docs Portland 2021 Pop-Up Shop&lt;/a&gt; is still open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.&lt;/p&gt;
+&lt;p&gt;The campaign will run in 3-day batches until May 31st. Shipping is available from the USA or Europe. However, due to the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to sport your new threads during the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;all-our-events-and-activities&quot;&gt;
+&lt;h2&gt;All our events and activities&lt;/h2&gt;
+&lt;p&gt;Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge. And even though this years conference is held online, we’re holding to that plan.&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Lightning Talks.&lt;/strong&gt; We’ll have &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2021/lightning-talks/&quot;&gt;lightning talks&lt;/a&gt; each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unconference.&lt;/strong&gt; We’ll be running the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2021/unconference/&quot;&gt;Unconference&lt;/a&gt; all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a specific thing? This is the place.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Job Fair&lt;/strong&gt;. As with the previous few years, on Tuesday morning we’ll have a &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2021/job-fair&quot;&gt;job fair&lt;/a&gt; where you can find your next documentarian friendly job.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social event&lt;/strong&gt;. On Monday night we’ll be moving to a spatial chat platform for our social event. This will be a more familiar social space where you can move around and join groups of people having conversations. We’ve used similar platforms at other events, and found that they really help people get to know each other in a more natural way.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conference Help Desk&lt;/strong&gt;. If you have any questions about navigating the virtual event, we’ll be running the Write the Docs Helpdesk booth, where you can chat with one of the organizers and the Welcome Wagon team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2021/schedule/&quot;&gt;Schedule page&lt;/a&gt; has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-to-our-sponsors&quot;&gt;
+&lt;h2&gt;Thanks to our sponsors&lt;/h2&gt;
+&lt;p&gt;Thanks in particular to our sponsors for supporting the conference this year.
+We’ve excited to have them at our Job Fair and around the entire conference participating in a few different ways.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.google.com&quot;&gt;Google&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.cncf.io/&quot;&gt;Cloud Native Computing Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://slack.com/&quot;&gt;Slack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.twilio.com/&quot;&gt;Twilio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.mongodb.com/&quot;&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.juniper.net/&quot;&gt;Juniper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.starburst.io/&quot;&gt;Starburst&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;Head over to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2021/sponsors/prospectus/&quot;&gt;sponsorship prospectus&lt;/a&gt; for details on how your company can get involved!
+We have several types of sponsorship available, including tables at the job fair on Tuesday.&lt;/p&gt;
+&lt;p&gt;Thanks so much for all your support and enthusiasm so far – we’re so excited to see you all next month!&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/schedule/atom.xml">
+    <title type="text">Announcing the full conference schedule</title>
+    <id>https://www.writethedocs.org/conf/australia/2020/news/announcing-schedule/</id>
+    <updated>2020-10-11T00:00:00Z</updated>
+    <published>2020-10-11T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2020/news/announcing-schedule/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-the-full-conference-schedule&quot;&gt;
+
+&lt;p&gt;Hello folks!&lt;/p&gt;
+&lt;p&gt;We’re less than two months away from the first online Australia and India conference and we’re working hard to make sure it’ll be as welcoming and as fun as the in-person event you’re probably familiar with.&lt;/p&gt;
+&lt;p&gt;Today, we’re announcing the full presentation schedule and the platform we’ll be hosting the conference on.
+We are working on more details for a few more activities during the conference, so keep an eye out for more information in our next mailing.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-platform&quot;&gt;
+&lt;h2&gt;Conference platform&lt;/h2&gt;
+&lt;p&gt;The conference will be held on &lt;a class=&quot;reference external&quot; href=&quot;https://hopin.to/&quot;&gt;https://hopin.to/&lt;/a&gt;. This platform not only provides a stage for our amazing speakers, but also has integrated chat, unconference rooms with breakout calls, expo booths, and even a virtual hallway.
+We’re updating our Welcome Wagon guide, to be released soon, so it’ll all feel familiar before you’ve even “hopped in” (pun unintended).&lt;/p&gt;
+&lt;p&gt;IMPORTANT: Please watch your inboxes during the next weeks for an email with a registration link to Hopin.
+We recommend that you register for the platform in advance, to avoid any last minute snafus.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;full-presentation-schedule&quot;&gt;
+&lt;h2&gt;Full presentation schedule&lt;/h2&gt;
+&lt;p&gt;The conference website is now updated with the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2020/schedule/&quot;&gt;talk schedule&lt;/a&gt; for the main stage presentations, so you can start planning your time (and getting excited!) for the conference. We’re excited to have live Q&amp;amp;A after most talks, which will come from your questions but be moderated by an MC.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;all-our-events-and-activities&quot;&gt;
+&lt;h2&gt;All our events and activities&lt;/h2&gt;
+&lt;p&gt;Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge. And even though this years conference is held online, we’re holding to that plan.&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Lightning Talks.&lt;/strong&gt; We’ll have &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2020/lightning-talks/&quot;&gt;lightning talks&lt;/a&gt; each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unconference.&lt;/strong&gt; We’ll be running the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2020/unconference/&quot;&gt;Unconference&lt;/a&gt; all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a specific thing? This is the place.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social event&lt;/strong&gt;. On Thursday night the conference platform will become the social event space. The main stage will be closed and the focus will be on attendee-created sessions. You’re welcome to create sessions for board games, trivia quizzes, karaoke, or any other social activity that you want to share with your fellow documentarians.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conference Help Desk&lt;/strong&gt;. If you have any questions about navigating the virtual event, we’ll be running the Write the Docs Helpdesk booth, where you can chat with one of the organizers and the Welcome Wagon team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2020/schedule/&quot;&gt;Schedule page&lt;/a&gt; has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.&lt;/p&gt;
+&lt;p&gt;Thanks so much for all your support and enthusiasm so far – we’re so excited to see you all in December!&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

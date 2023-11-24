@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged code of conduct</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/code-of-conduct/atom.xml</id>
+  <updated>2019-02-11T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/code-of-conduct/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/code-of-conduct/atom.xml">
+    <title type="text">Improved Community Code of Conduct</title>
+    <id>https://www.writethedocs.org/blog/new-community-coc-2019/</id>
+    <updated>2019-02-11T00:00:00Z</updated>
+    <published>2019-02-11T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/new-community-coc-2019/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;improved-community-code-of-conduct&quot;&gt;
+
+&lt;p&gt;We aim to make Write the Docs an incredibly diverse, friendly, and inclusive community. As part of that effort, we have a community &lt;a class=&quot;reference internal&quot; href=&quot;../../../../code-of-conduct/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;Code of Conduct&lt;/span&gt;&lt;/a&gt;. We have refactored and improved our existing Code of Conduct, based on improvements and lessons in our own and other communities. In this post, we list some of the more significant changes.&lt;/p&gt;
+&lt;p&gt;We have added:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;An explanation of the fundamental goals we have with a CoC.&lt;/li&gt;
+&lt;li&gt;Clarification on cases where the CoC can apply during conferences, even for events not on the conference agenda.&lt;/li&gt;
+&lt;li&gt;A short guideline on reporting. Community members are now more strongly encouraged to report incidents, even if they are unsure whether it is a violation or not. This is also reflected in the CoC in other places.&lt;/li&gt;
+&lt;li&gt;Clarification on who to report to in which spaces, how a report can be escalated, and which people are in which response team.&lt;/li&gt;
+&lt;li&gt;An explicit policy regarding venue security or law enforcement involvement. They should not be involved without consent of the affected person(s), except if there is no other reasonable option given significant safety risks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We’ve updated:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;The list of examples of harassment and exclusionary behaviour, to provide more clarity on what can fall under this.&lt;/li&gt;
+&lt;li&gt;The &lt;a class=&quot;reference internal&quot; href=&quot;../../../../code-of-conduct-response/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;Code of Conduct Response Guide&lt;/span&gt;&lt;/a&gt; to provide better guidance to people in CoC response teams in different community spaces, how to work as a team, deal with conflicts of interest, handling public statements, and how to decide on a response.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All Write the Docs meetups are now required to adopt the Write the Docs community &lt;a class=&quot;reference internal&quot; href=&quot;../../../../code-of-conduct/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;Code of Conduct&lt;/span&gt;&lt;/a&gt;. A &lt;a class=&quot;reference internal&quot; href=&quot;../../../../code-of-conduct-shortform-meetups/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;short form CoC is available for meetups&lt;/span&gt;&lt;/a&gt;, which needs to be included in the Meetup description in full. Organisers are the first point of contact for reports of Code of Conduct incidents at meetups, should read the &lt;a class=&quot;reference internal&quot; href=&quot;../../../../code-of-conduct-response/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;Code of Conduct Response Guide&lt;/span&gt;&lt;/a&gt; carefully, and use it as a reference when an incident is reported.&lt;/p&gt;
+&lt;p&gt;Please take a moment to review the &lt;a class=&quot;reference internal&quot; href=&quot;../../../../code-of-conduct/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;Code of Conduct&lt;/span&gt;&lt;/a&gt;. As with any of our community documentation, we welcome feedback and contributions. We’d also like to thank the &lt;a class=&quot;reference external&quot; href=&quot;https://2018.djangocon.eu/conduct-response/&quot;&gt;Djangocon Europe 2018 team&lt;/a&gt; for inspiring a large portion of our updated code of conduct.&lt;/p&gt;
+&lt;p&gt;If you have any questions about these changes or CoC processes in general, feel free to contact &lt;a class=&quot;reference external&quot; href=&quot;mailto:conduct&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;conduct&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/code-of-conduct/atom.xml">
+    <title type="text">New and Improved Community Code of Conduct</title>
+    <id>https://www.writethedocs.org/blog/new-community-coc/</id>
+    <updated>2017-02-22T00:00:00Z</updated>
+    <published>2017-02-22T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/new-community-coc/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;new-and-improved-community-code-of-conduct&quot;&gt;
+
+&lt;p&gt;Greetings documentarians! As you know, Write the Docs is an incredibly diverse, friendly, and inclusive community. We continually encourage and support safe spaces in our events and online platforms.&lt;/p&gt;
+&lt;p&gt;To that effect, we recently refactored and expanded our &lt;a class=&quot;reference internal&quot; href=&quot;../../../../code-of-conduct/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;Code of Conduct&lt;/span&gt;&lt;/a&gt; to accommodate for the increased interaction that our community members have with each other and with folks outside our community when communicating on behalf of Write the Docs.&lt;/p&gt;
+&lt;p&gt;This updated code of conduct aims not only to deliver a more accurate definition of the principles which we believe in, but also to establish which spaces are considered official community spaces, what might be considered a violation, and what to do in case you need to report a violation.&lt;/p&gt;
+&lt;p&gt;In addition to the expanded code of conduct, we included a reporting guide with guidelines on how to submit a report and what to expect after submitting a report.&lt;/p&gt;
+&lt;p&gt;And lastly, we refactored our &lt;a class=&quot;reference internal&quot; href=&quot;../../../../code-of-conduct-response/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;Code of Conduct Response Guide&lt;/span&gt;&lt;/a&gt; to cover handling reports in all of our community spaces, and to make sure that we follow a consistent and transparent approach in handling these reports.&lt;/p&gt;
+&lt;p&gt;Please take a moment to review the &lt;a class=&quot;reference internal&quot; href=&quot;../../../../code-of-conduct/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;Code of Conduct&lt;/span&gt;&lt;/a&gt;. As with any of our community documentation, we welcome feedback and contributions. We’d also like to thank the &lt;a class=&quot;reference external&quot; href=&quot;https://www.djangoproject.com/conduct/&quot;&gt;Django Project Code of Conduct&lt;/a&gt; for inspiring a large portion of our updated code of conduct.&lt;/p&gt;
+&lt;p&gt;And remember - Be excellent to each other!&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

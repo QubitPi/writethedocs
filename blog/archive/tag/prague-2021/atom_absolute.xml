@@ -1,0 +1,533 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged prague-2021</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/prague-2021/atom.xml</id>
+  <updated>2021-10-13T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/"/>
+  <link href="https://www.writethedocs.org/blog/archive/tag/prague-2021/atom.xml" rel="self"/>
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/prague-2021/atom.xml">
+    <title type="text">Conference highlights and thanks to the community!</title>
+    <id>https://www.writethedocs.org/conf/prague/2021/news/thank-you-recap/</id>
+    <updated>2021-10-13T00:00:00Z</updated>
+    <published>2021-10-13T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2021/news/thank-you-recap/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="conference-highlights-and-thanks-to-the-community"&gt;
+
+&lt;p&gt;Hey everyone,&lt;/p&gt;
+&lt;p&gt;The Write the Docs team is now emerging from the post-conference recovery period, and we wanted to send out a quick message to thank everyone for helping to make our conference such a success.
+We appreciate everyone who makes the conference possible: speakers, sponsors, organizers, and attendees alike.&lt;/p&gt;
+&lt;div class="section" id="conference-recap"&gt;
+&lt;h2&gt;Conference recap&lt;/h2&gt;
+&lt;p&gt;At &lt;strong&gt;nearly 300 attendees&lt;/strong&gt;, the conference was active and full of usual mix of talks on the main stage along with Q&amp;amp;A, lightning talks, unconference sessions, writing sprints, social event, and job fair.
+We thought everything went pretty smoothly this year, including experiments like the new social event platform.&lt;/p&gt;
+&lt;p&gt;As always, we were excited with how our awesome community come together in our virtual venue. Lots of knowledge was shared, and we had a great time.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="talk-videos"&gt;
+&lt;h2&gt;Talk videos&lt;/h2&gt;
+&lt;p&gt;Videos of the talks are now available on &lt;a class="reference external" href="https://www.youtube.com/playlist?list=PLZAeFn6dfHpnaoiOQyd9BYbQbprDGQjQ9"&gt;YouTube&lt;/a&gt;. This includes all conference talks and Q&amp;amp;A, as well as the lightning talks.
+You can also subscribe to our &lt;a class="reference external" href="https://www.youtube.com/writethedocs"&gt;YouTube channel&lt;/a&gt; so you don&amp;#8217;t miss any future content.
+We are also working to add the videos and sketchnotes for all the talks to our website archive, so stay tuned for updates.&lt;/p&gt;
+&lt;p&gt;Thanks again to all our presenters and moderators! Huge thanks also to &lt;a class="reference external" href="https://www.bartatwork.com/"&gt;Bart at Work&lt;/a&gt; for handling the A/V production on our event, it was flawless once again this year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="shirts-still-on-sale"&gt;
+&lt;h2&gt;Shirts still on sale&lt;/h2&gt;
+&lt;p&gt;If you want a souvenir from this year&amp;#8217;s conference, our &lt;a class="reference external" href="https://shirt.writethedocs.org/"&gt;Write the Docs Prague 2021 Pop-Up Shop&lt;/a&gt; is still open!
+We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want. The campaign will run in 3-day batches for another few weeks. Shipping is available from the USA or Europe.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New this year&lt;/strong&gt;: You can shop for non-conference swag in our &lt;a class="reference external" href="https://writethedocs.threadless.com/"&gt;Write the Docs Community Shop&lt;/a&gt; on Threadless.
+We have non-apparel options like stickers, notebooks, bags, and other accessories with various community slogens (including the now-famous &amp;#8220;Docs or it didn&amp;#8217;t happen!&amp;#8221;).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="code-of-conduct-transparency-report"&gt;
+&lt;h2&gt;Code of Conduct transparency report&lt;/h2&gt;
+&lt;p&gt;As with any Write the Docs event, this conference was covered by our &lt;a class="reference external" href="https://www.writethedocs.org/code-of-conduct/"&gt;community Code of Conduct&lt;/a&gt;.
+We aim to be as transparent with CoC incidents and enforcement as we can.&lt;/p&gt;
+&lt;p&gt;To ensure that our CoC was visible and accessible, we took a number of specific steps:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Every participant agreed to the Code of Conduct in advance during registration.&lt;/li&gt;
+&lt;li&gt;The CoC, or a summary, was included on the conference website and Hopin Reception&lt;/li&gt;
+&lt;li&gt;The CoC was repeatedly mentioned in our conference introduction and announcements.&lt;/li&gt;
+&lt;li&gt;We specifically stressed that the CoC applies to all conference spaces including the social event.&lt;/li&gt;
+&lt;li&gt;We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;None of our organizers were approached about any CoC concerns at this event.
+We know that this is, in part, a reflection of the thoughtful and inclusive community that we&amp;#8217;re so lucky to have.&lt;/p&gt;
+&lt;p&gt;That being said, we&amp;#8217;re also very conscious of the fact that just because nothing was reported doesn&amp;#8217;t mean nothing happened.
+If there was any personal conduct or other aspect of the conference experience that did not meet the expectations of behavior set out in the CoC, please email us at &lt;a class="reference external" href="mailto:conduct%40writethedocs.org"&gt;conduct&lt;span&gt;@&lt;/span&gt;writethedocs&lt;span&gt;.&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="keep-in-touch"&gt;
+&lt;h2&gt;Keep in touch&lt;/h2&gt;
+&lt;p&gt;As you probably know, we&amp;#8217;ve decided to take a break this year from a full Australia &amp;amp; India conference, to help the organizers maintain their well-being and prevent burnout.
+Instead of the conference, we&amp;#8217;re organizing a more casual super-meetup instead. Stay tuned for details soon!&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;re also looking for more sponsors to make our other events just as magical as this year&amp;#8217;s Prague event.
+You can see all our &lt;a class="reference external" href="https://www.writethedocs.org/sponsorship/"&gt;sponsorship options&lt;/a&gt; on our website.&lt;/p&gt;
+&lt;p&gt;Our Slack network has expanded yet again this year.
+Our #general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that y&amp;#8217;all continue the conversations throughout the year.
+If you haven&amp;#8217;t joined, now&amp;#8217;s the time! Check out the &lt;a class="reference external" href="https://www.writethedocs.org/slack/"&gt;Write the Docs Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our &lt;a class="reference external" href="https://www.writethedocs.org/newsletter/"&gt;monthly newsletter&lt;/a&gt; is the other place to keep track of everything that is happening with the community.
+Subscribe to make sure you hear about all the conferences, meetups, job postings, and summaries of relevant conversations in our Slack.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="thanks-again-to-our-sponsors"&gt;
+&lt;h2&gt;Thanks again to our sponsors&lt;/h2&gt;
+&lt;p&gt;Thanks so much to the following companies for supporting the Prague conference this year:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.redhat.com/en"&gt;Red Hat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.people-text.de/en/home-en.html"&gt;people text&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.knowledgeowl.com"&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.jetbrains.com/"&gt;JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://opencollective.com/open-web-docs"&gt;Open Web Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://aiven.io/"&gt;Aiven&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://developer.mozilla.org/en-US/"&gt;MDN Web Docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div class="section" id="until-next-time"&gt;
+&lt;h2&gt;Until next time&lt;/h2&gt;
+&lt;p&gt;We&amp;#8217;re so grateful to our sponsors, speakers, volunteers, and attendees for making this conference possible.
+Whether you were able to attend this time or not, we hope to see you again next year and we wish everyone a safe and happy time!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/prague-2021/atom.xml">
+    <title type="text">Get Ready for the Conference!</title>
+    <id>https://www.writethedocs.org/conf/prague/2021/news/get-ready/</id>
+    <updated>2021-09-28T00:00:00Z</updated>
+    <published>2021-09-28T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2021/news/get-ready/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="get-ready-for-the-conference"&gt;
+
+&lt;p&gt;Hey everyone!&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;re just a few days away from the start of the conference, and we&amp;#8217;re getting excited to see you soon at our online venue for three days of content, collaboration, and conversation. We&amp;#8217;re happy to share with you some useful resources to help you prepare for the conference.&lt;/p&gt;
+&lt;div class="section" id="tickets-sales-closing-on-thursday-september-30th"&gt;
+&lt;h2&gt;Tickets sales closing on Thursday, September 30th&lt;/h2&gt;
+&lt;p&gt;We wanted to let you know that we will be closing ticket sales on &lt;strong&gt;Thursday, September 30th at 20:00 CEST&lt;/strong&gt;. This helps the organizer team manage the platform registrations in time for the start of the conference, and helps keep the cozy community feeling of the event.&lt;/p&gt;
+&lt;p&gt;If you were hoping to come to this years event, we recommend that you &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/tickets/"&gt;get your tickets before Thursday&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If you already purchased a ticket you should have received an email from us with your Hopin registration link.&lt;/strong&gt; After we close ticket sales, we will send another email to everyone with a reminder and a link to access the Hopin event.&lt;/p&gt;
+&lt;p&gt;The Hopin access links were sent today to all Ti.to ticket holders, so check your inbox for a message. If you don&amp;#8217;t get an email from us by the end of the week, please check your spam/junk folder first, and then email us and we&amp;#8217;ll help you out.&lt;/p&gt;
+&lt;p&gt;After you register in Hopin and set up your profile, you will be ready to get started on Sunday morning with the Writing Day!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="welcome-wagon-guide-and-orientation-sessions"&gt;
+&lt;h2&gt;Welcome Wagon guide and orientation sessions&lt;/h2&gt;
+&lt;p&gt;The &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/welcome-wagon/"&gt;Welcome Wagon guide&lt;/a&gt; has been updated to help you get the most out of our event this year.&lt;/p&gt;
+&lt;p&gt;We have a lot of information about how to use Hopin, as well as lots of tips and tricks for the best way to plan your days.&lt;/p&gt;
+&lt;p&gt;This year we are also happy to announce that the Welcome Wagon team will hold &lt;strong&gt;live orientation sessions&lt;/strong&gt; for the virtual platform! The sessions will be held on Sunday during Writing Day and on Monday morning before the conference introduction talk. These sessions will give you a chance to walk through the virtual event and ask all your questions.&lt;/p&gt;
+&lt;p&gt;Check out the &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/schedule/"&gt;Schedule page&lt;/a&gt; for exact time and location.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="all-our-events-and-activities"&gt;
+&lt;h2&gt;All our events and activities&lt;/h2&gt;
+&lt;p&gt;Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge. And even though this years conference is held online, we&amp;#8217;re holding to that plan.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Lightning Talks.&lt;/strong&gt; We&amp;#8217;ll have &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/lightning-talks/"&gt;lightning talks&lt;/a&gt; each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required. Sign-up for lightning talks will be posted on Monday and Tuesday morning, and the selected talks will be announced before the lunch break on each day.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unconference.&lt;/strong&gt; We&amp;#8217;ll be running the &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/unconference/"&gt;Unconference&lt;/a&gt; all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a specific thing? This is the place.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Job Fair&lt;/strong&gt;. As with the previous years, on Tuesday morning we&amp;#8217;ll have a &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/job-fair"&gt;job fair&lt;/a&gt; where you can find your next documentarian friendly job.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social event&lt;/strong&gt;. On Monday night the main stage will be closed, and we will switch to social mode! We will be using a spatial chat platform for the social event this year, and we will post the link for the social space during the day on Monday. It will be much closer to a &amp;#8220;real life&amp;#8221; social where attendees can move between different rooms and group conversations, and the &lt;a class="reference external" href="https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/"&gt;Pac-Man Rule&lt;/a&gt; even works!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conference Help Desk&lt;/strong&gt;. If you have any questions about navigating the virtual event, we&amp;#8217;ll be running the Write the Docs Helpdesk booth, where you can chat with one of the organizers and the Welcome Wagon team.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/schedule/"&gt;Schedule page&lt;/a&gt; has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="thanks-so-much-to-all-our-sponsors"&gt;
+&lt;h2&gt;Thanks so much to all our sponsors&lt;/h2&gt;
+&lt;p&gt;We are so grateful to have our sponsors help in bringing these events to life every year.
+You&amp;#8217;ll be able to chat with most of our sponsors at the Job Fair, and a few will have booths for conversations the entire conference.&lt;/p&gt;
+&lt;p&gt;Thanks so much to the following companies for supporting the Portland conference this year:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.redhat.com/en"&gt;Red Hat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.people-text.de/en/home-en.html"&gt;people text&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.knowledgeowl.com"&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.jetbrains.com/"&gt;JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://opencollective.com/open-web-docs"&gt;Open Web Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://aiven.io/"&gt;Aiven&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://developer.mozilla.org/en-US/"&gt;MDN Web Docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;We&amp;#8217;re excited to see all of you soon,
+and can&amp;#8217;t wait to share a wonderful few days with you in our online space.&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/prague-2021/atom.xml">
+    <title type="text">Announcing Full Schedule</title>
+    <id>https://www.writethedocs.org/conf/prague/2021/news/announcing-schedule/</id>
+    <updated>2021-09-08T00:00:00Z</updated>
+    <published>2021-09-08T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2021/news/announcing-schedule/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="announcing-full-schedule"&gt;
+
+&lt;p&gt;Hey everyone!&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;re less than a month away from the second online Prague conference, and we&amp;#8217;re working hard to make sure it&amp;#8217;ll be as welcoming and as fun as last year&amp;#8217;s event.&lt;/p&gt;
+&lt;p&gt;Today we&amp;#8217;re announcing the full presentation schedule and the platform we&amp;#8217;ll be hosting the conference on.
+We are working on last-minute details for a few more activities during the conference, so look out for more information in our next mailing.&lt;/p&gt;
+&lt;div class="section" id="conference-platform"&gt;
+&lt;h2&gt;Conference platform&lt;/h2&gt;
+&lt;p&gt;The conference will again be held on &lt;a class="reference external" href="https://hopin.to/"&gt;https://hopin.to/&lt;/a&gt;, which not only provides a stage for our amazing speakers, but also has integrated chat, unconference rooms with breakout calls, expo booths, and even a virtual hallway. We have an updated &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/welcome-wagon/"&gt;Welcome Wagon&lt;/a&gt; guide to help you get familiar with the platform before you&amp;#8217;ve even arrived.&lt;/p&gt;
+&lt;p&gt;IMPORTANT: If you registered for a ticket on Ti.to, please monitor your inboxes during the next weeks for an email with a registration link to Hopin. We recommend that you register for the platform in advance, to avoid the &amp;#8220;Monday morning rush&amp;#8221;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="full-presentation-schedule"&gt;
+&lt;h2&gt;Full presentation schedule&lt;/h2&gt;
+&lt;p&gt;The conference website is now updated with the &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/schedule/"&gt;talk schedule&lt;/a&gt; for the main stage presentations, so you can start planning your time (and getting excited!) for the conference. We&amp;#8217;re excited to have live Q&amp;amp;A after most talks, which will come from your questions but be moderated by an MC.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="start-thinking-about-writing-day"&gt;
+&lt;h2&gt;Start thinking about Writing Day&lt;/h2&gt;
+&lt;p&gt;Our pre-conference &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/writing-day/"&gt;Writing Day&lt;/a&gt; will happen on Sunday, and it is much more fun when folks come with their own projects in mind!&lt;/p&gt;
+&lt;p&gt;If you have a project or are part of a community that you think would benefit from a writing sprint, start brainstorming now about what you might want to focus on.
+If you&amp;#8217;d like us to include your project on the Writing Day page, drop us an email at &lt;a class="reference external" href="mailto:prague%40writethedocs.org"&gt;prague&lt;span&gt;@&lt;/span&gt;writethedocs&lt;span&gt;.&lt;/span&gt;org&lt;/a&gt;.
+Or just show up on Sunday ready to introduce your project!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="shirts-still-on-sale"&gt;
+&lt;h2&gt;Shirts still on sale&lt;/h2&gt;
+&lt;p&gt;The &lt;a class="reference external" href="https://shirt.writethedocs.org/"&gt;Write the Docs Prague 2021 Pop-Up Shop&lt;/a&gt; is open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.&lt;/p&gt;
+&lt;p&gt;The campaign will run in 3-day batches until November 30th. Shipping is available from the USA or Europe. However, due to the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to wear your new shirt during the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="all-conference-events-and-activities"&gt;
+&lt;h2&gt;All conference events and activities&lt;/h2&gt;
+&lt;p&gt;Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge. And even though this years conference is held online, we&amp;#8217;re holding to that plan.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Lightning Talks.&lt;/strong&gt; We&amp;#8217;ll have &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/lightning-talks/"&gt;lightning talks&lt;/a&gt; each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unconference.&lt;/strong&gt; We&amp;#8217;ll be running the &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/unconference/"&gt;Unconference&lt;/a&gt; all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a specific thing? This is the place.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Job Fair&lt;/strong&gt;. As with the previous few years, on Tuesday morning we&amp;#8217;ll have a &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/job-fair"&gt;job fair&lt;/a&gt; where you can find your next documentarian friendly job.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social event&lt;/strong&gt;. On Monday night, the main stage will be closed and the focus will be on attendee-created sessions. You&amp;#8217;re welcome to create sessions for board games, trivia quizzes, karaoke, or any other social activity that you want to share with your fellow documentarians.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conference Help Desk&lt;/strong&gt;. If you have any questions about navigating the virtual event, we&amp;#8217;ll be running the Write the Docs Helpdesk booth, where you can chat with one of the organizers and the Welcome Wagon team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/schedule/"&gt;Schedule page&lt;/a&gt; has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="thanks-to-our-sponsors"&gt;
+&lt;h2&gt;Thanks to our sponsors&lt;/h2&gt;
+&lt;p&gt;We are so grateful to have our sponsors help in bringing these events to life every year. Thanks sincerely to the following companies for supporting the Write the Docs community:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.redhat.com/en"&gt;Red Hat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.people-text.de/en/home-en.html"&gt;people text&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.knowledgeowl.com"&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.jetbrains.com/"&gt;JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://opencollective.com/open-web-docs"&gt;Open Web Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://aiven.io/"&gt;Aiven&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://developer.mozilla.org/en-US/"&gt;MDN Web Docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;Head over to our &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2020/sponsors/prospectus/"&gt;sponsorship prospectus&lt;/a&gt; for details on how your company can get involved!
+We have several types of sponsorship available, including tables at the job fair that we&amp;#8217;ll be hosting on Tuesday.&lt;/p&gt;
+&lt;p&gt;Thanks so much for all your support and enthusiasm so far &amp;#8211; we&amp;#8217;re so excited to see you all next month!&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/prague-2021/atom.xml">
+    <title type="text">Announcing speakers</title>
+    <id>https://www.writethedocs.org/conf/prague/2021/news/announcing-speakers/</id>
+    <updated>2021-07-30T00:00:00Z</updated>
+    <published>2021-07-30T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2021/news/announcing-speakers/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="announcing-speakers"&gt;
+
+&lt;p&gt;Hello, documentarians! Today we&amp;#8217;re happy to announce the full list of talks and speakers for the 2021 Prague virtual conference.&lt;/p&gt;
+&lt;p&gt;Every year talk selection gets more and more difficult as we get a larger, stronger batch of submissions.
+Thank you so much to everyone who took the time to send us a pitch &amp;#8211;&amp;#160;we literally wouldn&amp;#8217;t have an event without you!&lt;/p&gt;
+&lt;div class="section" id="full-speaker-line-up"&gt;
+&lt;h2&gt;Full speaker line-up&lt;/h2&gt;
+&lt;p&gt;Every year, we look to bring a wide range of voices to the Write the Docs stage. Because being a documentarian can mean different things to different people, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics &amp;#8211; with the odd whimsical one thrown in for good measure.&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;re really excited about the presentations we&amp;#8217;ve got this year &amp;#8211;&amp;#160;we hope you are too!&lt;/p&gt;
+&lt;span class="target" id="speaker-lana-brindley-she-her"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Lana Brindley (she/her)  &amp;#8211; More than words: Reviewing and updating your information architecture&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-karen-sawrey"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Karen Sawrey  &amp;#8211; Hustling for Fun and Profit as a Technical Writer: A Freelancing Starter Kit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-fabrizio-ferri-benedetti"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Fabrizio Ferri-Benedetti  &amp;#8211; When documenting is designing: How to assist API design as a technical writer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-jenn-leaver"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Jenn Leaver  &amp;#8211; Docs leadership: How to become a stronger leader for your team&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-anita-diamond"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Anita Diamond  &amp;#8211; Cognitive Ergonomics in Technical Writing - Lessons from the Field&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-lukas-reu-ner"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Lukas Reu&amp;#223;ner  &amp;#8211; Hitchhiker&amp;#8217;s Guide to Documentation Tools and Processes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-felicity-brand"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Felicity Brand  &amp;#8211; How to write a book for (and with) an open source community&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-anna-korinna-n-meth-szab"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Anna Korinna N&amp;#233;meth-Szab&amp;#243;  &amp;#8211; Alchemy in Adversity (How to become better and more resilient tech writers in a turbulent work environment)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-victor-sluiter"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Victor Sluiter  &amp;#8211; Adventures in setting up a knowledge system for a research group&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-kate-santo"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Kate Santo  &amp;#8211; From travel content to technical content: my journey&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-kevin-hwang"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Kevin Hwang  &amp;#8211; Customer Feedback is the Fuel in our Engine&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-ryan-macklin-he-they"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Ryan Macklin (he/they)  &amp;#8211; So you need to give bad news to users&amp;#8230;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="target" id="speaker-kat-stoica-ostenfeld"&gt;&lt;/span&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Kat Stoica Ostenfeld  &amp;#8211; How I use applied linguistics to be a better technical writer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Head over to the &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/speakers/"&gt;Speakers page&lt;/a&gt; to see the full abstracts.
+We hope that there&amp;#8217;s something there for everyone to enjoy, and also something that will broaden your horizons a bit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="tickets-are-going-fast"&gt;
+&lt;h2&gt;Tickets are going fast!&lt;/h2&gt;
+&lt;p&gt;If you don&amp;#8217;t have your ticket yet, now&amp;#8217;s a great time to snap one up. Conference tickets have sold out for the last several years, and they go faster along with the speaker announcement, so if you&amp;#8217;re planning to attend, don&amp;#8217;t leave it to the last minute.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/tickets/"&gt;Buy your tickets here!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Our Opportunity Grant program is still open until August 15th. If buying a ticket is difficult for you, please don&amp;#8217;t hesitate to apply to the grant program.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Meetup organizer discount&lt;/strong&gt;: As a thanks to our meetup organizers, we&amp;#8217;re happy to offer you a 50% discount on your tickets. Please email us at &lt;a class="reference external" href="mailto:prague%40writethedocs.org"&gt;prague&lt;span&gt;@&lt;/span&gt;writethedocs&lt;span&gt;.&lt;/span&gt;org&lt;/a&gt;, tell us which meetup you organize, and we will send you registration instructions.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="thanks-to-our-sponsors"&gt;
+&lt;h2&gt;Thanks to our sponsors&lt;/h2&gt;
+&lt;p&gt;We are so grateful to have our sponsors help in bringing these events to life every year. Thanks sincerely to the following companies for supporting the Write the Docs community:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.redhat.com/en"&gt;Red Hat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.people-text.de/en/home-en.html"&gt;people text&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.knowledgeowl.com"&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.jetbrains.com/"&gt;JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://opencollective.com/open-web-docs"&gt;Open Web Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://aiven.io/"&gt;Aiven&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://developer.mozilla.org/en-US/"&gt;MDN Web Docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;Head over to our &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2020/sponsors/prospectus/"&gt;sponsorship prospectus&lt;/a&gt; for details on how your company can get involved!
+We have several types of sponsorship available, including tables at the job fair that we&amp;#8217;ll be hosting on Tuesday.&lt;/p&gt;
+&lt;p&gt;And that&amp;#8217;s the latest on the Prague conference. We hope you&amp;#8217;re all getting as excited as we are! Stay tuned for more details.&lt;/p&gt;
+&lt;p&gt;The Write the Docs Team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/prague-2021/atom.xml">
+    <title type="text">Shirts are on sale, Call for Proposals is closing soon</title>
+    <id>https://www.writethedocs.org/conf/prague/2021/news/shirts-cfp/</id>
+    <updated>2021-06-21T00:00:00Z</updated>
+    <published>2021-06-21T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2021/news/shirts-cfp/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="shirts-are-on-sale-call-for-proposals-is-closing-soon"&gt;
+
+&lt;p&gt;Greetings, documentarians in Europe and beyond! We hope you&amp;#8217;re doing alright and staying safe wherever you are.&lt;/p&gt;
+&lt;p&gt;Today we&amp;#8217;re happy to announce that we launched our T-Shirt Pop-Up Shop (for a limited time only!) and to remind you that the Call for Proposals is closing at the end of this month, so if you haven&amp;#8217;t submitted your proposal, now is the time.&lt;/p&gt;
+&lt;div class="section" id="shirts-on-sale"&gt;
+&lt;h2&gt;Shirts on sale&lt;/h2&gt;
+&lt;p&gt;The &lt;a class="reference external" href="https://shirt.writethedocs.org"&gt;Write the Docs Prague 2021 Pop-Up Shop&lt;/a&gt; is open, and starting this year we updated the logo to include the year of the conference. You can order loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.&lt;/p&gt;
+&lt;p&gt;The campaign will run in 3-day batches until November 1st. Shipping is available from the USA or Europe. However, due to the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to sport your new threads during the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="submit-your-talk-by-june-30th"&gt;
+&lt;h2&gt;Submit your talk by June 30th&lt;/h2&gt;
+&lt;p&gt;There are still a few days left to submit your proposal! Check out the &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/cfp/"&gt;Call for Proposals page&lt;/a&gt; for more details about what we are looking for.&lt;/p&gt;
+&lt;p&gt;And if you already have an idea but you&amp;#8217;d like to brainstorm it with someone from the community, you can always ask for feedback on the &lt;a class="reference external" href="https://www.writethedocs.org/slack/"&gt;Write the Docs Slack&lt;/a&gt;. The community is there to help!&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;ll then be reviewing all the talk proposals, and will be contacting everyone who submitted a proposal by &lt;strong&gt;July 16, 2021&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="support-our-community-by-sponsoring"&gt;
+&lt;h2&gt;Support our community by sponsoring&lt;/h2&gt;
+&lt;p&gt;Every year we are fortunate to have the support of like-minded organizations and communities, who believe in the collaborative and welcoming community spirit and help us make our events great.&lt;/p&gt;
+&lt;p&gt;We have published our &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/sponsors/prospectus/"&gt;virtual sponsorship prospectus&lt;/a&gt; for the conference,
+and are open for new sponsorship inquiries.&lt;/p&gt;
+&lt;p&gt;We will still run the &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/job-fair/"&gt;job fair&lt;/a&gt;, helping documentarians and organizations connect with each other. Check out the sponsorship prospectus for more details and to reserve your spot today.&lt;/p&gt;
+&lt;p&gt;Thanks so much to the following companies for supporting the Prague conference this year:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.redhat.com/en"&gt;Red Hat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.people-text.de/en/home-en.html"&gt;people text&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.knowledgeowl.com"&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.jetbrains.com/"&gt;JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://opencollective.com/open-web-docs"&gt;Open Web Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://aiven.io/"&gt;Aiven&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://developer.mozilla.org/en-US/"&gt;MDN Web Docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;Looking forward to seeing you all in our virtual space!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/prague-2021/atom.xml">
+    <title type="text">Announcing Ticket Sales, Grant Program, and Call for Proposals Reminder</title>
+    <id>https://www.writethedocs.org/conf/prague/2021/news/tickets-cfp-reminder/</id>
+    <updated>2021-05-31T00:00:00Z</updated>
+    <published>2021-05-31T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2021/news/tickets-cfp-reminder/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="announcing-ticket-sales-grant-program-and-call-for-proposals-reminder"&gt;
+
+&lt;p&gt;Greetings, documentarians! Today we&amp;#8217;re happy to announce that tickets are &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/tickets/"&gt;on sale now&lt;/a&gt;, and to remind you that our &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/cfp/"&gt;Call for Proposals&lt;/a&gt; is still open.&lt;/p&gt;
+&lt;p&gt;Following the success of the 2020 virtual conference, we look forward to more opportunities to bring the community together virtually and to share the wonderful energy with each other wherever you are in the world.&lt;/p&gt;
+&lt;p&gt;If there is something you&amp;#8217;d really like to see a talk about this year, submit a proposal for it or refer someone else who would be good!&lt;/p&gt;
+&lt;div class="section" id="get-your-ticket-for-the-conference"&gt;
+&lt;h2&gt;Get your ticket for the conference&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The Prague conference will be held online on Oct 3-5, 2021.&lt;/strong&gt; The &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/"&gt;full event website&lt;/a&gt; is live, with some preliminary details, and we&amp;#8217;ll be filling in more as it gets closer.&lt;/p&gt;
+&lt;p&gt;Tickets are on sale now, so go ahead and &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/tickets/"&gt;register for your ticket now&lt;/a&gt;! Even though our capacity is more flexible due to the virtual event platform, we might still sell out to make sure we&amp;#8217;re providing a manageable event size for our attendees, as always.&lt;/p&gt;
+&lt;p&gt;Similar to last year&amp;#8217;s virtual conference, we&amp;#8217;re going to keep as much as possible of the spirit of the event alive:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Excellent single track of pre-recorded presentations with live moderated Q&amp;amp;A after each talk&lt;/li&gt;
+&lt;li&gt;Writing Day sessions&lt;/li&gt;
+&lt;li&gt;Unconference sessions&lt;/li&gt;
+&lt;li&gt;A virtual hallway track&lt;/li&gt;
+&lt;li&gt;A social event of some kind, bring your own beverage and snacks :)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We really want to make sure that folks can get value from being at the event at the same time, and we think it will be another great year of helping our community connect.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="grant-program"&gt;
+&lt;h2&gt;Grant program&lt;/h2&gt;
+&lt;p&gt;We updated our grant program application to take into account the virtual format of the event.
+We&amp;#8217;re excited to be able to offer free tickets to a larger number of people, since there are now minimal other costs to attend the event.&lt;/p&gt;
+&lt;p&gt;You can apply by &lt;strong&gt;August 15, 2021&lt;/strong&gt; on &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/opportunity-grants/"&gt;our website&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="submit-your-talk-by-june-30th"&gt;
+&lt;h2&gt;Submit your talk by June 30th&lt;/h2&gt;
+&lt;p&gt;There are still a few weeks left to submit your proposal! Check out the &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/cfp/"&gt;Call for Proposals page&lt;/a&gt; for more details about what we are looking for.&lt;/p&gt;
+&lt;p&gt;And if you already have an idea but you&amp;#8217;re having a hard time getting your proposal to come together, you can always ask for feedback on the &lt;a class="reference external" href="https://www.writethedocs.org/slack/"&gt;Write the Docs Slack&lt;/a&gt;. The community is there to help!&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;ll then be reviewing all the talk proposals, and will be contacting everyone who submitted a proposal by &lt;strong&gt;July 16, 2021&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="support-our-community-by-sponsoring"&gt;
+&lt;h2&gt;Support our community by sponsoring&lt;/h2&gt;
+&lt;p&gt;Every year we are fortunate to have the support of like-minded organizations and communities, who believe in the collaborative and welcoming community spirit and help us make our events great.&lt;/p&gt;
+&lt;p&gt;We have published our &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/sponsors/prospectus/"&gt;virtual sponsorship prospectus&lt;/a&gt; for the conference,
+and are open for new sponsorship inquiries.&lt;/p&gt;
+&lt;p&gt;We will still run the &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/job-fair/"&gt;job fair&lt;/a&gt;, helping documentarians and organizations connect with each other. Check out the sponsorship prospectus for more details and to reserve your spot today.&lt;/p&gt;
+&lt;p&gt;Thanks so much to the following companies for supporting the Prague conference this year:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.redhat.com/en"&gt;Red Hat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.people-text.de/en/home-en.html"&gt;people text&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.knowledgeowl.com"&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.jetbrains.com/"&gt;JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://opencollective.com/open-web-docs"&gt;Open Web Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://aiven.io/"&gt;Aiven&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://developer.mozilla.org/en-US/"&gt;MDN Web Docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;Looking forward to seeing you all in our virtual space!&lt;/p&gt;
+&lt;p&gt;The Write the Docs Team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/prague-2021/atom.xml">
+    <title type="text">Announcing Prague Call for Proposals and Full Website</title>
+    <id>https://www.writethedocs.org/conf/prague/2021/news/cfp-open/</id>
+    <updated>2021-04-19T00:00:00Z</updated>
+    <published>2021-04-19T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2021/news/cfp-open/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="announcing-prague-call-for-proposals-and-full-website"&gt;
+
+&lt;p&gt;Today we are announcing our &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/cfp/"&gt;Call for Proposals&lt;/a&gt; and &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/"&gt;full website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Due to the continuing global pandemic, we are keeping the Prague conference online. The conference will be held on &lt;strong&gt;October 3-5, 2021&lt;/strong&gt;.
+This means that we&amp;#8217;re only leaving our Call for Proposals open for two months. We know that it hasn&amp;#8217;t been an easy year. Nevertheless, we&amp;#8217;d love to see you on our online stage in October, to share your ideas with our inspiring community of documentarians.&lt;/p&gt;
+&lt;p&gt;If there is something you&amp;#8217;d really like to see a talk about this year, submit a proposal for it or refer someone else who would be good!&lt;/p&gt;
+&lt;div class="section" id="id1"&gt;
+&lt;h2&gt;Call for Proposals&lt;/h2&gt;
+
+&lt;p&gt;Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
+We&amp;#8217;re looking for ideas and use-cases from all disciplines and roles, so whether you&amp;#8217;re a technical writer, editor, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;re hoping that folks who would not be able to travel to Prague will be able to join us this time round, both as attendees and as speakers! If you&amp;#8217;ve always wanted to talk about documentation but not been able to travel for whatever reason, now is the time.&lt;/p&gt;
+&lt;p&gt;You can read our full &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/cfp/"&gt;Call for Proposals&lt;/a&gt; on the website.
+The Call for Proposals will be open until &lt;strong&gt;Midnight CEST on June 30, 2021&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="tickets"&gt;
+&lt;h2&gt;Tickets&lt;/h2&gt;
+
+&lt;p&gt;Tickets will go on sale during &lt;strong&gt;May 2021&lt;/strong&gt;. In the meantime, you can already take a look at the prices for the online conference on our &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/tickets/"&gt;Tickets&lt;/a&gt; page.&lt;/p&gt;
+&lt;p&gt;If you previously purchased a ticket to our Portland conference and chose to convert your ticket to a virtual conference pass, you&amp;#8217;ll receive an email from us in the next weeks to confirm your registration to the Prague virtual conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="opportunity-grants"&gt;
+&lt;h2&gt;Opportunity Grants&lt;/h2&gt;
+&lt;p&gt;Our grant program offers tickets to people who would otherwise not be able to attend.
+We&amp;#8217;re excited to be able to offer free tickets to a larger number of people this year, since there are now minimal other costs to attend the event.&lt;/p&gt;
+&lt;p&gt;We will open the grant application at the same time that we open ticket sales, so stay tuned for an update!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="stay-updated"&gt;
+&lt;h2&gt;Stay updated&lt;/h2&gt;
+&lt;p&gt;Want to find out what&amp;#8217;s happening with the conference, or enjoy our monthly global community newsletter?
+Sign up to one or more of our &lt;a class="reference external" href="http://eepurl.com/cdWqc5"&gt;mailing lists&lt;/a&gt;. Your information will never be shared with any third-parties, and you can unsubscribe at any time.&lt;/p&gt;
+&lt;p&gt;Want to connect with other documentarians in real-time? Join our &lt;a class="reference external" href="https://writethedocs.org/slack/"&gt;Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We hope you will join us for a new online Write the Docs conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/prague-2021/atom.xml">
+    <title type="text">Announcing Write the Docs Prague 2021</title>
+    <id>https://www.writethedocs.org/conf/prague/2021/news/welcome/</id>
+    <updated>2021-03-15T00:00:00Z</updated>
+    <published>2021-03-15T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2021/news/welcome/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="announcing-write-the-docs-prague-2021"&gt;
+
+&lt;p&gt;Welcome to the official launch of &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/"&gt;Write the Docs Prague 2021&lt;/a&gt;,
+our fifth virtual conference.
+We have been tuning our approach to these events since our first virtual event in August 2020,
+and are happy to invite you back to our online space.&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;re excited to announce the dates for our next conference:
+&lt;strong&gt;Write the Docs Prague 2021 will be on October 3-5, 2021&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is another virtual conference, which means you can attend,
+speak or have a sponsor presence from anywhere in the world.
+The conference will take place during the day time in &lt;a class="reference external" href="https://time.is/CET"&gt;CET&lt;/a&gt; time zone.&lt;/p&gt;
+&lt;div class="section" id="call-for-proposals"&gt;
+&lt;h2&gt;Call for Proposals&lt;/h2&gt;
+&lt;p&gt;Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
+We&amp;#8217;re looking for ideas and use-cases from all disciplines and roles, so whether you&amp;#8217;re a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!&lt;/p&gt;
+&lt;p&gt;We plan to launch our CFP in early May and have it last until sometime in June.
+Get started coming up with ideas for the conference now.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="tickets"&gt;
+&lt;h2&gt;Tickets&lt;/h2&gt;
+&lt;p&gt;Tickets will officially go on sale in &lt;strong&gt;April 2021&lt;/strong&gt;.
+We will announce ticket prices soon,
+so that you can start planning your budget.
+As with the previous years, we have tiered pricing to make it fair for everyone.&lt;/p&gt;
+&lt;p&gt;As always, we keep ticket prices low so that it is accessible to the widest range of people possible.
+However, if you can&amp;#8217;t afford these prices and still wish to attend,
+we will bringing our Opportunity Grants program back again this year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="sponsorship"&gt;
+&lt;h2&gt;Sponsorship&lt;/h2&gt;
+&lt;p&gt;We are planning to do similar sponsorship levels again this year as last year.
+In addition to the regular sponsorship levels, we have additional ways to sponsor our online events.
+See our &lt;a class="reference external" href="https://www.writethedocs.org/conf/prague/2021/sponsors/prospectus/"&gt;sponsorship prospectus&lt;/a&gt; for all the options.&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;re always open to customizations on our sponsorships, especially given the new online format.
+You can always reach us with ideas or questions at &lt;a class="reference external" href="mailto:sponsorship%40writethedocs.org"&gt;sponsorship&lt;span&gt;@&lt;/span&gt;writethedocs&lt;span&gt;.&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="stay-updated"&gt;
+&lt;h2&gt;Stay Updated&lt;/h2&gt;
+&lt;p&gt;Want to find out what&amp;#8217;s happening with the conference, or enjoy our monthly global community newsletter?
+Sign up to one or more of our &lt;a class="reference external" href="http://eepurl.com/cdWqc5"&gt;mailing lists&lt;/a&gt;. Your information will never be shared with any third-parties, and you can unsubscribe at any time.&lt;/p&gt;
+&lt;p&gt;Want to connect with other documentarians in real-time? Join our &lt;a class="reference external" href="https://writethedocs.org/slack/"&gt;Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="conclusion"&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;We hope you will join us for yet another Write the Docs Prague conference.
+Whether as a speaker, attendee, or sponsor, you can bet it will be another delightful year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

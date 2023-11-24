@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posted in 2022</title>
+  <id>https://www.writethedocs.org/blog/archive/2022/atom.xml</id>
+  <updated>2022-12-15T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/2022/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2022/atom.xml">
+    <title type="text">Conference highlights and thanks to the community!</title>
+    <id>https://www.writethedocs.org/conf/australia/2022/news/thank-you-recap/</id>
+    <updated>2022-12-15T00:00:00Z</updated>
+    <published>2022-12-15T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2022/news/thank-you-recap/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;conference-highlights-and-thanks-to-the-community&quot;&gt;
+
+&lt;p&gt;G’day everyone,&lt;/p&gt;
+&lt;p&gt;The Write the Docs Australia team is now emerging from the post-conference recovery period, and we wanted to send out a quick message to thank everyone for helping to make our 2022 Australia online conference such a success.
+We appreciate everyone who makes the conference possible: speakers, sponsors, organizers, volunteers, and attendees alike!
+We’re happy to share some of the highlights with you.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-recap&quot;&gt;
+&lt;h2&gt;Conference recap&lt;/h2&gt;
+&lt;p&gt;We had almost one hundred attendees and were happy to see folks come back after the Write the Docs Australia team took a year out in 2021. We had the usual mix of main stage and lightning talks, and a social event.
+We thought everything went pretty smoothly this year; we’re getting pretty good at virtual events!&lt;/p&gt;
+&lt;p&gt;Overall, we were excited with how our awesome community came together in our virtual venue.
+Lots of knowledge was shared, and we had a great time.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;videos&quot;&gt;
+&lt;h2&gt;Videos&lt;/h2&gt;
+&lt;p&gt;Videos of the talks and lightning talks are now available on &lt;a class=&quot;reference external&quot; href=&quot;https://youtube.com/playlist?list=PLy70RNJ7dYrJB-2yuGw-bTppEDmQr5T56&quot;&gt;our YouTube playlist&lt;/a&gt;. We also included the Q&amp;amp;A recordings for the main talks.&lt;/p&gt;
+&lt;p&gt;Thanks again to &lt;a class=&quot;reference external&quot; href=&quot;https://www.bartatwork.com/atwork/&quot;&gt;Bart at Work&lt;/a&gt; for doing such a great job with these. You can also subscribe to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/writethedocs&quot;&gt;YouTube channel&lt;/a&gt; so you don’t miss any future content!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;sketchnotes&quot;&gt;
+&lt;h2&gt;Sketchnotes&lt;/h2&gt;
+&lt;p&gt;We’re excited to share the &lt;a class=&quot;reference external&quot; href=&quot;https://www.flickr.com/photos/writethedocs/albums/72177720304378693&quot;&gt;full resolution sketchnotes&lt;/a&gt; from the conference on Flickr. You are welcome to use them for non-commercial purposes, like including in your write up from the conference :)&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/mslanei&quot;&gt;Linette Voller&lt;/a&gt; for doing them again this year!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-still-on-sale&quot;&gt;
+&lt;h2&gt;Shirts still on sale&lt;/h2&gt;
+&lt;p&gt;If you want a souvenir from this year’s conference, our &lt;a class=&quot;reference external&quot; href=&quot;https://shirt.writethedocs.org/&quot;&gt;Write the Docs Australia 2022 Pop-Up Shop&lt;/a&gt; is still open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.&lt;/p&gt;
+&lt;p&gt;The campaign will run in 3-day batches until December 31st 2022. Shipping is available from the USA or Europe.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;code-of-conduct-transparency-report&quot;&gt;
+&lt;h2&gt;Code of Conduct transparency report&lt;/h2&gt;
+&lt;p&gt;As with any Write the Docs event, this conference was covered by our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct/&quot;&gt;community Code of Conduct&lt;/a&gt;.
+We aim to be as transparent with CoC incidents and enforcement as we can.&lt;/p&gt;
+&lt;p&gt;To ensure that our CoC was visible and accessible, we took a number of specific steps:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Every participant agreed to the Code of Conduct in advance during registration.&lt;/li&gt;
+&lt;li&gt;The CoC, or a summary, was included on the conference website and Hopin Reception&lt;/li&gt;
+&lt;li&gt;The CoC was repeatedly mentioned in our conference introduction and announcements.&lt;/li&gt;
+&lt;li&gt;We specifically stressed that the CoC applies to all conference spaces including the social event.&lt;/li&gt;
+&lt;li&gt;We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;None of our organizers were approached about any CoC concerns at this event.
+We know that this is, in part, a reflection of the thoughtful and inclusive community that we’re so lucky to have.&lt;/p&gt;
+&lt;p&gt;That being said, we’re also very conscious of the fact that just because nothing was reported doesn’t mean nothing happened.
+If there was any personal conduct or other aspect of the conference experience that did not meet the expectations of behaviour set out in the CoC, please email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:conduct&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;conduct&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;ready-for-more&quot;&gt;
+&lt;h2&gt;Ready for more?&lt;/h2&gt;
+&lt;p&gt;We are already talking 2023 folks! Our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/&quot;&gt;Portland conference&lt;/a&gt; has announced its dates for 7-9 May and CFPs are now open.
+You can &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/cfp/&quot;&gt;submit a talk for the Portland conference&lt;/a&gt; until &lt;strong&gt;midnight Pacific time 13 February 2023&lt;/strong&gt;.
+This conference will take place in-person in Portland.&lt;/p&gt;
+&lt;p&gt;If you cannot make the Portland conference, we have also announced dates for the online &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/atlantic/2023/&quot;&gt;Atlantic conference&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Around early-mid 2023, we will announce dates and more details for the Australian conference.&lt;/p&gt;
+&lt;p&gt;We’re also looking for more sponsors to make our other events just as magical as this year’s Australia event.
+You can see all our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/sponsorship/&quot;&gt;sponsorship options&lt;/a&gt; on our website.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-again&quot;&gt;
+&lt;h2&gt;Thanks again&lt;/h2&gt;
+&lt;p&gt;We’re so grateful to our sponsors, speakers, volunteers, and attendees for making this conference possible.
+Whether you were able to come out this time or not, we hope to see you again next year&amp;nbsp;– or even sooner at one of our other events!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2022/atom.xml">
+    <title type="text">Write the Docs Newsletter – December 2022</title>
+    <id>https://www.writethedocs.org/blog/newsletter-december-2022/</id>
+    <updated>2022-12-07T00:00:00Z</updated>
+    <published>2022-12-07T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-december-2022/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-newsletter-december-2022&quot;&gt;
+
+&lt;p&gt;Hello, lovely documentarians. The end of the year is approaching, which is a wonderful time to reflect on all the things we’ve done in 2022. And to reflect on what to look forward to for next year. I hope your personal list of accomplishments is long and your list of remaining things to do isn’t quite as daunting as mine.&lt;/p&gt;
+&lt;p&gt;This year, Write the Docs has already organized two conferences and is in the process of a third, the &lt;a class=&quot;reference external&quot; href=&quot;/conf/australia/2022/&quot;&gt;Write the Docs Australia conference&lt;/a&gt;. The new ideas may already be flowing there by the time you read this. And there’s still time to contribute to the &lt;a class=&quot;reference external&quot; href=&quot;https://salary-survey.writethedocs.org/&quot;&gt;2022 salary survey&lt;/a&gt;. The results from the survey are always helpful in understanding our industry and each of our places in it.&lt;/p&gt;
+&lt;p&gt;Looking forward at next year, a &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/news/announcing-cfp/&quot;&gt;venue has been chosen and more details settled for the Portland conference&lt;/a&gt;. The conference will once again be in person. If you have ideas you’d like to share, the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/cfp/&quot;&gt;Call for Proposals&lt;/a&gt; is open until the beginning of February. The call is open to documentarians of all stripes, so don’t be afraid to send in your proposal. If you can’t make it to Portland, keep an eye out in the new year for the Call for Proposals for the Atlantic conference, which will be entirely virtual.&lt;/p&gt;
+&lt;p&gt;We’ll be taking a break from the newsletter in January, but we’ll be back with more insights from the community in February. If you might want to help with this knowledge sharing, we’re looking for someone to join the newsletter team. Ping me at &lt;cite&gt;&amp;#64;Aaron Collier&lt;/cite&gt; on Slack if you’re interested.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;push-vs-pull-for-docs-work&quot;&gt;
+&lt;h2&gt;Push vs. pull for docs work&lt;/h2&gt;
+&lt;p&gt;This month, the Write the Docs community discussed the benefits and drawbacks of two ways to approach docs work: push and pull. In the push approach, a product or development representative reaches out to the documentarian with information about releases and product changes that require docs work. In the pull approach, the documentarian is responsible for monitoring releases and product changes to proactively identify documentation needs.&lt;/p&gt;
+&lt;p&gt;Users of the pull method said that it’s difficult to keep up with everything you have to monitor, from email and Slack discussions to design documents and code updates. At the same time, you don’t have to wait for others to tell you what needs documenting or rely on their judgment about what information is relevant. Attending team meetings, watching project tracking tools, and reviewing product roadmaps are especially helpful when you follow the pull method.&lt;/p&gt;
+&lt;p&gt;On the other side of the coin, the push method narrows the range of resources you need to monitor but requires trust and good relationships with those who know the most about the product. Processes for the push method can include regular meetings about documenting planned features with product managers or owners, patterns for getting notified about known docs needs and anticipated updates, and even including documentation in the definition of done for product releases.&lt;/p&gt;
+&lt;p&gt;Most folks use a combination of push and pull. For example, if you’re responsible for multiple products, you might use pull for some and push for others. If you’re part of the product team, you might have good information about upcoming features but still need to reach out to product managers for details like release timing. In many cases, the docs process may start with a push when someone tells you docs are needed but still require plenty of pull as you work through drafts and reviews.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;getting-it-right-constructive-criticism&quot;&gt;
+&lt;h2&gt;Getting it right: Constructive criticism&lt;/h2&gt;
+&lt;p&gt;When working with other documentarians, it’s useful to be able to criticise constructively. But it can also be stressful! It’s not so nice to present someone else with a flood of comments, marking up every sentence they’ve written.&lt;/p&gt;
+&lt;p&gt;Trying to give better feedback is hard work, but it’s also worth the effort. If you have colleagues whose writing could be better, they’re not likely to improve without thoughtful criticism. That’s where some useful tips, shared by our community this month, come in.&lt;/p&gt;
+&lt;p&gt;First up, if you’re faced with a bad piece of writing: Know that giving constructive criticism to help someone else improve it _will_ take longer than just rewriting it yourself. You have to accept that this is an investment of time today, which will only pay off in the long run.&lt;/p&gt;
+&lt;p&gt;In the same vein, the idea is to help another writer grow. So consider what exact area they need to work on and then focus on that. It may feel less scary to focus on corrections to spelling and grammar, but those comments won’t help your colleague improve if their real issue is wordiness or a lack of clarity.&lt;/p&gt;
+&lt;p&gt;To help your feedback land well, frame it carefully. Criticise the writing, not the person. For example, try “this sentence isn’t very concise” rather than “you are being very wordy here”. A few comments about the biggest issues in a doc may be more useful (and less painful) than many comments on every minor detail.&lt;/p&gt;
+&lt;p&gt;While online reviews might seem more efficient, meeting in-person can make it easier to communicate your tone and intent. It may help to think of the two of you writing in collaboration. Rather than you critiquing their work, you are both working together to make the document as good as it can be.&lt;/p&gt;
+&lt;p&gt;Another technique is to present the contributor with the problem, not the solution. Rather than suggesting a better sentence, you can ask if they can think of any ways to make the sentence shorter or explain the reasons you find it unclear. This helps them practice self-editing and gives them more ownership over the final piece.&lt;/p&gt;
+&lt;p&gt;Finally, the work isn’t all on your side: the reviewee needs to be open to feedback too. Consider: Do you officially manage/coach/mentor this person or are you a peer? Are they happy to spend a lot of time iterating or do they just want to get this piece published ASAP? You may have a lot to teach, but make sure that your reviewee is ready to learn.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;when-to-create-screenshots&quot;&gt;
+&lt;h2&gt;When to create screenshots&lt;/h2&gt;
+&lt;p&gt;Best practices for creating and managing screenshots aren’t always the clearest. With the overhead of maintaining screenshots and the potential accessibility concerns they present, many people avoid creating them despite the benefit they can provide. Still, even with the shared aversion, sometimes screenshots are helpful or even necessary.&lt;/p&gt;
+&lt;p&gt;When determining what to capture in a screenshot, be selective to keep maintenance low. For example, avoid capturing the entire screen when only a small region is enough to help orient users. You might also focus more on screenshots to visualize a conceptual flow. Even consider the screenshot’s value. Is the text already clear or will the screenshot make a procedure more understandable?&lt;/p&gt;
+&lt;p&gt;If visuals are necessary, tools such as &lt;a class=&quot;reference external&quot; href=&quot;https://www.techsmith.com/screen-capture.html&quot;&gt;Snagit&lt;/a&gt; can help you capture screenshots and record videos quickly and powerfully. Or use a service like &lt;a class=&quot;reference external&quot; href=&quot;https://screenshow.io/&quot;&gt;Screenshow&lt;/a&gt; to help you manage visual content.&lt;/p&gt;
+&lt;p&gt;Rationalizing the worth of screenshots may seem futile to some who believe that the cost of producing and managing them outweighs their value. As documentarians, it helps to think about users and whether their needs include visual aids. If you’re documenting sophisticated technologies, for example, with even more complex procedures, they may require visuals. But conversely, a less complex technology might not find much value in screenshots as the text might be sufficient.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;what-were-listening-to-and-reading&quot;&gt;
+&lt;h2&gt;What we’re listening to and reading&lt;/h2&gt;
+&lt;p&gt;The #bipoc group’s been discussing the following materials on diversity, inclusion, and equity. Want to join the conversation? Please join us in the &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.slack.com/archives/C016STMEWJD&quot;&gt;#bipoc Slack channel&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;A short listen: On the Defining Diversity podcast, Braswell and Bulchandani discuss the &lt;a class=&quot;reference external&quot; href=&quot;https://sites.libsyn.com/410780/culture-fit-vs-culture-add&quot;&gt;difference between culture fit and culture add&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A medium read: While tech struggles with DEI, the &lt;a class=&quot;reference external&quot; href=&quot;https://www.wsj.com/articles/logistics-companies-are-diversifying-hiring-but-challenges-persist-11669262935&quot;&gt;logistics industry is making (slow) progress&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A large read: Zippia shares and analyzes some new &lt;a class=&quot;reference external&quot; href=&quot;https://www.zippia.com/advice/diversity-in-high-tech-statistics/&quot;&gt;diversity in technology statistics&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;from-our-sponsor&quot;&gt;
+&lt;h2&gt;From our sponsor&lt;/h2&gt;
+&lt;p&gt;This month’s newsletter is sponsored by Zoomin:&lt;/p&gt;
+&lt;hr&gt;
+&lt;table width=&quot;100%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; style=&quot;width:100%; max-width: 600px;&quot;&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td width=&quot;75%&quot;&gt;
+          &lt;p&gt;
+          Drag your docs portal out of the stone age! Deliver a unified technical content experience that ensures customers always find what they need. &lt;a href=&quot;https://www.zoominsoftware.com/docs-portal-2-min-demo?vert=Write_The_Docs%20&amp;utm_medium=referral&amp;utm_source=WriteTheDocs&amp;utm_campaign=December_Newsletter&amp;utm_content=&quot;&gt;Watch video&lt;/a&gt;
+          &lt;/p&gt;
+
+          &lt;p&gt;
+            Before you make a &quot;build vs. buy&quot; decision on your technical content delivery, make sure you understand the long-term implications. &lt;a href=&quot;https://www.zoominsoftware.com/ebooks-success-stories/build-vs-buy-how-will-you-deliver-your-product-content?vert=Write_The_Docs&amp;utm_medium=referral&amp;utm_source=WriteTheDocs&amp;utm_campaign=December_Newsletter&amp;utm_content&quot;&gt;Learn more&lt;/a&gt;
+          &lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td width=&quot;25%&quot;&gt;
+        &lt;a href=&quot;https://www.zoominsoftware.com/?vert=Write_The_Docs_Newsletter&amp;utm_medium=referral&amp;utm_source=WriteTheDocs&amp;utm_campaign=December_Newsletter&quot;&gt;
+          &lt;img style=&quot;margin-left: 15px;&quot; alt=&quot;Zoomin&quot; src=&quot;/_static/img/sponsors/zoomin.png&quot;&gt;
+        &lt;/a&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;&lt;p&gt;&lt;em&gt;Interested in sponsoring the newsletter? Take a look at our&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;/sponsorship/newsletter/&quot;&gt;sponsorship prospectus&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;featured-job-posts&quot;&gt;
+&lt;h2&gt;Featured job posts&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/1079/technical-writer-developer-documentation/&quot;&gt;Technical Writer - Developer documentation&lt;/a&gt;, Carted (Hybrid, Sydney NSW, Australia)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;To apply for these jobs and more, visit the&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/&quot;&gt;Write the Docs job board&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;virtual-events-coming-up&quot;&gt;
+&lt;h2&gt;Virtual events coming up&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;08 December, 18:00 CST (Karlsruhe, DE) - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/write-the-docs-karlsruhe/events/288624322/&quot;&gt;Kann Software-Doku von KI-Unterstützung profitieren?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;20 December, 08:30 EST (New England and Florida, USA) - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/ne-write-the-docs/events/cfpnxsydcqbbc/&quot;&gt;Morning Social: Chat about Slack best practices and tips&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;17 January, 08:30 EST (New England and Florida, USA) - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/ne-write-the-docs/events/cfpnxsyfccbwb/&quot;&gt;Morning Social: Focused conversation for documentarians&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;19 January, 18:00 EST (Toronto, CA) - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/write-the-docs-toronto/events/mnpqgsyfccbxb/&quot;&gt;Write the Docs Toronto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;31 January, 08:30 EST (New England and Florida, USA) - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/ne-write-the-docs/events/cfpnxsyfccbpc/&quot;&gt;Morning Social: Focused conversation for documentarians&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2022/atom.xml">
+    <title type="text">Announcing Venue and Call for Proposals</title>
+    <id>https://www.writethedocs.org/conf/portland/2023/news/announcing-cfp/</id>
+    <updated>2022-12-02T00:00:00Z</updated>
+    <published>2022-12-02T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2023/news/announcing-cfp/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-venue-and-call-for-proposals&quot;&gt;
+
+&lt;p&gt;Today we are announcing our new Portland conference venue.
+The needs of our conference have changed over the years, and we have decided to move to a lovely new space in Portland.
+We’re also excited to announce our Portland &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/cfp/&quot;&gt;Call for Proposals&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians.
+If there is something you’d really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;our-new-venue-revolution-hall&quot;&gt;
+&lt;h2&gt;Our new venue: Revolution Hall&lt;/h2&gt;
+&lt;p&gt;Our Portland conference will be held at &lt;a class=&quot;reference external&quot; href=&quot;https://www.revolutionhall.com/about/&quot;&gt;Revolution Hall&lt;/a&gt;.
+It is a beautiful concert venue located on the &lt;a class=&quot;reference external&quot; href=&quot;https://goo.gl/maps/7ncFK7Bt6jnouVJt7&quot;&gt;thriving inner east side&lt;/a&gt; of Portland.
+It was converted from a high school,
+and still has some lockers in the hallway for that extra learning ambiance.&lt;/p&gt;
+&lt;img alt=&quot;../../../_images/rev-hall-outside.jpg&quot; src=&quot;../../../_images/rev-hall-outside.jpg&quot; /&gt;
+&lt;p&gt;The venue has a large and beautiful primary theater,
+as well as many other social spaces:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;The Library &amp;amp; Astoria Room where we will be hosting our Unconference discussions&lt;/li&gt;
+&lt;li&gt;The Sunset Room which will be our Quiet room&lt;/li&gt;
+&lt;li&gt;The Library room where our snacks and drinks catering will happen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It also has &lt;em&gt;outdoor seating&lt;/em&gt; and a &lt;em&gt;city park&lt;/em&gt; directly on the property for plenty of fresh air and free space.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;health-and-safety-policy&quot;&gt;
+&lt;h2&gt;Health and safety policy&lt;/h2&gt;
+&lt;p&gt;As part of returning to an in-person conference, we’re also introducing a new and more detailed &lt;a class=&quot;reference internal&quot; href=&quot;../../../conf/portland/2023/health/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;health and safety policy&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;id1&quot;&gt;
+&lt;h2&gt;Call for Proposals&lt;/h2&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/portland/2023/news/announcing-cfp.rst&lt;/tt&gt;, line 44); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “call for proposals”.&lt;/div&gt;
+&lt;p&gt;Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
+We’re looking for ideas and use-cases from all disciplines and roles, so whether you’re a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For 2023 we are going back to an in-person event&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;You can read our full &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/cfp/&quot;&gt;Call for Proposals&lt;/a&gt; on the website.&lt;/p&gt;
+&lt;p&gt;The Call for Proposals will be open until &lt;strong&gt;11:59 PM February 06, 2023 PST&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;(If you’d prefer not to attend an in-person event due to COVID-19 or any other reason, keep an eye out for &lt;a class=&quot;reference internal&quot; href=&quot;#atlantic-news&quot;&gt;Atlantic_news&lt;/a&gt; held online in a timezone as widely accessible as possible).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;write-the-docs-atlantic-online-september-2023&quot;&gt;
+&lt;span id=&quot;atlantic-news&quot;&gt;&lt;/span&gt;&lt;h2&gt;Write the Docs Atlantic, online September 2023&lt;/h2&gt;
+&lt;p&gt;If you want to speak at Write the Docs, but can’t or don’t want to attend an in-person event, keep an eye out for Write the Docs Atlantic, coming in September 2023.
+This conference will be entirely virtual, in a timezone that works for as many people as possible, so you can present or attend from anywhere.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets&quot;&gt;
+&lt;h2&gt;Tickets&lt;/h2&gt;
+&lt;p&gt;Tickets will officially go on sale early &lt;strong&gt;2023&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;As always, we keep ticket prices low so that the event is accessible to the widest range of people possible.
+However, if you can’t afford the tickets and still wish to attend, we will launch our grants program soon after opening ticket sales.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;stay-updated&quot;&gt;
+&lt;h2&gt;Stay Updated&lt;/h2&gt;
+&lt;p&gt;Want to find out what’s happening with the conference, or enjoy our monthly global community newsletter?
+Sign up to one or more of our &lt;a class=&quot;reference external&quot; href=&quot;http://eepurl.com/cdWqc5&quot;&gt;mailing lists&lt;/a&gt;. Your information will never be shared with any third-parties, and you can unsubscribe at any time.&lt;/p&gt;
+&lt;p&gt;Want to connect with other documentarians in real-time? Join our &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.org/slack/&quot;&gt;Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks&quot;&gt;
+&lt;h2&gt;Thanks&lt;/h2&gt;
+&lt;p&gt;We hope you will join us online for yet another Write the Docs conference.
+Whether as a speaker or attendee, you can bet it will be another delightful year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2022/atom.xml">
+    <title type="text">Get ready for the conference!</title>
+    <id>https://www.writethedocs.org/conf/australia/2022/news/get-ready/</id>
+    <updated>2022-11-28T00:00:00Z</updated>
+    <published>2022-11-28T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2022/news/get-ready/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;get-ready-for-the-conference&quot;&gt;
+
+&lt;p&gt;G’day everyone!&lt;/p&gt;
+&lt;p&gt;We’re just over a week away from the start of the conference, and we’re getting excited to see you soon! We’re looking forward to gather for 2 days of content, collaboration, and conversation.&lt;/p&gt;
+&lt;p&gt;We have a few reminders before we welcome you all next week:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Ticket sales close this week, so grab yours now!&lt;/li&gt;
+&lt;li&gt;We have a great Welcome Wagon, which has a guide, as well as introductory tours of our online platform.&lt;/li&gt;
+&lt;li&gt;There are lots of ways to get involved at the conference on the day-of, which we list out below so you can prep a bit for them.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;section&quot; id=&quot;ticket-sales-close-on-thursday-december-1st&quot;&gt;
+&lt;h2&gt;Ticket sales close on &lt;strong&gt;Thursday, December 1st&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;To help us manage capacity and make sure that our conference environment is cozy and friendly, we are going to close ticket sales on &lt;strong&gt;Thursday December 1st at 23:59 AEDT&lt;/strong&gt;.
+If you haven’t purchased your ticket yet we invite you to &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/tickets/&quot;&gt;get your tickets soon&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For those of you who already purchased your tickets, you will get an email with our online conference platform (Hopin) registration link on December 2nd. We will also send a reminder on December 5th, in case you missed the first email.
+This will give you the opportunity to set up your Hopin account and troubleshoot any access issues that you might have.&lt;/p&gt;
+&lt;p&gt;If you have a ticket and don’t get an email from us by December 5th, please email us and we’ll help you out!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;welcome-wagon-guide-and-platform-tour&quot;&gt;
+&lt;h2&gt;Welcome Wagon guide and platform tour&lt;/h2&gt;
+&lt;p&gt;Each year we create a guide to help our attendees get the most out of the conference.
+Following the success of last year’s conferences and based on your feedback, we expanded &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/welcome-wagon/&quot;&gt;our Welcome Wagon guide&lt;/a&gt; to help you get the most out of our event this year.&lt;/p&gt;
+&lt;p&gt;Check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/schedule/&quot;&gt;Schedule page&lt;/a&gt; for exact time and locations.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;all-our-events-and-activities&quot;&gt;
+&lt;h2&gt;All our events and activities&lt;/h2&gt;
+&lt;p&gt;There are a large number of events at the conference beyond the main track of speakers.
+We hope that you’ll get involved with some of our other events,
+and get to know more folks that are hanging out at the conference!&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Lightning Talks&lt;/strong&gt;: We’ll have &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/lightning-talks/&quot;&gt;lightning talks&lt;/a&gt; each day after lunch. Registration is handled on the day of the conference. These are 5-minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unconference&lt;/strong&gt;: We’ll be running the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/unconference/&quot;&gt;Unconference&lt;/a&gt; after the lunch break both Thursday and on Friday afternoon. These are also planned day-of, and allow attendees to schedule a session to talk about any topic they wish. It’s a great way to find others who share your specific interests. As a session lead you guide the session, but you definitely do not need to have a full plan.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social event&lt;/strong&gt;: On Thursday evening we’ll be moving to a spatial chat platform for our social event. This will be a more familiar social space where you can move around and join groups of people having conversations. We’ve used similar platforms at other events, and found that they really help people get to know each other in a more natural way.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conference Help Desk&lt;/strong&gt;: If you have any questions about navigating the virtual event, we’ll be running the Write the Docs Helpdesk booth in the &lt;strong&gt;Expo&lt;/strong&gt; area, where you can chat with one of the organizers and the Welcome Wagon team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/australia/2022/news/get-ready.rst&lt;/tt&gt;, line 7); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate explicit target name: “schedule page”.&lt;/div&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/schedule/&quot;&gt;Schedule page&lt;/a&gt; has the latest and most complete information about all our events. This is where we will also update any changes or cancellations if they should occur.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-so-much-to-all-our-sponsors&quot;&gt;
+&lt;h2&gt;Thanks so much to all our sponsors&lt;/h2&gt;
+&lt;p&gt;We are so grateful to have our sponsors help in bringing these events to life every year.
+You’ll be able to chat with most of our sponsors at the Job Fair, and a few will have booths for conversations the entire conference.&lt;/p&gt;
+&lt;p&gt;Thanks so much to the following companies for supporting the Portland conference this year:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.atlassian.com/&quot;&gt;Atlassian&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;We’re excited to see all of you soon,
+and can’t wait to share a wonderful few days with you in our online space.&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2022/atom.xml">
+    <title type="text">Write the Docs Newsletter – November 2022</title>
+    <id>https://www.writethedocs.org/blog/newsletter-november-2022/</id>
+    <updated>2022-11-08T00:00:00Z</updated>
+    <published>2022-11-08T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-november-2022/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-newsletter-november-2022&quot;&gt;
+
+&lt;p&gt;Hello once again from the newsletter team. There are many things going on in the community right now.&lt;/p&gt;
+&lt;p&gt;I wrote last month about opportunities to get more involved in the Write the Docs community, and this month sees more information. A &lt;a class=&quot;reference external&quot; href=&quot;https://github.com/writethedocs/weps/pull/6&quot;&gt;new Write the Docs Enhancement Proposal&lt;/a&gt; has been opened to provide more clarity on Write the Docs teams and what they do. The change also includes Mikey Ariel stepping down as Prague conference chair and starting as Community Board chair. While I’m sad there won’t be a conference very near me next year, I’m excited for what she’ll bring in the newly defined role. In related news, we have the dates for &lt;a class=&quot;reference external&quot; href=&quot;/blog/2023-conference-announcements/&quot;&gt;conferences in 2023&lt;/a&gt; that you’ll probably want to save.&lt;/p&gt;
+&lt;p&gt;Of course, 2022 isn’t over yet and there’s still the exciting &lt;a class=&quot;reference external&quot; href=&quot;/conf/australia/2022/&quot;&gt;Write the Docs Australia conference&lt;/a&gt; to come. The &lt;a class=&quot;reference external&quot; href=&quot;/conf/australia/2022/news/announcing-schedule/&quot;&gt;full schedule&lt;/a&gt; has just been announced, so check out all the interesting talks. There will also be workshops led by people from &lt;a class=&quot;reference external&quot; href=&quot;https://thegooddocsproject.dev/&quot;&gt;The Good Docs Project&lt;/a&gt;. Be sure to &lt;a class=&quot;reference external&quot; href=&quot;/conf/australia/2022/tickets/&quot;&gt;get your tickets soon&lt;/a&gt; as ticket sales close at the end of the month.&lt;/p&gt;
+&lt;p&gt;In addition to the conferences, Write the Docs also runs yearly &lt;a class=&quot;reference external&quot; href=&quot;/surveys/&quot;&gt;salary surveys&lt;/a&gt;. These are a great resource for seeing where a salary fits in the overall industry, which should help you in any salary negotiations. Answers are always anonymous. Contribute your information to the &lt;a class=&quot;reference external&quot; href=&quot;https://salary-survey.writethedocs.org/&quot;&gt;2022 salary survey&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Outside of these wonderful community efforts, we had lots of interesting discussions in the Write the Docs Slack this month on goings, comings, and many things in between.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;knowledge-transfer-for-documentarians&quot;&gt;
+&lt;h2&gt;Knowledge transfer for documentarians&lt;/h2&gt;
+&lt;p&gt;Whether you’re moving on to a new job or taking extended leave, it’s a nice touch to try to smooth the transition for your coworkers and help your replacement find their footing. As documentarians, we’re certainly well prepared to document what we do and how! Beyond documenting how to write, publish, and maintain the docs, add these ideas to leave your current team and the person who’s replacing you in the best possible position.&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Organize your work files so that naming conventions and folder structures all make sense.&lt;/li&gt;
+&lt;li&gt;Invite your coworkers to schedule Q&amp;amp;A sessions with you.&lt;/li&gt;
+&lt;li&gt;Leave a list of work in progress, known to-dos, and ongoing issues, with the context and status for each.&lt;/li&gt;
+&lt;li&gt;Write an operator’s manual for your job with “insider” information such as company jargon, required tools and credentials, names of SMEs and other helpful contacts, best methods for collaborating with different teams, and other institutional and tribal knowledge.&lt;/li&gt;
+&lt;li&gt;Clean up any docs debt, such as broken links, orphan topics and images, outdated Git branches, and docs-related tickets and issues.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;joining-as-a-manager&quot;&gt;
+&lt;h2&gt;Joining as a manager&lt;/h2&gt;
+&lt;p&gt;On the other end of transitions, our community recently discussed what a new manager should do within their first few months of joining an existing technical writing team.&lt;/p&gt;
+&lt;p&gt;Many people advised spending time getting to know the team, team members’ strengths and weaknesses, processes, existing docs, and where the team fits in the overall organization. One person suggested extending that to focus on not making any changes at all for a while. Take the time to understand the entire context and all expectations from the team and the rest of the organization before committing to anything new.&lt;/p&gt;
+&lt;p&gt;As you’re evaluating the context, consider where you need to form relationships around the organization to help the team work effectively. Find out what business goals the team helps with and what needs other teams have that the documentation team could help with. Learning this context helps you determine how you can best advocate for your team.&lt;/p&gt;
+&lt;p&gt;As you learn how to advocate for your team, think about how to grow it to meet the needs you discovered. This can mean helping people with professional development or figuring out who can be hired and how to get the budget for that. Creating a long-term plan based on what you determine in the first few months can help you place your team needs in a context that will help get them addressed.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;minimum-viable-documentation&quot;&gt;
+&lt;h2&gt;Minimum viable documentation&lt;/h2&gt;
+&lt;p&gt;Minimum viable documentation is the minimum required information that’s usable and helpful to users. For many reasons, it’s seen positively by some and adversely by others. Those who support it say it’s the best place to start if a product lacks any documentation. Additionally, in places where releases are frequent, such documentation enables you to write the essential information and then return to the document to update it once things have stabilized. But there are competing views on minimum viable documentation, and those who work at places without it believe that the “document everything” approach can lead to many issues, including leaning more towards a mindset of “done is better than perfect.”&lt;/p&gt;
+&lt;p&gt;Proponents of minimum viable documentation consider that a product should be capable of functioning with little explanation from its authors. They say this provides a quicker turnaround time on new features, enables faster bug fixes, and simplifies developers’ lives by removing tiresome writing duties. Opponents claim that this strategy results in varying quality across products and can lead to knowledge gaps within teams. They argue that all software should be documented since it eliminates uncertainty when using new systems (and makes life easier for users).&lt;/p&gt;
+&lt;p&gt;If you’re interested in learning more about minimum viable documentation, read this &lt;a class=&quot;reference external&quot; href=&quot;https://thisisimportant.net/posts/from-nothing-to-something-with-minimum-viable-documentation/&quot;&gt;blog post from Sarah Moir&lt;/a&gt;. It covers defining such documentation, assessing documentation states, and structuring documentation.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;choosing-a-style-guide&quot;&gt;
+&lt;h2&gt;Choosing a style guide&lt;/h2&gt;
+&lt;p&gt;There are plenty of style guides out there. But if you want to pick one to follow, how do you choose what’s right for your team?&lt;/p&gt;
+&lt;p&gt;Our community had a few thoughts on the most well-known options. If you’re writing for the average consumer, the &lt;a class=&quot;reference external&quot; href=&quot;https://learn.microsoft.com/en-us/style-guide/welcome/&quot;&gt;Microsoft Writing Style Guide&lt;/a&gt; is worth considering. For a developer audience, the &lt;a class=&quot;reference external&quot; href=&quot;https://developers.google.com/style&quot;&gt;Google Developer Documentation Style Guide&lt;/a&gt; has a tighter focus and so might be more useful. For open-source projects, the &lt;a class=&quot;reference external&quot; href=&quot;https://www.mongodb.com/docs/meta/style-guide/&quot;&gt;MongoDB Documentation Style Guide&lt;/a&gt; might be a closer fit for your approach or voice.&lt;/p&gt;
+&lt;p&gt;But they might also not be a good fit for you. The style guides mentioned above may be extensive, but none of them aim to be universal. They’re each designed by a company to meet that company’s needs and serve their customers. You could consider writing your own – but writer beware. It’s a huge effort to create a new style guide. One documentarian saw it take two people three years to release a company-wide guide, and the project continued past that. It’s not to be taken lightly, and there is usually more urgent work to attend to.&lt;/p&gt;
+&lt;p&gt;A middle ground is to pick an existing guide, and then adapt! Several documentarians mentioned that they chose an external style guide, and now maintain a short-and-sweet extension to it. It can be as simple as a sheet or doc that lists your own terms and points where you deviate from the external guide. The recommendation was to be incremental and collaborative: start with something that works for you, covering your essentials, and you can always build from there.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;what-were-reading&quot;&gt;
+&lt;h2&gt;What we’re reading&lt;/h2&gt;
+&lt;p&gt;The #bipoc group’s been discussing the following materials on diversity, inclusion, and equity. Want to join the conversation? Please join us in the &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.slack.com/archives/C016STMEWJD&quot;&gt;#bipoc Slack channel&lt;/a&gt;!&lt;/p&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/blog/newsletter-november-2022.rst&lt;/tt&gt;, line 71)&lt;/p&gt;
+Possible title underline, too short for the title.
+Treating it as ordinary text because it’s so short.&lt;/div&gt;
+&lt;p&gt;A short read: With so much focus on DEI lately, The World Economic Forum says &lt;a class=&quot;reference external&quot; href=&quot;https://www.weforum.org/agenda/2022/10/the-diversity-backlash-here-s-how-to-resist-it/&quot;&gt;a diversity backlash is underway&lt;/a&gt;. What does this mean and how can you resist it?
+_
+A medium read: TechBeacon focuses on &lt;a class=&quot;reference external&quot; href=&quot;https://techbeacon.com/enterprise-it/dei-tech-some-progress-far-short-mark&quot;&gt;how tech companies are doing with DEI&lt;/a&gt;. They’ve found that even though there is some progress, we’re still falling short.&lt;/p&gt;
+&lt;p&gt;A large read: In November, the United States celebrates Thanksgiving. The Smithsonian explores &lt;a class=&quot;reference external&quot; href=&quot;https://www.smithsonianmag.com/blogs/national-museum-american-indian/2016/11/27/do-american-indians-celebrate-thanksgiving/&quot;&gt;the problems with this holiday and how indigenous people choose to, or not, celebrate&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;from-our-sponsor&quot;&gt;
+&lt;h2&gt;From our sponsor&lt;/h2&gt;
+&lt;p&gt;This month’s newsletter is sponsored by Zoomin:&lt;/p&gt;
+&lt;hr&gt;
+&lt;table width=&quot;100%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; style=&quot;width:100%; max-width: 600px;&quot;&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td width=&quot;75%&quot;&gt;
+          &lt;p&gt;
+          Brand new research report: Here's what most companies get wrong in their technical content experience. &lt;a href=&quot;https://info.zoominsoftware.com/2022-b2b-self-service-experience-report?vert=Write_The_Docs_Newsletter&amp;utm_medium=referral&amp;utm_source=WriteTheDocs&amp;utm_campaign=November_Newsletter&quot;&gt;Download now&lt;/a&gt;
+          &lt;/p&gt;
+
+          &lt;p&gt;
+          Some content decisions might inadvertently make your docs portal difficult to navigate. Here are some common content mistakes - and how to fix them. &lt;a href=&quot;https://www.zoominsoftware.com/webinars/5-big-content-mistakes-solved?vert=Write_The_Docs_Newsletter&amp;utm_medium=referral&amp;utm_source=WriteTheDocs&amp;utm_campaign=November_Newsletter&quot;&gt;Watch on-demand&lt;/a&gt;
+          &lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td width=&quot;25%&quot;&gt;
+        &lt;a href=&quot;https://www.zoominsoftware.com/?vert=Write_The_Docs_Newsletter&amp;utm_medium=referral&amp;utm_source=WriteTheDocs&amp;utm_campaign=November_Newsletter&quot;&gt;
+          &lt;img style=&quot;margin-left: 15px;&quot; alt=&quot;Zoomin&quot; src=&quot;/_static/img/sponsors/zoomin.png&quot;&gt;
+        &lt;/a&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;&lt;p&gt;&lt;em&gt;Interested in sponsoring the newsletter? Take a look at our&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;/sponsorship/newsletter/&quot;&gt;sponsorship prospectus&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;featured-job-posts&quot;&gt;
+&lt;h2&gt;Featured job posts&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/1049/technical-writing-manager/&quot;&gt;Technical Writing Manager&lt;/a&gt;, Socure (Remote, USA)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/1034/developer-advocate/&quot;&gt;Developer Advocate&lt;/a&gt;, MeiliSearch (Remote)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/1060/technical-writer-remote/&quot;&gt;Technical Writer Remote&lt;/a&gt;, Semaphore (Remote, Europe/LATAM)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/1057/technical-writer/&quot;&gt;Technical Writer&lt;/a&gt;,  Toposware (Remote)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/1056/technical-writer/&quot;&gt;Technical Writer&lt;/a&gt;,  Wowza Media Systems (Remote, USA)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;To apply for these jobs and more, visit the&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/&quot;&gt;Write the Docs job board&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;virtual-events-coming-up&quot;&gt;
+&lt;h2&gt;Virtual events coming up&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;8 November, 19:00 MST (Calgary, Canada) - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/wtd-calgary/events/282708728/&quot;&gt;Write the Docs Calgary Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;8 November, 08:30 EST (New England and Florida, USA) - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/ne-write-the-docs/events/cfpnxsydcpblb/&quot;&gt;Morning Social: Chat about Job Searches&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;11 November, 19:00 EST (East Coast Quorum, USA) - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/virtual-write-the-docs-east-coast-quorum/events/289222273/&quot;&gt;7 documentation techniques rooted in empathy advocacy (and why they work)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;17 November, 17:30 EST (Pittsburgh, PA, USA) - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/write-the-docs-pittsburgh/events/289258861/&quot;&gt;Write the Docs Pittsburgh (in person)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;20 November, 17:00 IST (Tel Aviv, Israel) - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/write-the-docs-taplus/events/288452200/&quot;&gt;Leading to measure and measuring to lead&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;22 November, 08:30 EST (New England and Florida, USA) - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/ne-write-the-docs/events/cfpnxsydcpbdc/&quot;&gt;Morning Social: Focused Conversation for Documentarians&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;6 December, 08:30 EST (New England and Florida, USA) - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/ne-write-the-docs/events/cfpnxsydcqbjb/&quot;&gt;Morning Social: Focused Conversation for Documentarians&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2022/atom.xml">
+    <title type="text">Announcing Write the Docs conferences for 2023</title>
+    <id>https://www.writethedocs.org/blog/2023-conference-announcements/</id>
+    <updated>2022-11-03T00:00:00Z</updated>
+    <published>2022-11-03T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/2023-conference-announcements/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-write-the-docs-conferences-for-2023&quot;&gt;
+
+&lt;p&gt;We’re excited to announce two Write the Docs conferences for 2023:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Write the Docs Portland on May 7-9, 2023&lt;/strong&gt;, an in person conference in Portland, Oregon.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Write the Docs Atlantic, on September 10-12, 2023&lt;/strong&gt;, a new virtual conference
+in between European/African and US East Coast/South America timezones.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Write the Docs Prague is taking a break this year. Announcements about
+Write the Docs Australia will follow later in 2023.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;write-the-docs-portland&quot;&gt;
+&lt;h2&gt;Write the Docs Portland&lt;/h2&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/blog/2023-conference-announcements.rst&lt;/tt&gt;, line 5); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “write the docs portland”.&lt;/div&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/&quot;&gt;Write the Docs Portland&lt;/a&gt; will be an in person conference, similar to our
+pre-COVID conferences. Speakers will be present in person and speaking
+from the conference stage. We will also offer a free live stream of the talks,
+and remote participants are encouraged to participate in our Slack. The
+unconference will not be streamed.&lt;/p&gt;
+&lt;p&gt;The conference will follow all local COVID regulations that apply at the time,
+and we will announce more specific policies before our tickets go on sale so people can make an informed decision.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;write-the-docs-atlantic&quot;&gt;
+&lt;h2&gt;Write the Docs Atlantic&lt;/h2&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/blog/2023-conference-announcements.rst&lt;/tt&gt;, line 5); &lt;em&gt;&lt;a href=&quot;#id2&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “write the docs atlantic”.&lt;/div&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/atlantic/2023/&quot;&gt;Write the Docs Atlantic&lt;/a&gt; is a new conference, in a similar online format
+to the virtual conferences we’ve been running in 2021 and 2022.&lt;/p&gt;
+&lt;p&gt;The schedule will run from the
+early afternoon to early evening in most European/African timezones,
+and from early morning to late afternoon in US East Coast/South America timezones.
+Of course, this being a virtual conference, attendees and speakers
+are welcomed from anywhere in the world.&lt;/p&gt;
+&lt;p&gt;Sign up to the separate
+&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/newsletter/&quot;&gt;Atlantic conference mailing list&lt;/a&gt; to stay
+up to date on the call for proposals, ticket sales and all other updates.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;virtual-and-in-person&quot;&gt;
+&lt;h2&gt;Virtual and in person&lt;/h2&gt;
+&lt;p&gt;Although we initially switched to running virtual conferences due to COVID, we found
+that despite many folks preferring the in-person experience, the virtual format also created many new opportunities.
+There are many people that have difficulty travelling
+to our in person conferences for various reasons, like financial, health,
+immigration or responsibilities at home.
+With a virtual conference, these people have equal access to
+our events, as speakers or attendees. We’ve also seen that our
+community has been great at bringing the same atmosphere that works
+so well at our in person conferences, to our virtual ones.&lt;/p&gt;
+&lt;p&gt;Therefore, we think that the Portland and Atlantic conferences together
+are a great way to bring back the familiar experience that many of you miss,
+while also keeping the many benefits of virtual conferences in 2023.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;call-for-proposals&quot;&gt;
+&lt;h2&gt;Call for Proposals&lt;/h2&gt;
+&lt;p&gt;For both conferences, we invite people from all across our community to
+come up on the virtual or in person stage to share their insights and experience.
+We’re looking for ideas and use-cases from all disciplines and roles,
+so whether you’re a technical writer, developer, UX designer, community manager,
+or support professional who cares about content and communication, we want to hear from you!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We plan to launch our Portland CFP in early January 2023&lt;/strong&gt; for those who are excited to speak.
+The talks in Portland will be in person.&lt;/p&gt;
+&lt;p&gt;Further details of the Atlantic CFP will be announced later in 2023.
+For Atlantic, you will need to supply a pre-recorded video of your talk,
+so you’ll be able to present from anywhere.&lt;/p&gt;
+&lt;p&gt;Start thinking about your talk proposal now, and we’ll let you know as soon as the CFPs open.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets&quot;&gt;
+&lt;h2&gt;Tickets&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Tickets will go on sale in January 2023&lt;/strong&gt;.
+We will announce ticket prices soon, so that you can start planning your budget.&lt;/p&gt;
+&lt;p&gt;As always, we keep ticket prices low so that it is accessible to the widest range
+of people possible. However, if you can’t afford these prices and still wish to attend,
+we will be running our Opportunity Grants program again this year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;sponsorship&quot;&gt;
+&lt;h2&gt;Sponsorship&lt;/h2&gt;
+&lt;p&gt;We are always grateful for the organizations and projects that support our
+community and help make our events extra awesome for the attendees.&lt;/p&gt;
+&lt;p&gt;If you want to find out more about how to support our events and the community,
+check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2023/sponsors/prospectus/&quot;&gt;sponsorship prospectus&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are excited to continue offering a similar sponsorship experience
+for both conferences, including the Job Fair this year and a new option
+for sponsored workshops.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;keep-in-touch&quot;&gt;
+&lt;h2&gt;Keep in touch&lt;/h2&gt;
+&lt;p&gt;Want to find out what’s happening with the conference, or enjoy our monthly global community newsletter?
+Sign up to one or more of our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/newsletter/&quot;&gt;mailing lists&lt;/a&gt;. Your information will never be shared with any third-parties, and you can unsubscribe at any time.&lt;/p&gt;
+&lt;p&gt;Want to connect with other documentarians in real-time?
+Join our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/slack/&quot;&gt;Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;conclusion&quot;&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;We hope you will join us online for one or both of Write the Docs conferences.
+Whether as a speaker, attendee, or sponsor, we are excited to get together to make it another delightful year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2022/atom.xml">
+    <title type="text">Announcing Full Schedule</title>
+    <id>https://www.writethedocs.org/conf/australia/2022/news/announcing-schedule/</id>
+    <updated>2022-10-19T00:00:00Z</updated>
+    <published>2022-10-19T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2022/news/announcing-schedule/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-full-schedule&quot;&gt;
+
+&lt;p&gt;G’day everyone!&lt;/p&gt;
+&lt;p&gt;We’re just over a month and a half away from the online Melbourne conference, and we’re working hard to make sure it’ll be as welcoming and fun as previous years.&lt;/p&gt;
+&lt;p&gt;Today we’re announcing the full presentation schedule and the platform we’ll be hosting the conference on.
+We are working on more details for a few more activities during the conference, so look out for more information in our next mailing.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-platform&quot;&gt;
+&lt;h2&gt;Conference platform&lt;/h2&gt;
+&lt;p&gt;The conference will again be held on &lt;a class=&quot;reference external&quot; href=&quot;https://hopin.to/&quot;&gt;https://hopin.to/&lt;/a&gt;. Hopin not only provides a stage for our amazing speakers, but also has integrated chat, unconference rooms with breakout calls, and expo booths.
+We’re updating our Welcome Wagon guide, to be released soon, so it’ll all feel familiar before you’ve even arrived.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;full-presentation-schedule&quot;&gt;
+&lt;h2&gt;Full presentation schedule&lt;/h2&gt;
+&lt;p&gt;The conference website is now updated with the &lt;a class=&quot;reference internal&quot; href=&quot;../../../conf/australia/2022/schedule/&quot;&gt;&lt;span class=&quot;doc&quot;&gt;Schedule&lt;/span&gt;&lt;/a&gt; for the main stage presentations, so you can start planning your time (and getting excited!) for the conference.
+We’re excited to continue and adapt live Q&amp;amp;A after most talks. This year two speakers will be chatting with the MC after each block of 2 talks, a little like a mini panel, which will come from your questions but moderated by our MC.&lt;/p&gt;
+&lt;p&gt;Like last year, we’re scheduling more breaks during the day. We are all trying to balance our screen time, so we wanted to make sure that your eyes get their rest! We hope that this adjustment will help you stay alert and happy throughout the conferences.&lt;/p&gt;
+&lt;p&gt;We’re also making sure the social event starts and ends early. We want you to have fun socializing with your fellow documentarians, but we understand that your family and home time is also important these days, so hopefully this will help us stay engaged and enjoy the social activities even more.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;All talk videos will be published on our YouTube channel no later than 1 week after the conference.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-still-on-sale&quot;&gt;
+&lt;h2&gt;Shirts still on sale&lt;/h2&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://shirt.writethedocs.org/&quot;&gt;Write the Docs Australia 2022 Pop-Up Shop&lt;/a&gt; is open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.&lt;/p&gt;
+&lt;p&gt;The campaign will run in batches until December 31st. Shipping is available from the USA or Europe. However, due to the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to sport your new threads during the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;all-our-events-and-activities&quot;&gt;
+&lt;h2&gt;All our events and activities&lt;/h2&gt;
+&lt;p&gt;Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge. And even though this years conference is held online, we’re holding to that plan.&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Lightning Talks.&lt;/strong&gt; We’ll have &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/lightning-talks/&quot;&gt;lightning talks&lt;/a&gt; each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unconference.&lt;/strong&gt; We’ll be running the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/unconference/&quot;&gt;Unconference&lt;/a&gt; on Thursday and Friday afternoon. Want to chat with like-minded folks about a specific thing? This is the place.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social event&lt;/strong&gt;. On Thursday night we’ll be moving to a spatial chat platform for our social event. This will be a more familiar social space where you can move around and join groups of people having conversations. We’ve used similar platforms at other events, and found that they really help people get to know each other in a more natural way.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conference Help Desk&lt;/strong&gt;. If you have any questions about navigating the virtual event, we’ll be running the Write the Docs Helpdesk booth, where you can chat with one of the organizers and the Welcome Wagon team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/schedule/&quot;&gt;Schedule page&lt;/a&gt; has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-to-our-sponsors&quot;&gt;
+&lt;h2&gt;Thanks to our sponsors&lt;/h2&gt;
+&lt;p&gt;Thanks in particular to our sponsors for supporting the conference this year.
+We’ve excited to have them around the entire conference participating in a few different ways.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.atlassian.com/&quot;&gt;Atlassian&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;Head over to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/sponsors/prospectus/&quot;&gt;sponsorship prospectus&lt;/a&gt; for details on how your company can get involved!
+We have several types of sponsorship available, so talk to us!&lt;/p&gt;
+&lt;p&gt;Thanks so much for all your support and enthusiasm so far – we’re so excited to see you all next month!&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2022/atom.xml">
+    <title type="text">Write the Docs Newsletter – October 2022</title>
+    <id>https://www.writethedocs.org/blog/newsletter-october-2022/</id>
+    <updated>2022-10-05T00:00:00Z</updated>
+    <published>2022-10-05T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-october-2022/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-newsletter-october-2022&quot;&gt;
+
+&lt;p&gt;Hello once again to the wonderful Write the Docs community. While the weather may be getting cooler in my part of the world, I can always find something to warm my heart in this community.&lt;/p&gt;
+&lt;p&gt;Some of what makes the community great was on display last month at the Prague conference. If you weren’t able to see the talks as they were broadcast and join in the productive conversations, you can at least catch up on &lt;a class=&quot;reference external&quot; href=&quot;https://youtube.com/playlist?list=PLZAeFn6dfHpm1PRgp84X5jh9Jca_KTJSF&quot;&gt;videos of all talks&lt;/a&gt;, including the lightning talks. And if you want a visual guide to each talk, you can find &lt;a class=&quot;reference external&quot; href=&quot;https://www.flickr.com/photos/writethedocs/&quot;&gt;sketchnotes for each talk&lt;/a&gt; on Flickr. The talks represent a variety of perspectives and experiences so you’ll probably find something to inspire you.&lt;/p&gt;
+&lt;p&gt;If you’re like me, you might be so inspired you feel like you have to give something back to the community. One way you can help is by joining the teams that help keep the conferences and Slack group running smoothly. Take a look at the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/team/&quot;&gt;list of teams&lt;/a&gt; and decide what area fits you best. For example, if you’d like to contribute to the newsletter, reach out to me (Aaron Collier) on Slack. Or find something else that suits your skills. We also understand if you need to conserve your energy to care for yourself and those closest to you.&lt;/p&gt;
+&lt;p&gt;Whether you have the time and desire to contribute or not, we hope you’ll get something useful out of this month’s discussions.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;tactics-for-motivating-docs-contributions&quot;&gt;
+&lt;h2&gt;Tactics for motivating docs contributions&lt;/h2&gt;
+&lt;p&gt;If you rely on others to draft and review documentation, it makes sense to think about how to improve the process to make it more productive and encouraging for everyone. Docs contributions can drift toward repetitive reviews with never-ending questions and answers that eventually demotivate those whose help we need. Here are some ideas from the community to boost motivation for docs contributions.&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Accommodate contributor preferences and working styles as much as possible. Some appreciate time-saving synchronous conversations and others prefer asynchronous back-and-forth. Start with a question like, “Would you prefer a call to go over this or is back-and-forth messaging better for you?”&lt;/li&gt;
+&lt;li&gt;Minimize the number of review cycles to prevent docs fatigue. For example, if you’re reviewing a draft, try to ask all of your questions at once rather than trickling them out over time. Offer a call to resolve any difficult or repetitive questions. Shorter review processes help make docs work feel quick and rewarding.&lt;/li&gt;
+&lt;li&gt;Communicate about the process. Tell contributors what you need now and what you may need later. For example, “After you post your draft, I’ll review it. I’ll need to ask some questions to make sure the doc is complete and accurate. How would you prefer to communicate about this doc and any questions? We can have a call or I can post comments for you to answer or something else.”&lt;/li&gt;
+&lt;li&gt;Manage your own expectations. When you’re trying to keep motivation high, it doesn’t pay to be too strict about style guide adherence. Try to get understandable, working documentation – you can complete stylistic editing later. Focus on collaboration instead of perfection and try to nurture a culture of docs ownership among contributors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;estimating-docs-work&quot;&gt;
+&lt;h2&gt;Estimating docs work&lt;/h2&gt;
+&lt;p&gt;How do you measure the work that makes up a documentation task? This can help when you’re trying to communicate your workload, and it’s more useful to have a sense of ticket size than just your raw number of tickets.&lt;/p&gt;
+&lt;p&gt;There are tons of approaches to estimation and our community shared a few that work for them. Which approach is right for you depends on what you’re trying to get done. Do you need to be certain that you can deliver by a certain date? Or do you just want to give a sense of how much work your team is doing?&lt;/p&gt;
+&lt;p&gt;Our first option is T-shirt sizing:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;XS: Less than 20 minutes – like fixing a typo.&lt;/li&gt;
+&lt;li&gt;S: Less than an hour – like rewriting a small amount of text or refactoring.&lt;/li&gt;
+&lt;li&gt;M: Half a day to a full day and takes some thought.&lt;/li&gt;
+&lt;li&gt;L: More than a day and involves research or getting context.&lt;/li&gt;
+&lt;li&gt;XL: New feature or product work. May require sync meetings, iteration, more work tracking.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you have a strong sense of how much effort the work is up front, another approach is story points as essentially time estimates:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;1 point = up to 1 half day of work.&lt;/li&gt;
+&lt;li&gt;2 points = 1 day.&lt;/li&gt;
+&lt;li&gt;10 points = 1 week.&lt;/li&gt;
+&lt;li&gt;20 points = 1 (2-week) sprint.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you have this much certainty, this is great for helping you see if you’re over- or under-committed for a sprint. On the other end of the spectrum is an approach based around uncertainty (and the Fibonnaci sequence!). The bigger the number, the less sure you are about how much time it will take:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;(1): Trivial, little thought required.&lt;/li&gt;
+&lt;li&gt;(2): Know exactly what needs to be done, just needs the time to implement.&lt;/li&gt;
+&lt;li&gt;(3): Know most of what needs to be done.&lt;/li&gt;
+&lt;li&gt;(5): Some things still need to be figured out, but the pieces are all there. No major unknowns.&lt;/li&gt;
+&lt;li&gt;(8): Lot of things to figure out. Some unknowns.&lt;/li&gt;
+&lt;li&gt;(???): Work that you can’t estimate, like research (it could last forever!). These usually need either breaking down or time-boxing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;gerunds-in-headings&quot;&gt;
+&lt;h2&gt;Gerunds in headings&lt;/h2&gt;
+&lt;p&gt;Gerunds, words formed with verbs but functioning as nouns like &lt;em&gt;installing&lt;/em&gt;, &lt;em&gt;creating&lt;/em&gt;, and &lt;em&gt;configuring&lt;/em&gt;, have been considered a problem in headings in technical documentation. Arguments for resistance include the fact that gerunds introduce a lot of visual repetition, which hinders skimming and causes noise. Gerunds are also inconsistent with &lt;a class=&quot;reference external&quot; href=&quot;https://idratherbewriting.com/2008/02/11/are-gerunds-in-topic-titles-problematic-in-search-results/&quot;&gt;how people browse the internet&lt;/a&gt;. For example, people are more likely to search for “remove user account” than “removing user accounts”. Moreover, gerunds can be challenging to translate and localize since some languages do not have identical counterparts.&lt;/p&gt;
+&lt;p&gt;Despite the &lt;a class=&quot;reference external&quot; href=&quot;https://learn.microsoft.com/en-us/style-guide/grammar/ing-words&quot;&gt;caution about -ing words&lt;/a&gt;, some people prefer them in headings since they are accustomed to them as a common standard. In addition, gerund advocates like to use them in tutorial-style content where the reader is active in completing a task. Others feel they add a friendly tone to the document that helps the reader feel like an active participant.&lt;/p&gt;
+&lt;p&gt;Depending on your specific situation, the disadvantages of using gerunds may exceed the benefits. Gerunds, for instance, can add vagueness to headlines, are not always reader-centric, are often time-insensitive, and can often be weak and use the passive voice. The takeaway here is that if the intent is to communicate a command plainly and not infer the process of action ambiguously, consider using imperatives. Additionally, consistency is key, whether you prefer imperatives for their directness or gerunds for their conversational tone.&lt;/p&gt;
+&lt;p&gt;If you want to learn more about gerunds in headings, check out &lt;a class=&quot;reference external&quot; href=&quot;https://www.wyliecomm.com/2021/04/stop-it-with-the-ing-ing-headlines/&quot;&gt;Ann Wylie’s opinions&lt;/a&gt; or a &lt;a class=&quot;reference external&quot; href=&quot;https://writing.stackexchange.com/questions/1545/verb-tense-for-technical-document-titles&quot;&gt;discussion on Writing Stack Exchange&lt;/a&gt; for further suggestions on forms for verb tenses in document titles.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;what-were-reading-and-watching&quot;&gt;
+&lt;h2&gt;What we’re reading and watching&lt;/h2&gt;
+&lt;p&gt;The #bipoc group’s been discussing the following materials on diversity, inclusion, and equity. Want to join the conversation? Please join us in the &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.slack.com/archives/C016STMEWJD&quot;&gt;#bipoc Slack channel&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;A short read: WELCOA offers a &lt;a class=&quot;reference external&quot; href=&quot;https://www.welcoa.org/blog/employee-belonging-makes-business-better/&quot;&gt;look at belonging&lt;/a&gt; and how it helps make business better.&lt;/p&gt;
+&lt;p&gt;A short video: In &lt;a class=&quot;reference external&quot; href=&quot;https://youtu.be/Ml52Brr7AeA&quot;&gt;Don’t take the exit on people&lt;/a&gt;, Justin Jones-Fosu focuses on taking the time to learn about other people in order to manage bias.&lt;/p&gt;
+&lt;p&gt;A book recommendation: &lt;a class=&quot;reference external&quot; href=&quot;https://kimmalonescott.com/just-work&quot;&gt;Just Work by Kim Scott&lt;/a&gt; continues the topic of Radical Candor but specifically addresses the challenges it presents to underrepresented groups.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;featured-job-posts&quot;&gt;
+&lt;h2&gt;Featured job posts&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/974/ux-writer/&quot;&gt;UX Writer&lt;/a&gt;, Adyen (Amsterdam, Netherlands)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/1017/privacy-content-writer-staff-level-direct-hire/&quot;&gt;Privacy Content Writer (Staff-Level, Direct Hire)&lt;/a&gt;, Good Words LLC (Remote)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/968/technical-writer-at-veeam/&quot;&gt;Technical Writer&lt;/a&gt;, Veeam Software (Remote [Prague, Czech Republic])&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/999/remote-python-api-and-developer-documentation-technical-writing-consultant/&quot;&gt;Remote Python API and Developer Documentation Technical Writing Consultant&lt;/a&gt;, Good Words LLC (Remote)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/972/technical-writer-kotlin/&quot;&gt;Technical Writer (Kotlin)&lt;/a&gt;, JetBrains (Remote or various locations)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/969/technical-writer/&quot;&gt;Technical Writer&lt;/a&gt;, Adyen (Amsterdam, Netherlands)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/969/technical-writer/&quot;&gt;Technical Writer&lt;/a&gt;, Dolby Poland Sp. z o.o. (Remote [Poland])&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/971/technical-writer-phpstorm/&quot;&gt;Technical Writer (PhpStorm)&lt;/a&gt;, JetBrains (Remote or various locations)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/977/product-designer-documentation/&quot;&gt;Product Designer - Documentation&lt;/a&gt;, Adyen (Amsterdam, Netherlands)&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/job/976/internal-developer-advocate-documentation/&quot;&gt;Internal Developer Advocate | Documentation&lt;/a&gt;, Adyen (Amsterdam, Netherlands)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;To apply for these jobs and more, visit the&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/&quot;&gt;Write the Docs job board&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;virtual-events-coming-up&quot;&gt;
+&lt;h2&gt;Virtual events coming up&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;6 October, 18:00 CEST (Karlsruhe) - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/write-the-docs-karlsruhe/events/288624322/&quot;&gt;Kann Software-Doku von KI-Unterstützung profitieren?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;11 October, 08:30 EDT (East Coast Quorum, USA) - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/ne-write-the-docs/events/cfpnxsydcnbpb/&quot;&gt;Morning Social: The Mindset of a Technical Writer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;12 October, 19:00 MDT (Calgary, Canada) - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/wtd-calgary/events/288720107/&quot;&gt;Write the Docs Calgary Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;25 October, 08:30 EDT (East Coast Quorum, USA) - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/ne-write-the-docs/events/cfpnxsydcnbhc/&quot;&gt;Morning Social: Focused Conversation for Documentarians&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;8 November, 19:00 MST (Calgary, Canada) - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/wtd-calgary/events/282708728/&quot;&gt;Write the Docs Calgary Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;8 November, 08:30 EDT (East Coast Quorum, USA) - &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/ne-write-the-docs/events/wcqfxsydcmbkc/&quot;&gt;Morning social&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2022/atom.xml">
+    <title type="text">Announcing speakers and talks</title>
+    <id>https://www.writethedocs.org/conf/australia/2022/news/announcing-speakers/</id>
+    <updated>2022-10-04T00:00:00Z</updated>
+    <published>2022-10-04T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/australia/2022/news/announcing-speakers/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-speakers-and-talks&quot;&gt;
+
+&lt;p&gt;G’day, documentarians! Today we’re excited to announce that we’ve finalised our speakers for the next virtual Australia conference.&lt;/p&gt;
+&lt;p&gt;Thank you so much to everyone who took the time to send us a proposal – we literally wouldn’t have an event without you!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;full-speaker-line-up&quot;&gt;
+&lt;h2&gt;Full speaker line-up&lt;/h2&gt;
+&lt;p&gt;Every year, we look to bring a wide range of voices to the Write the Docs stage.
+Because the role of “documentarian” looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure.
+We’re really excited about the presentations we’ve got this year – we hope you are too!&lt;/p&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-shumin-chen&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Shumin Chen  – Sustainable Content for Software Documentation Powered by Simplified Technical English (STE)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-lana&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Lana Novikova  – Let’s bring science into technical writing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-ishara-ilangasinghe&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Ishara Ilangasinghe  – Interviewing a Technical Writer Candidate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-claire-mahoney&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Claire Mahoney  – Chaos to contained: How a content project can lead to better content BAU&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-braden-riggs&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Braden Riggs  – Optimizing SEO for Technical Documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-alex-fiedler&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Alex Fiedler  – Knowledge Experience for a PLG Strategy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-hari-priya&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Hari Priya  – How customer journey mapping can improve your docs and customer experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-sarah-rainsberger&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Sarah Rainsberger  – Happy Contributors, High Standards: pick two! Balancing quality and community in open source documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&quot;target&quot; id=&quot;speaker-lilly-ryan&quot;&gt;&lt;/span&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Lilly Ryan  – Hack the Docs: how security professionals use documentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Head over to the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/speakers/&quot;&gt;Speakers page&lt;/a&gt; to see the full abstracts.
+We hope there’s something there for everyone to enjoy, and also something that will broaden your horizons a bit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-are-on-sale&quot;&gt;
+&lt;h2&gt;Shirts are on sale&lt;/h2&gt;
+&lt;p&gt;The &lt;a class=&quot;reference external&quot; href=&quot;https://shirt.writethedocs.org&quot;&gt;Write the Docs Australia 2022 Pop-Up Shop&lt;/a&gt; is now open!
+You can order loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.&lt;/p&gt;
+&lt;p&gt;The campaign will run in 3-day batches until &lt;strong&gt;December 31st, 2022&lt;/strong&gt;.
+Shipping is available from the USA or Europe.
+However, given the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to sport your new threads during the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets-are-going-fast&quot;&gt;
+&lt;h2&gt;Tickets are going fast!&lt;/h2&gt;
+&lt;p&gt;If you don’t have your ticket yet, now’s a great time to snap one up. Conference tickets have sold out for the last several years, and they go faster along with the speaker announcement, so if you’re planning to come, don’t leave it to the last minute.&lt;/p&gt;
+&lt;p&gt;We will close registrations around one week before the conference, to give folks enough time to set up their Hopin credentials.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/tickets/&quot;&gt;Buy your tickets here!&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;grant-program-still-open&quot;&gt;
+&lt;h2&gt;Grant program still open&lt;/h2&gt;
+&lt;p&gt;Just a friendly reminder that our grant program is still open for application.
+We’re excited to be able to offer free tickets to a larger number of people, since there are  minimal other costs to attend a virtual event.&lt;/p&gt;
+&lt;p&gt;You can apply until &lt;strong&gt;October 15, 2022&lt;/strong&gt; on &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/opportunity-grants/&quot;&gt;our website&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-to-our-sponsors&quot;&gt;
+&lt;h2&gt;Thanks to our sponsors&lt;/h2&gt;
+&lt;p&gt;We are so grateful to have our sponsors help in bringing these events to life every year. Thanks sincerely to the following companies for supporting the Write the Docs community:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.atlassian.com/&quot;&gt;Atlassian&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;Head over to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/sponsors/prospectus/&quot;&gt;sponsorship prospectus&lt;/a&gt; for details on how your company can get involved!
+We have several types of sponsorship available, so feel free to reach out with any questions or ideas.&lt;/p&gt;
+&lt;p&gt;Stay tuned for more details in the next week about the schedule and other activities.
+We hope you’re all getting as excited as we are!&lt;/p&gt;
+&lt;p&gt;The Write the Docs Team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/2022/atom.xml">
+    <title type="text">Conference highlights and thanks for attending!</title>
+    <id>https://www.writethedocs.org/conf/prague/2022/news/thank-you-recap/</id>
+    <updated>2022-09-23T00:00:00Z</updated>
+    <published>2022-09-23T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/prague/2022/news/thank-you-recap/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;conference-highlights-and-thanks-for-attending&quot;&gt;
+
+&lt;p&gt;Hey everyone,&lt;/p&gt;
+&lt;p&gt;Our team is now emerging from the post-conference recovery period, and we wanted to send out a quick message to thank everyone for helping to make our conference such a success.
+We appreciate everyone who makes the conference possible: speakers, sponsors, organizers, volunteers, and attendees alike!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-recap&quot;&gt;
+&lt;h2&gt;Conference recap&lt;/h2&gt;
+&lt;p&gt;At &lt;strong&gt;over 200 attendees&lt;/strong&gt; this conference was a welcoming and friendly event.
+We had the usual mix of talks on the main stage along with Q&amp;amp;A, lightning talks, unconference sessions, writing sprints, social event, and job fair.
+We thought everything went pretty smoothly this year; we’re getting pretty good at virtual events!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;talk-videos&quot;&gt;
+&lt;h2&gt;Talk videos&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://youtube.com/playlist?list=PLZAeFn6dfHpm1PRgp84X5jh9Jca_KTJSF&quot;&gt;Videos of the talks&lt;/a&gt; are now available on YouTube. This includes all conference talks and Q&amp;amp;A, as well as the lightning talks.
+You can also subscribe to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/writethedocs&quot;&gt;YouTube channel&lt;/a&gt; so you don’t miss any future content.&lt;/p&gt;
+&lt;p&gt;Thanks again to all our presenters, moderators, and folks who asked wonderful questions!
+Huge thanks also to &lt;a class=&quot;reference external&quot; href=&quot;https://www.bartatwork.com/&quot;&gt;Bart at Work&lt;/a&gt; for handling the A/V production on our event, it was flawless once again this year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;sketchnotes&quot;&gt;
+&lt;h2&gt;Sketchnotes&lt;/h2&gt;
+&lt;p&gt;We’re excited to share the &lt;a class=&quot;reference external&quot; href=&quot;https://flic.kr/ps/2RZ8SH&quot;&gt;full resolution sketchnotes&lt;/a&gt; from the conference on Flickr. You are welcome to use them for non-commercial purposes, like including in your write up from the conference :)&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/mslanei&quot;&gt;Linette Voller&lt;/a&gt; for doing them again this year!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-still-on-sale&quot;&gt;
+&lt;h2&gt;Shirts still on sale&lt;/h2&gt;
+&lt;p&gt;If you want a souvenir from this year’s conference, our &lt;a class=&quot;reference external&quot; href=&quot;https://shirt.writethedocs.org/&quot;&gt;Write the Docs Prague 2022 Pop-Up Shop&lt;/a&gt; is still open until September 30th!
+We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.&lt;/p&gt;
+&lt;p&gt;The campaign will run in 3-day batches, and shipping is available from the USA or Europe.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;come-see-us-at-our-australia-conference&quot;&gt;
+&lt;h2&gt;Come see us at our Australia conference&lt;/h2&gt;
+&lt;p&gt;Don’t forget our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2022/&quot;&gt;Australia conference&lt;/a&gt; on &lt;strong&gt;Dec 8-9, 2022&lt;/strong&gt;. The talks will be posted soon!&lt;/p&gt;
+&lt;p&gt;We’re also looking for more sponsors to make our other events just as magical as this year’s Prague event. You can see all our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/sponsorship/&quot;&gt;sponsorship options&lt;/a&gt; on our website.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;write-the-docs-slack&quot;&gt;
+&lt;h2&gt;Write the Docs Slack&lt;/h2&gt;
+&lt;p&gt;Our Slack network has really grown more this last year. Our #general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that y’all continue the conversations throughout the year. If you haven’t joined, now is the time!
+Check out the &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/slack/&quot;&gt;Write the Docs Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/prague/2022/news/thank-you-recap.rst&lt;/tt&gt;, line 70); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “write the docs slack”.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;write-the-docs-newsletter&quot;&gt;
+&lt;h2&gt;Write the Docs Newsletter&lt;/h2&gt;
+&lt;p&gt;Our &lt;a class=&quot;reference external&quot; href=&quot;http://writethedocs.org/newsletter/&quot;&gt;monthly newsletter&lt;/a&gt; is the other place to keep track of everything that is happening with the community.
+Subscribe to make sure you hear about all the conferences, meetups, job postings, and summaries of relevant conversations in our Slack.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;local-meetups&quot;&gt;
+&lt;h2&gt;Local Meetups&lt;/h2&gt;
+&lt;p&gt;We hope you continue to &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/meetups/&quot;&gt;build your local or online communities&lt;/a&gt; and keep in touch with other documentarians.
+We have a number of meetups in cities across the country, and if you don’t see your city listed consider &lt;a class=&quot;reference external&quot; href=&quot;http://www.writethedocs.org/organizer-guide/meetups/starting/&quot;&gt;starting&lt;/a&gt; a meetup!&lt;/p&gt;
+&lt;p&gt;New this year are our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/meetups/#current-meetups-quorum&quot;&gt;Quorum Meetups&lt;/a&gt; which are virtual and targeting large geographic areas. There’s already one covering most everyone in the US or in a similar timezone.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;code-of-conduct-transparency-report&quot;&gt;
+&lt;h2&gt;Code of Conduct transparency report&lt;/h2&gt;
+&lt;p&gt;As with any Write the Docs event, this conference was covered by our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct/&quot;&gt;community Code of Conduct&lt;/a&gt;.
+We aim to be as transparent with CoC incidents and enforcement as we can.&lt;/p&gt;
+&lt;p&gt;To ensure that our CoC was visible and accessible, we took a number of specific steps:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Every participant agreed to the Code of Conduct in advance during registration.&lt;/li&gt;
+&lt;li&gt;The CoC, or a summary, was included on the conference website and Hopin Reception&lt;/li&gt;
+&lt;li&gt;The CoC was repeatedly mentioned in our conference introduction and announcements.&lt;/li&gt;
+&lt;li&gt;We specifically stressed that the CoC applies to all conference spaces including the social event.&lt;/li&gt;
+&lt;li&gt;We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;None of our organizers were approached about any CoC concerns at this event.
+We know that this is, in part, a reflection of the thoughtful and inclusive community that we’re so lucky to have.&lt;/p&gt;
+&lt;p&gt;That being said, we’re also very conscious of the fact that just because nothing was reported doesn’t mean nothing happened.
+If there was any personal conduct or other aspect of the conference experience that did not meet the expectations of behavior set out in the CoC, please email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:conduct&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;conduct&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-again&quot;&gt;
+&lt;h2&gt;Thanks again&lt;/h2&gt;
+&lt;p&gt;Thanks so much to the following companies for supporting the Portland conference this year:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.archbee.io/?utm_medium=banner&amp;amp;utm_source=conference&amp;amp;utm_campaign=wtd&quot;&gt;Archbee&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.adyen.com/&quot;&gt;Adyen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.jetbrains.com/&quot;&gt;JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.veeam.com/&quot;&gt;Veeam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.dolby.com/&quot;&gt;Dolby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;We’re so grateful to our sponsors, speakers, volunteers, and attendees for making this conference possible. Whether you were able to come out this time or not, we hope to see you again next year&amp;nbsp;– or
+even sooner at one of our other events!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged portland-2018</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/portland-2018/atom.xml</id>
+  <updated>2018-05-24T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/portland-2018/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/portland-2018/atom.xml">
+    <title type="text">Conference highlights and thanks to the community!</title>
+    <id>https://www.writethedocs.org/conf/portland/2018/news/thanks-recap/</id>
+    <updated>2018-05-24T00:00:00Z</updated>
+    <published>2018-05-24T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2018/news/thanks-recap/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;conference-highlights-and-thanks-to-the-community&quot;&gt;
+
+&lt;p&gt;Hey everyone,&lt;/p&gt;
+&lt;p&gt;The Write the Docs team is now emerging from the post-conference
+recovery period, and we wanted to send out a quick email to thank
+everyone for helping to make our sixth North American conference such a
+success. Whether you joined us in Portland or watched from afar, we
+thought you might like to hear some of the highlights!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;conference-recap&quot;&gt;
+&lt;h2&gt;Conference recap&lt;/h2&gt;
+&lt;p&gt;At nearly 450 people, this year’s conference was our biggest yet! We had
+the usual mix of main stage and lightning talks, unconference sessions,
+writing sprints, and social events. We were also pleased with the
+success of a couple of new experiments, including livestreaming the
+talks, running real-time captioning for the main stage, and hosting an
+in-person job fair. We received a lot of positive feedback on all of
+these and are excited to carry them forward to future events.&lt;/p&gt;
+&lt;p&gt;We also had some interesting feedback on some things we might improve
+for next time. The unconference, for example, has really found its feet in the
+last year or two. With more and more folks participating, we’re looking
+at providing more in-depth guidance on how to get the most out of the
+sessions. We’re also considering bringing back ticketed workshops as a way
+for attendees to dig a little deeper.&lt;/p&gt;
+&lt;p&gt;Overall, we were so excited to see another conference come together and
+see our awesome community gather out in the physical world.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;videos-and-photos-and-write-ups&quot;&gt;
+&lt;h2&gt;Videos and photos and write-ups&lt;/h2&gt;
+&lt;p&gt;Videos of all the talks are now available &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/videos/portland/2018/&quot;&gt;in our video
+archive&lt;/a&gt;. Thanks
+to &lt;a class=&quot;reference external&quot; href=&quot;https://backpedal.tv/&quot;&gt;Backpedal&lt;/a&gt; for doing such a great job with these.
+If you gave a lightning talk, we’re working to get
+them on our site, but you can see them on
+&lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/playlist?list=PLZAeFn6dfHplUgfLOLEuHHAm1HdrIyaZ7&quot;&gt;YouTube&lt;/a&gt;
+for now. (You can also subscribe to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.youtube.com/channel/UCr019846MitZUEhc6apDdcQ&quot;&gt;YouTube channel&lt;/a&gt;
+so you don’t miss any future content!)&lt;/p&gt;
+&lt;p&gt;We also have photos from the event available on &lt;a class=&quot;reference external&quot; href=&quot;https://www.flickr.com/photos/writethedocs/albums/72157695853045204&quot;&gt;Flickr&lt;/a&gt;,
+thanks to our wonderful photographer &lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/goatlady&quot;&gt;Kay&lt;/a&gt;!
+We really love the photos each year, and you’re welcome to use them for
+non-commercial purposes, as per our &lt;a class=&quot;reference external&quot; href=&quot;https://creativecommons.org/licenses/by-nc-sa/2.0/&quot;&gt;Creative Commons License&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;And finally, several community members have been writing up their
+experiences at the conference and sharing them in the &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.slack.com/archives/wtd-conferences&quot;&gt;wtd-conferences channel on the Write the Docs
+Slack&lt;/a&gt;. If you missed the conference (or are just curious
+about how your experience compares to others’), pop in and have a read.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;code-of-conduct-transparency-report&quot;&gt;
+&lt;h2&gt;Code of Conduct transparency report&lt;/h2&gt;
+&lt;p&gt;As with any Write the Docs event, this conference was covered by our
+&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct/&quot;&gt;community Code of Conduct&lt;/a&gt;.
+We aim to be as transparent with CoC incidents and enforcement as we can.
+None of our organizers were approached about any CoC concerns at this event.
+We know that this is, in part, a reflection of the thoughtful and inclusive
+community that we’re so lucky to have.&lt;/p&gt;
+&lt;p&gt;That said, we’re also very conscious of the fact that just because
+nothing was reported doesn’t mean nothing happened.  If there was any personal
+conduct or other aspect of the conference experience that did not meet the expectations
+of behavior set out in the CoC, please email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:conduct&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;conduct&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;ready-for-more&quot;&gt;
+&lt;h2&gt;Ready for more?&lt;/h2&gt;
+&lt;p&gt;Don’t forget we have our first joint &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/cincinnati/2018/&quot;&gt;Write the Docs + Open Help
+conference&lt;/a&gt; in
+Cincinnati this August, our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/&quot;&gt;Prague conference&lt;/a&gt;
+again in September, and our first &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2018/&quot;&gt;two-day Australia conference&lt;/a&gt;
+in November. Both the Cincinnati and Prague events have tickets
+on sale and are actively looking for proposals.
+(The call for the Australia conference will open soon.)&lt;/p&gt;
+&lt;p&gt;We’re also looking for more sponsors to make these conferences just as
+magical as the Portland event was. We have a detailed sponsorship
+prospectus up for both the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/&quot;&gt;Prague&lt;/a&gt;
+and &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/cincinnati/2018/sponsors/prospectus/&quot;&gt;Cincinnati&lt;/a&gt;
+conferences. Get in touch if you have any questions.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-again&quot;&gt;
+&lt;h2&gt;Thanks again&lt;/h2&gt;
+&lt;p&gt;We’re so grateful to our sponsors, speakers, volunteers, and attendees
+for making this conference possible. Whether you were able to come out
+this time or not, we hope to see you back in Portland next year&amp;nbsp;– or
+even sooner at one of our other events!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/portland-2018/atom.xml">
+    <title type="text">Welcome to Write the Docs Portland 2018!</title>
+    <id>https://www.writethedocs.org/conf/portland/2018/news/welcome-to-portland/</id>
+    <updated>2018-05-02T00:00:00Z</updated>
+    <published>2018-05-02T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2018/news/welcome-to-portland/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;welcome-to-write-the-docs-portland-2018&quot;&gt;
+
+&lt;p&gt;Yet another edition of Write the Docs is very nearly upon us! We’re excited to see you all soon.&lt;/p&gt;
+&lt;p&gt;Below you’ll find all the practical information that you’ll need to plan for and navigate the event and activities.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;be-prepared&quot;&gt;
+&lt;h2&gt;Be Prepared&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Read the Welcome Wagon Guide.&lt;/strong&gt; Our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/welcome-wagon/&quot;&gt;Welcome Wagon Guide&lt;/a&gt; is packed full of information on how to get the most out of the conference. There will also be a couple Welcome Wagon events that will help you learn more about the conference.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Review the schedule.&lt;/strong&gt; The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/schedule/&quot;&gt;Schedule page&lt;/a&gt; has the latest and most complete information about the presentations. This is where we will also update any changes/cancellations if they should occur.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Review the Code of Conduct.&lt;/strong&gt; We have a wonderful community full of diverse and amazing people. We expect everyone to behave in a respectful manner at all conference events and online channels. Our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct/&quot;&gt;Code of Conduct&lt;/a&gt; boils down to “Be excellent to each other”, but the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/code-of-conduct&quot;&gt;full text&lt;/a&gt; is also available. Our cellphone numbers and email addresses are on that page if you ever need to contact us.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;get-involved&quot;&gt;
+&lt;h2&gt;Get Involved&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;div class=&quot;first system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/portland/2018/news/welcome-to-portland.rst&lt;/tt&gt;, line 8); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Duplicate explicit target name: “writing day”.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Plan a project for Writing Day.&lt;/strong&gt; The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/writing-day/&quot;&gt;Writing Day&lt;/a&gt; will be held on Sunday from &lt;em&gt;9am-5pm&lt;/em&gt;, and you can drop in at any time during the day. If you have a project you want to propose to others, you can pitch your topic during the welcome announcement that will be held at &lt;em&gt;9:30am&lt;/em&gt;. Check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/writing-day/&quot;&gt;Writing Day&lt;/a&gt; page for a few suggested projects and the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/news/writing-day/&quot;&gt;blog post&lt;/a&gt; for more info on how to get your project listed!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;strong&gt;Plan a lightning talk.&lt;/strong&gt; We’ll have &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/lightning-talks/&quot;&gt;lightning talks&lt;/a&gt; each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want. This is your chance to share something you are passionate about with the audience. Slides are not required.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;strong&gt;Get ready for the Job Fair&lt;/strong&gt;. New this year, on Tuesday morning we’ll have a &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/job-fair&quot;&gt;job fair&lt;/a&gt; where you can find your next documentarian friendly job.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;strong&gt;Plan a discussion.&lt;/strong&gt; We’ll be running the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/unconference/&quot;&gt;Unconference&lt;/a&gt; all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a very specific thing? This is the place. We’ll have a sign-up board so you know what’s happening, and supplies to help you brainstorm.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class=&quot;first&quot;&gt;&lt;strong&gt;Coffee, breakfast, and lunch are provided on all three days!&lt;/strong&gt; Don’t worry about coffee before you come to the conference on Sunday, Monday, or Tuesday. Coffee and breakfast are served at 8:15, and the conference starts at 9.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;find-your-way-around&quot;&gt;
+&lt;h2&gt;Find Your Way Around&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Riding the trains.&lt;/strong&gt; Public transit is generally excellent in Portland, you can get from the airport downtown on the MAX red line. For more information, see our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/visiting/&quot;&gt;visiting page&lt;/a&gt; which has all the details you need to get around.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Riding a bike.&lt;/strong&gt; Portland has a &lt;a class=&quot;reference external&quot; href=&quot;https://www.biketownpdx.com/&quot;&gt;bike share program&lt;/a&gt; that is having a promotion in May that includes free riding! Check it out while you’re in town.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;have-fun&quot;&gt;
+&lt;h2&gt;Have Fun&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Join us for a walk in the woods&lt;/strong&gt;. If you’re planning to come out for the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/hike/&quot;&gt;hike&lt;/a&gt; on Saturday at &lt;em&gt;1:45pm&lt;/em&gt;, make sure you &lt;a class=&quot;reference external&quot; href=&quot;https://ti.to/writethedocs/write-the-docs-portland-2018/&quot;&gt;reserve your spot&lt;/a&gt; . We’re hoping for less hail than last year, but bringing a rain jacket would be wise.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pre-register at the welcome reception.&lt;/strong&gt; The meet-and-greet event will be held on Sunday from &lt;em&gt;5pm-8pm&lt;/em&gt;. You can pick up your badge and enjoy a couple of drinks on us. This is a great chance to meet your fellow documentarians before the conference starts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Come to the party on Monday night.&lt;/strong&gt; This is a private party just for conference attendees. Plan to attend so you can get to know folks in the community. Once again we’ll be at &lt;a class=&quot;reference external&quot; href=&quot;https://goo.gl/maps/hvYkv6RU4qD2&quot;&gt;Jackknife&lt;/a&gt; at 614 SW 11th Ave, on &lt;em&gt;Monday evening from 7pm&lt;/em&gt;, with free snacks and drinks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;share-the-love&quot;&gt;
+&lt;h2&gt;Share the Love&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Slack with your fellow documentarians.&lt;/strong&gt; Feel free to use our &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.org/slack/&quot;&gt;Slack&lt;/a&gt; to coordinate dinners, ask questions, or share notes with fellow conference attendees.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Use the hash tag #writethedocs.&lt;/strong&gt; Twitter is a great way to communicate at events. If you arrive into Portland early and want to find others, use the hash tag &lt;a class=&quot;reference external&quot; href=&quot;https://twitter.com/search?q=%23writethedocs&amp;amp;src=tyah&quot;&gt;#writethedocs&lt;/a&gt; . We can point you to something good.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-again-to-our-sponsors&quot;&gt;
+&lt;h2&gt;Thanks Again to Our Sponsors&lt;/h2&gt;
+&lt;p&gt;Once again, we’re grateful to the companies and organizations that &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/sponsors/&quot;&gt;sponsor&lt;/a&gt; our events, some of them year after year:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://cloud.oracle.com/iaas&quot;&gt;Oracle Cloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.google.com/&quot;&gt;Google&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://developer.microsoft.com/en-us/advocates/index.html&quot;&gt;Microsoft Cloud Developer Advocates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://developer.mozilla.org/en-US/&quot;&gt;Mozilla&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.redhat.com/en&quot;&gt;Redhat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://newrelic.com/&quot;&gt;New Relic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.twilio.com/&quot;&gt;Twilio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.kayako.com/&quot;&gt;Kayako&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.travis-ci.com/&quot;&gt;Travis CI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.cisco.com/&quot;&gt;Cisco&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.netlify.com&quot;&gt;Netlify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.braintreepayments.com/&quot;&gt;Braintree&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.cncf.io/&quot;&gt;CNCF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.elastic.co/&quot;&gt;Elastic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://document360.io/&quot;&gt;Document 360&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://nextcapital.com/&quot;&gt;Next Capital&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.dropbox.com&quot;&gt;Dropbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://stoplight.io/&quot;&gt;Stoplight&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com/home&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.stickermule.com/supports/opensource&quot;&gt;Stickermule&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We’re so excited to welcome you all to Portland in just a few days – see you there!&lt;/p&gt;
+&lt;div class=&quot;line-block&quot;&gt;
+&lt;div class=&quot;line&quot;&gt;The Write the Docs team&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/portland-2018/atom.xml">
+    <title type="text">Get Ready for Writing Day</title>
+    <id>https://www.writethedocs.org/conf/portland/2018/news/writing-day/</id>
+    <updated>2018-05-01T00:00:00Z</updated>
+    <published>2018-05-01T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2018/news/writing-day/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;get-ready-for-writing-day&quot;&gt;
+
+&lt;p&gt;Write the Docs is almost here. As usual, we’ll kick things off with the
+&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/writing-day/&quot;&gt;writing day&lt;/a&gt;
+on Sunday, May 6.
+Join hundreds of other documentarians at the Crystal Ballroom from 9am to 5pm
+to write your own docs, join another project, or just hang out.
+After spending the day writing, stay for the welcome reception starting at 5pm.&lt;/p&gt;
+&lt;p&gt;Are you working on an open source or community-based project?
+&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/writethedocs/www/blob/master/docs/conf/portland/2018/writing-day.rst&quot;&gt;Submit a pull request&lt;/a&gt;
+to the writing day page to let everybody know they’re welcome to join.
+Here are some helpful tips for getting others involved:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Prepare tasks ahead of time. You can use a label on your issue tracker, add tasks to a wiki, or do whatever works for you. Just make sure people can find things to do.&lt;/li&gt;
+&lt;li&gt;Remember that this is a one-day writing day. Don’t expect new contributors to rewrite your getting started guide in an afternoon. Look for bite-sized tasks.&lt;/li&gt;
+&lt;li&gt;Be upfront about what people have to do ahead of time. Do they need to install your software? Do you use documentation tools they need?&lt;/li&gt;
+&lt;li&gt;Think about things people can do without a lot of domain knowledge, and without additional tools. Reviewing language can be a great bite-sized task.&lt;/li&gt;
+&lt;li&gt;Similarly, think about ways people can contribute besides writing. The Write the Docs community has more than writers. There are designers, developers, and lots of other people that care about documentation.&lt;/li&gt;
+&lt;li&gt;Check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/writing-day/#projects&quot;&gt;list of projects&lt;/a&gt; to see who needs help.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We look forward to writing with you.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/portland-2018/atom.xml">
+    <title type="text">Announcing Full Schedule &amp; Last Chance For Tickets</title>
+    <id>https://www.writethedocs.org/conf/portland/2018/news/announcing-schedule/</id>
+    <updated>2018-04-05T00:00:00Z</updated>
+    <published>2018-04-05T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2018/news/announcing-schedule/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-full-schedule-last-chance-for-tickets&quot;&gt;
+
+&lt;p&gt;Hello everyone!
+We’re about a month out from the Portland conference and we couldn’t be more stoked!
+We’re writing today to a) announce the full speaker schedule, b) get the ball rolling for Writing Day sprints, and c) encourage you –&amp;nbsp;if you haven’t already – to buy your tickets.
+We’re likely to sell out &lt;strong&gt;in the next day or two&lt;/strong&gt;, so &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/tickets/&quot;&gt;now’s your chance&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;In the meantime, if it’s your first Write the Docs, now’s a great time to check out &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/welcome-wagon/&quot;&gt;the Welcome Wagon page&lt;/a&gt;, which is chockfull of info to help you get oriented.
+And whether it’s your first or fifth conference, it’s never too early to check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/visiting/&quot;&gt;Explore Portland&lt;/a&gt; page for inspiration on how to make the most of your visit.&lt;/p&gt;
+&lt;p&gt;Later this month we’ll be sending another update that will cover the full details on our social activities, the (exciting new) job fair, and more details about the Writing Day so stay tuned!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;full-presentation-schedule&quot;&gt;
+&lt;h2&gt;Full Presentation Schedule&lt;/h2&gt;
+&lt;p&gt;The conference website is now updated with the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/schedule/&quot;&gt;talk schedule&lt;/a&gt; for the main stage presentations, so you can start planning your time (and getting excited!) for the conference.&lt;/p&gt;
+&lt;p&gt;Per usual, we’ll be running the unconference downstairs in Lola’s room.&lt;/p&gt;
+&lt;p&gt;This year, it’ll be going all-day Monday, starting after the intro talk, and then picking up again Tuesday afternoon, after the job fair.
+We’ll also have rounds of lightning talks after lunch on both days.
+You’ll be able to sign up for unconference sessions and lightning talks during the conference&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets-nearly-sold-out&quot;&gt;
+&lt;h2&gt;Tickets Nearly Sold Out&lt;/h2&gt;
+&lt;p&gt;We’re very nearly at full capacity for the event.
+We’re not overstating things when we say that tickets will sell out in the next day or two.
+Now’s the time!
+Our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/tickets/&quot;&gt;ticket page&lt;/a&gt; is the place!
+We look forward to having you join us!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;start-thinking-about-writing-day&quot;&gt;
+&lt;h2&gt;Start Thinking About Writing Day&lt;/h2&gt;
+&lt;p&gt;Our pre-conference &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/writing-day/&quot;&gt;Writing Day&lt;/a&gt; will happen on Sunday again this year.
+We’ve got a couple of projects on the docket – including our second annual ‘Write Write the Docs’ sprint on the WTD website.
+But the day is much more fun when folks come with their own projects in mind!&lt;/p&gt;
+&lt;p&gt;If you have a project or are part of a community that you think would benefit from a writing sprint, start brainstorming now about what you might want to focus on.
+If you’d like us to include your project on the Writing Day page, drop us an email at &lt;a class=&quot;reference external&quot; href=&quot;mailto:portland&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;portland&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;.
+Or just show up on Sunday ready to introduce your project!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thank-you-to-our-latest-sponsors&quot;&gt;
+&lt;h2&gt;Thank You To Our Latest Sponsors&lt;/h2&gt;
+&lt;p&gt;We’re so fortunate to have the support of so many docs-friendly communities and companies!
+Their support helps us keep ticket prices low, keep the value to attendees high, and offer scholarship tickets to build an increasingly diverse and inclusive community.&lt;/p&gt;
+&lt;p&gt;Huge thanks to our latest sponsors to come aboard:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.elastic.co/&quot;&gt;Elastic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://document360.io/&quot;&gt;Document360&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.knowledgeowl.com/&quot;&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://stoplight.io/&quot;&gt;Stoplight&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://developer.microsoft.com/en-us/advocates/index.html&quot;&gt;Microsoft Cloud Developer Advocates&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Interested in sponsoring&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/sponsors/prospectus/&quot;&gt;Write the Docs Portland&lt;/a&gt; &lt;em&gt;or&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/&quot;&gt;Write the Docs Prague&lt;/a&gt;? &lt;em&gt;&amp;lt; those links will take you to our sponsorship prospectuses… prospecti? Anyway, have a look.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Thanks so much for all your support and enthusiasm so far – we’re so excited to see you all next month!&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/portland-2018/atom.xml">
+    <title type="text">Tickets Update, Shirts on Sale, Call for Volunteers</title>
+    <id>https://www.writethedocs.org/conf/portland/2018/news/volunteers-shirts-tickets/</id>
+    <updated>2018-03-19T00:00:00Z</updated>
+    <published>2018-03-19T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2018/news/volunteers-shirts-tickets/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;tickets-update-shirts-on-sale-call-for-volunteers&quot;&gt;
+
+&lt;p&gt;Greetings, fellow documentarians! The Portland conference is less than two months away, and we can’t wait to see you all soon! Here are the latest updates from the conference team to help you prepare.&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets-are-selling-out&quot;&gt;
+&lt;h2&gt;Tickets are selling out&lt;/h2&gt;
+&lt;p&gt;Every year we are amazed at the growing support of our community, and tickets have been selling out earlier each conference.
+We are now about &lt;strong&gt;85%&lt;/strong&gt; sold out, and judging from past events we do expect to be sold out within the next few weeks.&lt;/p&gt;
+&lt;p&gt;If you’re still on the fence, now is the time to decide and &lt;a class=&quot;reference external&quot; href=&quot;https://ti.to/writethedocs/write-the-docs-portland-2018/&quot;&gt;get your tickets&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;shirts-on-sale&quot;&gt;
+&lt;h2&gt;Shirts on sale&lt;/h2&gt;
+&lt;p&gt;As you probably noticed, we are not including shirts with your conference ticket this year.
+This is due partially to the logistics of sizing, ordering, and managing stock, but also because of the inevitable leftovers that we find ourselves with every year.&lt;/p&gt;
+&lt;p&gt;Inspired by our friends at DjangoCon US, we decided to shake things up and sell shirts separately, so you can buy exactly the fit and size that you want!
+You can now visit our Write the Docs Portland 2018 Pop-Up Shop and order this year’s branded shirt.
+The campaign will run until &lt;strong&gt;April 15th&lt;/strong&gt; to allow for timely delivery of your shirts ahead of the conference.&lt;/p&gt;
+&lt;p&gt;And don’t worry, you’ll still have a Write the Docs Portland 2018 souvenir from the conference even if you decide not to order a shirt.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;call-for-volunteers&quot;&gt;
+&lt;h2&gt;Call for volunteers&lt;/h2&gt;
+&lt;p&gt;There is plenty to do during the conference and volunteers are essential to the success of the conference. We are looking for folks who are willing to help out during the conference. If you volunteer for two or more shifts (clocking in at an average of three hours each), you will receive free registration for the conference.&lt;/p&gt;
+&lt;p&gt;We are looking for folks to help out in these roles:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Ballroom setup - Prepping the main conference hall for the main conference, including laying out cables/power strips, arranging tables/chairs, and other light physical labor&lt;/li&gt;
+&lt;li&gt;Writing day - Registering people and general information inquiries, most likely directions to various rooms and schedule questions, assist with other duties as assigned&lt;/li&gt;
+&lt;li&gt;Registration/Info - Registering people in the main conference hall and answering any questions&lt;/li&gt;
+&lt;li&gt;Speakers - Finding speakers and making sure that they’re where they need to be when it comes time to speak&lt;/li&gt;
+&lt;li&gt;Talk Timing - Keeping track of the length of the talks and warning speakers when they’re running out of time&lt;/li&gt;
+&lt;li&gt;Floaters - Other duties as assigned ;) Assisting with odds and ends requests from other volunteers and organizers as well as answering questions; overall, being generally helpful&lt;/li&gt;
+&lt;li&gt;A/V Troubleshooting - This on-call role will assist presenters at the time of their greatest need while on stage - issues with slides, video, or audio portions of their presentation. Please apply for this role if you have some A/V knowledge, experience troubleshooting different operating systems is a plus!&lt;/li&gt;
+&lt;li&gt;Unconference - Camping out in the unconference area downstairs, keeping the place in order, updating unconference room schedule, and so on&lt;/li&gt;
+&lt;li&gt;Job Fair setup/take down- Helping vendors set up their tables before the job fair, or helping with setting the room back for the preconferences that follow in the afternoon&lt;/li&gt;
+&lt;li&gt;Ballroom take down - What’s more fun than setting things up? Taking them down! Helping with taking down the conference set up and leaving the conference hall better than we found it&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you are interested in volunteering for the conference, please read and fill out the &lt;a class=&quot;reference external&quot; href=&quot;https://goo.gl/forms/MprOM1PfOAdD6TKG3&quot;&gt;Call for Volunteers form&lt;/a&gt;. You will receive additional information in early April regarding shifts, detailed duties, and other updates to the volunteer duties and schedules.&lt;/p&gt;
+&lt;p&gt;Please email Becky at &lt;a class=&quot;reference external&quot; href=&quot;mailto:b&amp;#46;yoose&amp;#37;&amp;#52;&amp;#48;gmail&amp;#46;com&quot;&gt;b&lt;span&gt;&amp;#46;&lt;/span&gt;yoose&lt;span&gt;&amp;#64;&lt;/span&gt;gmail&lt;span&gt;&amp;#46;&lt;/span&gt;com&lt;/a&gt; if you have any questions about volunteering for the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;welcome-to-our-newest-sponsors&quot;&gt;
+&lt;h2&gt;Welcome to our newest sponsors&lt;/h2&gt;
+&lt;p&gt;We’re glad to welcome another round of sponsors to the conference this year.
+Thanks sincerely to the following companies for joining our sponsor lineup and supporting the Write the Docs community:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.braintreepayments.com/&quot;&gt;Braintree&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.twilio.com/&quot;&gt;Twilio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.cncf.io/&quot;&gt;Cloud Native Computing Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We’re excited about the new Job Fair this year, along with the other normal sponsorship activities that we have had in past years.&lt;/p&gt;
+&lt;p&gt;If your company is hiring or looking to learn more from our community, you can find for information for &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/sponsors/prospectus/&quot;&gt;Portland&lt;/a&gt; and &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/&quot;&gt;Prague&lt;/a&gt; sponsorships.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;prague-conference-launch&quot;&gt;
+&lt;h2&gt;Prague conference launch&lt;/h2&gt;
+&lt;p&gt;In case you can’t make it to this year’s Portland conference, or if you can’t get enough of Write the Docs, we’re happy to announce that ticket sales and call for proposals are now open for &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/&quot;&gt;our Prague conference, September 9-11&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/portland-2018/atom.xml">
+    <title type="text">Full speaker line-up</title>
+    <id>https://www.writethedocs.org/conf/portland/2018/news/announcing-speakers/</id>
+    <updated>2018-02-20T00:00:00Z</updated>
+    <published>2018-02-20T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2018/news/announcing-speakers/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;p&gt;Happy Tuesday everybody!&lt;/p&gt;
+&lt;p&gt;We’re writing today with an update on the fast-approaching Portland conference!&lt;/p&gt;
+&lt;p&gt;First off, we’re delighted to announce that we’ve finalized our speakers for the event! Every year talk selection gets more and more difficult as we get a larger, stronger batch of submissions. Thank you so much to everyone who took the time to send us a pitch –&amp;nbsp;we literally wouldn’t have an event without you!&lt;/p&gt;
+&lt;p&gt;We also have some info about ticket purchasing (now’s the time!), trip planning (Portland’s cool!), and our generous sponsors (want to join them?). Read on for more details!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;full-speaker-line-up&quot;&gt;
+
+&lt;p&gt;Every year, we look to bring a wide range of voices to the Write the Docs stage. Because the role of “documentarian” looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure. We’re really excited about the presentations we’re going hear this year –&amp;nbsp;we hope you are too!&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Ashleigh Rentz – &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-ashleigh-rentz&quot;&gt;The Facts About FAQs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Beth Aitman – &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-beth-aitman&quot;&gt;Who Writes the Docs?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bob Watson – &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-bob-watson&quot;&gt;Audience, Market, Product: Tips for strategic API documentation planning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Brian MacDonald – &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-brian-macdonald&quot;&gt;Writing the Next Great Tech Book&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Camille Acey – &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-camille-acey&quot;&gt;Rewrite the Docs!: Field Notes from the Radical IT department&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Erin Grace – &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-erin-grace&quot;&gt;Document Yourself: Practical Tips for a Low(er)-Stress Portfolio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Erin McKean – &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-erin-mckean&quot;&gt;What Writing Dictionaries Taught Me About Writing Documentation (And What I Had to Unlearn)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Havi Hoffman – &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-havi-hoffman&quot;&gt;Not the Docs: content and voice on a developer blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jen Lambourne – &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-jen-lambourne&quot;&gt;Research like you’re wrong: Lessons from user research gone rogue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kat King – &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-kat-king&quot;&gt;Building Empathy-Driven Developer Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Larry Ullman – &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-larry-ullman&quot;&gt;Making Your Code Examples Shine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Neal Kaplan – &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-neal-kaplan&quot;&gt;Where do I start? The art and practice of documentation triage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sarah Day – &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-sarah-day&quot;&gt;Starting from Scratch: Finding and Hiring Junior Writers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Steve Stegelin – &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-steve-stegelin&quot;&gt;Graphic Content Warning: The Pros, Cons, and Alternatives to Screenshots&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ted Hudek – &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-ted-hudek&quot;&gt;7 Essential Tips for the Enlightened Tech Writer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Thursday Bram – &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-thursday-bram&quot;&gt;What They Don’t Tell You About Creating New Style Guides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can head over to the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/speakers/&quot;&gt;Speakers page&lt;/a&gt; to see the full abstracts. We hope there’s something there for everyone to enjoy, and also something that will stretch your horizons a bit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets-are-going-fast&quot;&gt;
+&lt;h1&gt;Tickets are going fast!&lt;/h1&gt;
+&lt;p&gt;If you don’t have your ticket yet, now’s a great time to snap one up. Conference tickets have sold out for the last several years, so if you’re planning to come, don’t leave it to the last minute.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/tickets/&quot;&gt;Buy your tickets here!&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;planning-your-trip&quot;&gt;
+&lt;h1&gt;Planning your trip&lt;/h1&gt;
+&lt;p&gt;In the next few weeks, we’ll be announcing more details about the conference events, including the full schedule, annual hike on Saturday afternoon, writing day and reception on Sunday, and official party on Monday evening. But on top of that, there’s ALL SORTS of stuff to do in Portland.&lt;/p&gt;
+&lt;p&gt;We’ve got a couple of excellent volunteers – Mo Nishiyama and Alicia Duncan –&amp;nbsp;who are heading up our Explore Portland committee. They’re already hard at work putting together resources to help you plan your visit! Check out the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/visiting/&quot;&gt;Visit Portland&lt;/a&gt; page on the conference website, or pop into the &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.slack.com/messages/wtd-conferences&quot;&gt;#wtd-conferences&lt;/a&gt; channel on Slack to ask a question.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;thanks-to-our-sponsors&quot;&gt;
+&lt;h1&gt;Thanks to our sponsors&lt;/h1&gt;
+&lt;p&gt;We are so grateful to have our sponsors help in bringing these events to life every year. Thanks sincerely to the following companies for supporting the Write the Docs community:&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://cloud.oracle.com/iaas&quot;&gt;Oracle&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.google.com/&quot;&gt;Google&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://developer.mozilla.org/en-US/&quot;&gt;Mozilla&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.redhat.com/en&quot;&gt;Red Hat&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.kayako.com/&quot;&gt;Kayako&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.travis-ci.com/&quot;&gt;Travis CI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.cisco.com/&quot;&gt;Cisco DevNet&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.stickermule.com/supports/opensource&quot;&gt;StickerMule&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Want to lend a hand? Head over to our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/sponsors/prospectus/&quot;&gt;sponsorship prospectus&lt;/a&gt; for details on how your company can get involved! We have several types of sponsorship available, including the option to participate in a new job fair that we’ll be hosting on Tuesday.&lt;/p&gt;
+&lt;p&gt;And that’s the latest on the Portland conference. We hope you’re all getting as excited as we are! Stay tuned for more details.&lt;/p&gt;
+&lt;p&gt;The Write the Docs Team&lt;/p&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/portland-2018/atom.xml">
+    <title type="text">CFP Reminder &amp; Ticket Sales Open</title>
+    <id>https://www.writethedocs.org/conf/portland/2018/news/cfp-reminder/</id>
+    <updated>2018-01-04T00:00:00Z</updated>
+    <published>2018-01-04T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2018/news/cfp-reminder/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;cfp-reminder-ticket-sales-open&quot;&gt;
+
+&lt;p&gt;Happy New Year, fellow documentarians!&lt;/p&gt;
+&lt;p&gt;Now that we’ve crossed&amp;nbsp;the threshold into 2018, the Portland Write the Docs conference is suddenly feeling &lt;em&gt;much&lt;/em&gt; closer! Our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/cfp/&quot;&gt;call for proposals closes next Wednesday&lt;/a&gt;, and &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/tickets/&quot;&gt;tickets for the conference are officially on sale&lt;/a&gt;. Read on for more details on both!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;submit-your-talk-by-wednesday&quot;&gt;
+&lt;h2&gt;Submit your talk by Wednesday&lt;/h2&gt;
+&lt;p&gt;With the deadline for submissions coming up on &lt;strong&gt;Wednesday, January 10th at midnight PST&lt;/strong&gt;, there’s just a few days left to &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/cfp/#submit-your-proposal&quot;&gt;propose a talk&lt;/a&gt; for Write the Docs Portland!&lt;/p&gt;
+&lt;p&gt;If you’re interested or already working on pitching a talk, make sure you review the full &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/cfp/&quot;&gt;call for proposals&lt;/a&gt;. And if you’ve already got an idea, but you’re having a hard time getting your proposal to come together, you can always ask for feedback on the &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/slack/&quot;&gt;WTD Slack&lt;/a&gt;. The community is there to help!&lt;/p&gt;
+&lt;p&gt;As always, we’re eagerly looking forward to &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/cfp/#submit-your-proposal&quot;&gt;your submissions&lt;/a&gt;! We’ll be reviewing all the talk proposals later this month, and announcing the full conference schedule in February.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;get-your-ticket-for-the-conference&quot;&gt;
+&lt;h2&gt;Get your ticket for the conference&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The Portland conference will be returning to the Crystal Ballroom on May 6-8, 2018.&lt;/strong&gt; The &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/&quot;&gt;event website&lt;/a&gt; is up, with some preliminary details, and we’ll be filling in more, as it gets closer. We’re already excited to see what this year has in store!&lt;/p&gt;
+&lt;p&gt;If you’re excited too, it might interest you to know that &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/&quot;&gt;ticket sales are now live&lt;/a&gt;! For the last several years the conference has sold out, so it doesn’t hurt to buy early.&lt;/p&gt;
+&lt;p&gt;We’d like to thank &lt;strong&gt;Google&lt;/strong&gt; for coming on board as our first big sponsor for the conference. If your company would be interested in sponsoring, check out &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/sponsors/prospectus/&quot;&gt;our prospectus for details on the different packages&lt;/a&gt; and drop us a line at &lt;a class=&quot;reference external&quot; href=&quot;mailto:sponsorship&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;sponsorship&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;One small change to make note of – we’re switching up conference swag this year! Instead of our traditional t-shirts, your ticket will include a fresh new rendition of branded WTD swag. Stay tuned for more details!&lt;/p&gt;
+&lt;p&gt;Looking forward to seeing y’all in Portland!&lt;/p&gt;
+&lt;p&gt;The Write the Docs Team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/portland-2018/atom.xml">
+    <title type="text">Announcing Write the Docs Portland CFP &amp; Website</title>
+    <id>https://www.writethedocs.org/conf/portland/2018/news/welcome/</id>
+    <updated>2017-11-15T00:00:00Z</updated>
+    <published>2017-11-15T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2018/news/welcome/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;announcing-write-the-docs-portland-cfp-website&quot;&gt;
+
+&lt;p&gt;Welcome to the official launch of &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/&quot;&gt;Write the Docs Portland 2018&lt;/a&gt;. We hope you’re getting excited – we certainly are! It’s shaping up to be another wonderful year full of great conversations and interesting talks.&lt;/p&gt;
+&lt;p&gt;Today we are announcing our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/cfp/&quot;&gt;Call for Proposals&lt;/a&gt;
+and &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/&quot;&gt;new website&lt;/a&gt;.
+Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians.
+If there is something you’d really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;id1&quot;&gt;
+&lt;h2&gt;Call for Proposals&lt;/h2&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/portland/2018/news/welcome.rst&lt;/tt&gt;, line 17); &lt;em&gt;&lt;a href=&quot;#id1&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “call for proposals”.&lt;/div&gt;
+&lt;p&gt;Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you’ve been writing documentation for decades or you’ve just started this year, we want to hear from you!&lt;/p&gt;
+&lt;p&gt;You can read our full &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/cfp/&quot;&gt;Call for Proposals&lt;/a&gt; on the website.
+The Call for Proposals will be open until &lt;strong&gt;Midnight PST January 10, 2018&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;website&quot;&gt;
+&lt;h2&gt;Website&lt;/h2&gt;
+&lt;p&gt;As a part of our continuous optimization efforts, we are excited to introduce an even friendlier, more navigable online home for our event. We have a new &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/&quot;&gt;conference website&lt;/a&gt; design this year.&lt;/p&gt;
+&lt;p&gt;As with all things on the web, there are likely to be a few lingering bugs with the design. Feel free to reach out to us by replying to the email, or emailing us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:support&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;support&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt; if you see any issues!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;tickets&quot;&gt;
+&lt;h2&gt;Tickets&lt;/h2&gt;
+&lt;p&gt;Tickets will officially go on sale in &lt;strong&gt;January 2018&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class=&quot;system-message&quot;&gt;
+&lt;p class=&quot;system-message-title&quot;&gt;System Message: INFO/1 (&lt;tt class=&quot;docutils&quot;&gt;/home/runner/work/writethedocs/writethedocs/docs/conf/portland/2018/news/welcome.rst&lt;/tt&gt;, line 7); &lt;em&gt;&lt;a href=&quot;#id2&quot;&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate implicit target name: “tickets”.&lt;/div&gt;
+&lt;p&gt;In the meantime, you can see our 2018 ticket prices on our &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/tickets/&quot;&gt;Tickets&lt;/a&gt; page. As with the previous years, we have tiered pricing to make it fair for everyone. Please buy the ticket that best fits your situation.&lt;/p&gt;
+&lt;p&gt;We keep ticket prices low so that it is accessible to the widest range of people possible. However, if you can’t afford these prices and still wish to attend, please email us at &lt;a class=&quot;reference external&quot; href=&quot;mailto:portland&amp;#37;&amp;#52;&amp;#48;writethedocs&amp;#46;org&quot;&gt;portland&lt;span&gt;&amp;#64;&lt;/span&gt;writethedocs&lt;span&gt;&amp;#46;&lt;/span&gt;org&lt;/a&gt;, and we can see how we can help.&lt;/p&gt;
+&lt;p&gt;We will also open a call for volunteers and organizers soon, both of which are great opportunities to get involved with the community and also receive a free ticket.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;stay-updated&quot;&gt;
+&lt;h2&gt;Stay Updated&lt;/h2&gt;
+&lt;p&gt;Want to find out what’s happening with the conference, or enjoy our monthly global community newsletter?
+Sign up to one or more of our &lt;a class=&quot;reference external&quot; href=&quot;http://eepurl.com/cdWqc5&quot;&gt;mailing lists&lt;/a&gt;. Your information will never be shared with any third-parties, and you can unsubscribe at any time.&lt;/p&gt;
+&lt;p&gt;Want to connect with other documentarians in real-time? Join our &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.org/slack/&quot;&gt;Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;conclusion&quot;&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;We hope you will join us in Portland for the sixth annual Write the Docs conference.
+Whether as a speaker or attendee, you can bet it will be another delightful year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

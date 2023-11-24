@@ -1,0 +1,739 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged portland-2023</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/portland-2023/atom.xml</id>
+  <updated>2023-05-18T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/"/>
+  <link href="https://www.writethedocs.org/blog/archive/tag/portland-2023/atom.xml" rel="self"/>
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/portland-2023/atom.xml">
+    <title type="text">Conference videos, photos, and info to keep in touch</title>
+    <id>https://www.writethedocs.org/conf/portland/2023/news/thanks-recap/</id>
+    <updated>2023-05-18T00:00:00Z</updated>
+    <published>2023-05-18T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2023/news/thanks-recap/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="conference-videos-photos-and-info-to-keep-in-touch"&gt;
+
+&lt;p&gt;Hey everyone,&lt;/p&gt;
+&lt;p&gt;Our team is now emerging from the post-conference
+recovery period, and we wanted to send out a quick message to thank
+everyone for helping to make our conference such a
+success. We appreciate everyone who makes the conference possible:
+speakers, sponsors, organizers, and attendees alike!&lt;/p&gt;
+&lt;p&gt;Its especially gratifying to see so many folks join us in what has been a really tough year so for many,
+and in our first in-person conference in 4 years!&lt;/p&gt;
+&lt;div class="section" id="conference-recap"&gt;
+&lt;h2&gt;Conference recap&lt;/h2&gt;
+&lt;p&gt;At almost &lt;strong&gt;350 attendees&lt;/strong&gt; this conference was another smashing success!
+We had the usual mix of talks on the main stage along with Q&amp;amp;A,
+lightning talks, unconference sessions,
+writing sprints, social event, and sponsor expo.
+We thought everything went pretty smoothly this year, even getting used to a new venue.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="talk-videos"&gt;
+&lt;h2&gt;Talk videos&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.youtube.com/playlist?list=PLZAeFn6dfHpneQPsDWa4OmEpgW4pNiaZ2"&gt;Videos of the talks&lt;/a&gt; are now available on YouTube. This
+includes all conference talks with Q&amp;amp;A, as well as the lightning talks.
+You can also subscribe to our &lt;a class="reference external" href="https://www.youtube.com/writethedocs"&gt;YouTube channel&lt;/a&gt; so you don&amp;#8217;t miss any future content.&lt;/p&gt;
+&lt;p&gt;Thanks again to all our presenters, moderator, and folks who asked wonderful questions!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="conference-photos"&gt;
+&lt;h2&gt;Conference photos&lt;/h2&gt;
+&lt;p&gt;We have photos from the event available &lt;a class="reference external" href="https://www.flickr.com/photos/writethedocs/albums/72177720308088427"&gt;on Flickr&lt;/a&gt;, thanks to our wonderful photographer &lt;a class="reference external" href="https://twitter.com/goatlady"&gt;Kay&lt;/a&gt;!
+We really love the photos each year, and you&amp;#8217;re welcome to use them for non-commercial purposes, such as conference write ups, as per our &lt;a class="reference external" href="https://creativecommons.org/licenses/by-nc-sa/2.0/"&gt;Creative Commons License&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="come-see-us-at-our-atlantic-or-australia-conferences"&gt;
+&lt;h2&gt;Come see us at our Atlantic or Australia conferences&lt;/h2&gt;
+&lt;p&gt;Don&amp;#8217;t forget our &lt;a class="reference external" href="https://www.writethedocs.org/conf/atlantic/2023/"&gt;Atlantic virtual conference&lt;/a&gt; on &lt;strong&gt;September 10-12&lt;/strong&gt;, and our
+&lt;a class="reference external" href="https://www.writethedocs.org/conf/australia/2023/"&gt;Australia in-person conference&lt;/a&gt; on &lt;strong&gt;December 7-8&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;re also looking for more sponsors to make our other events just as
+magical as this year&amp;#8217;s Portland event. You can see all our &lt;a class="reference external" href="https://www.writethedocs.org/sponsorship/"&gt;sponsorship options&lt;/a&gt; on our website.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="join-our-slack-network"&gt;
+&lt;h2&gt;Join our Slack Network&lt;/h2&gt;
+&lt;p&gt;Our Slack network has really grown over the past few years.
+It has been extra busy in the days and weeks leading up to the conference,
+and we hope that y&amp;#8217;all continue the conversations throughout the year.&lt;/p&gt;
+&lt;p&gt;If you haven&amp;#8217;t joined, now is the time!
+Check out the &lt;a class="reference external" href="http://www.writethedocs.org/slack/"&gt;Write the Docs Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="subscribe-to-our-newsletter"&gt;
+&lt;h2&gt;Subscribe to our Newsletter&lt;/h2&gt;
+&lt;p&gt;Our &lt;a class="reference external" href="http://writethedocs.org/newsletter/"&gt;monthly newsletter&lt;/a&gt; is the other place to keep track of everything
+that is happening with the community. Subscribe to make sure you hear
+about all the conferences, meetups, job postings, and summaries of
+relevant conversations in our Slack.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="join-a-meetup"&gt;
+&lt;h2&gt;Join a meetup&lt;/h2&gt;
+&lt;p&gt;We hope you continue to &lt;a class="reference external" href="http://www.writethedocs.org/meetups/"&gt;build the meetup community&lt;/a&gt; and keep in touch
+with other documentarians near your hometown. We have a number of
+meetups in cities across the country, and if you don&amp;#8217;t see your city
+listed consider &lt;a class="reference external" href="http://www.writethedocs.org/organizer-guide/meetups/starting/"&gt;starting&lt;/a&gt; a meetup!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="code-of-conduct-transparency-report"&gt;
+&lt;h2&gt;Code of Conduct transparency report&lt;/h2&gt;
+&lt;p&gt;As with any Write the Docs event,
+this conference was covered by our &lt;a class="reference external" href="https://www.writethedocs.org/code-of-conduct/"&gt;community Code of Conduct&lt;/a&gt;.
+We aim to be as transparent with CoC incidents and enforcement as we can.&lt;/p&gt;
+&lt;p&gt;To ensure that our CoC was visible and accessible, we took a number of specific steps:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Every participant agreed to the Code of Conduct in advance during registration.&lt;/li&gt;
+&lt;li&gt;The CoC, or a summary, was included on the conference website and around the venue.&lt;/li&gt;
+&lt;li&gt;The CoC was repeatedly mentioned in our conference introduction and announcements.&lt;/li&gt;
+&lt;li&gt;We specifically stressed that the CoC applies to all conference spaces including the social event.&lt;/li&gt;
+&lt;li&gt;We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;None of our organizers were approached about any CoC concerns at this event.
+We know that this is, in part, a reflection of the thoughtful and inclusive community that we&amp;#8217;re so lucky to have.&lt;/p&gt;
+&lt;p&gt;That being said, we&amp;#8217;re also very conscious of the fact that just because
+nothing was reported doesn&amp;#8217;t mean nothing happened. If there was any personal
+conduct or other aspect of the conference experience that did not meet the
+expectations of behavior set out in the CoC, please email us at
+&lt;a class="reference external" href="mailto:conduct%40writethedocs.org"&gt;conduct&lt;span&gt;@&lt;/span&gt;writethedocs&lt;span&gt;.&lt;/span&gt;org&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="thanks-again"&gt;
+&lt;h2&gt;Thanks again&lt;/h2&gt;
+&lt;p&gt;Thanks so much to the following companies for supporting the Portland conference this year:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.mongodb.com/"&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://redoc.ly/"&gt;Redocly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.jetbrains.com/"&gt;JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.bloomberg.com/company/careers/working-here/engineering/"&gt;Bloomberg Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.knowledgeowl.com"&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.raspberrypi.com/"&gt;Raspberry Pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://about.readthedocs.com/"&gt;Read the Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.netlify.com/"&gt;Netlify&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;We&amp;#8217;re so grateful to our sponsors, speakers, volunteers, and attendees
+for making this conference possible. Whether you were able to come out
+this time or not, we hope to see you again next year - or
+even sooner at one of our other events!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/portland-2023/atom.xml">
+    <title type="text">Welcome to Write the Docs Portland 2023</title>
+    <id>https://www.writethedocs.org/conf/portland/2023/news/welcome-get-ready/</id>
+    <updated>2023-05-01T00:00:00Z</updated>
+    <published>2023-05-01T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2023/news/welcome-get-ready/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="welcome-to-write-the-docs-portland-2023"&gt;
+
+&lt;p&gt;We&amp;#8217;re 1 week out from the conference, and we hope everyone is getting excited!&lt;/p&gt;
+&lt;p&gt;In this update we discuss a change to the hike, share details on the livestream, and a few other updates as the conference approaches.&lt;/p&gt;
+&lt;div class="section" id="hike-reroute"&gt;
+&lt;h2&gt;Hike Reroute&lt;/h2&gt;
+&lt;p&gt;Unfortunately the trail that we were planning to hike is currently closed due to spring rain.
+This means that we&amp;#8217;ll hike &amp;#8220;out and back&amp;#8221; from Lower Macleay Trailhead to Pittock Mansion, and returning to the starting point.
+Options for public transit to and from the starting point are a bit limited,
+so we will work to ensure folks have a ride, or can get a ride share back to your accommodation.&lt;/p&gt;
+&lt;p&gt;See more information on the &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/outing/"&gt;Hike page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="live-streaming"&gt;
+&lt;h2&gt;Live streaming&lt;/h2&gt;
+&lt;p&gt;If you can&amp;#8217;t attend the conference in person, we will be broadcasting all the main stage presentations on our &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/livestream/"&gt;Livestream page&lt;/a&gt; .
+You can join the #live-streaming channel on Slack to connect with other remote attendees, ask questions, and troubleshoot technical issues with the stream.
+We are excited that folks can watch the conference talks from anywhere in the world with an internet connection!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="things-to-prepare-for"&gt;
+&lt;h2&gt;Things to prepare for&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Read the Welcome Wagon Guide.&lt;/strong&gt; Our &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/welcome-wagon/"&gt;Welcome Wagon Guide&lt;/a&gt; is full of information on how to get the most out of the conference. There will also be a few Welcome Wagon events that will help you learn more about the conference.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Read the Visiting Portland information&lt;/strong&gt;. Our &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/visiting/"&gt;Visiting Portland&lt;/a&gt; page contains all the information you need for finding food, transit, and other things to do while you&amp;#8217;re in town.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Review the schedule.&lt;/strong&gt; The &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/schedule/"&gt;Schedule page&lt;/a&gt; has the latest and most complete information about the presentations. This is where we will also update any changes/cancellations if they occur.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Review the Code of Conduct.&lt;/strong&gt; We have a wonderful community full of diverse and amazing people. We expect everyone to behave in a respectful manner at all conference events and online channels. Our &lt;a class="reference external" href="https://www.writethedocs.org/code-of-conduct/"&gt;Code of Conduct&lt;/a&gt; has the full information.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Review our Health &amp;amp; Safety policy&lt;/strong&gt;. Please read over our &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/health/"&gt;Health and Safety policy&lt;/a&gt;, so you understand the measures we&amp;#8217;re taking to keep our attendees safe. If you&amp;#8217;re attending the conference, please also upload your vaccination card to your tickets (see the email you received via our registration provider, Tito, for instructions).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="get-involved-at-the-conference"&gt;
+&lt;h2&gt;Get involved at the conference&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Join us on the hike&lt;/strong&gt;. If you&amp;#8217;re in town early, join us on Saturday for our traditional &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/outing/"&gt;hike&lt;/a&gt;. This activity is a great chance to get to know your fellow documentarians in a smaller setting. The hike is free with your conference ticket, but space is limited!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Host a table or participate in Writing Day.&lt;/strong&gt; The &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/writing-day/"&gt;Writing Day&lt;/a&gt;
+will be held on Sunday from &lt;em&gt;9am-5pm&lt;/em&gt;, with a reception afterwards.
+You can drop in at any time during the day. If you have a project you
+want to propose to others, you can pitch your topic during the
+welcome announcement that morning.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Welcome reception.&lt;/strong&gt; The meet-and-greet event will be held on Sunday from &lt;em&gt;5pm-7pm&lt;/em&gt;. You can pick up your badge and enjoy a couple of drinks and snacks on us. This is a great chance to meet your fellow documentarians before the conference starts, and beat the Monday morning rush.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plan an unconference session.&lt;/strong&gt; We&amp;#8217;ll be running the &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/unconference/"&gt;Unconference&lt;/a&gt;
+all day Monday and Tuesday. Want to chat with like-minded folks about
+a very specific thing? This is the place. We&amp;#8217;ll have a sign-up board
+so you know what&amp;#8217;s happening, and supplies to help you brainstorm.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plan a lightning talk.&lt;/strong&gt; We&amp;#8217;ll have &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/lightning-talks/"&gt;Lightning Talks&lt;/a&gt;
+each day after lunch. These are 5 minute presentations and a lot of
+fun. They can be about anything you want. This is your chance to
+share something you are passionate about with the audience. Slides
+are not required.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Join us at the Monday night social.&lt;/strong&gt; This is an event just for conference attendees, held on &lt;em&gt;Monday evening from 7pm-9pm&lt;/em&gt;, with free snacks and drinks. It will be held at Loyal Legion (710 SE 6th Ave) with good non-alcoholic beverage options, as well as alcoholic.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/schedule/"&gt;Schedule page&lt;/a&gt; has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="thanks-to-our-sponsors"&gt;
+&lt;h2&gt;Thanks to our sponsors&lt;/h2&gt;
+&lt;p&gt;Thanks to our sponsors for supporting the conference again this year:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.mongodb.com/"&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://redoc.ly/"&gt;Redocly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.jetbrains.com/"&gt;JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.bloomberg.com/company/careers/working-here/engineering/"&gt;Bloomberg Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.knowledgeowl.com"&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.raspberrypi.com/"&gt;Raspberry Pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://about.readthedocs.com/"&gt;Read the Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.netlify.com/"&gt;Netlify&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;We hope you&amp;#8217;ll have a chance to chat with them at the Sponsor Expo on Tuesday morning.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="see-you-soon"&gt;
+&lt;h2&gt;See you soon!&lt;/h2&gt;
+&lt;p&gt;We&amp;#8217;re excited about the conference and can&amp;#8217;t wait to see you all in Portland!&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;The Write the Docs team&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/portland-2023/atom.xml">
+    <title type="text">Write the Docs &lt;3&#8217;s open source</title>
+    <id>https://www.writethedocs.org/conf/portland/2023/news/writing-day-announcement/</id>
+    <updated>2023-04-05T00:00:00Z</updated>
+    <published>2023-04-05T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2023/news/writing-day-announcement/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="write-the-docs-3-s-open-source"&gt;
+
+&lt;p&gt;Dear open source friends,&lt;/p&gt;
+&lt;p&gt;Send us your developer advocates, community managers, and projects. Tell them of Writing Day
+and invite them to join us!&lt;/p&gt;
+&lt;p&gt;In case this is the first time you&amp;#8217;re hearing about the Write the Docs conference or you&amp;#8217;re
+unfamiliar with Writing Day, we got you:&lt;/p&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;&lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/"&gt;Write the Docs&lt;/a&gt;&lt;/dt&gt;&lt;dd&gt;The conference focused on all things related to software documentation&lt;/dd&gt;
+&lt;dt&gt;&lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/writing-day/"&gt;Writing Day&lt;/a&gt;&lt;/dt&gt;&lt;dd&gt;Is modeled after the concept of &amp;#8220;code sprints&amp;#8221; or &amp;#8220;hackathons&amp;#8221;, which are common in open-source conferences &amp;#8211; getting a bunch of
+people together and have them work towards a shared goal, such as creating or improving documentation.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;The Write the Docs conference has many enthusiastic attendees. These attendees, documentarians, want to learn new
+technologies, sharpen their skills, and add to their portfolios. The world of open source has a seemingly endless
+number of wonderful open source projects. Documentarians want to write the docs, your open source project docs.&lt;/p&gt;
+&lt;p&gt;It&amp;#8217;s a match made at Write the Docs!&lt;/p&gt;
+&lt;p&gt;But wait, there&amp;#8217;s more! This year we have created swag bags, filled with one of a kind items. We&amp;#8217;ll be gifting them
+to the project representatives who attend as a thank you.&lt;/p&gt;
+&lt;div class="section" id="get-involved-with-writing-day"&gt;
+&lt;h2&gt;Get involved with Writing Day!&lt;/h2&gt;
+&lt;p&gt;Ready to get involved?! &lt;a class="reference external" href="https://forms.gle/NNBzBCwjdB2vF7ZeA"&gt;Submit your project&lt;/a&gt; and we&amp;#8217;ll
+add it to our &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/writing-day/#project-listing"&gt;Writing Day project list&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Need help convincing your OSS project community or corporate benefactors on the benefits of attending Writing Day? See &lt;a class="reference internal" href="https://www.writethedocs.org/conf/portland/2023/news/writing-day-announcement/#writing-day-case"&gt;&lt;span class="std std-ref"&gt;Make a case for Writing Day&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="section" id="maximize-your-experience"&gt;
+&lt;h3&gt;Maximize your experience&lt;/h3&gt;
+&lt;p&gt;We want you to have a great experience as a project and community. We have found that the projects who
+get the most value out of Writing Day came prepared in the following ways:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Writing Day label&lt;/strong&gt;: Creating a specific event label allows you to identify tasks and issues that are good for new contributors.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pre-labeled tasks and issues&lt;/strong&gt;: Labeling the documentation tasks and issues empowers new contributors
+to find tasks that interest them.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Task filter&lt;/strong&gt;: Creating a task filter helps contributors find issues more easily and see which issues have been assigned.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clear onboarding&lt;/strong&gt;: Ensuring your ReadMe, contribution guidelines, or onboarding instructions are accurate and up to date.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Specific focus or goals&lt;/strong&gt;: Projects that clearly define a focus area or a goal for their Writing Day tasks have
+an advantage when it comes to enticing attendees to work on their project.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project overview&lt;/strong&gt;: Your project overview is a quick pitch that describes your project and what you&amp;#8217;re hoping to
+get out of Writing Day, such as your goals or focus. Need some ideas? Here&amp;#8217;s a good example from Writing Day 2022, the &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2022/writing-day/#open-web-docs"&gt;Open Web Docs&lt;/a&gt; project.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Writing Day project list&lt;/strong&gt;: Adding your project to the &lt;a class="reference external" href="https://forms.gle/NNBzBCwjdB2vF7ZeA"&gt;Writing Day project list&lt;/a&gt; promotes
+your project to our attendees before the event. Many attendees have told us that their curiosity about certain projects
+incentivised their attendance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project experts&lt;/strong&gt;: We recommend having 1-2 project experts of some kind at Writing day. We love our developer advocates, community
+managers, and subject matter experts! You&amp;#8217;re welcome to call for virtual reinforcements from your community as well.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Remember, these are suggestions and not requirements. It is perfectly valid to show up to Writing Day the day of, tell us about
+your project, and ask for volunteers! It&amp;#8217;s been done before and it will be done again.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Reminder&lt;/strong&gt;: Documentarians have a variety of backgrounds and may need additional info to be successful in onboarding to your project!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="make-a-case-for-writing-day"&gt;
+&lt;span id="writing-day-case"&gt;&lt;/span&gt;&lt;h2&gt;Make a case for Writing Day&lt;/h2&gt;
+&lt;p&gt;Write the Docs conferences bring together everyone who writes the docs &amp;#8211; tech writers, developers, developer relations,
+customer support &amp;#8211; making the event an ideal networking opportunity.&lt;/p&gt;
+&lt;p&gt;Writing Day is a community event modeled after the concept of &amp;#8220;code sprints&amp;#8221; or &amp;#8220;hackathons&amp;#8221;, which are common in open-source
+conferences. The idea is to get a bunch of people together and have them work towards a shared goal, in this case the goal is
+creating or improving documentation.&lt;/p&gt;
+&lt;p&gt;This event introduces your project and community to a new audience in your industry. These attendees, documentarians, want to
+learn new technologies, sharpen their skills, and add to their portfolios. They come to your projects with their own experience
+and expertise in areas such as technical writing and editing, user experience and research, and customer support. Their collective
+wealth of experience can help you upgrade your project documentation and create a more inclusive project.&lt;/p&gt;
+&lt;p&gt;The truth is that it benefits your open source projects and your communities just as much as our attendees.
+This empowers all of us to work together to create opportunities for each other and bigger, better communities.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="final-thoughts"&gt;
+&lt;h2&gt;Final thoughts&lt;/h2&gt;
+&lt;p&gt;Writing Day is awesome and we hope to see you there!&lt;/p&gt;
+&lt;p&gt;You can email us at &lt;a class="reference external" href="mailto:portland%40writethedocs.org"&gt;portland&lt;span&gt;@&lt;/span&gt;writethedocs&lt;span&gt;.&lt;/span&gt;org&lt;/a&gt; with any questions.&lt;/p&gt;
+&lt;p&gt;With love,
+Rose W and the Write the Docs organizing team &amp;lt;3&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/portland-2023/atom.xml">
+    <title type="text">Announcing Full Schedule</title>
+    <id>https://www.writethedocs.org/conf/portland/2023/news/announcing-schedule/</id>
+    <updated>2023-03-27T00:00:00Z</updated>
+    <published>2023-03-27T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2023/news/announcing-schedule/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="announcing-full-schedule"&gt;
+
+&lt;p&gt;Hey folks!&lt;/p&gt;
+&lt;p&gt;The Portland conference is less than two months away, and we&amp;#8217;re busy making things happen behind the scenes, and remembering how in-person conferences work again.&lt;/p&gt;
+&lt;p&gt;You&amp;#8217;ve already seen our list of awesome speakers, now we can also show you the schedule so you know when they will be presenting!&lt;/p&gt;
+&lt;div class="section" id="full-presentation-schedule"&gt;
+&lt;h2&gt;Full presentation schedule&lt;/h2&gt;
+&lt;p&gt;The conference website is now updated with the &lt;a class="reference internal" href="https://www.writethedocs.org/conf/portland/2023/schedule/"&gt;&lt;span class="doc"&gt;schedule&lt;/span&gt;&lt;/a&gt; for the main stage presentations, so you can start planning your time (and getting excited!) for the conference.&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;re learning and adapting from our virtual events from the past few years, so we&amp;#8217;re introducing a moderated Q&amp;amp;A session after each speaker. You&amp;#8217;ll have a chance to ask most of our speakers questions after the talk via our wonderful set of moderators.&lt;/p&gt;
+&lt;p&gt;Now is a great time to buy your &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/tickets/"&gt;tickets&lt;/a&gt; if you haven&amp;#8217;t already.
+Also please read over our &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/health/"&gt;Health and Safety policy&lt;/a&gt;,
+so you understand the measures we&amp;#8217;re taking to keep our attendees safe.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="join-us-for-our-hike-again-this-year"&gt;
+&lt;h2&gt;Join us for our hike again this year&lt;/h2&gt;
+&lt;p&gt;We&amp;#8217;re reviving the traditional Pittock Mansion &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/outing/"&gt;hike&lt;/a&gt; on Saturday. This is a great way to experience the beauty that Portland holds within city limits, with a walk along a creek, a majestic view of Mount Hood, and finishing with a meader through Hoyt Arboritum with hundreds of different trees and plants.&lt;/p&gt;
+&lt;p&gt;The hike will be on  &lt;strong&gt;Saturday, May 6, 1 PM&lt;/strong&gt;. Please register a &lt;a class="reference external" href="https://ti.to/writethedocs/write-the-docs-portland-2023/with/hike-ticket"&gt;free ticket&lt;/a&gt; so we can contact you with any last minute weather and logistics information.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="start-thinking-about-writing-day"&gt;
+&lt;h2&gt;Start thinking about Writing Day&lt;/h2&gt;
+&lt;p&gt;Our pre-conference &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/writing-day/"&gt;Writing Day&lt;/a&gt; is happening on Sunday. It&amp;#8217;s a great chance to learn from other attendees, and get some contributors on a project you have in mind. There is also room for having discussions and showing off fun new tools you&amp;#8217;ve found.&lt;/p&gt;
+&lt;p&gt;If you have a project or are part of a community that you think would benefit from a writing sprint, start brainstorming now about what you might want to focus on.&lt;/p&gt;
+&lt;p&gt;If you&amp;#8217;d like us to include your project on the Writing Day page &lt;a class="reference external" href="https://forms.gle/NNBzBCwjdB2vF7ZeA"&gt;submit your project here&lt;/a&gt; or drop us an email at &lt;a class="reference external" href="mailto:portland%40writethedocs.org"&gt;portland&lt;span&gt;@&lt;/span&gt;writethedocs&lt;span&gt;.&lt;/span&gt;org&lt;/a&gt;. You are also welcome to show up on Sunday ready to introduce your project!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="t-shirts-are-now-available"&gt;
+&lt;h2&gt;T-shirts are now available&lt;/h2&gt;
+&lt;p&gt;The &lt;a class="reference external" href="https://shirt.writethedocs.org/"&gt;Write the Docs Portland 2023 Pop-Up Shop&lt;/a&gt; is open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want. As in previous years, we&amp;#8217;re doing the pop-up shop option so people can order the exact shirt they want, if they want one.&lt;/p&gt;
+&lt;p&gt;The campaign will run in batches until May 31st. Shipping is available from the USA or Europe. We recommend you order your shirt at least 2-3 weeks in advance if you want to sport your fancy new garb during the conference.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="all-our-events-and-activities"&gt;
+&lt;h2&gt;All our events and activities&lt;/h2&gt;
+&lt;p&gt;Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge.&lt;/p&gt;
+&lt;p&gt;The main events that you can participate in Monday &amp;amp; Tuesday are:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Lightning Talks.&lt;/strong&gt; We&amp;#8217;ll have &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/lightning-talks/"&gt;lightning talks&lt;/a&gt; each conference day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want! This is your chance to share something you are passionate about with the audience. Slides are not required.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unconference.&lt;/strong&gt; We&amp;#8217;ll be running the &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/unconference/"&gt;Unconference&lt;/a&gt; as our formal &amp;#8220;second track&amp;#8221; at the conference. This is a place to schedule discussions about a specific topic, so you can find other attendees who care about the same niche topics that you love. Want to chat with like-minded folks about oxford commas or a specific docs as code tool? This is the place.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social event&lt;/strong&gt;. On Monday night we&amp;#8217;ll be hosting a quiet social event. This is a great chance to get to know more folks in the community and have a drink or two on us. Non-alcoholic options will be very available, as well as some snacks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/schedule/"&gt;Schedule page&lt;/a&gt; has the latest and most complete information about all our events.
+This is where we will also update any changes/cancellations if they should occur.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="thanks-to-our-sponsors"&gt;
+&lt;h2&gt;Thanks to our sponsors&lt;/h2&gt;
+&lt;p&gt;Thanks to our sponsors for supporting the conference again this year.
+We&amp;#8217;ve excited to have them around the conference participating in a few different ways,
+and hope you get a chance to talk with them while you&amp;#8217;re here.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.mongodb.com/"&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://redoc.ly/"&gt;Redocly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.jetbrains.com/"&gt;JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.bloomberg.com/company/careers/working-here/engineering/"&gt;Bloomberg Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.knowledgeowl.com"&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.raspberrypi.com/"&gt;Raspberry Pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://about.readthedocs.com/"&gt;Read the Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.netlify.com/"&gt;Netlify&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;Head over to our &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/sponsors/prospectus/"&gt;sponsorship prospectus&lt;/a&gt; for details on how your company can get involved!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="see-you-soon"&gt;
+&lt;h2&gt;See you soon&lt;/h2&gt;
+&lt;p&gt;Thanks so much for all your support and enthusiasm! We&amp;#8217;re so excited to see you all soon!&lt;/p&gt;
+&lt;p&gt;The Write the Docs team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/portland-2023/atom.xml">
+    <title type="text">Announcing Portland conference speakers</title>
+    <id>https://www.writethedocs.org/conf/portland/2023/news/announcing-speakers/</id>
+    <updated>2023-02-22T00:00:00Z</updated>
+    <published>2023-02-22T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2023/news/announcing-speakers/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="announcing-portland-conference-speakers"&gt;
+
+&lt;p&gt;Our Portland conference is happening in just under 3 months, and we&amp;#8217;re excited to see everyone again in Portland.
+Now is a great time to start booking your tickets and travel,
+and we hope to see you soon.&lt;/p&gt;
+&lt;p&gt;The biggest announcement today is our speakers and talks for the conference.
+Thank you so much to everyone who took the time to send us a proposal;
+we literally wouldn&amp;#8217;t have an event without you!&lt;/p&gt;
+&lt;div class="section" id="full-speaker-line-up"&gt;
+&lt;h2&gt;Full speaker line-up&lt;/h2&gt;
+&lt;p&gt;Each year we bring a wide range of voices to the Write the Docs . Because the role of &amp;#8220;documentarian&amp;#8221; looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics &amp;#8211; with the odd whimsical one thrown in for good measure.&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;re really excited about the &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/speakers/"&gt;presentations&lt;/a&gt; we&amp;#8217;ve got this year:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference internal" href="https://www.writethedocs.org/conf/portland/2023/speakers/#speaker-alex-garnett-doing-data-driven-content-maintenance-alex-garnett"&gt;&lt;span class="std std-ref"&gt;Alex Garnett&lt;/span&gt;&lt;/a&gt;,  &lt;a class="reference internal" href="https://www.writethedocs.org/conf/portland/2023/speakers/#speaker-lauren-kiss-doing-data-driven-content-maintenance-alex-garnett"&gt;&lt;span class="std std-ref"&gt;Lauren Kiss&lt;/span&gt;&lt;/a&gt;: Doing Data-Driven Content Maintenance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference internal" href="https://www.writethedocs.org/conf/portland/2023/speakers/#speaker-dan-grabski-zen-and-the-art-of-automanually-creating-api-documentation-an-inquiry-into-pro-dan-grabski"&gt;&lt;span class="std std-ref"&gt;Dan Grabski&lt;/span&gt;&lt;/a&gt;: Zen And The Art Of Automanually Creating API Documentation - An Inquiry Into Process&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference internal" href="https://www.writethedocs.org/conf/portland/2023/speakers/#speaker-caitlin-davey-the-visuals-your-users-never-saw-wait-that-s-most-of-them-caitlin-davey"&gt;&lt;span class="std std-ref"&gt;Caitlin Davey&lt;/span&gt;&lt;/a&gt;: The visuals your users never saw&amp;#8230;wait that&amp;#8217;s most of them&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference internal" href="https://www.writethedocs.org/conf/portland/2023/speakers/#speaker-linda-ikechukwu-myths-mistakes-and-missed-opportunities-lessons-learned-from-a-year-of-interv-linda-ikechukwu"&gt;&lt;span class="std std-ref"&gt;Linda Ikechukwu&lt;/span&gt;&lt;/a&gt;: Myths, Mistakes, and Missed Opportunities: Lessons learned from a year of interviewing technical writers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference internal" href="https://www.writethedocs.org/conf/portland/2023/speakers/#speaker-jennifer-a-swallow-winning-over-coworkers-collaborators-and-customers-to-a-new-knowledge-experien-jennifer-a-swallow"&gt;&lt;span class="std std-ref"&gt;Jennifer A Swallow&lt;/span&gt;&lt;/a&gt;: Winning Over Coworkers, Collaborators, and Customers to a New Knowledge Experience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference internal" href="https://www.writethedocs.org/conf/portland/2023/speakers/#speaker-scott-truelove-navigating-the-future-of-technical-writing-in-a-rapidly-evolving-tech-landscape-scott-truelove"&gt;&lt;span class="std std-ref"&gt;Scott Truelove&lt;/span&gt;&lt;/a&gt;: Navigating the Future of Technical Writing in a Rapidly Evolving Tech Landscape&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference internal" href="https://www.writethedocs.org/conf/portland/2023/speakers/#speaker-kari-halsted-great-big-engineering-org-itty-bitty-docs-team-kari-halsted"&gt;&lt;span class="std std-ref"&gt;Kari Halsted&lt;/span&gt;&lt;/a&gt;: GREAT BIG ENGINEERING ORG; itty bitty docs team&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference internal" href="https://www.writethedocs.org/conf/portland/2023/speakers/#speaker-ed-cormany-the-descriptivist-manifesto-ed-cormany"&gt;&lt;span class="std std-ref"&gt;Ed Cormany&lt;/span&gt;&lt;/a&gt;: The Descriptivist Manifesto&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference internal" href="https://www.writethedocs.org/conf/portland/2023/speakers/#speaker-ryan-young-is-it-layer-cake-thinking-in-content-levels-ryan-young"&gt;&lt;span class="std std-ref"&gt;Ryan Young&lt;/span&gt;&lt;/a&gt;: Is it (layer) cake: Thinking in content levels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference internal" href="https://www.writethedocs.org/conf/portland/2023/speakers/#speaker-adam-altman-from-resistance-to-adoption-navigating-the-challenges-of-docs-like-code-adam-altman"&gt;&lt;span class="std std-ref"&gt;Adam Altman&lt;/span&gt;&lt;/a&gt;: From resistance to adoption: navigating the challenges of docs-like-code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference internal" href="https://www.writethedocs.org/conf/portland/2023/speakers/#speaker-daniel-murphey-release-ready-docs-how-a-2-person-team-keeps-a-help-center-consistently-accurat-daniel-murphey"&gt;&lt;span class="std std-ref"&gt;Daniel Murphey&lt;/span&gt;&lt;/a&gt;: Release-ready Docs: How a 2-person team keeps a help center consistently accurate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference internal" href="https://www.writethedocs.org/conf/portland/2023/speakers/#speaker-ashleigh-rentz-trauma-informed-documentation-taking-empathy-and-inclusive-language-to-the-next-ashleigh-rentz"&gt;&lt;span class="std std-ref"&gt;Ashleigh Rentz&lt;/span&gt;&lt;/a&gt;: Trauma-Informed Documentation: Taking empathy and inclusive language to the next level&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference internal" href="https://www.writethedocs.org/conf/portland/2023/speakers/#speaker-sarah-greene-did-you-read-the-sop-procedure-writing-for-the-laboratory-sarah-greene"&gt;&lt;span class="std std-ref"&gt;Sarah Greene&lt;/span&gt;&lt;/a&gt;: Did You Read the SOP? Procedure Writing for the Laboratory&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We hope there&amp;#8217;s something there for everyone to enjoy, and also something that will broaden your horizons a bit.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="call-for-volunteers"&gt;
+&lt;h2&gt;Call for Volunteers&lt;/h2&gt;
+&lt;p&gt;We are looking for volunteers to help out at the conference and provide support with a variety of tasks: registration, A/V and tech, unconference, speaker support, and anything else that may come up.&lt;/p&gt;
+&lt;p&gt;Each individual who volunteers for two or more shifts receives a free ticket to the conference. Shifts range from 3-4 hours in length with a break during the shift.&lt;/p&gt;
+&lt;p&gt;Application will be open until we have enough volunteers signed up for the conference. This is typically mid-March.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Check out our &lt;a class="reference external" href="https://docs.google.com/forms/d/e/1FAIpQLSfbnCr0Kbay2mBTe0mM7lTP85tzj9DUFD8LCyegUugk81KQGg/viewform?usp=sf_link"&gt;volunteer application form&lt;/a&gt;  for more information and to sign up to volunteer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="opportunity-grants-close-on-march-1"&gt;
+&lt;h2&gt;Opportunity Grants close on March 1&lt;/h2&gt;
+&lt;p&gt;Applications for our Opportunity Grant program &lt;strong&gt;close on March 1st&lt;/strong&gt;.
+This program is open to anyone who would otherwise have difficulties attending the conference,
+and we&amp;#8217;d love to have more folks applying.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/opportunity-grants/"&gt;Apply for a grant&lt;/a&gt; before the deadline.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="buy-your-tickets-soon"&gt;
+&lt;h2&gt;Buy your tickets soon&lt;/h2&gt;
+&lt;p&gt;If you don&amp;#8217;t have your ticket yet, now&amp;#8217;s a great time to start the process to attend.
+Conference tickets have sold out in the past,
+and tickets sell faster after the speaker announcement,
+so don&amp;#8217;t leave it to the last minute.&lt;/p&gt;
+&lt;p&gt;Please remember to book your travel only after you purchase a conference ticket.
+With the conference returning to in-person this year, we are working hard to make sure that our attendees have a safe and comfortable experience.
+This means we have capacity limits and can&amp;#8217;t guarantee late-registration tickets if you book travel without a conference ticket.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Read our &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/convince-your-manager/"&gt;Convince your manager page&lt;/a&gt; to help make the case for attending.&lt;/li&gt;
+&lt;li&gt;Buy your tickets on our &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/tickets/"&gt;Tickets page&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Plan your trip with our &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/visiting/"&gt;Visiting Portland page&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="thanks-to-our-sponsors"&gt;
+&lt;h2&gt;Thanks to our sponsors&lt;/h2&gt;
+&lt;p&gt;We are so grateful to have our sponsors help in bringing these events to life every year.
+Thanks to the each of these companies for supporting the Write the Docs community:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.mongodb.com/"&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://redoc.ly/"&gt;Redocly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.jetbrains.com/"&gt;JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.bloomberg.com/company/careers/working-here/engineering/"&gt;Bloomberg Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.knowledgeowl.com"&gt;KnowledgeOwl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.raspberrypi.com/"&gt;Raspberry Pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://about.readthedocs.com/"&gt;Read the Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.netlify.com/"&gt;Netlify&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;p&gt;If your company is interested in sponsoring,
+you can find all the information in our &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/sponsors/prospectus/"&gt;sponsorship prospectus&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;And that&amp;#8217;s the latest on the Portland conference.
+We hope you&amp;#8217;re all getting as excited as we are!
+Stay tuned for more details in the coming weeks about the conference.&lt;/p&gt;
+&lt;p&gt;The Write the Docs Portland Team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/portland-2023/atom.xml">
+    <title type="text">Announcing ticket sales, full conference website, and CFP reminder</title>
+    <id>https://www.writethedocs.org/conf/portland/2023/news/website-tickets-cfp-reminder/</id>
+    <updated>2023-01-13T00:00:00Z</updated>
+    <published>2023-01-13T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2023/news/website-tickets-cfp-reminder/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="announcing-ticket-sales-full-conference-website-and-cfp-reminder"&gt;
+
+&lt;p&gt;Happy New Year, fellow documentarians!&lt;/p&gt;
+&lt;p&gt;As we get ready to start the year, we&amp;#8217;re happy to share the latest update about the Portland conference.
+The most important parts:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/tickets/"&gt;Tickets&lt;/a&gt; for the conference are on sale.&lt;/li&gt;
+&lt;li&gt;Submit your &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/cfp/"&gt;talk&lt;/a&gt; by &lt;strong&gt;February 06, 2023&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Our full &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/"&gt;event website&lt;/a&gt; is now live, with lots of information about the conference.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Read on for more details!&lt;/p&gt;
+&lt;div class="section" id="get-your-ticket-for-the-conference"&gt;
+&lt;h2&gt;Get your ticket for the conference&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The Portland conference will be held on May 7-9, 2023.&lt;/strong&gt;
+The &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/"&gt;full event website&lt;/a&gt; is live and already includes many details. We&amp;#8217;ll be updating it with more information as we get closer to the event.&lt;/p&gt;
+&lt;p&gt;We have a few big changes this year, after such a long break.
+First off, we have an exciting &lt;a class="reference internal" href="https://www.writethedocs.org/conf/portland/2023/venue/"&gt;&lt;span class="doc"&gt;new venue&lt;/span&gt;&lt;/a&gt; with much more space, and lots of outdoor access.
+We&amp;#8217;re also doing a new experiment where we&amp;#8217;re only catering drinks and snacks,
+and letting folks walk around the neighborhood to experience all the wonderful Portland lunch options.
+Our venue is located very close to a couple great vegan places,
+as well as many other exciting food options.
+We&amp;#8217;ll have a set of recommends and a map as the conference gets closer.&lt;/p&gt;
+&lt;p&gt;If you&amp;#8217;re excited to join us again in person,
+go ahead and &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/tickets/"&gt;register for your ticket now&lt;/a&gt;!
+We are still planning to limit capacity of the event to ensure that we have a safe and community-focused experience for everyone,
+so we expect tickets to sell out a few weeks before the conference.&lt;/p&gt;
+&lt;p&gt;Similar to our past conferences, we&amp;#8217;re going to keep as much of the spirit of the event as possible:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Excellent single track of presentations with wide-ranging talks&lt;/li&gt;
+&lt;li&gt;Writing Day&lt;/li&gt;
+&lt;li&gt;Unconference sessions&lt;/li&gt;
+&lt;li&gt;Job Fair&lt;/li&gt;
+&lt;li&gt;Sponsor booths&lt;/li&gt;
+&lt;li&gt;A much expanded hallway track!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We&amp;#8217;re excited to see you again here soon.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="submit-your-talk-by-february-06-2023"&gt;
+&lt;h2&gt;Submit your talk by &lt;strong&gt;February 06, 2023&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;You still have plenty of time to submit your talk to the conference.
+Check out the &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/cfp/"&gt;Call for Proposals page&lt;/a&gt; for more details about what would make a great talk.&lt;/p&gt;
+&lt;p&gt;If you already have an idea but you&amp;#8217;re having a hard time getting your proposal to come together,
+you can always ask for talk feedback on the &lt;a class="reference external" href="https://www.writethedocs.org/slack/"&gt;Write the Docs Slack&lt;/a&gt;.
+The community is there to help!&lt;/p&gt;
+&lt;p&gt;The most important dates to remember:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Talk proposals are due by February 06, 2023.&lt;/li&gt;
+&lt;li&gt;Everyone who submits will get a response by February 13, 2023.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="support-our-community-by-sponsoring"&gt;
+&lt;h2&gt;Support our community by sponsoring&lt;/h2&gt;
+&lt;p&gt;Every year we are fortunate to have the support of like-minded organizations and communities,
+who believe in the collaborative and welcoming community spirit and help us make our events great.&lt;/p&gt;
+&lt;p&gt;We have published our &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/sponsors/prospectus/"&gt;sponsorship prospectus&lt;/a&gt; for the conference,
+and are open for new sponsorship inquiries.&lt;/p&gt;
+&lt;p&gt;We have some interesting new sponsorship options with sponsored workshops.
+We will also run the &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/job-fair/"&gt;job fair&lt;/a&gt; again this year,
+helping documentarians and organizations connect with each other.
+Check out the sponsorship prospectus for more details and to reserve your spot today.&lt;/p&gt;
+&lt;p&gt;Looking forward to seeing you all here soon!&lt;/p&gt;
+&lt;p&gt;The Write the Docs Team&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/portland-2023/atom.xml">
+    <title type="text">Announcing Venue and Call for Proposals</title>
+    <id>https://www.writethedocs.org/conf/portland/2023/news/announcing-cfp/</id>
+    <updated>2022-12-02T00:00:00Z</updated>
+    <published>2022-12-02T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/conf/portland/2023/news/announcing-cfp/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="announcing-venue-and-call-for-proposals"&gt;
+
+&lt;p&gt;Today we are announcing our new Portland conference venue.
+The needs of our conference have changed over the years, and we have decided to move to a lovely new space in Portland.
+We&amp;#8217;re also excited to announce our Portland &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/cfp/"&gt;Call for Proposals&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians.
+If there is something you&amp;#8217;d really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good!&lt;/p&gt;
+&lt;div class="section" id="our-new-venue-revolution-hall"&gt;
+&lt;h2&gt;Our new venue: Revolution Hall&lt;/h2&gt;
+&lt;p&gt;Our Portland conference will be held at &lt;a class="reference external" href="https://www.revolutionhall.com/about/"&gt;Revolution Hall&lt;/a&gt;.
+It is a beautiful concert venue located on the &lt;a class="reference external" href="https://goo.gl/maps/7ncFK7Bt6jnouVJt7"&gt;thriving inner east side&lt;/a&gt; of Portland.
+It was converted from a high school,
+and still has some lockers in the hallway for that extra learning ambiance.&lt;/p&gt;
+&lt;img alt="../../../../_images/rev-hall-outside.jpg" src="https://www.writethedocs.org/_images/rev-hall-outside.jpg"&gt;
+&lt;p&gt;The venue has a large and beautiful primary theater,
+as well as many other social spaces:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;The Library &amp;amp; Astoria Room where we will be hosting our Unconference discussions&lt;/li&gt;
+&lt;li&gt;The Sunset Room which will be our Quiet room&lt;/li&gt;
+&lt;li&gt;The Library room where our snacks and drinks catering will happen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It also has &lt;em&gt;outdoor seating&lt;/em&gt; and a &lt;em&gt;city park&lt;/em&gt; directly on the property for plenty of fresh air and free space.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="health-and-safety-policy"&gt;
+&lt;h2&gt;Health and safety policy&lt;/h2&gt;
+&lt;p&gt;As part of returning to an in-person conference, we&amp;#8217;re also introducing a new and more detailed &lt;a class="reference internal" href="https://www.writethedocs.org/conf/portland/2023/health/"&gt;&lt;span class="doc"&gt;health and safety policy&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id1"&gt;
+&lt;h2&gt;Call for Proposals&lt;/h2&gt;
+
+&lt;p&gt;Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
+We&amp;#8217;re looking for ideas and use-cases from all disciplines and roles, so whether you&amp;#8217;re a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For 2023 we are going back to an in-person event&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;You can read our full &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/cfp/"&gt;Call for Proposals&lt;/a&gt; on the website.&lt;/p&gt;
+&lt;p&gt;The Call for Proposals will be open until &lt;strong&gt;11:59 PM February 06, 2023 PST&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;(If you&amp;#8217;d prefer not to attend an in-person event due to COVID-19 or any other reason, keep an eye out for &lt;a class="reference internal" href="https://www.writethedocs.org/archive/atom.xml#atlantic-news"&gt;Atlantic_news&lt;/a&gt; held online in a timezone as widely accessible as possible).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="write-the-docs-atlantic-online-september-2023"&gt;
+&lt;span id="atlantic-news"&gt;&lt;/span&gt;&lt;h2&gt;Write the Docs Atlantic, online September 2023&lt;/h2&gt;
+&lt;p&gt;If you want to speak at Write the Docs, but can&amp;#8217;t or don&amp;#8217;t want to attend an in-person event, keep an eye out for Write the Docs Atlantic, coming in September 2023.
+This conference will be entirely virtual, in a timezone that works for as many people as possible, so you can present or attend from anywhere.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="tickets"&gt;
+&lt;h2&gt;Tickets&lt;/h2&gt;
+&lt;p&gt;Tickets will officially go on sale early &lt;strong&gt;2023&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;As always, we keep ticket prices low so that the event is accessible to the widest range of people possible.
+However, if you can&amp;#8217;t afford the tickets and still wish to attend, we will launch our grants program soon after opening ticket sales.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="stay-updated"&gt;
+&lt;h2&gt;Stay Updated&lt;/h2&gt;
+&lt;p&gt;Want to find out what&amp;#8217;s happening with the conference, or enjoy our monthly global community newsletter?
+Sign up to one or more of our &lt;a class="reference external" href="http://eepurl.com/cdWqc5"&gt;mailing lists&lt;/a&gt;. Your information will never be shared with any third-parties, and you can unsubscribe at any time.&lt;/p&gt;
+&lt;p&gt;Want to connect with other documentarians in real-time? Join our &lt;a class="reference external" href="https://writethedocs.org/slack/"&gt;Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="thanks"&gt;
+&lt;h2&gt;Thanks&lt;/h2&gt;
+&lt;p&gt;We hope you will join us online for yet another Write the Docs conference.
+Whether as a speaker or attendee, you can bet it will be another delightful year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/portland-2023/atom.xml">
+    <title type="text">Announcing Write the Docs conferences for 2023</title>
+    <id>https://www.writethedocs.org/blog/2023-conference-announcements/</id>
+    <updated>2022-11-03T00:00:00Z</updated>
+    <published>2022-11-03T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/2023-conference-announcements/"/>
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class="section" id="announcing-write-the-docs-conferences-for-2023"&gt;
+
+&lt;p&gt;We&amp;#8217;re excited to announce two Write the Docs conferences for 2023:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Write the Docs Portland on May 7-9, 2023&lt;/strong&gt;, an in person conference in Portland, Oregon.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Write the Docs Atlantic, on September 10-12, 2023&lt;/strong&gt;, a new virtual conference
+in between European/African and US East Coast/South America timezones.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Write the Docs Prague is taking a break this year. Announcements about
+Write the Docs Australia will follow later in 2023.&lt;/p&gt;
+&lt;div class="section" id="write-the-docs-portland"&gt;
+&lt;h2&gt;Write the Docs Portland&lt;/h2&gt;
+
+&lt;p&gt;&lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/"&gt;Write the Docs Portland&lt;/a&gt; will be an in person conference, similar to our
+pre-COVID conferences. Speakers will be present in person and speaking
+from the conference stage. We will also offer a free live stream of the talks,
+and remote participants are encouraged to participate in our Slack. The
+unconference will not be streamed.&lt;/p&gt;
+&lt;p&gt;The conference will follow all local COVID regulations that apply at the time,
+and we will announce more specific policies before our tickets go on sale so people can make an informed decision.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="write-the-docs-atlantic"&gt;
+&lt;h2&gt;Write the Docs Atlantic&lt;/h2&gt;
+
+&lt;p&gt;&lt;a class="reference external" href="https://www.writethedocs.org/conf/atlantic/2023/"&gt;Write the Docs Atlantic&lt;/a&gt; is a new conference, in a similar online format
+to the virtual conferences we&amp;#8217;ve been running in 2021 and 2022.&lt;/p&gt;
+&lt;p&gt;The schedule will run from the
+early afternoon to early evening in most European/African timezones,
+and from early morning to late afternoon in US East Coast/South America timezones.
+Of course, this being a virtual conference, attendees and speakers
+are welcomed from anywhere in the world.&lt;/p&gt;
+&lt;p&gt;Sign up to the separate
+&lt;a class="reference external" href="https://www.writethedocs.org/newsletter/"&gt;Atlantic conference mailing list&lt;/a&gt; to stay
+up to date on the call for proposals, ticket sales and all other updates.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="virtual-and-in-person"&gt;
+&lt;h2&gt;Virtual and in person&lt;/h2&gt;
+&lt;p&gt;Although we initially switched to running virtual conferences due to COVID, we found
+that despite many folks preferring the in-person experience, the virtual format also created many new opportunities.
+There are many people that have difficulty travelling
+to our in person conferences for various reasons, like financial, health,
+immigration or responsibilities at home.
+With a virtual conference, these people have equal access to
+our events, as speakers or attendees. We&amp;#8217;ve also seen that our
+community has been great at bringing the same atmosphere that works
+so well at our in person conferences, to our virtual ones.&lt;/p&gt;
+&lt;p&gt;Therefore, we think that the Portland and Atlantic conferences together
+are a great way to bring back the familiar experience that many of you miss,
+while also keeping the many benefits of virtual conferences in 2023.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="call-for-proposals"&gt;
+&lt;h2&gt;Call for Proposals&lt;/h2&gt;
+&lt;p&gt;For both conferences, we invite people from all across our community to
+come up on the virtual or in person stage to share their insights and experience.
+We&amp;#8217;re looking for ideas and use-cases from all disciplines and roles,
+so whether you&amp;#8217;re a technical writer, developer, UX designer, community manager,
+or support professional who cares about content and communication, we want to hear from you!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We plan to launch our Portland CFP in early January 2023&lt;/strong&gt; for those who are excited to speak.
+The talks in Portland will be in person.&lt;/p&gt;
+&lt;p&gt;Further details of the Atlantic CFP will be announced later in 2023.
+For Atlantic, you will need to supply a pre-recorded video of your talk,
+so you&amp;#8217;ll be able to present from anywhere.&lt;/p&gt;
+&lt;p&gt;Start thinking about your talk proposal now, and we&amp;#8217;ll let you know as soon as the CFPs open.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="tickets"&gt;
+&lt;h2&gt;Tickets&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Tickets will go on sale in January 2023&lt;/strong&gt;.
+We will announce ticket prices soon, so that you can start planning your budget.&lt;/p&gt;
+&lt;p&gt;As always, we keep ticket prices low so that it is accessible to the widest range
+of people possible. However, if you can&amp;#8217;t afford these prices and still wish to attend,
+we will be running our Opportunity Grants program again this year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="sponsorship"&gt;
+&lt;h2&gt;Sponsorship&lt;/h2&gt;
+&lt;p&gt;We are always grateful for the organizations and projects that support our
+community and help make our events extra awesome for the attendees.&lt;/p&gt;
+&lt;p&gt;If you want to find out more about how to support our events and the community,
+check out the &lt;a class="reference external" href="https://www.writethedocs.org/conf/portland/2023/sponsors/prospectus/"&gt;sponsorship prospectus&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are excited to continue offering a similar sponsorship experience
+for both conferences, including the Job Fair this year and a new option
+for sponsored workshops.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="keep-in-touch"&gt;
+&lt;h2&gt;Keep in touch&lt;/h2&gt;
+&lt;p&gt;Want to find out what&amp;#8217;s happening with the conference, or enjoy our monthly global community newsletter?
+Sign up to one or more of our &lt;a class="reference external" href="https://www.writethedocs.org/newsletter/"&gt;mailing lists&lt;/a&gt;. Your information will never be shared with any third-parties, and you can unsubscribe at any time.&lt;/p&gt;
+&lt;p&gt;Want to connect with other documentarians in real-time?
+Join our &lt;a class="reference external" href="https://www.writethedocs.org/slack/"&gt;Slack&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="conclusion"&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;We hope you will join us online for one or both of Write the Docs conferences.
+Whether as a speaker, attendee, or sponsor, we are excited to get together to make it another delightful year.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>

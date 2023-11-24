@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">Blog - Posts tagged job-titles</title>
+  <id>https://www.writethedocs.org/blog/archive/tag/job-titles/atom.xml</id>
+  <updated>2018-06-11T00:00:00Z</updated>
+  <link href="https://www.writethedocs.org/" />
+  <link href="https://www.writethedocs.org/blog/archive/tag/job-titles/atom.xml" rel="self" />
+  <generator uri="https://ablog.readthedocs.org" version="0.10.6">ABlog</generator>
+  <entry xml:base="https://www.writethedocs.org/blog/archive/tag/job-titles/atom.xml">
+    <title type="text">Write the Docs Newsletter – June 2018</title>
+    <id>https://www.writethedocs.org/blog/newsletter-june-2018/</id>
+    <updated>2018-06-11T00:00:00Z</updated>
+    <published>2018-06-11T00:00:00Z</published>
+    <link href="https://www.writethedocs.org/blog/newsletter-june-2018/" />
+    <author>
+      <name>Write the Docs Team</name>
+    </author>
+    <content type="html">&lt;div class=&quot;section&quot; id=&quot;write-the-docs-newsletter-june-2018&quot;&gt;
+
+&lt;p&gt;Hi folks! Kelly O. here with the last issue of the newsletter until August. (In the meantime, the editorial team will be taking a wee summer break!) It’s been an exciting spring, with &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/portland/2018/news/thanks-recap/&quot;&gt;another successful Portland conference&lt;/a&gt; under our belts, and a jam-packed rest of the year laid out ahead of us!&lt;/p&gt;
+&lt;p&gt;As a quick refresher, here’s what’s on the docket:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;August 18-22 – Write the Docs + Open Help – Cincinnati, Ohio, USA&lt;/strong&gt;
+&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/cincinnati/2018/cfp/&quot;&gt;Submit a talk&lt;/a&gt; by next Monday, June 18 or &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/cincinnati/2018/tickets/&quot;&gt;buy a ticket&lt;/a&gt; any time!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;September 9-11 – Write the Docs Prague – Prague, Czech Republic&lt;/strong&gt;
+Speakers will be announced soon, and in the meantime, you can &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/prague/2018/tickets/&quot;&gt;get your tickets here&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;November 15-16 – Write the Docs Australia – Melbourne, Australia&lt;/strong&gt;
+&lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2018/cfp/&quot;&gt;Get your talk proposal in&lt;/a&gt; by July 20th and &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/conf/australia/2018/tickets/&quot;&gt;snag your ticket early&lt;/a&gt;, so you can start planning your visit!&lt;/p&gt;
+&lt;p&gt;If you’re interested in a more virtual way to engage with the community, you could also think about volunteering to help out with the year-round organization. When we come back in August, we’ll be putting out a call for volunteers to help both with the newsletter team as well as a few other working groups. So have a think about whether and how you might want to pitch in.&lt;/p&gt;
+&lt;p&gt;One other quick thing to note was an interesting tidbit from the &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.slack.com/messages/meta&quot;&gt;#meta&lt;/a&gt; channel about the pros and cons of Slack’s message limit. Since it’s a topic that comes up on a relatively regular basis, we thought it’d be worth addressing here. Essentially, while it can be frustrating to see valuable conversations and resources swallowed by the Slack-void, the message limit helps foster a more comfortable space for community conversation, without the looming knowledge that every word you write will be preserved, publicly, for all time.&lt;/p&gt;
+&lt;p&gt;We do try to offset the transience of the Slack discourse at large with this here newsletter, where we capture a handful of pithy conversations each month. Speaking of which, let’s get to ‘em!&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;helping-your-project-managers-understand-docs&quot;&gt;
+&lt;h2&gt;Helping your project managers understand docs&lt;/h2&gt;
+&lt;p&gt;Many of us have been in the debatably enviable position of being a company’s first docs person. In such situations, it’s critical to get your teammates, especially project managers and the like, to understand both what you do and what you &lt;em&gt;need&lt;/em&gt; in order to work effectively.&lt;/p&gt;
+&lt;p&gt;So in this situation, someone asked on Slack this month, what are the top things you’d want to communicate to your PM to help them understand your role?&lt;/p&gt;
+&lt;p&gt;The community came back with some great suggestions, as usual:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Process definition.&lt;/strong&gt; Docs processes are often new to non-docs folks, so they’re a useful place to start. Share how new content gets defined, created, and reviewed; how ongoing changes are batched and implemented; and how your publishing flow works, step-by-step.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Content = product.&lt;/strong&gt; The sooner you can get your team to start thinking about the docs as &lt;em&gt;part of the product&lt;/em&gt; and not as some separate thing, the better. It will make it much easier to integrate your docs cycle with the broader product cycle.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Getting in on the planning.&lt;/strong&gt; Speaking of which, impress upon your team the value of involving you at the planning stages of the cycle. So much of what docs folks can contribute to a product happens long before anything gets built. Plus, being present for the scoping conversations is necessary if you want to be able to manage your workload effectively.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Timeline management.&lt;/strong&gt; Explain that docs take time. If your ship date is the end of week six, that means there needs to be a (mostly) working version available by, say, the Tuesday of week four… not the Thursday of week six. Being explicit about your scheduling expectations can save you a lot of future headaches.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For an example of someone trying to explain the value of technical communication to folks who are new to it, &lt;a class=&quot;reference external&quot; href=&quot;https://www.linkedin.com/pulse/what-you-should-know-before-working-technical-writer-jerry-grohovsky&quot;&gt;this LinkedIn post&lt;/a&gt; highlights some interesting assumptions and pain points that might be worth thinking about.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;If you’re a lone docs person and still working on communicating this stuff to your team, pop into&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.slack.com/messages/lone-writer&quot;&gt;#lone-writer&lt;/a&gt; &lt;em&gt;to talk with folks who are/have been in your shoes.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;junior-vs-senior-technical-writers&quot;&gt;
+&lt;h2&gt;Junior vs. senior technical writers&lt;/h2&gt;
+&lt;p&gt;A common theme in WTD career discussions is that the path into or through a documentation career is rarely straightforward. There are benefits to that, in terms of flexibility and a wide-ranging understanding of what documentarians actually &lt;em&gt;do&lt;/em&gt;, day-to-day. But one of the drawbacks is that it can be difficult to see a clear path for advancement, even in more traditional ‘tech comm’ positions. This month, that topic was raised in the context of defining what constituted a &lt;strong&gt;Senior Technical Writer&lt;/strong&gt; role versus a &lt;strong&gt;Junior Technical Writer&lt;/strong&gt;?&lt;/p&gt;
+&lt;p&gt;Our crowd of documentarians came up with three primary distinctions between the two (title aside, of course):&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;Amount and type of experience&lt;/li&gt;
+&lt;li&gt;Level of supervision required (or amount of supervision you’re providing to others)&lt;/li&gt;
+&lt;li&gt;Degree and scope of non-writing responsibilities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Senior writers would typically have more experience and require less supervision than junior writers. The senior writer may also be managing a team, having a junior writer produce docs, while the senior writer focuses on high-level planning, project management, and tooling decisions. However, some of these distinctions are only a helpful for teams of multiple writers. For the lone writer, the key to advancing from junior to senior may lie in mastering certain skills (writing, tools, and technical competencies), collaborating cross-functionally on bigger projects, or developing specific expertise within the industry your company serves.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;If you’re struggling to define or move along your own career path, head on over to&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.slack.com/messages/career-advice&quot;&gt;#career-advice&lt;/a&gt; &lt;em&gt;where you’ll find a wealth of constructive advice.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;short-advice-for-writing-error-messages&quot;&gt;
+&lt;h2&gt;Short advice for writing error messages&lt;/h2&gt;
+&lt;p&gt;This month, the hivemind fielded a request for advice about writing good error messages. Attached to the request, though, was a familiar (and vital) caveat: They needed short, easy-to-digest pointers, rather than longer, meatier reads, in an effort to boost the odds that their developer teams would actually find the time to read what they shared.&lt;/p&gt;
+&lt;p&gt;One of the top suggestions was Kate Voss’s &lt;a class=&quot;reference external&quot; href=&quot;https://www.writethedocs.org/videos/na/2017/error-messages-being-humble-human-and-helpful-will-make-users-happy-kate-voss/&quot;&gt;Error Messages talk at WtD Portland 2017&lt;/a&gt; We’ll admit that a 15-minute video doesn’t fit the “short” parameter…but Kate’s own distillation of her talk brings it down to three concise rules: Humble, Helpful, and Human.&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Humble&lt;/strong&gt;: apologize and acknowledge the error&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Helpful&lt;/strong&gt;: make sure the error message tells users what to do next&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Human&lt;/strong&gt;: use plain language that any user will understand&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Here’s a roundup of other links that were mentioned:&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://uxplanet.org/how-to-write-a-perfect-error-message-da1ca65a8f36&quot;&gt;How to Write a Perfect Error Message&lt;/a&gt; by Vitaly Dulenko&lt;/li&gt;
+&lt;li&gt;Apple’s &lt;a class=&quot;reference external&quot; href=&quot;https://developer.apple.com/macos/human-interface-guidelines/user-interaction/providing-user-feedback/&quot;&gt;Providing User Feedback&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://www.writersua.com/articles/message/index.html&quot;&gt;Non-Fatal Errors: Creating Usable, Effective Error Messages&lt;/a&gt; by Emily Wilska&lt;/li&gt;
+&lt;li&gt;Klariti.com’s &lt;a class=&quot;reference external&quot; href=&quot;http://www.klariti.com/technical-writing/writing-error-messages.shtml&quot;&gt;A Review of Error Messages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://sites.google.com/site/moremiscellany/works/interface-text/message-text&quot;&gt;Message Text&lt;/a&gt; and &lt;a class=&quot;reference external&quot; href=&quot;http://www.authorstream.com/Presentation/RahulMehrotra-435484-is-it-ok-now/&quot;&gt;User Interface Text: Is it OK, Now?&lt;/a&gt; by Rahul Mehrotra&lt;/li&gt;
+&lt;li&gt;Windows Dev Center’s &lt;a class=&quot;reference external&quot; href=&quot;https://msdn.microsoft.com/en-us/library/windows/desktop/dn742469(v=vs.85).aspx&quot;&gt;Messages&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;For other style or mechanics questions, the&lt;/em&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://writethedocs.slack.com/messages/general&quot;&gt;#general&lt;/a&gt; &lt;em&gt;channel is full of helpful documentarians ready with guidance.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;job-board-your-ad-here&quot;&gt;
+&lt;h2&gt;Job Board: Your ad here&lt;/h2&gt;
+&lt;p&gt;Although the newsletter is taking a summer break, the &lt;a class=&quot;reference external&quot; href=&quot;https://jobs.writethedocs.org/&quot;&gt;Write the Docs job board&lt;/a&gt; isn’t going anywhere! Create an employer profile and post your open positions to get them in front of thousands of docs folk all around the world. Any jobs posted as a ‘featured’ listing will be included in next newsletter, in early August.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;upcoming-community-events&quot;&gt;
+&lt;h2&gt;Upcoming community events&lt;/h2&gt;
+&lt;p&gt;June 12 – Boston, MA, USA – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-BOS/events/251281050/&quot;&gt;Joint Networking Event with Women Who Code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;June 12 – Portland, OR, USA – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-The-Docs-PDX/events/250814073/&quot;&gt;June Post-Conference Meetup&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;June 14 – Salt Lake City, UT, USA – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-SLC/events/251266405/&quot;&gt;Writing the Docs for Multiple Projects&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;June 19 – Austin, TX, USA – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/249817330/&quot;&gt;Panel Discussion: Navigating Career Paths&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;June 21 – Boise, ID, USA –&amp;nbsp;&lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-Boise/events/249633985/&quot;&gt;Write the Docs Conference Rundown&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;June 26 – Ottawa, ON, Canada – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/250880001/&quot;&gt;Auditing documentation | Developing Shopify’s API docs style guide&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;June 26 –&amp;nbsp;San Francisco, CA, USA – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-SF/events/251444527/&quot;&gt;The Developer Experience for APIs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;June 27 – Brisbane, Australia – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-Australia/events/250630480/&quot;&gt;Facebook, Dynamite, Uber, Bombs, and Tech Writers: A quick historical excursion through ethics and documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;June 27 – Manchester, UK – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-North/events/251039358/&quot;&gt;WTD North England Social Event&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;June 28 – Denver, CO – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/251107194/&quot;&gt;Docs and Drinks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;July 3 – Sydney, Australia – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-Australia/events/250791637/&quot;&gt;Content strategy and doc fixits&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;July 4 – Melbourne, Australia – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-Australia/events/250605610/&quot;&gt;Document the API | Technical Writing vs Knowledge Management&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;July 9 – Karlsruhe, Germany – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-the-Docs-Karlsruhe/events/250444386/&quot;&gt;Code comments. Yay or nay?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;July 31 – Ottawa, ON, Canada – &lt;a class=&quot;reference external&quot; href=&quot;https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/251110543/&quot;&gt;July Meetup&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>
